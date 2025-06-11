@@ -26,7 +26,7 @@ export function VolumeIndex({ volumes }: VolumeIndexProps) {
               <div className="space-y-2">
                 <div className="flex items-center gap-2 text-sm text-gray-600">
                   <FileText className="w-4 h-4" />
-                  {volume.total_headings} headings
+                  {volume.total_headings} sections
                 </div>
                 <div className="flex items-center gap-2 text-sm text-gray-500">
                   <Calendar className="w-4 h-4" />

@@ -109,7 +109,7 @@ export function HeadingsTableOfContents({
         </div>
         
         <div className="text-sm text-gray-600">
-          Volume {volumeId} • {data.total_headings} headings
+          Volume {volumeId} • {data.total_headings} sections
         </div>
 
         {/* Filter controls */}
