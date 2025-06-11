@@ -102,7 +102,6 @@ export async function generateMetadata({ params }: VolumePageProps): Promise<Met
       canonical: url,
       languages: {
         'en-US': url,
-        'ar-SA': `https://al-ifta.com/ar/volume/${volumeId}`,
       },
     },
     other: {
@@ -138,7 +137,7 @@ export default async function VolumePage({ params }: VolumePageProps) {
     "@context": "https://schema.org",
     "@type": "Book",
     "name": `Volume ${volumeId} - Islamic Fatwa Collection`,
-    "description": `Comprehensive Islamic fatwa collection Volume ${volumeId} containing ${volumeData.total_headings} sectionsand ${volumeData.total_sections} sections of religious guidance and jurisprudence.`,
+    "description": `Comprehensive Islamic fatwa collection Volume ${volumeId} containing ${volumeData.total_sections} sections of religious guidance and jurisprudence.`,
     "author": {
       "@type": "Organization",
       "name": "Islamic Scholars Committee"

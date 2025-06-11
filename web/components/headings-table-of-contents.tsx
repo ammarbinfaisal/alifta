@@ -6,6 +6,7 @@ import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { BookOpen, FileText, Hash, List, Grid } from 'lucide-react';
 import { HeadingsData, Heading } from '@/lib/data-loader';
+import Link from 'next/link';
 
 interface HeadingsTableOfContentsProps {
   data: HeadingsData;
@@ -15,10 +16,10 @@ interface HeadingsTableOfContentsProps {
 
 interface TOCItemProps {
   heading: Heading;
-  onClick?: () => void;
+  volume: number;
 }
 
-function TOCItem({ heading, onClick }: TOCItemProps) {
+function TOCItem({ heading, volume }: TOCItemProps) {
   const getHeadingIcon = (type: string) => {
     switch (type) {
       case 'heading_major':
@@ -42,9 +43,9 @@ function TOCItem({ heading, onClick }: TOCItemProps) {
   };
 
   return (
-    <div
+    <Link
       className={`${getItemStyle(heading.type)} cursor-pointer hover:bg-opacity-80 transition-colors rounded-r-md mb-1`}
-      onClick={onClick}
+      href={`/volume/${volume}/section/${heading.section_id}`}
     >
       <div className="flex items-center gap-2">
         {getHeadingIcon(heading.type)}
@@ -53,7 +54,7 @@ function TOCItem({ heading, onClick }: TOCItemProps) {
           {heading.section_id}
         </Badge>
       </div>
-    </div>
+    </Link>
   );
 }
 
@@ -72,18 +73,6 @@ export function HeadingsTableOfContents({
 
   const groupedHeadings = data.by_type || {};
   const headingTypes = Object.keys(groupedHeadings);
-
-  const handleHeadingClick = (sectionId: number) => {
-    if (onHeadingClick) {
-      onHeadingClick(sectionId);
-    } else {
-      // Scroll to heading in the main content
-      const element = document.getElementById(`heading-${sectionId}`);
-      if (element) {
-        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
-    }
-  };
 
   return (
     <Card className="h-full">
@@ -132,7 +121,7 @@ export function HeadingsTableOfContents({
               <TOCItem
                 key={heading.section_id}
                 heading={heading}
-                onClick={() => handleHeadingClick(heading.section_id)}
+                volume={volumeId}
               />
             ))}
           </div>
@@ -152,7 +141,7 @@ export function HeadingsTableOfContents({
                       <TOCItem
                         key={heading.section_id}
                         heading={heading}
-                        onClick={() => handleHeadingClick(heading.section_id)}
+                        volume={volumeId}
                       />
                     ))}
                   </div>
