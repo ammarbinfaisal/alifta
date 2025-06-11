@@ -23,22 +23,22 @@ function HeadingItem({ heading, volumeId }: HeadingItemProps) {
   const getHeadingIcon = (type: string) => {
     switch (type) {
       case 'heading_major':
-        return <BookOpen className="w-5 h-5" />;
+        return <BookOpen className="w-4 h-4 sm:w-5 sm:h-5" />;
       case 'heading_minor':
-        return <FileText className="w-4 h-4" />;
+        return <FileText className="w-3 h-3 sm:w-4 sm:h-4" />;
       default:
-        return <Hash className="w-4 h-4" />;
+        return <Hash className="w-3 h-3 sm:w-4 sm:h-4" />;
     }
   };
 
   const getHeadingStyle = (type: string) => {
     switch (type) {
       case 'heading_major':
-        return 'text-xl font-bold text-gray-900';
+        return 'text-lg sm:text-xl font-bold text-gray-900';
       case 'heading_minor':
-        return 'text-lg font-semibold text-gray-800';
+        return 'text-base sm:text-lg font-semibold text-gray-800';
       default:
-        return 'text-base font-medium text-gray-700';
+        return 'text-sm sm:text-base font-medium text-gray-700';
     }
   };
 
@@ -55,46 +55,46 @@ function HeadingItem({ heading, volumeId }: HeadingItemProps) {
 
   const CardContent = heading.content_count > 0 ? (
     <Link href={`/volume/${volumeId}/section/${heading.section_id}`}>
-      <Card className={`mb-4 transition-all duration-200 cursor-pointer ${getCardStyle(heading.heading.type)}`}>
-        <CardHeader className="pb-3">
+      <Card className={`mb-3 sm:mb-4 transition-all duration-200 cursor-pointer ${getCardStyle(heading.heading.type)}`}>
+        <CardHeader className="pb-2 sm:pb-3 p-3 sm:p-6">
           <div className="flex items-start justify-between">
-            <div className="flex items-start gap-3 flex-1">
-              <div className="mt-1">
+            <div className="flex items-start gap-2 sm:gap-3 flex-1 min-w-0">
+              <div className="mt-1 flex-shrink-0">
                 {getHeadingIcon(heading.heading.type)}
               </div>
-              <div className="flex-1">
-                <CardTitle className={getHeadingStyle(heading.heading.type)}>
+              <div className="flex-1 min-w-0">
+                <CardTitle className={`${getHeadingStyle(heading.heading.type)} line-clamp-3`}>
                   {heading.heading.text}
                 </CardTitle>
-                <div className="flex items-center gap-2 mt-2">
+                <div className="flex items-center gap-2 mt-1 sm:mt-2">
                   {heading.heading.page_number && (
                     <Badge variant="outline" className="text-xs">
                       Page {heading.heading.page_number}
                     </Badge>
                   )}
                 </div>
-                <div className="mt-2 text-sm text-gray-600">
+                <div className="mt-1 sm:mt-2 text-xs sm:text-sm text-gray-600">
                   Click to view full content →
                 </div>
               </div>
             </div>
-            <ChevronRight className="w-5 h-5 text-gray-400 mt-1" />
+            <ChevronRight className="w-4 h-4 sm:w-5 sm:h-5 text-gray-400 mt-1 flex-shrink-0" />
           </div>
         </CardHeader>
       </Card>
     </Link>
   ) : (
-    <Card className={`mb-4 opacity-60 ${getCardStyle(heading.heading.type)}`}>
-      <CardHeader className="pb-3">
-        <div className="flex items-start gap-3">
-          <div className="mt-1">
+    <Card className={`mb-3 sm:mb-4 opacity-60 ${getCardStyle(heading.heading.type)}`}>
+      <CardHeader className="pb-2 sm:pb-3 p-3 sm:p-6">
+        <div className="flex items-start gap-2 sm:gap-3">
+          <div className="mt-1 flex-shrink-0">
             {getHeadingIcon(heading.heading.type)}
           </div>
-          <div className="flex-1">
-            <CardTitle className={getHeadingStyle(heading.heading.type)}>
+          <div className="flex-1 min-w-0">
+            <CardTitle className={`${getHeadingStyle(heading.heading.type)} line-clamp-3`}>
               {heading.heading.text}
             </CardTitle>
-            <div className="flex items-center gap-2 mt-2">
+            <div className="flex items-center gap-2 mt-1 sm:mt-2">
               <Badge variant="outline" className="text-xs">
                 No content
               </Badge>
@@ -178,63 +178,104 @@ export function IslamicContentViewer({ data, volumeId }: IslamicContentViewerPro
   const headingTypes = data.by_type ? Object.keys(data.by_type) : [];
 
   return (
-    <div className="flex gap-6 max-w-7xl mx-auto px-4 py-8">
-      {/* Sticky Toggle Button */}
-      <div className="fixed top-4 right-4 z-50">
+    <div className="w-full min-h-screen overflow-x-hidden">
+      {/* Sticky Toggle Button - positioned lower on right side */}
+      <div className="fixed top-16 right-2 sm:top-20 sm:right-4 z-[60]">
         <Button 
           variant="outline" 
           size="sm" 
           onClick={() => setShowTOC(!showTOC)}
-          className="shadow-lg bg-white"
+          className="shadow-lg bg-white/90 backdrop-blur-sm border-gray-200 text-xs sm:text-sm hover:bg-white/95"
         >
-          <Menu className="w-4 h-4 mr-2" />
-          {showTOC ? 'Hide' : 'Show'} TOC
+          <Menu className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2" />
+          <span className="hidden sm:inline">{showTOC ? 'Hide' : 'Show'} TOC</span>
+          <span className="sm:hidden">TOC</span>
         </Button>
       </div>
 
-      {/* Table of Contents Sidebar */}
+      {/* Mobile TOC Overlay */}
       {showTOC && (
-        <div className="w-80 flex-shrink-0">
-          <div className="sticky top-24">
-            <HeadingsTableOfContents
-              data={data}
-              volumeId={volumeId}
-              onHeadingClick={handleTOCHeadingClick}
-            />
-          </div>
-        </div>
-      )}
-
-      {/* Main Content */}
-      <div className="flex-1 min-w-0">
-        {/* Header */}
-        <div className="mb-8 pb-4">
-          <div className="flex items-center justify-between pt-4">
-            <h1 className="text-3xl font-bold text-gray-900">
-              Volume {volumeId} - Headings & Content
-            </h1>
-          </div>
-        </div>
-
-        {/* Headings list */}
-        <div className="space-y-4">
-          {filteredHeadings.map((heading) => (
-            <div key={heading.section_id} id={`heading-${heading.section_id}`}>
-              <HeadingItem
-                heading={heading}
+        <>
+          {/* Backdrop with blur */}
+          <div 
+            className="fixed inset-0 bg-black/50 backdrop-blur-sm z-[45] md:hidden"
+            onClick={() => setShowTOC(false)}
+          />
+          
+          {/* Mobile TOC */}
+          <div className="fixed inset-y-0 left-0 w-4/5 max-w-sm bg-white/95 backdrop-blur-md z-[50] md:hidden overflow-y-auto shadow-2xl">
+            <div className="p-4">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="font-semibold text-gray-900">Table of Contents</h3>
+                <Button 
+                  variant="ghost" 
+                  size="sm" 
+                  onClick={() => setShowTOC(false)}
+                  className="hover:bg-gray-100"
+                >
+                  ×
+                </Button>
+              </div>
+              <HeadingsTableOfContents
+                data={data}
                 volumeId={volumeId}
+                onHeadingClick={(sectionId) => {
+                  handleTOCHeadingClick(sectionId);
+                  setShowTOC(false); // Close TOC on mobile after selection
+                }}
               />
             </div>
-          ))}
-        </div>
-
-        {filteredHeadings.length === 0 && (
-          <div className="text-center py-12">
-            <div className="text-gray-500 text-lg">
-              No sectionsfound for the selected filter.
-            </div>
           </div>
-        )}
+        </>
+      )}
+
+      <div className="max-w-7xl mx-auto px-2 sm:px-4 py-4 sm:py-8">
+        <div className="flex gap-6">
+          {/* Desktop TOC Sidebar */}
+          {showTOC && (
+            <div className="hidden md:block w-80 flex-shrink-0">
+              <div className="sticky top-24">
+                <HeadingsTableOfContents
+                  data={data}
+                  volumeId={volumeId}
+                  onHeadingClick={handleTOCHeadingClick}
+                />
+              </div>
+            </div>
+          )}
+
+          {/* Main Content */}
+          <div className="flex-1 min-w-0">
+            {/* Header */}
+            <div className="mb-6 sm:mb-8 pb-2 sm:pb-4">
+              <div className="flex items-center justify-between pt-2 sm:pt-4">
+                <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-gray-900">
+                  Volume {volumeId} - Headings & Content
+                </h1>
+              </div>
+            </div>
+
+            {/* Headings list */}
+            <div className="space-y-3 sm:space-y-4">
+              {filteredHeadings.map((heading) => (
+                <div key={heading.section_id} id={`heading-${heading.section_id}`}>
+                  <HeadingItem
+                    heading={heading}
+                    volumeId={volumeId}
+                  />
+                </div>
+              ))}
+            </div>
+
+            {filteredHeadings.length === 0 && (
+              <div className="text-center py-8 sm:py-12">
+                <div className="text-gray-500 text-base sm:text-lg">
+                  No sections found for the selected filter.
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
       </div>
     </div>
   );
