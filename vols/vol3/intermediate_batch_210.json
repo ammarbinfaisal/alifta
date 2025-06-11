@@ -1,0 +1,294 @@
+{
+  "batch_number": 210,
+  "sections_count": 287,
+  "timestamp": "2025-06-11T20:55:23.559677",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The ruling on listening to music",
+        "content_type": "heading_minor",
+        "page_number": 212,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 436)",
+          "content_type": "navigation",
+          "page_number": 212,
+          "confidence": 0.95,
+          "notes": "Page and part reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Music and other kinds of instruments are all evil, they are things that Satan makes appear attractive and enjoyable, and he calls people to them so as to distract them from the truth by means of falsehood, and so that he can lead them away from what Allah loves to what He hates and has decreed Haram (prohibited).",
+          "content_type": "fatwa_ruling",
+          "page_number": 212,
+          "confidence": 0.85,
+          "notes": "Opening statement of the religious ruling on music",
+          "memory_agreement": false
+        },
+        {
+          "text": "Music, the lute and all musical instruments are all Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) and it is not permissible to listen to them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 212,
+          "confidence": 0.9,
+          "notes": "Clear prohibition statement",
+          "memory_agreement": false
+        },
+        {
+          "text": "It has been authentically reported that the Messenger of Allah (peace be upon him) said, \"Verily, among my Ummah (nation) there will be people who will deem as lawful: Zina, silk, Khamr (alcohol) and musical instruments.\"",
+          "content_type": "hadith",
+          "page_number": 212,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition cited as evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "The \"Hir\" refers to the illegal sexual relations or Zina (premarital sexual intercourse and/or adultery), and the prohibited means of entertainment refers to songs and musical instruments.",
+          "content_type": "paragraph",
+          "page_number": 212,
+          "confidence": 0.8,
+          "notes": "Explanatory clarification of hadith terms",
+          "memory_agreement": false
+        },
+        {
+          "text": "I advise you and the other women or men to increase your recitation of the Qur'an and listen to the program of \"Nour `Ala Al­Darb\", as such acts include much benefits and will definitely attract you away from the evil of listening to songs and musical instruments. May Allah guide all to what pleases Him. He is All­Hearer and Responsive!",
+          "content_type": "answer",
+          "page_number": 212,
+          "confidence": 0.85,
+          "notes": "Scholar's advice and concluding prayer",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on Listening to Islamic Songs",
+        "content_type": "heading_minor",
+        "page_number": 213,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 437)",
+          "content_type": "navigation",
+          "page_number": 213,
+          "confidence": 0.95,
+          "notes": "Page and part reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 1: What is the ruling on listening to tapes of Islamic songs?",
+          "content_type": "question",
+          "page_number": 213,
+          "confidence": 0.9,
+          "notes": "Numbered question format",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Such songs are judged according to their content; if they include words of wisdom calling to goodness and exhortation, and preaching the obligation of showing obedience to Allah and His Messenger, the call to protect one's country against its enemies and the like, then there is nothing wrong with listening to them. However, if they contain words of obscenity, demoralization, and calling for the intermixing of men and women or not wearing the Islamic clothes in their presence, then they are abominable sins that should be avoided.",
+          "content_type": "answer",
+          "page_number": 213,
+          "confidence": 0.95,
+          "notes": "Scholar's detailed response providing religious ruling",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Questions and answers about intellectual invasion",
+        "content_type": "heading_minor",
+        "page_number": 214,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 338)",
+          "content_type": "navigation",
+          "page_number": 214,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 1: What is the definition of intellectual invasion in your opinion?",
+          "content_type": "question",
+          "page_number": 214,
+          "confidence": 0.9,
+          "notes": "First question in the series",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Intellectual invasion is a modern term that means the set of efforts exerted by one nation to seize or influence another nation to make it adopt a certain attitude. It is more dangerous than military invasion, since intellectual invasion tends to be confidential and depends on hidden purposes in the first instance, which cannot be perceived by the invaded nation so as not to counter and resist it. Thus it finds itself falling prey to it. In consequence, this nation gets infected with vicious thoughts and feelings. It likes what its enemy likes and hates what it wants it to hate.",
+          "content_type": "answer",
+          "page_number": 214,
+          "confidence": 0.85,
+          "notes": "First part of scholar's answer defining intellectual invasion",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is an incurable disease that destroys nations, kills the national character, and removes its features of originality and strength. The nation afflicted with it does not feel what happens to it or even recognize it. Thus it becomes difficult to treat it and make it understand the right way, which becomes very difficult.",
+          "content_type": "answer",
+          "page_number": 214,
+          "confidence": 0.8,
+          "notes": "Continuation of answer describing effects",
+          "memory_agreement": false
+        },
+        {
+          "text": "This invasion takes place through school curricula, public culture, media, large and small publications, as well as other affairs of the nation, where the enemy's aim behind this is to divert it away from its creed and make it love and be affected by what it gives it. May Allah grant us safety and well being!",
+          "content_type": "answer",
+          "page_number": 214,
+          "confidence": 0.8,
+          "notes": "Final part of answer describing methods and concluding with supplication",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 2: Are the Arab countries in general and the kingdom of Saudi Arabia in particular exposed to this kind of invasion?",
+        "content_type": "heading_question",
+        "page_number": 215,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 439)",
+          "content_type": "navigation",
+          "page_number": 215,
+          "confidence": 0.95,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Yes, All Muslims in general, Arabs and non­Arabs, the Kingdom of Saudi Arabia and other Muslims land, are in danger of a formidable cultural invasion directed towards them from eastern and western disbelieving countries. The most dangerous of all:",
+          "content_type": "answer",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Scholar's response introducing three types of invasions",
+          "memory_agreement": true
+        },
+        {
+          "text": "1­ The Christian crusading invasion",
+          "content_type": "list_item",
+          "page_number": 215,
+          "confidence": 0.85,
+          "notes": "First enumerated invasion type",
+          "memory_agreement": false
+        },
+        {
+          "text": "2­ The Zionist invasion",
+          "content_type": "list_item",
+          "page_number": 215,
+          "confidence": 0.85,
+          "notes": "Second enumerated invasion type",
+          "memory_agreement": false
+        },
+        {
+          "text": "3­ The atheistic communist invasion",
+          "content_type": "list_item",
+          "page_number": 215,
+          "confidence": 0.85,
+          "notes": "Third enumerated invasion type",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Christian crusading invasion is reaching its peak at the present time. Since Salah Al­Din Al­ Ayyuby's victory over the aggressive crusades who invaded the Islamic countries, the Christians realized that their victories were temporary and would not ensure them permanent dominance over the Islamic world. Accordingly, they began thinking of a more devilish alternative which is more effective than crushing military wars. After many conventions and studies of the conditions of Muslims, they decided that Christian nations, individuals and groups, should collaborate in conquering the Muslim youth culturally, for they considered that rendering the Islamic world culturally and mentally subordinate to the Christian world, is more likely to achieve their objectives than merely occupying the land.",
+          "content_type": "paragraph",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Detailed explanation of Christian crusading invasion",
+          "memory_agreement": false
+        },
+        {
+          "text": "The pure Muslim never accept the dominance of disbelievers over the affairs of his land, so Muslims began striving powerfully to end this state of occupation sacrificing their lives to achieve this end. It is worth mentioning that this was the case after every sweeping victory for the conquering crusades by which they gained control over an Islamic country.",
+          "content_type": "paragraph",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Explanation of Muslim resistance to occupation",
+          "memory_agreement": false
+        },
+        {
+          "text": "However, the Muslim who was exposed to this malicious invasion became mentally weak and careless about the future of his country. Thus, he sees no danger in the existence of Christians and other invasions on his land. Rather, he may consider this as a sign of welfare and a step toward progress and prosperity. The Western world has given up the idea of military invasion for the sake of the cultural one, because it is more effective in achieving their goals without their need to send armies and spend money.",
+          "content_type": "paragraph",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Description of cultural invasion effects",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 340)",
+          "content_type": "navigation",
+          "page_number": 215,
+          "confidence": 0.95,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "They will be saved the trouble with the help of some Muslims, who intentionally or unintentionally, purposefully or not accomplish their evil aims. Hence, they do not resort to conventional military warfare unless there is a necessity that pushes them to military interference as happened in the invasion of Uganda or Pakistan. They need to propagate their basic ideas and deviant concepts and establish organizations that will ensure the effectiveness of this sweeping cultural war and their assured victory as in the case of Egypt, Syria, Iraq, and other countries before they end their occupation.",
+          "content_type": "paragraph",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Continuation of cultural invasion explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Zionist invasion does not differ much from the preceding one, as the Jews are known for exerting great efforts to spread demoralization and deviant beliefs among Muslims. Furthermore, they have their own devilish desires to seize Muslim and non­Muslim countries. They succeeded in achieving some of their goals and are still plotting to realize what remains. It should be noted that the Jews have bad intentions in some Arab countries; they wage ferocious military warfare accompanied with a war of spreading false ideas and belief seeking to spoil Muslims and tempt them away from their Din (religion) and sound beliefs. They are also helping the deviant sects to dissent from the main body of Muslims, such as Masonry, Al­Qadianiyah, Al­Baha'iyya, Al­ Tiganiyya and others. Furthermore, it is not hidden that they seek the help of Christians and others to achieve their abominable aims and objectives.",
+          "content_type": "paragraph",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Detailed explanation of Zionist invasion",
+          "memory_agreement": false
+        },
+        {
+          "text": "The atheistic communist invasion spread swiftly throughout the Islamic world owing to the weakness of Iman and the dominance of ignorance within a large number of Muslims as well as the lack of sound upbringing and education.",
+          "content_type": "paragraph",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Introduction to communist invasion explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Communist parties in Russia and China as well as other countries have managed to attract those whose Iman is vulnerable or have no Iman to their deviant principals making them callers of communist ideas and atheism by means of promising them the highest positions and fortunes. Once they are within the grip of such wicked parties, they are rendered as mere tools used to launch devastating thoughts that weaken the solidarity of their own communities, for they become enemies to their own Muslim brothers. They are not alone in this regard; they are helped by the Christians and the Jews whether directly or indirectly.",
+          "content_type": "paragraph",
+          "page_number": 215,
+          "confidence": 0.9,
+          "notes": "Detailed explanation of communist invasion methods",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 216 Navigation",
+        "content_type": "navigation",
+        "page_number": 216,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 441)",
+          "content_type": "navigation",
+          "page_number": 216,
+          "confidence": 0.95,
+          "notes": "Part and page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It should be noted that although each enemy seeks to achieve his own goals, they have all agreed in their enmity towards Muslims and Islam, their most bitter enemy. Thus, they are keen to unite their efforts against the Muslims. Allah (may He be Praised) is the one whose Help is sought. He (Alone) is Sufficient for us. He is the Best Disposer of affairs (for us).",
+          "content_type": "paragraph",
+          "page_number": 216,
+          "confidence": 0.9,
+          "notes": "Explanatory text discussing enemies of Islam, formatted as bold and centered but appears to be regular content rather than heading",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

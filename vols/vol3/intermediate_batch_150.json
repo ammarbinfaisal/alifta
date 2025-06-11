@@ -1,0 +1,278 @@
+{
+  "batch_number": 150,
+  "sections_count": 226,
+  "timestamp": "2025-06-11T20:09:48.473492",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 3:",
+        "content_type": "heading_question",
+        "page_number": 320,
+        "confidence": 1.0
+      },
+      "content_items": [
+        {
+          "text": "Offering sacrifices through slaughtering sheep in the shrines of Awliya' (pious people) is still a widespread custom among my family which I have forbidden but they are insisting on practicing. If I say it stands for committing Shirk (associating others with Allah in His Divinity or worship), they say they worship Allah (Exalted be He) properly and they are not sinful for visiting the graves of the Awliya' and for saying in their supplications, \"O Allah! By virtue of the status of Your pious servant so­and­so, cure us or relieve our distress!\" I then refute them saying that our religion denies any intermediation between a man and his Lord but they then ask me to leave them alone.",
+          "content_type": "question",
+          "page_number": 320,
+          "confidence": 0.9,
+          "notes": "Question context and background",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 321)",
+          "content_type": "navigation",
+          "page_number": 321,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "My question is: What is the method you deem fit for reforming them? How should I behave toward them and how should I combat such a Bid`ah (innovation in religion)? Thanks",
+          "content_type": "question",
+          "page_number": 321,
+          "confidence": 1.0,
+          "notes": "Specific question being asked",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A 1:",
+        "content_type": "heading_question",
+        "page_number": 321,
+        "confidence": 1.0
+      },
+      "content_items": [
+        {
+          "text": "Praise be to Allah, Lord of the Worlds, and may peace and blessings be upon the best of all Messengers, our Prophet Muhammad, his family, Companions and those who follow them in good deeds until the Day of Resurrection.",
+          "content_type": "answer",
+          "page_number": 321,
+          "confidence": 0.9,
+          "notes": "Standard Islamic opening formula for answers",
+          "memory_agreement": false
+        },
+        {
+          "text": "Salat­ul­`Eid should only be performed in cities and villages. It should not be performed in the desert or while traveling. Such is the Sunnah (whatever is reported from the Prophet) as neither the Prophet (peace be upon him) nor his Companions (may Allah be pleased with",
+          "content_type": "answer",
+          "page_number": 321,
+          "confidence": 0.9,
+          "notes": "Beginning of scholarly answer - text appears cut off",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Answer",
+        "content_type": "heading_minor",
+        "page_number": 152,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "them) were reported to have ever performed Salat­ul­`Eid while traveling or in the desert. Moreover, while performing the Farewell Hajj, the Prophet (peace be upon him) did not offer the Jumu`ah (Friday) Prayer in `Arafah on the Day of `Arafah (9th of Dhul­Hijjah). Furthermore, he did not perform Salat­ul­`Eid while in Mina. Actually, in following the Prophet (peace be upon him) and his Companions (may Allah be pleased with them) there is all good and happiness. May Allah grant us success!",
+          "content_type": "answer",
+          "page_number": 152,
+          "confidence": 0.9,
+          "notes": "Continuation of fatwa answer about Eid prayers while traveling",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A 2:",
+        "content_type": "heading_question",
+        "page_number": 152,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "It is not permissible for a Muslim to shake hands with or kiss any woman other than his wife or Mahram (spouse or unmarriageable relative). Having physical contact with non­Mahrum women is prohibited and it is one of the causes of Fitnah (sedition) and a reason leading to adultery.",
+          "content_type": "fatwa_ruling",
+          "page_number": 152,
+          "confidence": 0.95,
+          "notes": "Clear religious ruling on physical contact with non-Mahram women",
+          "memory_agreement": false
+        },
+        {
+          "text": "It was authentically reported that the Prophet (peace be upon him) said: I do not shake hands with women.",
+          "content_type": "hadith",
+          "page_number": 152,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition supporting the ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, `Aishah (may Allah be pleased with her) said: The hand of Allah's Messenger (peace be upon him) never touched the hand of any woman, but he only used to take their pledge of allegiance orally.",
+          "content_type": "hadith",
+          "page_number": 152,
+          "confidence": 0.9,
+          "notes": "Supporting hadith from Aishah",
+          "memory_agreement": false
+        },
+        {
+          "text": "More disgraceful than shaking hands with non­Mahram women is kissing them, whether they are paternal or maternal cousins, neighbors, or fellow tribeswomen. Such a practice is prohibited according to Ijma` (consensus of scholars). Moreover, it is one of the greatest reasons leading to adultery.",
+          "content_type": "fatwa_ruling",
+          "page_number": 152,
+          "confidence": 0.9,
+          "notes": "Extended ruling on kissing non-Mahram women",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, it is obligatory for a Muslim to be on his guard against it and to convince all his relatives and other women, who are accustomed to doing such a practice, that it is prohibited. It is not permissible for a Muslim, male or female, to participate in such behavior even if it is a widespread custom among relatives or fellow citizens. Rather, they should deny such a practice and warn their society against it. Anyway, it is enough to greet someone verbally without shaking hands or kissing.",
+          "content_type": "answer",
+          "page_number": 152,
+          "confidence": 0.85,
+          "notes": "Practical guidance and conclusion of the fatwa",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A 3:",
+        "content_type": "heading_question",
+        "page_number": 322,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 322)",
+          "content_type": "navigation",
+          "page_number": 322,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is well known through the legal evidence from the Qur'an and the Sunnah (whatever is reported from the Prophet) that drawing closer to other than Allah, whether Awliya' (pious people), Jinn (creatures created from fire), idols, or others by slaughtering animals for their sake is considered Shirk (associating others with Allah in His Divinity or worship). It is an act of Jahiliyyah (pre­Islamic time of ignorance) committed by the Mushriks (those who associate others with Allah in His Divinity or worship).",
+          "content_type": "fatwa_ruling",
+          "page_number": 322,
+          "confidence": 0.95,
+          "notes": "Opening statement of religious ruling on slaughtering for other than Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"Verily, my Salât (prayer), my sacrifice, my living, and my dying are for Allâh, the Lord of the ' Alamîn (mankind, jinn and all that exists). \"He has no partner. And of this I have been commanded, and I am the first of the Muslims.\"",
+          "content_type": "quran_verse",
+          "page_number": 322,
+          "confidence": 0.9,
+          "notes": "Quranic verse about sacrifice being for Allah alone",
+          "memory_agreement": false
+        },
+        {
+          "text": "Sacrifice refers to the act of slaughtering animals. Allah (Glorified be He) makes it clear that slaughtering animals for other than Him is considered Shirk, exactly like offering Salah (Prayer) to other than Allah.",
+          "content_type": "paragraph",
+          "page_number": 322,
+          "confidence": 0.85,
+          "notes": "Explanatory text about the verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, We have granted you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) Al­Kauthar (a river in Paradise). Therefore turn in prayer to your Lord and sacrifice (to Him only).",
+          "content_type": "quran_verse",
+          "page_number": 322,
+          "confidence": 0.9,
+          "notes": "Second Quranic verse from Surah Al-Kauthar",
+          "memory_agreement": false
+        },
+        {
+          "text": "In this Surah (Qur'anic chapter), Allah (Glorified be He) asked His Prophet to offer Salah and slaughter animals for His Sake, unlike the Mushriks who offer Salah and slaughtered animals for other than Allah.",
+          "content_type": "paragraph",
+          "page_number": 322,
+          "confidence": 0.85,
+          "notes": "Explanation of the Surah Al-Kauthar",
+          "memory_agreement": false
+        },
+        {
+          "text": "And your Lord has decreed that you worship none but Him.",
+          "content_type": "quran_verse",
+          "page_number": 322,
+          "confidence": 0.9,
+          "notes": "Third Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him)",
+          "content_type": "quran_verse",
+          "page_number": 322,
+          "confidence": 0.9,
+          "notes": "Fourth Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Ayahs (Qur'anic verses) in this regard. Slaughtering animals is a form of `Ibadah (worship) that must be sincerely devoted to Allah Alone.",
+          "content_type": "paragraph",
+          "page_number": 322,
+          "confidence": 0.85,
+          "notes": "Concluding statement about worship",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is mentioned inthe Sahih (authentic) Book of Hadith of Imam Muslim on the authority of Amir Al­Mu'minin (Commander of the Believers) `Aly ibn Abu Talib (may Allah be pleased with him) that the Messenger of Allah (peace be upon him) said: Allah has cursed the one who slaughters a sacrificial animal for other than Allah.",
+          "content_type": "hadith",
+          "page_number": 322,
+          "confidence": 0.95,
+          "notes": "Hadith from Sahih Muslim about slaughtering for other than Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "However, if a person supplicates to Allah in the name or virtue of a Waliy (pious person), or a Prophet, this is not considered Shirk, but a Bid`ah (innovation in religion) and one of the means leading to Shirk, according to the Jumhur (dominant majority of scholars). Du`a' (supplication) is a form of `Ibadah, and its formula is a Tawqifiy matter (bound by a religious text and not amenable to personal opinion). Nothing was ever reported from the Prophet (peace be upon him) that proves the permissibility of supplicating to Allah in the name of/by virtue of the status of one of the people, which is known as Tawassul. Thus, it is not permissible for Muslims to innovate a form of Tawassul that was not prescribed by Allah (Glorified be He).",
+          "content_type": "fatwa_ruling",
+          "page_number": 322,
+          "confidence": 0.9,
+          "notes": "Detailed ruling on Tawassul and innovation in religion",
+          "memory_agreement": false
+        },
+        {
+          "text": "Or have they partners (with Allâh — false gods) who have instituted for them a religion which Allâh has not ordained?",
+          "content_type": "quran_verse",
+          "page_number": 322,
+          "confidence": 0.9,
+          "notes": "Quranic verse about false innovations",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 323)",
+          "content_type": "navigation",
+          "page_number": 323,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Whoever introduces something into this affair of ours that is not of it, it is to be rejected. (Agreed upon by Al­Bukhari and Muslim) According to another narration in Sahih Muslim, which was also affirmatively recorded by Al­Bukhari in his Sahih Book of Hadith and described as Hadith Mu`allaq (a Hadith missing link in the chain of narration, reported directly from the Prophet), the Prophet (peace be upon him) said: Whoever performs any act which is not sanctioned by our affairs (Islamic law), it is to be rejected.",
+          "content_type": "hadith",
+          "page_number": 323,
+          "confidence": 0.95,
+          "notes": "Two related hadiths about religious innovation",
+          "memory_agreement": false
+        },
+        {
+          "text": "His saying \"it is to be rejected\" means that it will not be accepted. Muslims must abide by what is prescribed by Allah and beware of the Bid`ahs practiced by people. As for the permissible Tawassul, it is supplicating to Allah by virtue of Allah's Names, Attributes, Tawhid (monotheism), righteous deeds, Iman (belief) in Allah and His Messenger, love of Allah and His Messenger, and such righteous deeds. This also includes Tawassul through the Du`a' and Shafa`ah (intercession) of a living person as authentically reported in Sahih Al­Bukhari (may Allah be merciful with him) on the authority of Anas (may Allah be pleased with him) who said that `Umar ibn Al­Khattab (may Allah be pleased with him) used to perform Salat­ul­Istisqa' (Prayer for rain) by asking Allah for rain by virtue of Al­`Abbas ibn `Abdul­Muttalib at times of drought. He used to say, \"O Allah! We used to supplicate to You for rain by virtue of our Prophet and You would send us rain, and now we perform Tawassul to You by virtue of the uncle of our Prophet to send us rain.\" And Allah sent them rain.",
+          "content_type": "fatwa_ruling",
+          "page_number": 323,
+          "confidence": 0.9,
+          "notes": "Detailed explanation of permissible vs impermissible Tawassul with historical example",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah grant us success!",
+          "content_type": "signature",
+          "page_number": 323,
+          "confidence": 0.95,
+          "notes": "Closing prayer/signature",
+          "memory_agreement": true
+        }
+      ]
+    }
+  ]
+}

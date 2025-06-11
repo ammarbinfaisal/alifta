@@ -1,0 +1,857 @@
+{
+  "heading_patterns": {},
+  "question_patterns": {},
+  "arabic_patterns": [],
+  "scholar_names": [],
+  "classification_history": {
+    "short_text": {
+      "heading_major": 5,
+      "paragraph": 30,
+      "citation": 11,
+      "navigation": 489,
+      "quran_verse": 24,
+      "signature": 6,
+      "heading_minor": 5,
+      "fatwa_ruling": 2,
+      "question": 2,
+      "heading_question": 4,
+      "hadith": 5,
+      "list_item": 12,
+      "arabic_text": 1,
+      "footnote": 1,
+      "answer": 4
+    },
+    "long_text": {
+      "paragraph": 584,
+      "quran_verse": 277,
+      "hadith": 175,
+      "signature": 22,
+      "fatwa_ruling": 303,
+      "citation": 86,
+      "navigation": 9,
+      "list_item": 44,
+      "answer": 98,
+      "question": 32,
+      "arabic_text": 7,
+      "translation": 2
+    },
+    "islamic_keyword": {
+      "paragraph": 42,
+      "quran_verse": 8,
+      "hadith": 5,
+      "citation": 5,
+      "question": 18,
+      "answer": 5,
+      "fatwa_ruling": 15,
+      "signature": 1,
+      "list_item": 1,
+      "heading_minor": 2,
+      "heading_question": 1
+    },
+    "contains_arabic": {
+      "quran_verse": 13,
+      "fatwa_ruling": 1,
+      "paragraph": 2,
+      "list_item": 1
+    },
+    "question_marker": {
+      "question": 19,
+      "heading_question": 1
+    },
+    "answer_marker": {
+      "answer": 36,
+      "fatwa_ruling": 6,
+      "navigation": 2,
+      "heading_minor": 1,
+      "heading_question": 1,
+      "hadith": 1
+    },
+    "numbered_item": {
+      "question": 1,
+      "heading_question": 1
+    },
+    "all_caps": {
+      "navigation": 2,
+      "heading_minor": 1,
+      "heading_question": 2
+    }
+  },
+  "quran_references": {
+    "2:2": [
+      5,
+      17,
+      47,
+      48,
+      74,
+      74,
+      84,
+      96,
+      113,
+      115,
+      162
+    ],
+    "9:120": [
+      21
+    ],
+    "2:255": [
+      18,
+      129
+    ],
+    "35:45": [
+      151,
+      230
+    ],
+    "2:105": [
+      86,
+      90
+    ],
+    "9:36": [
+      187
+    ],
+    "2:112": [
+      115
+    ]
+  },
+  "hadith_references": {
+    "Bukhari": [
+      5,
+      42,
+      39,
+      46,
+      53,
+      142,
+      142,
+      102,
+      236,
+      237,
+      111,
+      111,
+      111,
+      111,
+      264,
+      301,
+      144,
+      144,
+      302,
+      150,
+      323,
+      156,
+      353,
+      168,
+      172,
+      173,
+      173,
+      174,
+      178,
+      372,
+      375,
+      375,
+      378,
+      378,
+      190,
+      208,
+      210
+    ],
+    "Muslim": [
+      5,
+      5,
+      5,
+      5,
+      8,
+      22,
+      42,
+      23,
+      39,
+      39,
+      42,
+      42,
+      46,
+      53,
+      53,
+      62,
+      68,
+      68,
+      142,
+      71,
+      78,
+      86,
+      194,
+      98,
+      100,
+      101,
+      102,
+      105,
+      236,
+      237,
+      237,
+      111,
+      111,
+      111,
+      111,
+      111,
+      111,
+      113,
+      244,
+      116,
+      253,
+      124,
+      124,
+      275,
+      301,
+      302,
+      146,
+      150,
+      322,
+      323,
+      156,
+      160,
+      160,
+      353,
+      168,
+      171,
+      172,
+      172,
+      173,
+      173,
+      174,
+      174,
+      176,
+      178,
+      372,
+      375,
+      375,
+      378,
+      378,
+      190,
+      190,
+      208,
+      208,
+      224
+    ],
+    "Abu Dawud": [
+      39,
+      39,
+      142,
+      142,
+      98,
+      237,
+      111,
+      119,
+      275,
+      130,
+      138,
+      144
+    ],
+    "Ibn Majah": [
+      124,
+      275
+    ],
+    "Nasa'i": [
+      144,
+      172
+    ]
+  },
+  "document_structure": [
+    {
+      "page": 140,
+      "section_type": "heading_minor",
+      "heading": "Lesson 14: There are six acts that invalidate ablution:",
+      "timestamp": "2025-06-11T19:58:11.951866"
+    },
+    {
+      "page": 140,
+      "section_type": "heading_minor",
+      "heading": "Lesson 15:",
+      "timestamp": "2025-06-11T19:58:11.951941"
+    },
+    {
+      "page": 140,
+      "section_type": "heading_minor",
+      "heading": "Lesson 16:",
+      "timestamp": "2025-06-11T19:58:11.951958"
+    },
+    {
+      "page": 140,
+      "section_type": "heading_minor",
+      "heading": "Lesson 17:",
+      "timestamp": "2025-06-11T19:58:11.952000"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_minor",
+      "heading": "Continuation of sins to avoid",
+      "timestamp": "2025-06-11T19:59:06.836459"
+    },
+    {
+      "page": 141,
+      "section_type": "navigation",
+      "heading": "Lesson 18:",
+      "timestamp": "2025-06-11T19:59:06.836503"
+    },
+    {
+      "page": 141,
+      "section_type": "navigation",
+      "heading": "Preparing the deceased for burial:",
+      "timestamp": "2025-06-11T19:59:06.836513"
+    },
+    {
+      "page": 141,
+      "section_type": "navigation",
+      "heading": "(6) Performing the funeral prayer:",
+      "timestamp": "2025-06-11T19:59:06.836676"
+    },
+    {
+      "page": 142,
+      "section_type": "heading_minor",
+      "heading": "Funeral Prayer Instructions",
+      "timestamp": "2025-06-11T19:59:32.126970"
+    },
+    {
+      "page": 299,
+      "section_type": "heading_major",
+      "heading": "Proving the Truth of Jinn's Inhabitation of Human Beings and Refuting Those Who Deny This",
+      "timestamp": "2025-06-11T20:00:28.241053"
+    },
+    {
+      "page": 144,
+      "section_type": "heading_minor",
+      "heading": "Hadith Collection on Satan and Jinn Possession",
+      "timestamp": "2025-06-11T20:01:50.061080"
+    },
+    {
+      "page": 303,
+      "section_type": "heading_minor",
+      "heading": "The Commentaries of Mufassirs (exegetes of the Qur'an) (may Allah be merciful with them) regarding Allah's saying:",
+      "timestamp": "2025-06-11T20:01:50.061525"
+    },
+    {
+      "page": 145,
+      "section_type": "heading_minor",
+      "heading": "Scholarly Discussion on Jinn Possession",
+      "timestamp": "2025-06-11T20:03:04.918519"
+    },
+    {
+      "page": 146,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Scholarly Discussion on Jinn Possession",
+      "timestamp": "2025-06-11T20:04:11.491677"
+    },
+    {
+      "page": 146,
+      "section_type": "heading_minor",
+      "heading": "Warning:",
+      "timestamp": "2025-06-11T20:04:11.491814"
+    },
+    {
+      "page": 147,
+      "section_type": "heading_major",
+      "heading": "The ruling on the so­called science of Summoning Spirits",
+      "timestamp": "2025-06-11T20:05:17.023667"
+    },
+    {
+      "page": 148,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Souls and Spiritual Claims",
+      "timestamp": "2025-06-11T20:06:36.891755"
+    },
+    {
+      "page": 149,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Summoning Spirits",
+      "timestamp": "2025-06-11T20:07:07.304366"
+    },
+    {
+      "page": 150,
+      "section_type": "heading_minor",
+      "heading": "Ruling on Tawassul in the name of the dead and visiting graves",
+      "timestamp": "2025-06-11T20:07:46.906417"
+    },
+    {
+      "page": 319,
+      "section_type": "heading_minor",
+      "heading": "Answering questions related to the ruling on slaughtering sheep in the shrines of Awliya' and offering Salah near them",
+      "timestamp": "2025-06-11T20:08:31.478567"
+    },
+    {
+      "page": 319,
+      "section_type": "heading_question",
+      "heading": "Q 1:",
+      "timestamp": "2025-06-11T20:08:31.478657"
+    },
+    {
+      "page": 320,
+      "section_type": "heading_question",
+      "heading": "Q 2:",
+      "timestamp": "2025-06-11T20:08:31.478717"
+    },
+    {
+      "page": 320,
+      "section_type": "heading_question",
+      "heading": "Q 3:",
+      "timestamp": "2025-06-11T20:08:31.478759"
+    },
+    {
+      "page": 321,
+      "section_type": "heading_question",
+      "heading": "A 1:",
+      "timestamp": "2025-06-11T20:08:31.478819"
+    },
+    {
+      "page": 152,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Answer",
+      "timestamp": "2025-06-11T20:08:57.176424"
+    },
+    {
+      "page": 152,
+      "section_type": "heading_question",
+      "heading": "A 2:",
+      "timestamp": "2025-06-11T20:08:57.176481"
+    },
+    {
+      "page": 322,
+      "section_type": "heading_question",
+      "heading": "A 3:",
+      "timestamp": "2025-06-11T20:09:47.971292"
+    },
+    {
+      "page": 324,
+      "section_type": "heading_question",
+      "heading": "Did the Messenger recommend succession to `Aly (may Allah be pleased with him).",
+      "timestamp": "2025-06-11T20:10:34.870905"
+    },
+    {
+      "page": 155,
+      "section_type": "heading_major",
+      "heading": "Claiming Birth Control is Permissible Contradicts the Shari`ah, Fitrah (Natural Disposition), and the Interests of the Ummah (Nation based on one Creed)",
+      "timestamp": "2025-06-11T20:11:29.088262"
+    },
+    {
+      "page": 156,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Marriage and Birth Control Discussion",
+      "timestamp": "2025-06-11T20:12:15.632139"
+    },
+    {
+      "page": 157,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Birth Control Discussion",
+      "timestamp": "2025-06-11T20:13:07.687452"
+    },
+    {
+      "page": 334,
+      "section_type": "heading_major",
+      "heading": "The Islamic ruling on reviving monuments",
+      "timestamp": "2025-06-11T20:14:04.271386"
+    },
+    {
+      "page": 159,
+      "section_type": "heading_minor",
+      "heading": "Discussion on Shirk and Monuments",
+      "timestamp": "2025-06-11T20:15:17.499008"
+    },
+    {
+      "page": 160,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Religious Ruling on Visiting Sacred Places",
+      "timestamp": "2025-06-11T20:16:08.999721"
+    },
+    {
+      "page": 161,
+      "section_type": "heading_major",
+      "heading": "The Conference of the Islamic Summit and Causes of Victory",
+      "timestamp": "2025-06-11T20:17:09.005541"
+    },
+    {
+      "page": 162,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Religious Guidance",
+      "timestamp": "2025-06-11T20:18:24.468599"
+    },
+    {
+      "page": 163,
+      "section_type": "heading_minor",
+      "heading": "Quranic Verses on Victory and Jihad",
+      "timestamp": "2025-06-11T20:19:05.637575"
+    },
+    {
+      "page": 164,
+      "section_type": "heading_major",
+      "heading": "The status of women in life",
+      "timestamp": "2025-06-11T20:20:00.214754"
+    },
+    {
+      "page": 165,
+      "section_type": "navigation",
+      "heading": "Page 165 Content",
+      "timestamp": "2025-06-11T20:20:10.455323"
+    },
+    {
+      "page": 351,
+      "section_type": "heading_major",
+      "heading": "The Ruling on female driving of cars",
+      "timestamp": "2025-06-11T20:21:11.383562"
+    },
+    {
+      "page": 168,
+      "section_type": "heading_minor",
+      "heading": "The importance of veil",
+      "timestamp": "2025-06-11T20:22:06.472810"
+    },
+    {
+      "page": 169,
+      "section_type": "heading_minor",
+      "heading": "Women's Hijab and Work Participation",
+      "timestamp": "2025-06-11T20:22:24.803826"
+    },
+    {
+      "page": 357,
+      "section_type": "heading_major",
+      "heading": "Warning against bribery",
+      "timestamp": "2025-06-11T20:23:18.254526"
+    },
+    {
+      "page": 171,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Religious Discourse on Lawful Earnings",
+      "timestamp": "2025-06-11T20:24:11.092358"
+    },
+    {
+      "page": 172,
+      "section_type": "heading_major",
+      "heading": "Ruling on Letting the Beard Grow",
+      "timestamp": "2025-06-11T20:25:08.946624"
+    },
+    {
+      "page": 173,
+      "section_type": "heading_minor",
+      "heading": "The obligation of letting the beard grow",
+      "timestamp": "2025-06-11T20:25:44.991173"
+    },
+    {
+      "page": 174,
+      "section_type": "heading_minor",
+      "heading": "An important answer on the ruling on shaving beards and whether other sins invalidate good deeds",
+      "timestamp": "2025-06-11T20:26:37.930747"
+    },
+    {
+      "page": 176,
+      "section_type": "heading_minor",
+      "heading": "The ruling on a soldier shaving his beard",
+      "timestamp": "2025-06-11T20:27:09.571588"
+    },
+    {
+      "page": 177,
+      "section_type": "heading_question",
+      "heading": "Q 2: What is the ruling on smoking? Is it similar to the prohibition of shaving the beard?",
+      "timestamp": "2025-06-11T20:27:37.629943"
+    },
+    {
+      "page": 178,
+      "section_type": "navigation",
+      "heading": "( Part No : 3, Page No: 371)",
+      "timestamp": "2025-06-11T20:28:03.741825"
+    },
+    {
+      "page": 372,
+      "section_type": "heading_major",
+      "heading": "The obligation of letting the beard grow and the prohibition of shaving or trimming it",
+      "timestamp": "2025-06-11T20:29:13.372484"
+    },
+    {
+      "page": 180,
+      "section_type": "heading_minor",
+      "heading": "Closing Prayer and Salutation",
+      "timestamp": "2025-06-11T20:29:24.123435"
+    },
+    {
+      "page": 375,
+      "section_type": "heading_minor",
+      "heading": "An answer to a question about the ruling on growing the beard",
+      "timestamp": "2025-06-11T20:30:21.056836"
+    },
+    {
+      "page": 377,
+      "section_type": "heading_major",
+      "heading": "Pointing out the Sanctity of Makkah and the Status of Al-Bayt (the House: another name for the Ka`bah) and the related Ayahs (Qur'anic verses), Hadith and reports",
+      "timestamp": "2025-06-11T20:31:15.021664"
+    },
+    {
+      "page": 183,
+      "section_type": "heading_minor",
+      "heading": "The Sacred House and Its Sanctity",
+      "timestamp": "2025-06-11T20:32:18.917608"
+    },
+    {
+      "page": 184,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Quranic Commentary on Al-Haram Sanctity",
+      "timestamp": "2025-06-11T20:33:23.427520"
+    },
+    {
+      "page": 185,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Hajj Conduct",
+      "timestamp": "2025-06-11T20:34:25.071049"
+    },
+    {
+      "page": 186,
+      "section_type": "heading_minor",
+      "heading": "Good deeds are multiplied in terms of both quality and quantity, whereas bad deeds are multiplied only in terms of quality",
+      "timestamp": "2025-06-11T20:35:20.986402"
+    },
+    {
+      "page": 187,
+      "section_type": "navigation",
+      "heading": "PAGE 187",
+      "timestamp": "2025-06-11T20:35:34.626850"
+    },
+    {
+      "page": 391,
+      "section_type": "heading_major",
+      "heading": "Evidence from the Qur'an and Sunnah prohibiting and warning against singing and amusements",
+      "timestamp": "2025-06-11T20:36:32.066294"
+    },
+    {
+      "page": 189,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Musical Instruments",
+      "timestamp": "2025-06-11T20:37:36.383636"
+    },
+    {
+      "page": 190,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Music and Singing",
+      "timestamp": "2025-06-11T20:38:54.218066"
+    },
+    {
+      "page": 191,
+      "section_type": "heading_minor",
+      "heading": "Page 191 Content",
+      "timestamp": "2025-06-11T20:39:04.663805"
+    },
+    {
+      "page": 192,
+      "section_type": "heading_minor",
+      "heading": "Ibn Al-Qayyim's Quote on Music and Singing",
+      "timestamp": "2025-06-11T20:39:36.310111"
+    },
+    {
+      "page": 194,
+      "section_type": "heading_minor",
+      "heading": "A claim that should be refuted:",
+      "timestamp": "2025-06-11T20:40:18.708743"
+    },
+    {
+      "page": 195,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa Discussion on Music and Singing",
+      "timestamp": "2025-06-11T20:40:46.256523"
+    },
+    {
+      "page": 196,
+      "section_type": "heading_minor",
+      "heading": "Ibn Al-Qayyim's Commentary on Idle Talk",
+      "timestamp": "2025-06-11T20:41:31.625539"
+    },
+    {
+      "page": 197,
+      "section_type": "heading_minor",
+      "heading": "Quranic Evidence Against Musical Instruments",
+      "timestamp": "2025-06-11T20:42:53.860216"
+    },
+    {
+      "page": 198,
+      "section_type": "heading_minor",
+      "heading": "Ibn Al-Qayyim's Analysis of the Hadith on Musical Instruments",
+      "timestamp": "2025-06-11T20:44:13.636996"
+    },
+    {
+      "page": 199,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Discussion",
+      "timestamp": "2025-06-11T20:44:24.082063"
+    },
+    {
+      "page": 200,
+      "section_type": "heading_minor",
+      "heading": "Among the qualities of songs are:",
+      "timestamp": "2025-06-11T20:45:11.804060"
+    },
+    {
+      "page": 201,
+      "section_type": "heading_minor",
+      "heading": "Discussion on Singing and Musical Instruments",
+      "timestamp": "2025-06-11T20:46:13.452198"
+    },
+    {
+      "page": 202,
+      "section_type": "heading_minor",
+      "heading": "Scholarly Discussion on Musical Instruments",
+      "timestamp": "2025-06-11T20:46:59.844230"
+    },
+    {
+      "page": 203,
+      "section_type": "heading_minor",
+      "heading": "Scholarly Discussion on Music and Singing",
+      "timestamp": "2025-06-11T20:48:05.075662"
+    },
+    {
+      "page": 204,
+      "section_type": "heading_minor",
+      "heading": "Scholarly Commentary on Singing and Musical Instruments",
+      "timestamp": "2025-06-11T20:48:39.381595"
+    },
+    {
+      "page": 205,
+      "section_type": "heading_minor",
+      "heading": "The ruling on singing and the gathering of people to listen to musical instruments and songs.",
+      "timestamp": "2025-06-11T20:49:10.717296"
+    },
+    {
+      "page": 206,
+      "section_type": "heading_question",
+      "heading": "Q 2: What is the ruling on people's gatherings to listen to musical instruments such as the lute, the voilin, the drums and other instruments which are usually accompanied by singing? Please note that they claim what they do is permissible.",
+      "timestamp": "2025-06-11T20:49:50.040572"
+    },
+    {
+      "page": 427,
+      "section_type": "heading_minor",
+      "heading": "Songs: Islamic viewpoint",
+      "timestamp": "2025-06-11T20:50:42.882137"
+    },
+    {
+      "page": 208,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Music and Singing",
+      "timestamp": "2025-06-11T20:51:56.102627"
+    },
+    {
+      "page": 209,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T20:52:13.816384"
+    },
+    {
+      "page": 210,
+      "section_type": "heading_minor",
+      "heading": "An answer to a question about singing",
+      "timestamp": "2025-06-11T20:52:41.245805"
+    },
+    {
+      "page": 211,
+      "section_type": "navigation",
+      "heading": "( Part No : 3, Page No: 434)",
+      "timestamp": "2025-06-11T20:53:33.998290"
+    },
+    {
+      "page": 211,
+      "section_type": "navigation",
+      "heading": "( Part No : 3, Page No: 435)",
+      "timestamp": "2025-06-11T20:53:33.998407"
+    },
+    {
+      "page": 212,
+      "section_type": "heading_minor",
+      "heading": "The ruling on listening to music",
+      "timestamp": "2025-06-11T20:53:58.268530"
+    },
+    {
+      "page": 213,
+      "section_type": "heading_minor",
+      "heading": "Ruling on Listening to Islamic Songs",
+      "timestamp": "2025-06-11T20:54:10.250140"
+    },
+    {
+      "page": 214,
+      "section_type": "heading_minor",
+      "heading": "Questions and answers about intellectual invasion",
+      "timestamp": "2025-06-11T20:54:28.989655"
+    },
+    {
+      "page": 215,
+      "section_type": "heading_question",
+      "heading": "Q 2: Are the Arab countries in general and the kingdom of Saudi Arabia in particular exposed to this kind of invasion?",
+      "timestamp": "2025-06-11T20:55:12.305313"
+    },
+    {
+      "page": 216,
+      "section_type": "navigation",
+      "heading": "Page 216 Navigation",
+      "timestamp": "2025-06-11T20:55:23.057586"
+    },
+    {
+      "page": 217,
+      "section_type": "heading_question",
+      "heading": "Q 3: What are the means used by the West to promote their ideas?",
+      "timestamp": "2025-06-11T20:56:10.778145"
+    },
+    {
+      "page": 218,
+      "section_type": "heading_minor",
+      "heading": "Methods of Ideological Invasion (Continued)",
+      "timestamp": "2025-06-11T20:57:07.918735"
+    },
+    {
+      "page": 219,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Religious Guidance",
+      "timestamp": "2025-06-11T20:57:28.196457"
+    },
+    {
+      "page": 220,
+      "section_type": "navigation",
+      "heading": "( Part No : 3, Page No: 447)",
+      "timestamp": "2025-06-11T20:58:03.625232"
+    },
+    {
+      "page": 220,
+      "section_type": "question",
+      "heading": "Q: An inquirer from Syria says: We have some people who claim that they are the children of",
+      "timestamp": "2025-06-11T20:58:03.625268"
+    },
+    {
+      "page": 220,
+      "section_type": "answer",
+      "heading": "A: These people belong to the sect of Sufis who manipulate people claiming that they are the",
+      "timestamp": "2025-06-11T20:58:03.625284"
+    },
+    {
+      "page": 221,
+      "section_type": "heading_minor",
+      "heading": "Hiring expensive wedding halls",
+      "timestamp": "2025-06-11T20:58:28.918907"
+    },
+    {
+      "page": 222,
+      "section_type": "heading_minor",
+      "heading": "The ruling on Going to soothsayers and fortunetellers",
+      "timestamp": "2025-06-11T20:59:04.760591"
+    },
+    {
+      "page": 223,
+      "section_type": "heading_minor",
+      "heading": "Forbidding evil is a collective obligation",
+      "timestamp": "2025-06-11T20:59:40.704546"
+    },
+    {
+      "page": 224,
+      "section_type": "heading_minor",
+      "heading": "The Kuft meant in Issues of Defaming Lineage and Wailing over The dead:",
+      "timestamp": "2025-06-11T21:00:39.584211"
+    },
+    {
+      "page": 225,
+      "section_type": "heading_minor",
+      "heading": "How to Treat Physical and Spiritual Diseases",
+      "timestamp": "2025-06-11T21:01:36.827760"
+    },
+    {
+      "page": 227,
+      "section_type": "heading_minor",
+      "heading": "Conditions of Acceptable Supplications",
+      "timestamp": "2025-06-11T21:02:07.343594"
+    }
+  ],
+  "saved_at": "2025-06-11T21:02:07.847259"
+}

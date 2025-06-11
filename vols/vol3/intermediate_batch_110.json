@@ -1,0 +1,694 @@
+{
+  "batch_number": 110,
+  "sections_count": 155,
+  "timestamp": "2025-06-11T19:36:06.290496",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Fatwa Discussion",
+        "content_type": "heading_minor",
+        "page_number": 109,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "On page 362, another female writer was quoted to have said, \"It is better and less distressful that our young women work as housemaids or like housemaids than work in laboratories where they become corrupted with plagues that remove the luster of their lives. Would that our countries were like the Muslim countries endowed with decency, chastity, and purity where the maid and the slave enjoy the most luxurious ways of life and are treated kindly just as children! It is disgraceful for our country of England that it makes its young women an example of vice through their frequent mingling with men. How come then we do not tread in the heels of them (Muslim countries) by assigning for girls the work that suits their natural disposition such as domestic chores, and leave men's work for men so that we could preserve the honor of such girls.\"",
+          "content_type": "citation",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Quote from female writer supporting Islamic values"
+        },
+        {
+          "text": "Others like Gustavf Lobone said, \"Polygyny is a good system that elevates the moral level of nations that practice it, makes families more connected and grants woman respect and happiness she does not have in Europe.",
+          "content_type": "citation",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Quote from Gustavf Lobone on polygyny"
+        },
+        {
+          "text": "Moreover, playwright Bernard Shaw said, Indeed, Europe shall have to return to Islam before the close of the twentieth century, whether she likes it or not.",
+          "content_type": "citation",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Quote from Bernard Shaw",
+          "memory_agreement": true
+        },
+        {
+          "text": "These are excerpts of what I read from non-Muslim writers on the merits of Islam and polygyny, which contains a lesson for all those endowed with sound understanding. It is the Help of Allah (alone) that we seek.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.8,
+          "notes": "Scholar's commentary on the quotes",
+          "memory_agreement": true
+        },
+        {
+          "text": "As for what Ibn Al-Surah said about polygyny, it undoubtedly implies denigration of Islam, insult of the Perfect Shari`ah, and ridiculing the Prophet (peace be upon him), which is a negation of his faith. Thus, it is the duty of the rulers to invite him to repent. So, if he repents and declares his repentance in the newspaper where he published his irreligious article, then praise be to Allah. Besides, he should also be disciplined in a way that deters him and his peers.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Ruling on Ibn Al-Surah's statements",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 235)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Yet, if he does not repent, it becomes obligatory to kill him on the grounds of his apostasy, and his inheritance becomes a booty for the treasury, as his relatives are not allowed to inherit him.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling on apostasy"
+        },
+        {
+          "text": "Allah (Exalted be He) says, Say: \"Was it at Allâh (ﻋﺰ ﻭﺟﻞ), and His Ayât (proofs, evidence, verses, lessons, signs, revelations) and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) that you were mocking?\" Make no excuse; you disbelieved after you had believed.",
+          "content_type": "quran_verse",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Quranic verse about mocking Allah and His Messenger"
+        },
+        {
+          "text": "He (Exalted be He) says about the disbelievers, That is because they hate that which Allâh has sent down (this Qur'ân and Islâmic laws, etc.); so He has made their deeds fruitless.",
+          "content_type": "quran_verse",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Quranic verse about those who hate what Allah sent down"
+        },
+        {
+          "text": "He (Exalted be He) reminds His Slaves that whoever mocks His Religion or hates what He has sent down, they become disbelievers and their deeds will be made fruitless.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.8,
+          "notes": "Scholar's explanation of the verse"
+        },
+        {
+          "text": "In another verse, Allah (Exalted be He) says, That is because they followed that which angered Allâh and hated that which pleased Him. So He made their deeds fruitless.",
+          "content_type": "quran_verse",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Another Quranic verse on the same theme",
+          "memory_agreement": true
+        },
+        {
+          "text": "Undoubtedly, Ibn Al-Surah disliked what Allah (Exalted be He) has sent down concerning the permissibility of polygyny, and disparaged it on the premise of its being an inveterate malady. Therefore, the ruling stated in the verse applies to him. Indeed, there are numerous proofs on this meaning.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Application of Quranic ruling to Ibn Al-Surah's case",
+          "memory_agreement": true
+        },
+        {
+          "text": "We ask Allah to guide us and all Muslims to love what He has legislated for His Slaves and to adhere to it, and to beware of what opposes it. May Allah give victory to His Religion and His Party and obliterate falsehood and disappoint its followers. He is indeed All-Hearing, Ever-Near.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.8,
+          "notes": "Supplication and closing remarks"
+        },
+        {
+          "text": "May the Peace and Blessings of Allah be upon His Slave and Messenger, Muhammad, his family and Companions!",
+          "content_type": "signature",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Traditional Islamic closing blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "General advice on some major sins",
+        "content_type": "heading_major",
+        "page_number": 236,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 236)",
+          "content_type": "navigation",
+          "page_number": 236,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From `Abdul `Aziz ibn `Abdullah ibn Baz to those who see it of my Muslim brothers, may Allah grant me and them success in fulfilling what pleases Him, and keep us away from disobeying Him, Amen!",
+          "content_type": "signature",
+          "page_number": 236,
+          "confidence": 0.95,
+          "notes": "Author attribution and greeting",
+          "memory_agreement": false
+        },
+        {
+          "text": "A s­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!), to continue:",
+          "content_type": "transliteration",
+          "page_number": 236,
+          "confidence": 0.9,
+          "notes": "Arabic greeting with translation",
+          "memory_agreement": true
+        },
+        {
+          "text": "I advise every Muslim to have Taqwa (fearing Allah as He should be feared) in all circumstances and guard his tongue from saying anything other than that which is useful, because Mubah (permissible) talk may lead to what is Haram (prohibited) or Makruh (reprehensible), and this is common among people, Allah the Exalted says:",
+          "content_type": "paragraph",
+          "page_number": 236,
+          "confidence": 0.9,
+          "notes": "Introductory advice paragraph",
+          "memory_agreement": false
+        },
+        {
+          "text": "Not a word does he (or she) utter but there is a watcher by him ready (to record it).",
+          "content_type": "quran_verse",
+          "page_number": 236,
+          "confidence": 0.85,
+          "notes": "Quranic verse translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And follow not (O man i.e., say not, or do not or witness not) that of which you have no knowledge. Verily! The hearing, and the sight, and the heart, of each of those one will be questioned (by Allâh).",
+          "content_type": "quran_verse",
+          "page_number": 236,
+          "confidence": 0.85,
+          "notes": "Second Quranic verse translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (may Allah's Peace and Blessings be upon him) also says in the Hadithagreed upon by Al­Bukhari and Muslim andnarrated by Abu Hurayrah (may Allah be pleased with him): \"He who believes in Allah and the Last Day should either utter good words or stay silent...''",
+          "content_type": "hadith",
+          "page_number": 236,
+          "confidence": 0.9,
+          "notes": "Hadith with chain of narration",
+          "memory_agreement": true
+        },
+        {
+          "text": "There are things that may be a topic of talks but should not be spoken and one should be warned against talking about them, for they could lead to major sins, which would lead to displeasing Allah and to His Punishment. These things have become commonly widespread in some communities:",
+          "content_type": "paragraph",
+          "page_number": 236,
+          "confidence": 0.9,
+          "notes": "Transitional paragraph introducing list",
+          "memory_agreement": false
+        },
+        {
+          "text": "1­ Backbiting : That is talking about your brother or sister in a way that they would dislike, if they heard about it, whether it be talking about their body, family, character, actions, sayings or about their religion or life, or even talking ill about their clothes",
+          "content_type": "list_item",
+          "page_number": 236,
+          "confidence": 0.95,
+          "notes": "First enumerated point on backbiting",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 237)",
+          "content_type": "navigation",
+          "page_number": 237,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": ", home or car. Abu Hurayrah (may Allah be pleased with him) reported that the Prophet (peace be upon him) said: Do you know what backbiting is? They (the Companions) said: Allah and His Messenger know best. Thereupon, he (the Prophet) said: Backbiting is talking about your brother in a manner which he does not like. It was said to him: What is your opinion, if I actually find (that failing) in my brother that which I made a mention of? He said: If (that failing) is actually found (in him) what you assert, then you in fact, backbit him, and if it is not in him, it is a slander against him. Reported by Muslim.",
+          "content_type": "hadith",
+          "page_number": 237,
+          "confidence": 0.9,
+          "notes": "Hadith defining backbiting with citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Backbiting is Haram (prohibited), no matter what the reason behind it; whether it is to calm down rage, or to compliment those present and make conversation with them, or reconciling or courtesy of companions. Or to encourage others to speak or to envy others or just for fun, or to waste time or if a person speaks ill of others to make those present laugh. Allah the Exalted forbade this, and warned His slaves against it, He the Exalted says:",
+          "content_type": "fatwa_ruling",
+          "page_number": 237,
+          "confidence": 0.9,
+          "notes": "Religious ruling on backbiting",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Avoid much suspicion; indeed some suspicions are sins. And spy not, neither backbite one another. Would one of you like to eat the flesh of his dead brother? You would hate it (so hate backbiting). And fear Allâh. Verily, Allâh is the One Who forgives and accepts repentance, Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 237,
+          "confidence": 0.9,
+          "notes": "Quranic verse about backbiting",
+          "memory_agreement": false
+        },
+        {
+          "text": "In a Hadith by Abu Hurayrah (may Allah be pleased with him), the Prophet (peace be upon him) said: The Muslim is inviolable by his Muslim brother, with regard to his blood, wealth and honor Reported by Muslim. He (peace be upon him) said in his final Khutbah (sermon) in his Farewell Hajj: Your blood, your properties and your honors are as sacred to one another as the sanctity of this day of yours in this month of yours in this town of yours. (Listen) Have I not conveyed Allah's message to you? Reported by Al­Bukhari and Muslim. It is also narrated by Abu Hurayrah (may Allah be pleased with him) that he said: The Messenger of Allah (peace be upon him) said: The worst kind of usury is indulging in evil talk about the honor of your Muslim brother. Reported by Al­Bazzar and Abu Dawud. The authentic Hadiths of the Prophet (peace be upon him) that refer to the prohibition of backbiting and warning against it are so many.",
+          "content_type": "hadith",
+          "page_number": 237,
+          "confidence": 0.9,
+          "notes": "Multiple hadith citations on backbiting",
+          "memory_agreement": false
+        },
+        {
+          "text": "2­ Among vices that should be avoided, kept away from and warned against is tale­bearing. It refers to the act of transferring conversations from one person to another, or from one group to another, or from one tribe to another",
+          "content_type": "list_item",
+          "page_number": 237,
+          "confidence": 0.95,
+          "notes": "Second enumerated point on tale-bearing",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 238)",
+          "content_type": "navigation",
+          "page_number": 238,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "with the intention of causing corruption and driving people away from each other. It includes disclosing what people dislike no matter if the person reported, the person informed, or even others may dislike it. This act of disclosing may be done verbally, written, or by using code, or gestures regardless of the subject reported whether it is a saying or an action and whether it is a defect or imperfection in the person reported or not. A person must refrain from talking about what he knows or sees in people, unless there is some benefit to Muslims in transferring information or that it will eliminate evil.",
+          "content_type": "paragraph",
+          "page_number": 238,
+          "confidence": 0.9,
+          "notes": "Continuation of tale-bearing definition",
+          "memory_agreement": false
+        },
+        {
+          "text": "Motives behind tale­bearing is either to cause evil to the person being spoken about or to show love to the person who is being informed, or to engage in ones advantages and disadvantages; all of which is",
+          "content_type": "paragraph",
+          "page_number": 238,
+          "confidence": 0.9,
+          "notes": "Incomplete paragraph on motives for tale-bearing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Prohibition of Tale-bearing and Gossip",
+        "content_type": "heading_minor",
+        "page_number": 111,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "forbidden. No one should believe rumor mongers; because a person who gossips is considered a Fasiq (someone openly and flagrantly violating Islamic law), whose Shahadah (testimony of faith) is rejected. Allah the Exalted says:",
+          "content_type": "paragraph",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Introduction to prohibition of gossip"
+        },
+        {
+          "text": "O you who believe! If a Fâsiq (liar — evil person) comes to you with any news, verify it, lest you should harm people in ignorance",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.95,
+          "notes": "Quranic verse about verifying news from unreliable sources"
+        },
+        {
+          "text": "enjoin (on people) Al­Ma'rûf ­ (Islâmic Monotheism and all that is good), and forbid (people) from Al­ Munkar (i.e. disbelief in the Oneness of Allâh, polytheism of all kinds and all that is evil and bad)",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about enjoining good and forbidding evil"
+        },
+        {
+          "text": "O you who believe! Avoid much suspicion; indeed some suspicions are sins.",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.95,
+          "notes": "Quranic verse about avoiding suspicion"
+        },
+        {
+          "text": "'Beware of suspicion, for it is the worst of false tales. Agreed upon its authenticity i.e. reported by Al­Bukhari and Muslim.",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Prophetic hadith about suspicion"
+        },
+        {
+          "text": "And (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) obey you not everyone Hallaf Mahîn (the one who swears much and is a liar or is worthless). [Tafsir At­Tabari] A slanderer, going about with",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.85,
+          "notes": "Quranic verse about not obeying slanderers"
+        },
+        {
+          "text": "calumnies, Allah (Exalted be He) also says: Woe to every slanderer and backbiter.",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse about slanderers"
+        },
+        {
+          "text": "( Part No : 3, Page No: 239)",
+          "content_type": "navigation",
+          "page_number": 111,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The story­teller will not enter Paradise (Agreed upon by Al­Bukhari and Muslim).",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Hadith narrated by Hudhayfah about tale-tellers"
+        },
+        {
+          "text": "Should I inform you what slandering is? It is tale­carrying, which creates dissension amongst people. Reported by Muslim.",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Hadith by Ibn Mas'ud defining slandering"
+        },
+        {
+          "text": "These two people are being tortured not for a major sin (to avoid). Yes! (they are being tortured for a major sin). Indeed, one of them never saved himself from being soiled with his urine while the other used to go about with calumnies (to make enmity between friends). (Agreed upon by Al­Bukhari and Muslim)",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Hadith by Ibn Abbas about punishment in the grave"
+        },
+        {
+          "text": "Backbiting and tale­bearing are forbidden due to the damage they cause, the corruption between people and the divisions and chaos which it creates, igniting the fire of hatred, envy and hypocrisy, and eliminating all affection and fatality. Also causing quarrels and discord among brothers who were once close. It also involves lying, treachery, betrayal, deception and accusations of the innocent, which lead one to curse, abuse and insult. They are sings of cowardice, and pettiness and defect. In addition to this, the sinners who make these accusations will bear many sins, which will lead to the wrath of Allah, and indignation and painful punishment.",
+          "content_type": "fatwa_ruling",
+          "page_number": 111,
+          "confidence": 0.85,
+          "notes": "Scholar's explanation of why backbiting is forbidden"
+        },
+        {
+          "text": "3­ That which should be avoided and kept away from, a reprehensible trait, which is known as envy.",
+          "content_type": "heading_minor",
+          "page_number": 111,
+          "confidence": 0.8,
+          "notes": "Beginning of section on envy"
+        },
+        {
+          "text": "Or do they envy men (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ and his followers) for what Allâh has given them of His Bounty?",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about envy"
+        },
+        {
+          "text": "Do not be envious of one another; do not artificially inflate prices against one another; do not hate one another; do not shun one another; and do not undercut",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.85,
+          "notes": "Beginning of hadith by Abu Hurayrah about envy"
+        },
+        {
+          "text": "( Part No : 3, Page No: 240)",
+          "content_type": "navigation",
+          "page_number": 111,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "one another in business transactions; and be as fellow­brothers and servants of Allah. Reported by Muslim. Abu Hurayrah (may Allah be pleased with him) also narrated that the Prophet of Allah (peace be upon him) said: Avoid envy, for envy devours good deeds just as fire devours fuel. Reported by Abu Dawud.",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Continuation and second hadith about envy"
+        },
+        {
+          "text": "4­ A person is also required to stay away from injustice, which is being unfair and legal misbehavior.",
+          "content_type": "heading_minor",
+          "page_number": 111,
+          "confidence": 0.8,
+          "notes": "Beginning of section on injustice"
+        },
+        {
+          "text": "And (remember) when Luqmân said to his son when he was advising him: \"O my son! Join not in worship others with Allâh. Verily joining others in worship with Allâh is a great Zûlm (wrong) indeed.",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about shirk as injustice"
+        },
+        {
+          "text": "And it is the disbelievers who are the Zâlimûn (wrong­doers).",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about wrongdoers"
+        },
+        {
+          "text": "There will be no friend, nor an intercessor for the Zâlimûn (polytheists and wrong­doers), who could be given heed to.",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about no intercession for wrongdoers"
+        },
+        {
+          "text": "and for the Zâlimûn (wrong­doers, polytheists and disbelievers in the Oneness of Allâh) there is no helper.",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about no helper for wrongdoers"
+        },
+        {
+          "text": "Consider not that Allâh is unaware of that which the Zâlimûn (polytheists, wrong­doers) do, but He gives them respite up to a Day when the eyes will stare in horror.",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Allah's awareness of wrongdoing"
+        },
+        {
+          "text": "And whoever among you does wrong (i.e. sets up rivals to Allâh), We shall make him taste a great torment.",
+          "content_type": "quran_verse",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quranic verse about punishment for wrongdoing"
+        },
+        {
+          "text": "Allah (the Exalted) says: \"O My servants, I have forbidden injustice upon Myself and have forbidden it for you, so do not wrong one another...\"",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Hadith Qudsi narrated by Abu Dhar about injustice"
+        },
+        {
+          "text": "Be on your guard against committing oppression, for oppression is a darkness on the Day of Recompense",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Hadith by Jabir about oppression"
+        },
+        {
+          "text": "( Part No : 3, Page No: 241)",
+          "content_type": "navigation",
+          "page_number": 111,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A Muslim is the one who avoids harming Muslims with his tongue and hands. And a Muhajir (emigrant) is the one who gives up (abandons) all that Allah has forbidden. (Agreed upon by Al­ Bukhari and Muslim).These Hadiths and others with the same meaning are evident that one should be warned of injustice in matters",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.85,
+          "notes": "Hadith by Abdullah ibn Amr about true Muslim character"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Fatwa",
+        "content_type": "heading_minor",
+        "page_number": 112,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "related people, their honor, and property, due to the great evil and great corruption and their dire consequences. They also indicate the obligation of Tawbah (repentance to Allah) to Allah, the Exalted, of past sins and advising others to leave all that Allah has forbidden of injustice and all other sins.",
+          "content_type": "fatwa_ruling",
+          "page_number": 112,
+          "confidence": 0.8,
+          "notes": "Continuation of religious ruling about repentance and avoiding sins",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah grant me and you good attitude and good deeds and keep us away from bad deeds and attitudes! May He guide us to His Straight Path, for He is All­Gracious and The Generous.",
+          "content_type": "answer",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Supplication and prayer concluding the fatwa response",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah's Peace and Blessings be upon our Prophet Muhammad, his family, and Companions!",
+          "content_type": "signature",
+          "page_number": 112,
+          "confidence": 0.95,
+          "notes": "Traditional Islamic blessing formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!).",
+          "content_type": "signature",
+          "page_number": 112,
+          "confidence": 0.95,
+          "notes": "Islamic greeting with translation, concluding the fatwa",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 242)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 0.98,
+          "notes": "Volume and page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "General Advice for Muslim Rulers and Peoples",
+        "content_type": "heading_major",
+        "page_number": 113,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "All praise be to Allah Alone. May peace and blessings be upon His Messenger, and his family, and Companions.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.95,
+          "notes": "Standard Islamic opening formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "I hereby advise my fellow Muslims everywhere, whether they are government officials or common subjects, to fear Allah (Exalted be He) in all matters, since it is the Advice of Allah (Exalted be He) and of His Trustworthy Prophet (peace be upon him).",
+          "content_type": "fatwa_ruling",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Opening statement of advice/ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "And verily, We have recommended to the people of the Scripture before you, and to you (O Muslims) that you (all) fear Allâh",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.85,
+          "notes": "Quranic verse without full citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "O mankind! Be dutiful to your Lord, Who created you from a single person (Adam)",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.85,
+          "notes": "Quranic verse without full citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) used to advise his Ummah during his sermons to fear Allah. Taqwa (fearing Allah as He should be feared) is an all­inclusive term that sums up the content of Islam, and involves protection of the interests of the worldly life and of the Hereafter.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Explanatory text about Taqwa",
+          "memory_agreement": false
+        },
+        {
+          "text": "And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him)",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.85,
+          "notes": "Quranic verse without full citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "O mankind! Worship your Lord (Allâh), Who created you and those who were before you so that you may become Al­Muttaqûn (the pious ­ See V.2:2).",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Quranic verse with partial reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith.",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.85,
+          "notes": "Quranic verse without citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "Hence, it is unequivocal for those endowed with sound understanding that applying the Shari`ah assures integrity in this life and in the Hereafter. It also entails uniting the word on truth and eliminating",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Explanatory text, appears to continue",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 243)",
+          "content_type": "navigation",
+          "page_number": 113,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "corruption. Another highly important aspect of piety is cooperation in righteousness and piety, recommending one another to the truth and to patience in upholding it, the unity of scholars and their unanimity on the truth, their guiding common people to the means of salvation, and warning them against the causes of ruin, and their giving good counsel to the rulers and supporting them to do good.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Continuation of previous paragraph",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah is pleased with three things from you: that you worship Him and do not associate anything with Him, and that you altogether take hold of the Rope of Allah, and that you give good counsel to the one to whom Allah gives command over you.",
+          "content_type": "hadith",
+          "page_number": 113,
+          "confidence": 0.85,
+          "notes": "Hadith without full chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another; they enjoin (on the people) Al­M a' rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden); they perform As­Salât (Iqâmat­as­Salât), and give the Zakât, and obey Allâh and His Messenger. Allâh will have His Mercy on them. Surely Allâh is All­Mighty, All­Wise.",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Quranic verse with transliteration and explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever, among you, sees something abominable should rectify it with his hand; and if he has no strength enough to do it, then he should do it with his tongue; and if he has no strength enough to do it, (even) then he should (abhor it) from his heart, and that is the least of Faith.",
+          "content_type": "hadith",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Famous hadith about changing evil",
+          "memory_agreement": false
+        },
+        {
+          "text": "The religion is based on advising one another. Upon this, we said: For whom, O Messenger of Allah? He replied: For Allah, His Book, His Messenger, and for the leaders and the general Muslims.",
+          "content_type": "hadith",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Hadith about religious advice",
+          "memory_agreement": false
+        },
+        {
+          "text": "Both Hadith are narrated by Imam Muslim in his \"Sahih\".",
+          "content_type": "citation",
+          "page_number": 113,
+          "confidence": 0.95,
+          "notes": "Source attribution for previous hadiths",
+          "memory_agreement": false
+        },
+        {
+          "text": "After all, there are many Qur'anic verses and Hadith containing this meaning. I ask Allah (Glorified and Exalted be He) to guide us and our fellow Muslims everywhere to that which involves His Pleasure and the integrity of His Slaves, to rectify our hearts and deeds, and to grant us all understanding of His Religion, persistence in it and the call to it with sure knowledge. He is indeed the Master of this and is Able to do it. May Allah grant us success. May peace and blessings be upon His Slave and Messenger, our Prophet and Master, Muhammad ibn `Abdullah, his family, Companions, and those who follow his guidance.",
+          "content_type": "signature",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Closing prayer and signature formula",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

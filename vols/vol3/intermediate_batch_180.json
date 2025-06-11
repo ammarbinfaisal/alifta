@@ -1,0 +1,722 @@
+{
+  "batch_number": 180,
+  "sections_count": 256,
+  "timestamp": "2025-06-11T20:34:25.573495",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "An answer to a question about the ruling on growing the beard",
+        "content_type": "heading_minor",
+        "page_number": 375,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 375)",
+          "content_type": "navigation",
+          "page_number": 375,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From `Abdul­`Aziz ibn `Abdullah ibn Baz to our honorable brother, may Allah guide him to what pleases Him! May Allah increase his knowledge and Iman (faith) and make him blessed wherever he is. Amen.",
+          "content_type": "signature",
+          "page_number": 375,
+          "confidence": 0.95,
+          "notes": "Author attribution and greeting",
+          "memory_agreement": false
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "arabic_text",
+          "page_number": 375,
+          "confidence": 0.9,
+          "notes": "Islamic greeting with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "I hope that you, your children, and other officials are all well. May Allah bestow upon you from His Bounty and guide us and you to His thankfulness. Indeed, He is the Best to be sought for help. I inform you that your representative mentioned to me your desire that I write to you about the issue of the beard.",
+          "content_type": "paragraph",
+          "page_number": 375,
+          "confidence": 0.85,
+          "notes": "Introductory paragraph",
+          "memory_agreement": true
+        },
+        {
+          "text": "Accordingly, it should be known that the Messenger (peace be upon him) let his beard grow and so did his Sahabah (Companions of the Prophet). It is reportedin the Two Sahih (authentic) Books of Hadith (i.e. Al­ Bukhari and Muslim)that the Prophet (peace be upon him) said: Trim closely the mustache and let the beard grow to be contradictory to the disbelievers.",
+          "content_type": "hadith",
+          "page_number": 375,
+          "confidence": 0.9,
+          "notes": "Hadith citation from Bukhari and Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is also related by Al­Bukhari in his Sahih on the authority of Ibn `Umar (may Allah be pleased with them) that the Prophet (peace be upon him) said: Keep the beards and cut the mustaches short; do the opposite of what the Mushriks (those who associate others with Allah in His Divinity or worship) do.",
+          "content_type": "hadith",
+          "page_number": 375,
+          "confidence": 0.9,
+          "notes": "Second hadith citation from Bukhari",
+          "memory_agreement": false
+        },
+        {
+          "text": "Also related inSahih Muslim on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said: Trim closely the mustache and grow the beard, and thus act against the Magian.",
+          "content_type": "hadith",
+          "page_number": 375,
+          "confidence": 0.9,
+          "notes": "Third hadith citation from Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "All these Sahih Hadith and others having the same meaning prove the obligation that men should let their beards grow long and the prohibition of shaving or trimming them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 375,
+          "confidence": 0.95,
+          "notes": "Scholar's ruling based on hadith evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "You know, may Allah protect you, that all Muslims, wherever they are and regardless of their status, are obliged to obey the command of Allah's Messenger (peace be upon him), for Allah (Glorified be He) says:",
+          "content_type": "paragraph",
+          "page_number": 375,
+          "confidence": 0.8,
+          "notes": "Transitional paragraph introducing Quranic evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "He who obeys the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), has indeed obeyed Allâh",
+          "content_type": "quran_verse",
+          "page_number": 375,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 376)",
+          "content_type": "navigation",
+          "page_number": 376,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) also says: And whatsoever the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) gives you, take it; and whatsoever he forbids you, abstain (from it). And fear Allâh; verily, Allâh is Severe in punishment.",
+          "content_type": "quran_verse",
+          "page_number": 376,
+          "confidence": 0.9,
+          "notes": "Second Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) further states: Say: \"Obey Allâh and obey the Messenger, but if you turn away, he (Messenger Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) is only responsible for the duty placed on him (i.e. to convey Allâh's Message) and you for that placed on you. If you obey him, you shall be on the right guidance. The Messenger's duty is only to convey (the message) in a clear way (i.e. to preach in a plain way).\"",
+          "content_type": "quran_verse",
+          "page_number": 376,
+          "confidence": 0.9,
+          "notes": "Third Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Glorified be He) also says: And perform As­Salât (Iqâmat­as­Salât), and give Zakât and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) that you may receive mercy (from Allâh).",
+          "content_type": "quran_verse",
+          "page_number": 376,
+          "confidence": 0.9,
+          "notes": "Fourth Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Ayahs (Qur'anic verses) in this regard. Thus, it is incumbent on you to let the beard grow long and thick and to call other Muslims to do the same and to obey Allah and His Messenger (peace be upon him) in every thing. It is only through this way that Muslims will achieve happiness and good end in this life and the Hereafter. May Allah guide you to what is good for both your religion and life! May Allah guide you to all that benefits people and countries, for He is the Most Generous!",
+          "content_type": "fatwa_ruling",
+          "page_number": 376,
+          "confidence": 0.95,
+          "notes": "Final ruling and conclusion with supplication",
+          "memory_agreement": false
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh!",
+          "content_type": "arabic_text",
+          "page_number": 376,
+          "confidence": 0.9,
+          "notes": "Closing Islamic greeting",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Pointing out the Sanctity of Makkah and the Status of Al-Bayt (the House: another name for the Ka`bah) and the related Ayahs (Qur'anic verses), Hadith and reports",
+        "content_type": "heading_major",
+        "page_number": 377,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 377)",
+          "content_type": "navigation",
+          "page_number": 377,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise is due to Allah. The good end is for the righteous; may peace and blessings be upon His servant, Messenger, and the one whom He chose from among His creation to whom He entrusted with His Revelation, our master Muhammad ibn `Abdullah, and upon his family, Companions, and whoever adopted his way and followed his guidance.",
+          "content_type": "paragraph",
+          "page_number": 377,
+          "confidence": 0.9,
+          "notes": "Opening praise and salutation",
+          "memory_agreement": false
+        },
+        {
+          "text": "I thank Allah (Glorified and Exalted be He) for granting us this meeting with dear children and brothers and sisters in Allah to recommend and call for Al-Haqq (the Truth) and to be sincere towards Allah and His slaves.",
+          "content_type": "paragraph",
+          "page_number": 377,
+          "confidence": 0.85,
+          "notes": "Scholar's opening remarks",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah (Exalted be He) reform our hearts and deeds, help us and all Muslims understand religion, and adhere steadfastly to it, support His religion, and cause His word to prevail, set right the affairs of all Muslims everywhere, entrust their affairs to the best of them, and guide all Muslim rulers to adhere to His Shari`ah (Islamic law), judge by it and enforce it upon peoples. He is the Only One Who is able to do that.",
+          "content_type": "paragraph",
+          "page_number": 377,
+          "confidence": 0.9,
+          "notes": "Supplication",
+          "memory_agreement": false
+        },
+        {
+          "text": "Then I thank my brothers who are in charge of this club, at the top of them, the honorable Dr. Rashid Al-Rajih, the head of the University of Um Al-Qura and president of the club for inviting me to attend this lecture, entitled \"The sanctity of Makkah Al-Mukarramah and the status of Al-Bayt Al-`Atiq and the related reports.\"",
+          "content_type": "paragraph",
+          "page_number": 377,
+          "confidence": 0.9,
+          "notes": "Acknowledgment and lecture title",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 378)",
+          "content_type": "navigation",
+          "page_number": 378,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "O dear brothers and sisters in Allah, I do not think that anyone who has the least knowledge or insight does not know the sanctity of Makkah and the status of Al-Bayt Al-`Atiq. This matter is clearly stated by Allah in the Ever-Glorious Qur'an in many Ayahs and by His Messenger Muhammad (peace be upon him) in many Hadith and by the scholars in their books and in the books of Tafsir (explanation/exegesis of the meanings of the Qur'an).",
+          "content_type": "paragraph",
+          "page_number": 378,
+          "confidence": 0.9,
+          "notes": "Introduction to main topic",
+          "memory_agreement": false
+        },
+        {
+          "text": "Praise be to Allah, the matter is quite clear; nevertheless, I would like to remind people of it and to recommend them to adhere to the Obligations of Allah regarding its sanctity and to stand against whatever opposes or violates this sanctity. In the Ever-Glorious Qur'an, Allah (Glorified and Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 378,
+          "confidence": 0.9,
+          "notes": "Transition to Quranic evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, the first House (of worship) appointed for mankind was that at Bakkah (Makkah), full of blessing, and a guidance for Al-'Alamîn (mankind and jinn). In it are manifest signs (for example), the Maqâm (place) of Ibrâhîm (Abraham); whosoever enters it, he attains security. And Hajj (pilgrimage to Makkah) to the House (Ka'bah ) is a duty that mankind owes to Allâh, those who can afford the expenses (for one's conveyance, provision and residence); and whoever disbelieves [i.e. denies Hajj (pilgrimage to Makkah), then he is a disbeliever of Allâh], then Allâh stands not in need of any of the 'Alamîn (mankind, jinn and all that exists).",
+          "content_type": "quran_verse",
+          "page_number": 378,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Makkah and Hajj",
+          "memory_agreement": true
+        },
+        {
+          "text": "In the these Ayahs, Allah (Glorified be He) points out that Al-Bayt Al-`Atiq is the first House of worship established for people and that it is blessed and is a source of guidance for the worlds. These are great honors that raise the status of Al-Bayt.",
+          "content_type": "paragraph",
+          "page_number": 378,
+          "confidence": 0.9,
+          "notes": "Commentary on the Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is reportedin the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim)and others on the authority of Abu Dhar (may Allah be pleased with him) that he asked the Prophet (peace be upon him) about the first House (of worship) that was built for people. He (peace be upon him) said: Al-Masjid Al-Haram (the Sacred Mosque in Makkah) I asked, ' Then which?' He said: Al-Masjid Al-Aqsa (the Aqsa Mosque in Jerusalem) I asked, 'How long between them?' He said, 'Forty years.' I asked, 'Then Which?' He said: 'Whenever Salah (Prayer) comes unto you, offer it, for this place will be Masjid (mosque).'",
+          "content_type": "hadith",
+          "page_number": 378,
+          "confidence": 0.95,
+          "notes": "Hadith from Abu Dhar about first mosques",
+          "memory_agreement": false
+        },
+        {
+          "text": "This meaning is stressed by the saying of the Prophet (peace be upon him)in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim): I have been granted five (things) which were not granted to anyone before me (and these are): Allah made me victorious by awe, (by His frightening my enemies) for a distance of a month's journey, and the earth has been made for me (and for my followers) a Masjid (place of Salah) and a means of purification.",
+          "content_type": "hadith",
+          "page_number": 378,
+          "confidence": 0.9,
+          "notes": "Hadith about five special grants to the Prophet",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 389)",
+          "content_type": "navigation",
+          "page_number": 389,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Al-Bayt Al-`Atiq is the first House established for people to worship and obey Allah (Exalted be He). Many houses were established before it for living but Al-Ka`bah was the first house built for people to worship Allah and circumambulate around it. It is built by Khalil Allah (Close Friend of Allah), Ibrahim (Abraham) (peace be upon him), and his son Isma`il (Ishmael) (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 389,
+          "confidence": 0.9,
+          "notes": "Explanation about the Ka'bah being first house of worship",
+          "memory_agreement": true
+        },
+        {
+          "text": "With regard to the report that it was first populated by Adam, this is a weak view. It is well-known to the scholars that it was first populated by Khalil Allah Ibrahim (peace be upon him) and the next house established for worship forty years after it was Al-Masjid Al-Aqsa at the hands",
+          "content_type": "paragraph",
+          "page_number": 389,
+          "confidence": 0.85,
+          "notes": "Scholarly clarification about historical accounts - text appears cut off",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Sacred House and Its Sanctity",
+        "content_type": "heading_minor",
+        "page_number": 183,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "of Ya`qub (Jacob) son of Ishaq (Isaac) son of Ibrahim (peace be upon them). Then it is populated by Sulayman (Solomon) (peace be upon him). Al­Bayt Al­`Atiq is the best and first house set for people for worship; it is a blessed house, for Allah honored it by making people offer Salah in it and circumambulate around it. All these are means for expiating sins and forgiveness. Allah (Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Introduction to discussion about the Sacred House"
+        },
+        {
+          "text": "And (remember) when We made the House (the Ka'bah at Makkah) a place of resort for mankind and a place of safety. And take you (people) the Maqâm (place) of Ibrâhîm (Abraham) [or the stone on which Ibrâhîm (Abraham) ﻋﻠﻴﻪ ﺍﻟﺴﻼﻡ stood while he was building the Ka'bah] as a place of prayer (for some of your prayers, e.g. two Rak' at after the Tawâf of the Ka'bahat Makkah), and We commanded Ibrâhîm (Abraham) and Ismâ'îl (Ishmael) that they should purify My House (the Ka' bah at Makkah) for those who are circumambulating it, or staying (I'tikâf), or bowing or prostrating themselves (there, in prayer).",
+          "content_type": "quran_verse",
+          "page_number": 183,
+          "confidence": 0.95,
+          "notes": "Quranic verse about the Ka'bah",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 380)",
+          "content_type": "navigation",
+          "page_number": 183,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) has made this House a place of resort for people to which they are always yearning to go; whenever they return from it, they want to go back again. Allah (Exalted be He) has instilled its love and longing in the hearts of the believers; they find in it great goodness, raising of ranks, doubling of the reward of good deeds and forgiveness of misdeeds. Moreover, Allah (Exalted be He) has made this House a place of safety, where people feel secure and where game is also secure. It is a safe sanctuary where even game feel secure, which Allah (Exalted be He) has permitted Muslims to eat outside Al­Haram. But within Al­Haram, the games are secure; and should not be startled or killed.",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Explanation of the House as place of resort and safety",
+          "memory_agreement": true
+        },
+        {
+          "text": "whosoever enters it, he attains security.",
+          "content_type": "quran_verse",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Short Quranic verse about security"
+        },
+        {
+          "text": "i.e. whoever enters it should be secured; no harm or murder should occur in it, in other word, it is obligatory to give protection to whoever enters it and not to harm anyone in any way.",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Explanation of the verse"
+        },
+        {
+          "text": "In the Jahiliyyah (pre­Islamic time of ignorance), this practice was followed; a man would meet the murderer of his father or brother and could not harm him, till he came out of it. Al­Bayt A l­`Atiq and Al­Haram have been made by Allah as a place of return and security for people. Allah ordered Ibrahim and Isma`il (peace be upon them) to purify the House for those who circumambulate it, and those who are staying there for worship and those who bow and prostrate in Salah. In another Ayah (Qur'anic verse), Allah (Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Historical context and introduction to another verse"
+        },
+        {
+          "text": "And (remember) when We showed Ibrâhîm (Abraham) the site of the (Sacred) House (the Ka'bah at Makkah) (saying): \"Associate not anything (in worship) with Me, [Lâ ilâha illallâh (none has the right to be worshipped but Allâh) ­ Islâmic Monotheism], and sanctify My House for those who circumambulate it, and those who stand up (for prayer), and those who bow (submit themselves with humility and obedience to Allâh), and make prostration (in prayer);\"",
+          "content_type": "quran_verse",
+          "page_number": 183,
+          "confidence": 0.95,
+          "notes": "Second Quranic verse about Ibrahim and the Sacred House"
+        },
+        {
+          "text": "The Ayah here refers to the resident and those who circumambulate it and the prayers. Allah (Glorified be He) orders His Prophet Ibrahim and his son Isma`il to purify this House and so should all the rulers. The Prophet (peace be upon him) stressed this point on the Day of the Conquest of Makkah; he stated that it is a safe sanctuary that Allah, not people, made sacred held on the day when He created the heavens and earth. He (peace be upon him) said:",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Commentary and introduction to hadith"
+        },
+        {
+          "text": "\"Its game should not be chased, its trees should not be chopped down, its thorns should not be cut, no blood should be shed, its fallen things should not be picked up except by one who would announce it.\"",
+          "content_type": "hadith",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about the sanctity of the Haram"
+        },
+        {
+          "text": "He (peace be upon him) meant that this House is sacred, so it is an obligation upon Muslims and rulers as it was upon Ibrahim, Isma`il, all the prophets and their seal Muhammad (peace be upon them)",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Explanation of the hadith"
+        },
+        {
+          "text": "( Part No : 3, Page No: 381)",
+          "content_type": "navigation",
+          "page_number": 183,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "to respect and honor this House and to beware of what Allah (Exalted be He) prohibited in it including harming, wronging, and transgressing against Muslims, whether those who perform Hajj or `Umrah (lesser pilgrimage) or others.",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Continuation of obligations regarding the House",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is an obligation to purify this House for those who stay or worship in it. If people should respect this House and keep it away from harm, they should also purify it and avoid committing sins in it and keep away from Allah's Anger and Punishment. They should not harm or fight one another; for it is a secure country, whose people should revere, respect, and avoid committing sins to the disobedience of Allah or doing injustice or harm to each other, for a misdeed committed in it is grave as the good deeds done in it are doubled.",
+          "content_type": "fatwa_ruling",
+          "page_number": 183,
+          "confidence": 0.85,
+          "notes": "Religious ruling about obligations regarding the Sacred House"
+        },
+        {
+          "text": "Misdeeds, according to the scholars, are doubled not in numbers for whoever commits a misdeed shall be recompensed by the like thereof, but it is doubled in quality, for a misdeed committed in Al­Haram is not like a misdeed committed outside it; rather, it is more grave. In this respect, Allah (Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Scholarly explanation about misdeeds in the Haram"
+        },
+        {
+          "text": "and whoever inclines to evil actions therein or to do wrong (i.e. practise polytheism and leave Islâmic Monotheism), him We shall cause to taste from a painful torment.",
+          "content_type": "quran_verse",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Quranic verse about punishment for evil in the Haram"
+        },
+        {
+          "text": "The meaning of \"whoever inclines to evil actions therein\" is whoever intends to do injustice therein, so he used the preposition Ba with the word \"Ilhad i.e. evil actions, to give the meaning of \"intend\": and whoever inclines to evil actions therein or to do wrong (i.e. practise polytheism and leave Islâmic Monotheism) If the one who intends to do a deed therein of deviation in religion deserves a painful torment, what about the one who actually did such a deed?",
+          "content_type": "paragraph",
+          "page_number": 183,
+          "confidence": 0.9,
+          "notes": "Linguistic and theological explanation of the verse"
+        },
+        {
+          "text": "( Part No : 3, Page No: 382)",
+          "content_type": "navigation",
+          "page_number": 183,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Quranic Commentary on Al-Haram Sanctity",
+        "content_type": "heading_minor",
+        "page_number": 184,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "If the one who has the intention to do an evil action is threatened by painful torment, then the one who commits the crime and transgresses the limits deserves, with greater reason, punishment and painful torment.",
+          "content_type": "paragraph",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Logical reasoning about divine punishment",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, those who disbelieved and hinder (men) from the Path of Allâh, and from Al­Masjid­al­Harâm (at Makkah) which We have made (open) to (all) men, the dweller in it and the visitor from the country are equal there [as regards its sanctity and pilgrimage (Hajj and 'Umrah)]",
+          "content_type": "quran_verse",
+          "page_number": 184,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Al-Masjid al-Haram",
+          "memory_agreement": false
+        },
+        {
+          "text": "This indicates that this House is sacred and there is no difference between the resident and the newcomer who come to perform Hajj or `Umrah or anything else with regard to its sacredness.",
+          "content_type": "paragraph",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Commentary on the verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "and whoever inclines to evil actions therein or to do wrong (i.e. practise polytheism and leave Islâmic Monotheism)",
+          "content_type": "quran_verse",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) points out the greatness of this place, which Allah has made secure and sanctity, none of its dwellers or visitors is permitted to transgress Allah's Limits or harm people in it. Thus, it is known that wronging and harming people in Al­Haram by an utterance or deed is among the gravest prohibited acts whose doer deserves painful torment; rather, it is one of the major sins.",
+          "content_type": "fatwa_ruling",
+          "page_number": 184,
+          "confidence": 0.85,
+          "notes": "Religious ruling about conduct in Al-Haram",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah, not people, has made this Town sacred on the day He created the heavens and the earth. It was made lawful for me (to fight in it) only during an hour on one day, and today (now) its sanctity is the same (valid) as it was before. So it is incumbent upon those who are present to convey it (this information) to those who are absent.",
+          "content_type": "hadith",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition about Makkah's sanctity",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is not lawful for anybody to shed blood in it, cut down its trees, disturb its game, cut its thorns, or pick up the things dropped except by one who makes a public announcement of it.",
+          "content_type": "hadith",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Continuation of hadith about Makkah's sanctity",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 383)",
+          "content_type": "navigation",
+          "page_number": 184,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "If the game and trees are respected there, what about the [sanctity of] Muslims! We should give more priority to the Muslim. No one is permitted to harm people in Al­Haram by word or deed; everyone should respect them in compliance with Allah's Shar` (Law) and should revere Allah's Prohibitions in it more than he would do elsewhere. He should be peaceful with his Muslim brothers and sisters, love all good for them, and hate all evil, help them to do good and quit evil and should not harm any one with words or deeds.",
+          "content_type": "fatwa_ruling",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Scholar's reasoning and ruling about treatment of Muslims in Al-Haram",
+          "memory_agreement": true
+        },
+        {
+          "text": "In it are manifest signs (for example), the Maqâm (place) of Ibrâhîm (Abraham)",
+          "content_type": "quran_verse",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Quranic verse from Surah Al-Imran",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Exalted be He) has clear signs in it, which the scholars interpreted to refer to Maqam Ibrahim (the Station of Ibrahim), meaning the Maqams of Ibrahim, for the word Maqam is single added to a definite noun so it includes all the Maqams of Ibrahim. All Al­Haram is the Maqam of Ibrahim where he worshipped Allah; this includes also the sacred monuments like `Arafat, A l­Muzdalyfah and Myna. All this comes under Maqam Ibrahim. This also includes the stone where Ibrahim stood while building and on which people now offer Salah.",
+          "content_type": "paragraph",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Scholarly interpretation of Maqam Ibrahim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Then, We have sent the revelation to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ saying): \"Follow the religion of Ibrâhîm (Abraham) Hanif (Islâmic Monotheism ­ to worship none but Allâh)",
+          "content_type": "quran_verse",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "This provides a reminder to the believers who are the loving servants of Allah, in order that they may follow the example of Allah's Prophet, Ibrahim. Allah orders our Prophet (Muhammad) to do so in His Saying:",
+          "content_type": "paragraph",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Commentary connecting Ibrahim and Muhammad",
+          "memory_agreement": false
+        },
+        {
+          "text": "Here, Allah (Exalted be He) orders His Prophet Muhammad (peace be upon him) to follow the religion of Ibrahim Al­Khalil, the father of all the prophets.",
+          "content_type": "paragraph",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Further commentary on the verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah's Prophet Muhammad (peace be upon him) is the best of all messengers and the most perfect in delivering Allah's message and the most useful to people among them; he guided them to all that is good, guidance, and means of happiness. Every Muslim in this Ummah (nation based on one creed) should follow the example of his Prophet (peace be upon him) with regard to carrying out obligations, giving up prohibited acts, warding harm off people and delivering all good to them.",
+          "content_type": "paragraph",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Praise of Prophet Muhammad and guidance for Muslims",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 384)",
+          "content_type": "navigation",
+          "page_number": 184,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is obligatory upon the scholars in charge to point out and guide. The rulers and officials in charge should implement the Rule of Allah, advise, and deter whoever wants to harm Muslims in Makkah of those who came to perform Hajj or `Umrah or other inhabitants, regardless of their race.",
+          "content_type": "fatwa_ruling",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Obligations of scholars and rulers",
+          "memory_agreement": true
+        },
+        {
+          "text": "The rulers should respect, guard and protect Al­Haram Al­Sharif against any evil, as Allah and His Prophet and Messenger (peace be upon him) ordered.",
+          "content_type": "fatwa_ruling",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Specific duty of rulers regarding Al-Haram",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, we come to know that what happened on the year 1407 A.H. on the part of some Iranian people who were performing Hajj is an act Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect); rather, the Shari`ah of Allah prohibits it; the Book of Allah and the Sunnah (whatever is reported from the Prophet) forbid that.",
+          "content_type": "fatwa_ruling",
+          "page_number": 184,
+          "confidence": 0.95,
+          "notes": "Specific ruling about 1407 AH incident involving Iranian pilgrims",
+          "memory_agreement": false
+        },
+        {
+          "text": "The scholars unanimously agreed upon the obligation of respecting Al­Bayt, sanctifying and protecting it from all harm, sin, and injustice, and facilitating the affairs of people who come to perform Hajj and `Umrah and helping them to do good and avoid evil. It is never",
+          "content_type": "paragraph",
+          "page_number": 184,
+          "confidence": 0.9,
+          "notes": "Scholarly consensus on Al-Bayt sanctity - text appears incomplete",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Fatwa on Hajj Conduct",
+        "content_type": "heading_minor",
+        "page_number": 185,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "permissible for any one from Iran or elsewhere to harm people by means of speech, actions, demonstrations, or mass marches that keep people from carrying out the rituals of Hajj and `Umrah. The one who performs Hajj should be like his Muslim brothers and sisters with regard to being quiet and kind to everyone who performs Hajj helping them to do good and avoid evil. This is due upon all pilgrims regardless of their race or country, in order to obey Allah (Glorified and Exalted be He), glorify His Bayt and keep Makkah",
+          "content_type": "fatwa_ruling",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Ruling about conduct during Hajj and Umrah",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 385)",
+          "content_type": "navigation",
+          "page_number": 185,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Al­Mukarramah sanctified, acting upon the Order of Allah and His Messenger (peace be upon him) and following the approach of the Messenger and his Companions (may Allah be pleased with him). This is an obligation upon all Muslims. This matter is quite clear to every one. Whoever harms people in Al­Bayt Al­`Atiq is the one who does not believe in Allah and the Last Day or the one who is ignorant of the Rulings of Allah or intends to do injustice to people, so he will be punished according to the harm and injustice he inflicts upon others.",
+          "content_type": "fatwa_ruling",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling with consequences for violations",
+          "memory_agreement": false
+        },
+        {
+          "text": "True belief in Allah and the Last Day keeps one away from what Allah (Exalted be He) prohibited in this place and elsewhere; true belief deters one from transgressing the Limits of Allah and from committing prohibited acts. One commits a sin due to weakness in Iman (Faith/belief). With regard to Al­Masjid Al­Haram and Al­Masjid Al­Nabawy (the Prophet's Mosque) in Madinah, it is the duty of rulers to carefully protect them and ward off any harm from them and their inhabitants and whoever comes to perform Hajj or `Umrah or other visitors out of obedience to Allah and His Messenger, and glorification of the Order of Allah (Glorified and Exalted be He) and His Messenger (peace be upon him), and helping all obey Allah and His Messenger, and assuring the hearts of those performing Hajj and `Umrah so that they would not forget what Allah ordered them to do or commit what Allah forbade them to do.",
+          "content_type": "paragraph",
+          "page_number": 185,
+          "confidence": 0.8,
+          "notes": "Explanatory text about faith and duties of rulers",
+          "memory_agreement": false
+        },
+        {
+          "text": "Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression.",
+          "content_type": "quran_verse",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Quranic verse about cooperation in righteousness",
+          "memory_agreement": false
+        },
+        {
+          "text": "By Al­'Asr (the time). Verily, man is in loss, Except those",
+          "content_type": "quran_verse",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Beginning of Surah Al-Asr",
+          "memory_agreement": true
+        },
+        {
+          "text": "who believe (in Islâmic Monotheism) and do righteous good deeds, and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al­Ma'ruf) which Allâh has ordained, and abstain from all kinds of sins and evil deeds (Al­Munkar which Allâh has forbidden], and recommend one another to patience (for the sufferings, harms, and injuries which one may encounter in Allâh's Cause during preaching His religion of Islâmic Monotheism or Jihâd).",
+          "content_type": "quran_verse",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Continuation of Surah Al-Asr with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is obligatory to recommend one another to adhere to Al­Haqq (the Truth), practice patience, and cooperate in righteousness and piety in this sacred place and elsewhere; moreover, this place is more sacred and glorified than any other place.",
+          "content_type": "paragraph",
+          "page_number": 185,
+          "confidence": 0.8,
+          "notes": "Scholar's commentary on the Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 386)",
+          "content_type": "navigation",
+          "page_number": 185,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is the best place, for Makkah Al­Mukarramah is the most beloved place to Allah. It is the greatest place then comes Al­Madinah Al­ Munawwarah then Al­Masjid Al­Aqsa. These are the three Masjids that Allah gave special holiness; they are the greatest and best Masjids which deserve more respect and care. The greatest of them is Al­Bayt Al­`Atiq, which Allah has made a secure resort for people, so its inhabitants and whoever comes to visit it should realize its virtue and esteem, in order not to commit what Allah (Exalted be He) prohibited. This is an obligation upon both the residents and newcomers. Its dwellers should glorify it and avoid what Allah (Exalted be He) prohibited in it.",
+          "content_type": "paragraph",
+          "page_number": 185,
+          "confidence": 0.8,
+          "notes": "Discussion of the three holy mosques and their sanctity",
+          "memory_agreement": true
+        },
+        {
+          "text": "If the one who intends to do sins in it deserves painful punishment, so what about the one who actually does sins in it? This address is not only the newcomer, for the resident is more entitled to be included. He should know what Allah has prohibited, keep away from committing sins, and work studiously to obey Allah (Exalted be He) and His Messenger (peace be upon him) and helping his Muslim brothers and sisters in Makkah and those who come to perform Hajj or `Umrah. He should be guiding them to all good. It is an obligation upon the residents of Makkah to help and guide them to the means of salvation and to avoid harming them by way of a word or action. They should be callers to Al­Haqq.",
+          "content_type": "fatwa_ruling",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Ruling about obligations of Makkah residents",
+          "memory_agreement": false
+        },
+        {
+          "text": "All these matters should be observed in these two Masjids and cities. In every time and place, Muslims should fear Allah, honor His Sacred Rites, cooperate with his brothers in piety and righteousness and keep away from whatever Allah (Glorified and Exalted be He) prohibited. The rulers should stand against and punish whoever violates the Commands of Allah or",
+          "content_type": "paragraph",
+          "page_number": 185,
+          "confidence": 0.8,
+          "notes": "General guidance for Muslims and rulers",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 387)",
+          "content_type": "navigation",
+          "page_number": 185,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "wants to transgress His Limits and harms His Servants in order to obey Allah (Glorified and Exalted be He) and His Messenger (peace be upon him) and protect the Muslims who come to perform Hajj and `Umrah and others. They should respect this sacred country and this secured country against committing the Prohibitions of Allah in it or transgressing Allah's Limits in it or securing whoever does not fear Allah and harms His Servants and disturbs their Hajj and security by a bad word or deed.",
+          "content_type": "fatwa_ruling",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling about rulers' duties",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah (Glorified and Exalted be He) by His Best Names and Lofty Attributes guide Muslims everywhere to whatever pleases Him, fix their hearts and deeds, help them carry out His Rights and avoid His Prohibitions. May Allah grant them understanding of religion, guide our rulers to do what is best for the countries and peoples, and help them perform their obligations, protect His Bayt and the city of the Prophet (peace be upon him) from harm or evil. We ask Allah also to suppress the enemies of Islam everywhere, make them too preoccupied with their own affairs to harm the Muslims and make them plan for their own destruction and save Muslims from their evils. He (Glorified and Exalted be He) is Most Generous, All­ Hearing and Ever­Near. May Allah's Peace and Blessings be upon the Messenger of Allah, his family, and Companions! Amen.",
+          "content_type": "signature",
+          "page_number": 185,
+          "confidence": 0.9,
+          "notes": "Concluding supplication and blessing",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

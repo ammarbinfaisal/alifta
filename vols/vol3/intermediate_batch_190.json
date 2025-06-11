@@ -1,0 +1,363 @@
+{
+  "batch_number": 190,
+  "sections_count": 266,
+  "timestamp": "2025-06-11T20:41:32.127877",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 191 Content",
+        "content_type": "heading_minor",
+        "page_number": 191,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "admission of this is further evidence that the reprehensibility of singing is a matter agreed upon by the Sahabah and Tabi`un",
+          "content_type": "paragraph",
+          "page_number": 191,
+          "confidence": 0.9,
+          "notes": "Continuation of scholarly discussion on singing",
+          "memory_agreement": false
+        },
+        {
+          "text": "(Followers, the generation after the Companions of the Prophet), which they knew from the Prophet (peace be upon him). Allah is the",
+          "content_type": "paragraph",
+          "page_number": 191,
+          "confidence": 0.8,
+          "notes": "Explanatory text with parenthetical definition",
+          "memory_agreement": false
+        },
+        {
+          "text": "One Who is sought for help.",
+          "content_type": "navigation",
+          "page_number": 191,
+          "confidence": 0.8,
+          "notes": "Concluding phrase indicating end of section or transition",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ibn Al-Qayyim's Quote on Music and Singing",
+        "content_type": "heading_minor",
+        "page_number": 192,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "The encyclopedic scholar Ibn Al­Qayyim (may Allah be merciful with him) said in his book ''Ighathat Al­Lahfan Min Masa'd Al­Shaitan\":",
+          "content_type": "citation",
+          "page_number": 192,
+          "confidence": 0.9,
+          "notes": "Introduction to scholarly quote with book reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"Whistling, clapping of hands, singing, and music are among the stratagems and plots that Satan uses to allure those who have little religious knowledge and reason. Indeed, he deluded thereby the ignorant and liars. Thus, he diverts people from listening to the Qur'an and gets them involved in deviance and sins. Satan uses singing to make people abandon the Qur'an and vulnerable to committing sins of homosexuality and Zina (premarital sexual intercourse and/or adultery). It is the way for seduction and temptation, as Satan beautifies it in the eyes of the ignorant and makes them inclined to hear it more and more. Their hearts are spoiled and thus they become heedless of the Qur'an... Indeed, the poet puts it in beautiful verses when saying,",
+          "content_type": "fatwa_ruling",
+          "page_number": 192,
+          "confidence": 0.85,
+          "notes": "Ibn Al-Qayyim's ruling on music and singing",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 400)",
+          "content_type": "navigation",
+          "page_number": 192,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Qur'an is recited and they but inattentively and heedlessly listened not submissively And when singing began, like danced for their own pleasure donkeys they Indulged in sounds of thus absolutely unable to tambourine, pipe, and loud observe devotion rhymes. They felt burdened with the due to its commands and Qur'an prohibitions Its Ayahs seem to them as for they bear threat for the thunder, disobedient They saw the Qur'an as a to their lustful desires, what barrier loss for them! But singing gratifies their thus, it becomes highly elevated wicked selves, What benefit will they attain Alas, if those heedless and ignorant will just know If singing is not the intoxicant surely, it is of minds of bodies, Look to the intoxicated after and look to the jubilant person drinking after listening to music Look how they tear their clothes after they depraved their hearts inattentively of Iman",
+          "content_type": "arabic_text",
+          "page_number": 192,
+          "confidence": 0.7,
+          "notes": "Poetic verses about Quran vs music, appears to be fragmented translation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 401)",
+          "content_type": "navigation",
+          "page_number": 192,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Now say, what intoxicant more prohibition and punishment deserving of from Allah Another said: We excused ourselves before from people who are sick with Allah singing and music Many a time I said: O people, about to fall into a grievous you are abyss; unfathomable and deep, leading to the abode of the great hardship Many a time we advised them to be excused before Allah But when they mocked our we left our affairs to Allah warnings, Thus, we adopted the while they lived their life to exemplary behavior of the death indulged in tones and Prophet melodies",
+          "content_type": "arabic_text",
+          "page_number": 192,
+          "confidence": 0.7,
+          "notes": "Continuation of poetic verses, appears fragmented",
+          "memory_agreement": true
+        },
+        {
+          "text": "The advocates of Islam and the guided­Imams through ages warned and still warn against the behavior of those ignorant and disobedient. End of Quote.",
+          "content_type": "paragraph",
+          "page_number": 192,
+          "confidence": 0.9,
+          "notes": "Concluding statement and end of Ibn Al-Qayyim quote",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A claim that should be refuted:",
+        "content_type": "heading_minor",
+        "page_number": 194,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "It is alleged by Abu Turab following the footsteps of Ibn Hazm that Allah's statement: to mislead (men) from the Path of Allâh without knowledge, and takes it (the Path of Allâh or the Verses of the Qur'ân) by way of mockery. is an indication that whoever indulges in idle discourse",
+          "content_type": "paragraph",
+          "page_number": 194,
+          "confidence": 0.8,
+          "notes": "Introduction to the claim being refuted, includes Quranic reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 402)",
+          "content_type": "navigation",
+          "page_number": 194,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "(i.e. music, singing, etc.) does not deserve dispraise unless they do so in deviation or to deviate others from the right path. But if they listen to such idle talks as a kind of amusement and self­entertainment, there is nothing wrong with that. However, this is a false claim for three reasons:",
+          "content_type": "paragraph",
+          "page_number": 194,
+          "confidence": 0.9,
+          "notes": "Continuation of the claim and introduction to refutation",
+          "memory_agreement": false
+        },
+        {
+          "text": "First, it contradicts how the Salaf (righteous predecessors) from among the Sahabah (Companions of the Prophet) and Tabi`un (Followers, the generation after the Companions of the Prophet) understood the Ayah (Qur'anic verse), as they took it as evidence for absolutely dispraising singing and musical instruments without relating it to this condition alleged by Abu Turab. They were the most knowledgeable people of the Qur'an and the words of the Prophet (peace be upon him). Thus, they were more aware of them than those who came after them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 194,
+          "confidence": 0.9,
+          "notes": "First reason in the refutation, scholarly argument",
+          "memory_agreement": true
+        },
+        {
+          "text": "Second, this claim opposes the apparent meaning of the Ayah. This is so clear to whoever reflects on it, as Allah (may He be Praised) states: to mislead (men) from the Path of Allâh without knowledge This indicates that such blameworthy people use idle discourse to mislead people from Al­Sirat­ul­Mustaqim (the Straight Path) ignorantly and aimlessly; thus they did not intend to mislead them. If they had deliberately diverted people from Iman, Allah (Glorified and Exalted be He) would not have stated: to mislead (men) from the Path of Allâh without knowledge It could not be said that those who knew that they were committing this vice of leading people astray from Allah's path did so ignorantly. Similarly, those who mislead people away from Allah's path intentionally, cannot be considered as having done so without knowledge. Therefore, you should be aware of this, so the truth will be evident to you. Therefore, the letter 'Lam i.e. (to)' in Allah's saying to mislead (men) from the Path of Allâh should be understood as that of 'Lam Al­`Aqibah' or 'Lam Al­Ta`lil' i.e. denoting a causal sequence, as it gives the reason for the predestined will of Allah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 194,
+          "confidence": 0.9,
+          "notes": "Second reason in the refutation, detailed theological analysis",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is mentioned by Al­Hafiz Ibn Kathir and others. Accordingly, the Ayah means that whoever purchases idle discourse (i.e. music, singing, etc.) will eventually deviate from the right path and",
+          "content_type": "citation",
+          "page_number": 194,
+          "confidence": 0.8,
+          "notes": "Reference to Ibn Kathir and continuation of argument",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 403)",
+          "content_type": "navigation",
+          "page_number": 194,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "follow the way of Satan in misleading others as well as abandon the Qur'an and arrogantly refuse to abide by its teaching holding it in disdain even if they do so ignorantly and unintentionally. On the other hand, if the Lam is that of Ta`lil i.e. denoting the cause, the Ayah means that Allah predestined some people to commit this sin leaving them to indulge in idle talks to lead others astray. According to both meanings, the noble Ayah includes a dispraise of those people who will end up as Satan's followers in tempting believers from their faith and mocking Allah's Ayahs as well as abandoning His book. Reality attests to this as many of those who follow their whims and are preoccupied by singing and musical instruments ended with their hearts as deprived of Iman and diverted from Al­Haqq (the Truth) except those to whom Allah showed His Mercy. Furthermore, the Islamic Shari`ah with its perfect resources from the Book of Allah and the Sunnah of His Prophet (peace be upon him) indicate the obligation of averting all means leading to deviance and malice so as to avoid falling victim to bad outcomes that inevitably come with such sins. The Prophet (peace be upon him) forbade drinking little amounts of any intoxicant lest this should tempt one to drink more, as he (peace be upon him) stated, If a large amount of anything causes intoxication, a small amount of it is prohibited. By the same token, the Prophet forbade offering Salah after Fajr (Dawn) or `Asr (Afternoon) Prayers lest Muslims should fall into the sin of imitating Mushriks (those associating others with Allah in His Divinity or worship) who worship the sun when it rises and sets. There are many cases known of those who have the least knowledge of the Islamic Shari`ah. Finally, Allah is the Only One whose Help is to be sought.",
+          "content_type": "fatwa_ruling",
+          "page_number": 194,
+          "confidence": 0.9,
+          "notes": "Continuation of theological argument with hadith reference and conclusion",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Fatwa Discussion on Music and Singing",
+        "content_type": "heading_minor",
+        "page_number": 195,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Thirdly, if the dispraise is only confined to those who purchased idle talk to deviate themselves or mislead others from the right path, there will be no benefit in mentioning idle talk specifically, as the dispraise will then encompass any mischief committed with the purpose of leading others astray even if such an act is praised by Allah (may He be Praised and Exalted). For example, this is applicable to whoever buys a Mus­haf (Arabic Qur'an) to delude people and tempt them to go astray. Allah loves the Mushaf, for it contains His words, but Allah loves His Servants to purchase the Mushaf to seek guidance and faith, not to delude and confuse others.",
+          "content_type": "fatwa_ruling",
+          "page_number": 195,
+          "confidence": 0.9,
+          "notes": "Third point in scholarly argument about idle talk and its prohibition",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 404)",
+          "content_type": "navigation",
+          "page_number": 195,
+          "confidence": 1.0,
+          "notes": "Volume and page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It should be noted that Ibn Hazm and Abu Turab admitted that aspect and claimed that the Ayah is only applicable to that kind of people. Yet, this is a blatant mistake and diverts the Ayah from its true and general meaning. Hence, you should know, dear reader, that these three reasons refute the claim of Abu Turab and render it invalid. Furthermore, it becomes equally clear that the noble Ayah is an apparent proof on dispraising singing and music, and prohibiting them as a means of deviance and mocking Allah's words even if those who indulge in this vice are unaware of its seriousness. This is the meaning that the Salaf derived from the Ayah. Evidently, they are the most knowledgeable people in the meanings of the legal texts and their application and the most worthy of being followed (may Allah be pleased with them). We also refuted the claim of Abu Turab concerning the Hadith of the two slave girls and the Hadith of Abu Mas`ud Al­Badri and his companions who have been permitted to sing in a wedding. We previously explained that the aforementioned two Hadiths are a decisive proof against Abu Turab and his Imam Ibn Hazm, as they lend support to the prohibition of songs and singing, not to the permission of the same.",
+          "content_type": "fatwa_ruling",
+          "page_number": 195,
+          "confidence": 0.95,
+          "notes": "Detailed scholarly refutation and final ruling on music and singing prohibition",
+          "memory_agreement": false
+        },
+        {
+          "text": "Praise be to Allah by Whose Grace good deeds are accomplished.",
+          "content_type": "navigation",
+          "page_number": 195,
+          "confidence": 0.9,
+          "notes": "Concluding formula indicating end of discussion or section",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ibn Al-Qayyim's Commentary on Idle Talk",
+        "content_type": "heading_minor",
+        "page_number": 196,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "The great scholar Ibn Al­Qayyim (may Allah be merciful with him) commented on the Ayah (Qur'anic verse) quoted above that reads:",
+          "content_type": "paragraph",
+          "page_number": 196,
+          "confidence": 0.9,
+          "notes": "Introduction to Ibn Al-Qayyim's commentary"
+        },
+        {
+          "text": "And of mankind is he who purchases idle talks (i.e. music, singing, etc.)",
+          "content_type": "quran_verse",
+          "page_number": 196,
+          "confidence": 0.95,
+          "notes": "Quranic verse being commented upon"
+        },
+        {
+          "text": "saying good words, going in line with what we mentioned earlier. Following is a statement of his words: Al­Wahidy and others said: most Mufassirs (exegetes of the Qur'an) view that idle talk refers to singing. It was the view of Ibn `Abbas as reported by Sa`id ibn Jubayr and Muqsim from him. It was also the view of `Abdullah ibn Mas`ud as reported by Abu Al­Sahba' from him. In addition, it was the view of Mujahid and `Ikrimah.",
+          "content_type": "paragraph",
+          "page_number": 196,
+          "confidence": 0.9,
+          "notes": "Scholarly opinions on interpretation of idle talk"
+        },
+        {
+          "text": "Thuwayr ibn Abu Fakhitah reported from his father on the authority of Ibn `Abbas commenting on the Ayah And of mankind is he who purchases idle talks (i.e. music, singing, etc.) \"It refers to a man who buys a slave­girl to sing for him whether in the day or at night.\"",
+          "content_type": "hadith",
+          "page_number": 196,
+          "confidence": 0.85,
+          "notes": "Narration from Ibn Abbas with chain"
+        },
+        {
+          "text": "Ibn Abu Najih reported Mujahid as saying, \"It means buying a male or female singer for a large sum of money in order to listen to them or suchlike falsehood.\" This is also the view of Makhul and the opinion of Abu Is­haq as well as he said, \"Most opinions",
+          "content_type": "citation",
+          "page_number": 196,
+          "confidence": 0.8,
+          "notes": "Multiple scholarly opinions cited"
+        },
+        {
+          "text": "( Part No : 3, Page No: 405)",
+          "content_type": "navigation",
+          "page_number": 405,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "on explaining idle talk are to the effect that it is singing as it diverts from Dhikr (Remembrance of Allah).\" Besides, Al­Wahidy said: Scholars of rhetoric are of the opinion that under this category comes all those who give idle talk, singing, tambourines and musical instruments as a preference over the Qur'an.",
+          "content_type": "paragraph",
+          "page_number": 405,
+          "confidence": 0.9,
+          "notes": "Continuation of scholarly commentary"
+        },
+        {
+          "text": "Whoever listens to a songstress will have molten lead poured into his ears on the Day of the Resurrection.",
+          "content_type": "hadith",
+          "page_number": 405,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about listening to singing"
+        },
+        {
+          "text": "Do not sell singing slave women, do not buy them and do not teach them. There is nothing good in this trade, and their price is unlawful",
+          "content_type": "hadith",
+          "page_number": 405,
+          "confidence": 0.9,
+          "notes": "Hadith from Musnad Ahmad and other sources"
+        },
+        {
+          "text": "later, In sha'a­Allah (if Allah wills).",
+          "content_type": "navigation",
+          "page_number": 405,
+          "confidence": 0.8,
+          "notes": "Reference to future discussion",
+          "memory_agreement": true
+        },
+        {
+          "text": "Al­Hakim",
+          "content_type": "navigation",
+          "page_number": 405,
+          "confidence": 0.7,
+          "notes": "Reference to scholar Al-Hakim",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 406)",
+          "content_type": "navigation",
+          "page_number": 406,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Abu Abdullah said the following under the chapter on Tafsir (exegesis of the meanings of the Qur'an) of his book Al­Mustadrak: A student in this field should know that the explanation of a Companion who witnessed the revelation of the Qur'an is, according to Al­ Bukhari and Muslim, tantamount to a Hadith Musnad (a Hadith with a sound chain of narration).",
+          "content_type": "citation",
+          "page_number": 406,
+          "confidence": 0.9,
+          "notes": "Reference to Al-Hakim's methodology in Al-Mustadrak"
+        },
+        {
+          "text": "to idle talk.",
+          "content_type": "navigation",
+          "page_number": 406,
+          "confidence": 0.6,
+          "notes": "Fragment reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Therefore, Ibn `Abbas Said, \"Idle talk means falsehood and singing.\" In fact, some Companions explained it to be the former, others explained it to mean the latter while others explained it to refer to both of them. Undoubtedly, singing is more idle and harmful than kings stories and events as it is the spell of adultery, origin of hypocrisy, Satan's trap and the mind's intoxicant.",
+          "content_type": "fatwa_ruling",
+          "page_number": 406,
+          "confidence": 0.85,
+          "notes": "Religious ruling on the harmfulness of singing"
+        },
+        {
+          "text": "( Part No : 3, Page No: 407)",
+          "content_type": "navigation",
+          "page_number": 407,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "songs over listening to the Qur'an, in the sense that if they are given the option whether to listen to the Qur'an or to songs they will choose the latter and will find themselves unwilling to listen to the Qur'an. Moreover, they might tend to stop the reciter of the Qur'an feeling that they have heard too much. While on listening to a singer, they might ask the singer to sing more feeling that they have not heard enough. The least judgment then deserved by such a person is that they have their good share of, if not all of, dispraise.",
+          "content_type": "paragraph",
+          "page_number": 407,
+          "confidence": 0.9,
+          "notes": "Conclusion of Ibn Al-Qayyim's commentary on behavior of music listeners"
+        }
+      ]
+    }
+  ]
+}

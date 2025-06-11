@@ -1,0 +1,87 @@
+{
+  "processing_summary": {
+    "total_pages": 227,
+    "total_sections": 299,
+    "processing_time": "10855.15 seconds",
+    "success_rate": "100.0%",
+    "memory_predictions_used": 1673,
+    "memory_enhancement": "enabled"
+  },
+  "memory_impact": {
+    "patterns_learned": 8,
+    "cross_references_tracked": 12,
+    "structural_insights": 299,
+    "memory_effectiveness": "moderate"
+  },
+  "content_analysis": {
+    "content_type_distribution": {
+      "heading_major": 5,
+      "paragraph": 813,
+      "signature": 64,
+      "citation": 129,
+      "navigation": 507,
+      "quran_verse": 544,
+      "fatwa_ruling": 338,
+      "hadith": 279,
+      "list_item": 85,
+      "question": 59,
+      "answer": 141,
+      "arabic_text": 20,
+      "heading_question": 7,
+      "heading_minor": 7,
+      "transliteration": 1,
+      "translation": 2,
+      "footnote": 2
+    },
+    "most_common_types": [
+      [
+        "paragraph",
+        813
+      ],
+      [
+        "quran_verse",
+        544
+      ],
+      [
+        "navigation",
+        507
+      ],
+      [
+        "fatwa_ruling",
+        338
+      ],
+      [
+        "hadith",
+        279
+      ],
+      [
+        "answer",
+        141
+      ],
+      [
+        "citation",
+        129
+      ],
+      [
+        "list_item",
+        85
+      ],
+      [
+        "signature",
+        64
+      ],
+      [
+        "question",
+        59
+      ]
+    ]
+  },
+  "files_generated": [
+    "llm_parsed_complete.json - Full structured content with memory",
+    "react_islamic_components.json - React component structure",
+    "headings_index.json - Navigation index",
+    "processing_summary.json - This summary",
+    "memory_analysis.json - Memory system analysis",
+    "parsing_memory.json - Learned patterns for future use"
+  ]
+}

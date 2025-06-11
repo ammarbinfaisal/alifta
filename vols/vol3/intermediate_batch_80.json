@@ -1,0 +1,374 @@
+{
+  "batch_number": 80,
+  "sections_count": 106,
+  "timestamp": "2025-06-11T19:07:35.841327",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on the deceased children of the disbelievers",
+        "content_type": "heading_minor",
+        "page_number": 79,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 163)",
+          "content_type": "navigation",
+          "page_number": 79,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: A questioner from Riyadh asks:",
+          "content_type": "heading_question",
+          "page_number": 79,
+          "confidence": 0.9,
+          "notes": "Question identifier with location",
+          "memory_agreement": false
+        },
+        {
+          "text": "What is the ruling on a child who, being born to two disbelieving parents, dies before reaching the age of Taklif (meeting the conditions to be held legally accountable for actions)? Is the child a Muslim in the Sight of Allah, knowing that the Messenger of Allah (peace be upon him) said: Every child is born on Al­Fitrah (true faith of Islam to worship none but Allah)? If he/she is a Muslim, are Muslims entitled to wash his/her dead body and perform the Funeral Prayer in behalf of him/her? Please enlighten us. May Allah reward you!",
+          "content_type": "question",
+          "page_number": 79,
+          "confidence": 0.95,
+          "notes": "Complete question text with embedded hadith reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "A:",
+          "content_type": "heading_question",
+          "page_number": 79,
+          "confidence": 0.9,
+          "notes": "Answer identifier",
+          "memory_agreement": true
+        },
+        {
+          "text": "If a child of two disbelieving parents dies before reaching the age of Taklif, he/she assumes the rulings applied to them in the worldly life, and in turn the corpse is not washed. Moreover, he/she is neither entitled to receive a Funeral Prayer nor to be buried in the Muslims' graveyards. Yet, in the Hereafter, his/her affair lies with Allah (Glorified be He). It was authentically reported that the Prophet (peace be upon him) when asked about the children of the Mushriks (those who associate others with Allah in His Divinity or worship) said: Allah knows what sort of deeds they would have done. Some religious scholars viewed that the Knowledge of Allah (Glorified be He) about them is manifested on the Day of Resurrection, and that they will be tested in the way of Ahl­ul­Fatrah (those to whom Da`wah has not reached in an uncorrupted manner). Thus, if they obediently submit to what they are asked, they will enter Paradise; but if they disobey, they will enter the Fire. Hadith from the Prophet (peace be upon him) about testing Ahl­ul­Fatrah on the Day of Resurrection were proven authentic. This also applies to those who receive the same religious ruling, such as the children of the disbelievers.",
+          "content_type": "fatwa_ruling",
+          "page_number": 79,
+          "confidence": 0.95,
+          "notes": "Complete religious ruling with hadith references",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 164)",
+          "content_type": "navigation",
+          "page_number": 79,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says: And We never punish until We have sent a Messenger (to give warning). This is the most correct opinion regarding Ahl­ul­Fatrah and those like them to whom Da`wah (calling to Islam) has not reached in an uncorrupted manner. This opinion was also maintained by Shaykh­ul­Islam Ibn Taymiyyah, his student Ibn Al­Qayyim, and a group of the Salaf (righteous predecessors) and the Khalaf (the following generations), may Allah be merciful with them all. Scholar Ibn Al­Qayyim (may Allah be merciful with him) extensively elaborated on the religious ruling regarding the children of the disbelievers and Ahl­ul­Fatrah at the close of his book, Tariq­ul­Hijratayn [The Path of the Two Hijrahs], under the title, Tabaqat Al­Mukallafin [Levels of the Mukallafs].",
+          "content_type": "paragraph",
+          "page_number": 79,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling with Quranic verse and scholarly citations",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on mocking at the Qur'an and its followers",
+        "content_type": "heading_minor",
+        "page_number": 165,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 165)",
+          "content_type": "navigation",
+          "page_number": 165,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah. May Allah's Peace and Blessings be upon the Messenger of Allah and upon his family and his companions!",
+          "content_type": "signature",
+          "page_number": 165,
+          "confidence": 0.9,
+          "notes": "Traditional Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "To proceed: I have reviewed what has been published in Ad-Da'wa Magazine in its issue released on Monday, 27/1/1397 A.H., under the title: (A local newspaper mocks at the Qur'an and its followers). This article includes the following: The above-mentioned newspaper, in its issue released in 7/4/1397 A.H., published an article that mocks at the Qur'an and its followers, stating:",
+          "content_type": "paragraph",
+          "page_number": 165,
+          "confidence": 0.95,
+          "notes": "Introduction to the fatwa context",
+          "memory_agreement": false
+        },
+        {
+          "text": "(And men believe that a woman is a different creature. According to them, she is imperfect in mind and religion. They also believe that men are in charge of women). End of the statement of Ad-Da'wa Magazine.",
+          "content_type": "citation",
+          "page_number": 165,
+          "confidence": 0.9,
+          "notes": "Quote from the controversial article being addressed",
+          "memory_agreement": false
+        },
+        {
+          "text": "I was astonished at this heinous article and was very surprised at publishing such a statement in the cradle of Islam and in the hearing and sight of a Muslim country making the Islamic Law its judge and calling for it. I was very amazed at the boldness of those in charge of this newspaper because of their publishing of this article, which contains absolute disbelief, misguidance, mockery of the Book of Allah and the Sunnah of His Messenger (peace and blessings of Allah be upon him) and challenging them. However, this is not a newly introduced thing from those in charge of this newspaper, since it is known for its publishing of articles calling to immorality and atheism that cause great harm to the society. It is also",
+          "content_type": "fatwa_ruling",
+          "page_number": 165,
+          "confidence": 0.85,
+          "notes": "Scholar's initial response and condemnation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 166)",
+          "content_type": "navigation",
+          "page_number": 166,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "known for its grudge against Muslim scholars, insulting them and telling lies about them, because those, in charge of this newspaper, have no belief in Allah to restrain them and no official prevents them from doing this. Therefore, it dared to commit this disbelief and misguidance in this article, which cannot be written or published by whoever believes in Allah and the Last Day and cannot be written or published by whoever respects the Book of Allah and the Sunnah of His Prophet (peace and blessings of Allah be upon him).",
+          "content_type": "fatwa_ruling",
+          "page_number": 166,
+          "confidence": 0.9,
+          "notes": "Continuation of scholar's condemnation",
+          "memory_agreement": false
+        },
+        {
+          "text": "For more confirmation and information about the article and the writer, I asked for the above-mentioned newspaper in which the article was published and it was brought to me. I found therein what Ad-Da'wa Magazine cited in wording attributed to a woman who named herself (Amal, the daughter of so and so). The newspaper did not publish anything to refute or deny this article. Thus, it becomes clear that it is pleased with it and agrees with it. It is a well-known fact that the one who makes men guardians of women is Allah [Exalted and Sublime Be He] in His saying in Surah An-Nisa':",
+          "content_type": "paragraph",
+          "page_number": 166,
+          "confidence": 0.9,
+          "notes": "Scholar's investigation and setup for Quranic evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "Men are the protectors and maintainers of women, because Allâh has made one of them to excel the other, and because they spend (to support them) from their means.",
+          "content_type": "quran_verse",
+          "page_number": 166,
+          "confidence": 0.95,
+          "notes": "Verse from Surah An-Nisa'",
+          "memory_agreement": false
+        },
+        {
+          "text": "Challenging men's trusteeship of women is an objection to Allah (Glorified be He) and challenging His Holy Book and His wise legislation. This is major disbelief, according to the unanimous opinion of the Muslim scholars as has been stated by more than one scholar such as Al-Qadi `Iyad in his book entitled: (Ash-Shifa'). Furthermore, the one who describes women as being deficient in their mind and religion is the Prophet (peace and blessings of Allah be upon him) and he (peace and blessings of Allah be upon him) explained that the deficiency of her mind is that the testimony of two women is equal to the testimony of one man and the deficiency in religion is that she stays for a number of nights and days without Salah (prayers) or Sawm (fasting) during Ramadan due to menses. However, there is no sin on her due to this deficiency. It is undoubtedly a natural and logic deficiency and there should be no objection to the Messenger (peace and blessings of Allah be upon him), because he is the most truthful person in what he says and the most knowledgeable of Allah's legislation and the circumstances of His slaves.",
+          "content_type": "fatwa_ruling",
+          "page_number": 166,
+          "confidence": 0.95,
+          "notes": "Detailed religious ruling with scholarly citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 167)",
+          "content_type": "navigation",
+          "page_number": 167,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Thus, whoever challenges him (peace and blessings of Allah be upon him) also challenges his Prophethood and message and objects to Allah (Glorified be He) in His legislation, and this is disbelief and misguidance according to the unanimous opinion of the people of knowledge and faith. Moreover, the legal and material evidence and realities along with the facts of the creation of women and what Allah makes particular to her testify to what Allah (Glorified be He) stated about men being in charge of women and their virtue over them and for what the Prophet (peace and blessings of Allah be upon him) said about the deficiency of the woman's mind and religion as compared to men. However, this fact does not necessitate that all men are better and more religious than all women. How many women are better and more mindful than some men but the point is to clarify the virtue of a gender over another and to point out that this is more perfect than this. Indeed, the decisive reality testifies to this fact, as has been stated above.",
+          "content_type": "fatwa_ruling",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Continuation of detailed religious ruling with clarifications",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is clear from the words of the writer of this article - the above-mentioned Amal - that she challenges men's trusteeship over women and objects to women's deficiency in mind and religion explaining that such differentiation causes division in society, disintegration and lack of cooperation. This testifies to what we have previously mentioned that the purpose behind this article is challenging the Book of Allah and the Sunnah of His Messenger (peace and blessings of Allah be upon him) and accusing them of being the reasons for backwardness, division of the society and the lack of its cooperation. Undoubtedly, this is a very",
+          "content_type": "fatwa_ruling",
+          "page_number": 167,
+          "confidence": 0.85,
+          "notes": "Analysis of the controversial article's intent - text appears to continue",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Fatwa Response",
+        "content_type": "heading_minor",
+        "page_number": 81,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "clear lie and a sheer falsehood. There is nothing in the belief in what is indicated by the Book of Allah (Glorified be He) and the Sunnah of His Messenger (peace and blessings of Allah be upon him) regarding the men's trusteeship of women and the deficiency in the minds of women and in their religion that brings about harm on the Muslim Community, its division, its disintegration and lack of cooperation. Rather, all this is satanic insinuation and evils cast to the supporters of Satan from among the ignorant, the polytheists and those who follow in their tracks. On the other hand, this does not result in the negligence of women with regard to the benefit of the community or depriving her from participating in what corrects the affairs of the community such as giving advice, for the sake of Allah, to His slaves and enjoining what is right, forbidding what is wrong, inviting to that which is truthful and other collective obligations. Rather, she is commanded to do that and should",
+          "content_type": "fatwa_ruling",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Scholar's ruling on women's role in Islamic society",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 168)",
+          "content_type": "navigation",
+          "page_number": 81,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "perform her duty in this regard as much as she can, as Allah [Exalted and Sublime Be He] says: The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another; they enjoin (on the people) Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden) until the end of the verse.",
+          "content_type": "quran_verse",
+          "page_number": 81,
+          "confidence": 0.95,
+          "notes": "Quranic verse with translation and commentary",
+          "memory_agreement": false
+        },
+        {
+          "text": "He (Glorified be He) also says: Verily, the Muslims (those who submit to Allâh in Islâm) men and women, the believers men and women (who believe in Islâmic Monotheism), the men and the women who are obedient (to Allâh), the men and women who are truthful (in their speech and deeds), the men and the women who are patient (in performing all the duties which Allâh has ordered and in abstaining from all that Allâh has forbidden), the men and the women who are humble (before their Lord ­ Allâh), the men and the women who give Sadaqât (i.e. Zakât, and alms), the men and the women who observe Saum (fast) (the obligatory fasting during the month of Ramadân, and the optional Nawâfil fasting), the men and the women who guard their chastity (from illegal sexual acts) and the men and the women who remember Allâh much with their hearts and tongues Allâh has prepared for them forgiveness and a great reward (i.e. Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 81,
+          "confidence": 0.95,
+          "notes": "Another Quranic verse with detailed translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Besides, there are many other verses supporting this concept. It is reported that the Prophet (peace and blessings of Allah be upon him) accepted the consultation of Um Salamah on the day of Al­Hudaybiyyah; and a great benefit resulted from that. Moreover, the story of Khadijah (may Allah be pleased with her) in the beginning of revelation and the great welfare and relief she gave to the Prophet (peace and blessings of Allah be upon him) are well­known to the people of knowledge, and there are many other similar examples in the Islamic history.",
+          "content_type": "paragraph",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Historical examples supporting the argument",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is astonishingly strange that those in charge of this newspaper dare publish this article despite claiming to be Muslims and their receiving great financial support from the Muslim country to encourage their newspaper and continue publication. However, it is not a matter of wonder, since it is authentically reported that the Messenger of Allah (peace and blessings of Allah be upon him) said: Among the sayings of the early Prophets, which people continue to know, is: If you don't feel ashamed, do whatever you like! It is also a common parable: He who feels secure against the punishment, will be ill­mannered. Furthermore, it is reported from 'Umar and 'Uthman (may Allah be pleased with both of them) that they both said: Indeed, those in authority could, by Allah's leave, prevent [evils by punishment] which the [teachings of] Qur'an may not prevent. This newspaper crossed the limits and dared to fight the religion and challenge it by publishing this heinous article, an issue towards which we should not be silent. It is not allowed for the information ministry or for the government to overlook it, but",
+          "content_type": "fatwa_ruling",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Scholar's criticism and ruling on the newspaper article",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 169)",
+          "content_type": "navigation",
+          "page_number": 81,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "there should be severe measures by stopping it from being published and holding a trial for the writer of this article and the editor in chief along with a deterrent punishment and asking them for repentance from what they did, because this article is considered as one of the violations of Islam that results in disbelief and apostasy of the one who writes it, believes in it or is pleased with it, because Allah (Glorified and Exalted be He) says: Say: \"Was it at Allâh (ﻋﺰ ﻭﺟﻞ), and His Ayât (proofs, evidence, verses, lessons, signs, revelations) and His Messenger (ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) that you were mocking?\" Make no excuse; you disbelieved after you had believed. They should repent;",
+          "content_type": "fatwa_ruling",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Severe ruling with Quranic verse and Arabic text",
+          "memory_agreement": true
+        },
+        {
+          "text": "otherwise be sentenced to death because of their disbelief and apostasy. It is not unclear to the people of knowledge and faith that this procedure is one of the most important obligations due to what it has of the protection of the Book of Allah and the Sunnah of His Messenger (peace and blessings of Allah be upon him) and the perfect legislation of Allah. This punishment will deter those whose souls may entice them to do what this newspaper did or commit what it committed. May Allah grant us success! May peace and blessings of Allah be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "fatwa_ruling",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Conclusion of fatwa with signature blessing",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 170)",
+          "content_type": "navigation",
+          "page_number": 81,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Important Note",
+        "content_type": "heading_minor",
+        "page_number": 81,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "Praise be Allah, Alone! May Allah's peace be upon the last Prophet and upon his family and Companions! To proceed: I have reviewed an article published by (Iqra') Magazine in its issue number (604) released on 22/5/1407 A.H., about a debate between Aristotle and Aristoqan stating: (Nature errs and man corrects) and this general statement has a heinous evil and open disbelief. It is a well­known fact that the philosophers do not believe in the Creating and absolutely Perfect Lord Who plans the affairs of the universe. He also does for a wisdom and leave for a wisdom, for Allah is free from errors in actions and sayings (Glorified and Exalted be He). Due to their lack of belief in the Great Creator, Who is perfect in His Names and Attributes (Glorified and Exalted be He), they attribute the events to nature because of their ignorance and their staying away from what the Messengers (peace and blessings of Allah be upon all of them) brought to mankind. Therefore, it is an obligation not to be deceived by their sayings with regard to theology and legislations because of heir ignorance of them and their lack of faith in them. Undoubtedly, what happens in the world of diseases, accidents, deforming or other things are due to the Will of Allah (Glorified and Exalted be He), and",
+          "content_type": "fatwa_ruling",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "New fatwa addressing philosophical statements in Iqra magazine",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Religious Discourse",
+        "content_type": "heading_minor",
+        "page_number": 82,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "He has the extensive wisdom and the overwhelming proof, even if creatures are ignorant of them, as He (Glorified and Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Introduction to Quranic verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "Certainly your Lord is All­Wise, All­Knowing.",
+          "content_type": "quran_verse",
+          "page_number": 82,
+          "confidence": 0.95,
+          "notes": "Quranic verse with centered formatting",
+          "memory_agreement": true
+        },
+        {
+          "text": "He (Glorified and Exalted be He) also says:",
+          "content_type": "paragraph",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Transition to next verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "And Allâh is Ever All­Knower, All­Wise.",
+          "content_type": "quran_verse",
+          "page_number": 82,
+          "confidence": 0.95,
+          "notes": "Second Quranic verse with centered formatting",
+          "memory_agreement": true
+        },
+        {
+          "text": "Furthermore, He (Glorified and Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Transition to third verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "He cannot be questioned as to what He does, while they will be questioned.",
+          "content_type": "quran_verse",
+          "page_number": 82,
+          "confidence": 0.95,
+          "notes": "Third Quranic verse with centered formatting",
+          "memory_agreement": true
+        },
+        {
+          "text": "This is so because of His perfect wisdom and knowledge. Blessed is His Name and Exalted is He from the claim of the wrongdoers, the disbelievers and the ignorant, and high above is He by great sublimity. In fulfillment of the obligation of giving advice for the sake of Allah and for His slaves, we drew people's attention to this fact. Allah is the Grantor of success and He is Sufficient for us and the Best disposer of our affairs.",
+          "content_type": "fatwa_ruling",
+          "page_number": 82,
+          "confidence": 0.85,
+          "notes": "Scholar's explanation and religious ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah grant us success! May peace and blessings of Allah be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "signature",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Closing prayer and blessing formula",
+          "memory_agreement": true
+        }
+      ]
+    }
+  ]
+}

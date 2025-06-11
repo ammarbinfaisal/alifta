@@ -1,0 +1,523 @@
+{
+  "batch_number": 200,
+  "sections_count": 276,
+  "timestamp": "2025-06-11T20:49:50.542944",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Scholarly Discussion on Musical Instruments",
+        "content_type": "heading_minor",
+        "page_number": 202,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "category as they did not consider doing so to be a religious ritual or an act of worship. They were only amusing themselves and having fun. Anyway, scholars explicitly prohibit and refuse both categories. The great scholar Ibn Al-Qayyim (may Allah be merciful with him), after quoting the above-mentioned statement of Al-Tartushy, stated,",
+          "content_type": "paragraph",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Continuation of scholarly discussion",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 418)",
+          "content_type": "navigation",
+          "page_number": 202,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"My comment is that the view of Abu Hanifah in this regard is the most strict from among all other views. Moreover, his disciples explicitly prohibited listening to such musical instruments as reed pipes and tambourines and even flutes. They judged it to be a sin whose committer should be deemed profligate and his testimony should be unacceptable. More strictly, they even said that listening to singing denotes Fisq (flagrant violation of Islamic law) while having pleasure wherefrom denotes disbelief. To this effect, they reported a Hadith which is not authentically traceable back to the Prophet (peace be upon him). They further argued that one should do one's best to avoid listening thereto once he passes by it or hears it in his proximity.",
+          "content_type": "citation",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Quote from Ibn Al-Qayyim discussing Abu Hanifah's view",
+          "memory_agreement": true
+        },
+        {
+          "text": "In this regard, Abu Yusuf said regarding a house from which the voice of musical instruments is heard, \"You should enter therein without seeking permission because forbidding evil is obligatory. If entering therein without seeking permission is impermissible, people would not be able to do the obligation. Scholars further view that such a case should be brought before the ruler if such voices come out of such a house. If the owner of the house insists, he should be jailed, whipped or even dismissed from his house.\"",
+          "content_type": "citation",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Quote from Abu Yusuf on enforcement measures",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for Al-Shafi`y, he said in his book Adabul-Qada', \"Singing is an abhorred pastime that resembles falsehood and illusion. The testimony of anyone who frequently listens thereto is unacceptable in view of being idiotic.\" Al-Shafi`y's disciples, like judge Abu Al-Tayyib Al-Tabary, Sheik Abu Is-haq and Ibn Al-Sabbagh prohibited also singing and refused the opinion of those who claimed to have deemed it permissible",
+          "content_type": "citation",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Al-Shafi'i's position and his disciples' views",
+          "memory_agreement": false
+        },
+        {
+          "text": "Sheikh Abu Is-haq in his book Al-Tanbih said expressing a unanimous agreement, \"It is impermissible to lease a prohibited yield such as singing, blowing pipes and serving wine.\" He also said in Al-Muhadh-dhab, \"It is impermissible to lease a prohibited yield such as singing. Being prohibited, no money may be taken in return for it, in which case it will be tantamount to dead animals and blood.\"",
+          "content_type": "citation",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Sheikh Abu Is-haq's rulings on leasing prohibited activities",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Sheikh's statements implied the following facts:",
+          "content_type": "paragraph",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Introduction to enumerated points",
+          "memory_agreement": false
+        },
+        {
+          "text": "First: The yield of singing in itself is prohibited.",
+          "content_type": "list_item",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "First enumerated point",
+          "memory_agreement": false
+        },
+        {
+          "text": "Second: Leasing such a yield is null and void.",
+          "content_type": "list_item",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Second enumerated point",
+          "memory_agreement": true
+        },
+        {
+          "text": "Third: Taking money in return for it is impermissible as it is tantamount to receiving money in return for dead animals and blood.",
+          "content_type": "list_item",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Third enumerated point",
+          "memory_agreement": true
+        },
+        {
+          "text": "Fourth: A man may not give his money to a singer as it stands for paying money for something prohibited and thus will be equal to paying money for blood and flesh of dead animals.",
+          "content_type": "list_item",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Fourth enumerated point",
+          "memory_agreement": false
+        },
+        {
+          "text": "Fifth: Blowing pipes is impermissible. Being the least harmful musical instrument, the case should then be more strict with such instruments as tabor, tambourine and flute. Actually, one who has the least amount of",
+          "content_type": "list_item",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Fifth enumerated point, continues to next page",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 419)",
+          "content_type": "navigation",
+          "page_number": 202,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "knowledge should not refrain from deeming it unlawful, for it is least described as lovers' and drunkards' slogan.",
+          "content_type": "paragraph",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Continuation of fifth point",
+          "memory_agreement": true
+        },
+        {
+          "text": "Likewise, Abu Zakariyya Al-Nawawy said in his book Al-Rawdah,",
+          "content_type": "paragraph",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Introduction to Al-Nawawy's quote",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"The second category: To sing accompanied by musical instruments played - which represents the slogan of a drunkard - such as tambourine, lute, crymbal and other musical instruments. Actually, both playing and listening to such instruments is impermissible. He added that there are two conflicting opinions on whether flute is permissible. However, Al-Baghawy outweighed impermissibility. Nevertheless, he quoted Al-Ghazaly as deeming it permissible. In fact, the sound opinion is that flute is prohibited. Moreover, Abu Al-Qasim Al-Dawla`y composed a book on prohibiting flutes.",
+          "content_type": "citation",
+          "page_number": 202,
+          "confidence": 0.9,
+          "notes": "Al-Nawawy's detailed ruling on musical instruments",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Scholarly Discussion on Music and Singing",
+        "content_type": "heading_minor",
+        "page_number": 203,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Besides, Abu `Amr ibn Al­Salah claimed a unanimous agreement on the impermissibility of listening to a combination of tambourine, flute, and singing sounds. In his Fatawa he said, \"As for deeming listening to songs permissible, it should be known that listening to a combination of tambourine, flute and singing sounds is impermissible according to the Imams of the four Madh­habs (Schools of Jurisprudence) as well as other Muslim scholars. Actually, it was not proven that any of the scholars who are known for their considerable opinion, as far as consensus and dispute is concerned, judged listening to such sounds to be permissible. However, some of Al­Shafi`y's disciples are reported to have differed on the permissibility of the sound of flute alone and that of tambourine alone. Therefore, those with weak mental faculties might think that Shafi`i scholars differed regarding listening to a combination of sounds made by such instruments. However, thinking as such is a fatal error as it leads to bad consequences denounced by Shar`y (Islamic legal) and rational evidence as differences of opinion may not, in all case, be a reliable base for action. Actually, if someone pursues areas of difference among scholars targeting all non­strict views, such a person will be on the verge of heterodoxy. Moreover, their claim that listening to songs is an act of worship runs counter to the consensus of Muslims, he who conflicts with which will be liable to punishment provided for in the following Ayah (Qur'anic verse):",
+          "content_type": "paragraph",
+          "page_number": 203,
+          "confidence": 0.9,
+          "notes": "Citation of Abu Amr ibn Al-Salah's fatwa on music",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whoever contradicts and opposes the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) after the right path has been shown clearly to him, and follows other than the believers' way, We shall keep him in the path he has chosen, and burn him in Hell ­ what an evil destination!",
+          "content_type": "quran_verse",
+          "page_number": 203,
+          "confidence": 0.95,
+          "notes": "Quranic verse with Arabic honorific for Prophet Muhammad",
+          "memory_agreement": true
+        },
+        {
+          "text": "The author, in fact, spoke in length about the refutation of both categories who caused a great trial for Muslims: the first who deemed lawful what Allah (Exalted be He) prohibited",
+          "content_type": "paragraph",
+          "page_number": 203,
+          "confidence": 0.85,
+          "notes": "Continuation of scholarly discussion",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 420)",
+          "content_type": "navigation",
+          "page_number": 203,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and the second who tried to draw closer to Allah (Exalted be He) through acts that are more likely apt to divert them from Him. Actually, Al­Shafi`y, his disciples, and followers of his Madh­hab expressed the most strict statements in this regard. Al­Shafi`y is authentically reported as saying, \"I have witnessed while in Baghdad some practice innovated by heretics which they call Taghbir. By doing so, they aim at diverting people from the Qur'an.\" We notice that Al­Shafi`y described Taghbir, which is a kind of poetry aiming at arousing people's dislike for worldly pleasure which is sung by a singer while accompanied by a melodious tone produced by beating a cane against a cushion, as driving people away from the Qur'an. You can imagine to what extent will he be more strict regarding listening to something incomparable to Taghbir which contains all sorts of corruptions and prohibitions. Indeed, Allah is the protector of His religion against all intrigued learned persons and ignorant worshippers.",
+          "content_type": "paragraph",
+          "page_number": 203,
+          "confidence": 0.9,
+          "notes": "Discussion of Al-Shafi'i's position on Taghbir",
+          "memory_agreement": false
+        },
+        {
+          "text": "To this effect, Sufyan ibn `Uyaynah said, \"Beware of the Fitnah (trial) of a dissolute learned man and that of an ignorant worshipper. Actually, their Fitnah is appealing to those intrigued. If one contemplates on the corruption befalling the Ummah, one will find it caused by both categories.\"",
+          "content_type": "citation",
+          "page_number": 203,
+          "confidence": 0.85,
+          "notes": "Quote from Sufyan ibn Uyaynah",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for the view of Imam Ahmad, his son `Abdullah said, \"I once asked my father about singing. He replied, 'Singing produces hypocrisy in the heart. Thus, I do not like it.' He then quoted the statement of Malik, 'It is practiced here by the obscene only.'\" `Abdullah added, \"I heard my father say, 'I heard Yahya Al­Qattan say: If someone, regarding areas of difference of opinion, acted in accordance with all non­strict views, e.g. the view of the Kufa scholars on vermouth, the view of the Madinah scholars on listening to songs and the view of the Makkah scholars on Mut`ah (temporary marriage), he will be a flagrant violator of Islamic law. Furthermore, Ahmad said: Sulayman Al­Taymy said, \"If you acted on the non­strict view or mistake of every scholar, you will combine all aspects of evil.\" He also gave the fatwa that musical instruments such as tambourine or the like should be broken once seen exposed when it is feasible to break them. There are also two conflicting narrations from him regarding whether musical instruments should be broken if seen hidden under clothes. Regarding the issue of some orphans who inherited a songstress slave­girl and wish to sell her, he viewed that she should be sold as naive. He was argued that the slave­girl equals 20000 or more if sold as a songstress and 2000 or less if sold as naive. However, he insisted that she should be sold only as naive. Had the revenue of singing been lawful, he would not have let orphans lose such a large sum of money. As for listening to the singing of a non­Mahram (spouse or unmarriageable relative) or of a beardless person, it is one of the greatest sins and most likely to corrupt one's faith.",
+          "content_type": "paragraph",
+          "page_number": 203,
+          "confidence": 0.9,
+          "notes": "Detailed discussion of Imam Ahmad's views on music and singing",
+          "memory_agreement": true
+        },
+        {
+          "text": "In this regard, Al­Shafi`y (may Allah be merciful with him) said, \"If the owner of a slave­girl",
+          "content_type": "paragraph",
+          "page_number": 203,
+          "confidence": 0.8,
+          "notes": "Beginning of Al-Shafi'i quote, continues on next page",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 421)",
+          "content_type": "navigation",
+          "page_number": 203,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "gathers people to listen to her, he will be judged to be an idiot whose testimony is unacceptable. Al­Shafi`y was very strict in this regard that he judged one who does so to be a weak man. The judge Abu Al­Tayyib said, \"The owner is judged to be an idiot as he called people to falsehood. Actually, one who calls people to falsehood is considered an idiot and even a profligate.\" He added: Al­Shafi`y disliked Taghbir (a musical tone made by beating a cane against a hard object) criticizing it as being innovated by heretics to divert people from the Qur'an. He added, \"As for lute, tambourine and other musical instruments, they are prohibited and those who usually listen to them are profligate. Undoubtedly, following the view of Muslim scholars in total is better than following the view of two persons object of doubt.\" By the two persons object of doubt he means Ibrahim Ibn Sa`d and `Ubaydullah Ibn Al­Hassan. He once said, \" All scholars are unanimous regarding the impermissibility of singing except for two men, Ibrahim Ibn Sa`d whom Al­Sajy considered to be unobjectionable, and `Ubaydullah Ibn Al­Hasan Al­`Anbary, Basra's judge, whose reliability is an object of doubt. End quote from Ibn Al­Qayyim (may Allah be merciful with him).",
+          "content_type": "paragraph",
+          "page_number": 203,
+          "confidence": 0.9,
+          "notes": "Continuation of Al-Shafi'i's position and Ibn Al-Qayyim's commentary",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, Al­Qurtuby in his Tafsir (exegesis of the Qur'an) quoted Al­Tabary as stating, \"Scholars of all countries are unanimous that singing is abhorred and forbidden. An exception to this consensus is Ibrahim Ibn Sa`d and",
+          "content_type": "paragraph",
+          "page_number": 203,
+          "confidence": 0.85,
+          "notes": "Quote from Al-Qurtubi's Tafsir, text appears to continue",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Scholarly Commentary on Singing and Musical Instruments",
+        "content_type": "heading_minor",
+        "page_number": 204,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "`Ubaydullah Al­`Anbray.\" End quote. My comment is that Ibrahim Ibn Sa`d and `Ubaydullah Ibn Al­Hassan Al­`Anbray are trustworthy scholars belonging to the third generation. Perhaps, the kind of listening deemed permissible by them is listening for short periods to songs that arouse dislike for worldly pleasure and awakens desires for the Hereafter. However, it may never be understood that they deemed listening to unlawful songs permissible. The same applies to the view reported from `Abdullah Ibn Ja`far Ibn Abu Talib (may Allah be pleased with him) to the effect that he listened to songs and bought songstress slave­girls. This should also be understood to refer to a small amount of listening that may not divert from truth or lead to falsehood. Nevertheless, Ibn `Umar and Al­Hassan Al­Basry denied him such behavior.",
+          "content_type": "fatwa_ruling",
+          "page_number": 204,
+          "confidence": 0.9,
+          "notes": "Scholar's commentary and interpretation of historical positions",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is well­known to all knowledgeable and believing people that truth is more worthy of being followed and that it is impermissible to run counter to the consensus of scholars following irregular views while relying on no evidence. Rather, those irregular views should be understood in the best possible contexts if their holders are worthy of our trust being famous for piety and faith.",
+          "content_type": "fatwa_ruling",
+          "page_number": 204,
+          "confidence": 0.85,
+          "notes": "General principle about following scholarly consensus",
+          "memory_agreement": true
+        },
+        {
+          "text": "I have already quoted for you, dear reader, the view of Sulayman Al­Taymy stating, \"If you acted on the non­ strict view or mistake of every scholar, you will combine all aspects of evil.\"",
+          "content_type": "citation",
+          "page_number": 204,
+          "confidence": 0.9,
+          "notes": "Quote from Sulayman Al-Taymy",
+          "memory_agreement": true
+        },
+        {
+          "text": "In his Tafsir, Al­Qurtuby stated, \"Abu Al­Faraj said:",
+          "content_type": "citation",
+          "page_number": 204,
+          "confidence": 0.9,
+          "notes": "Introduction to Al-Qurtuby citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 422)",
+          "content_type": "navigation",
+          "page_number": 204,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A l­Qaffal a fellow Maliki, said: The testimony of a singer or dancer is unacceptable. My comment is that once singing is proved to be impermissible, it will be also impermissible to receive a wage for it. However, Ibn `Abdul­Bar claimed a consensus on the impermissibility of receiving a wage for doing so.\" End quote from Al­ Qurtuby.",
+          "content_type": "citation",
+          "page_number": 204,
+          "confidence": 0.9,
+          "notes": "Quote from Al-Qurtuby's Tafsir including Al-Qaffal's position",
+          "memory_agreement": true
+        },
+        {
+          "text": "So far, I have finished all that I can say on the issue, i.e. singing and musical instruments. In fact, if we pursue all the Hadith, traditions and opinions of scholars on the issue, we will talk too much. However, the abovementioned quotations are sufficient as convincing evidence for those who seek the truth.",
+          "content_type": "paragraph",
+          "page_number": 204,
+          "confidence": 0.85,
+          "notes": "Author's concluding remarks on the topic",
+          "memory_agreement": true
+        },
+        {
+          "text": "As for those who insist on following whims, we will stand helpless. We ask Allah to guide us and all Muslims to that which pleases Him and to be safe from all reasons leading to His wrath and punishment. We seek Allah's refuge from the evils of ourselves and our bad deeds. My advice to Abu Turab and all those fond of songs and musical instruments to fear Allah, repent to Him and to return to truth, for, indeed, returning to truth is a virtue and persistence in error is vice. Had not we aimed at briefing, we would have drawn attention to all mistakes made by Abu Turab in his article. However, farsighted persons can easily find such mistakes through the abovementioned facts. We seek Allah's help and rely on Him. There is no might or power except with Allah. Allah is sufficient for us and the Best of those on whom to depend. May peace and blessings be upon our Prophet Muhammad, his family and Companions.",
+          "content_type": "answer",
+          "page_number": 204,
+          "confidence": 0.9,
+          "notes": "Final advice and closing with Islamic supplications",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The ruling on singing and the gathering of people to listen to musical instruments and songs.",
+        "content_type": "heading_minor",
+        "page_number": 205,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 423)",
+          "content_type": "navigation",
+          "page_number": 205,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Two questions submitted to His Eminence, Sheikh `Abdul­`Aziz ibn Baz with regard to the ruling on singing.",
+          "content_type": "paragraph",
+          "page_number": 205,
+          "confidence": 0.8,
+          "notes": "Introduction to the questions",
+          "memory_agreement": true
+        },
+        {
+          "text": "They are:",
+          "content_type": "navigation",
+          "page_number": 205,
+          "confidence": 0.9,
+          "notes": "Transition to questions list",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 1: What is the ruling on songs? Are they Haram (prohibited) or not? Note that I only listen to them for amusement. And what is the ruling on playing the instrument of Rababa and listening to old songs? Is playing the drums at weddings Haram although I heard that there is nothing wrong with that? May Allah reward you and lead you to the right path!",
+          "content_type": "question",
+          "page_number": 205,
+          "confidence": 0.95,
+          "notes": "First question about singing and musical instruments",
+          "memory_agreement": false
+        },
+        {
+          "text": "The answer: Listening to songs is Haram and a Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect). It is a cause of heartlessness that ultimately diverts man from Dhikr (Remembrance of Allah) and performing Salah (Prayer). Many scholars explain Allah's saying: And of mankind is he who purchases idle talks (i.e. music, singing, etc.) to mean singing. `Abdullah ibn Mas`ud (may Allah be pleased with him) used to swear that the idle talk here refers to singing. Yet, it is even more detestable if singing is accompanied with a musical instrument, such as rababah i.e. Arab fiddle, lute, violin, and drums. Some scholars state that singing accompanied with musical instruments is unanimously forbidden. Hence, it is obligatory to beware of that.",
+          "content_type": "fatwa_ruling",
+          "page_number": 205,
+          "confidence": 0.9,
+          "notes": "Scholar's ruling on singing with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"Verily, among my Ummah (nation) there will be people who will deem as lawful: Al­Hir, wearing silk [for men], Khamr (alcohol), and musical instruments.\"",
+          "content_type": "hadith",
+          "page_number": 205,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition about musical instruments",
+          "memory_agreement": false
+        },
+        {
+          "text": "Al­Hir refers to adultry.",
+          "content_type": "footnote",
+          "page_number": 205,
+          "confidence": 0.8,
+          "notes": "Clarification of Arabic term",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 424)",
+          "content_type": "navigation",
+          "page_number": 205,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "I advise you and everyone else to listen to the Holy Qur'an radio station and Nur `Ala Al­Darb (Light on the way) program. They present great benefit instead of listening to songs and musical instruments.",
+          "content_type": "answer",
+          "page_number": 205,
+          "confidence": 0.85,
+          "notes": "Scholar's advice and recommendation",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for wedding parties, it is permissible to strike tambourines in them accompanied with respectful singing free from calling to unlawful acts or praising impermissible matters for the gatherings of women in order to announce marriage and distinguish it from illegitimate relations, as reported from the Prophet (peace be upon him). As for drums, it is not permissible to use them in weddings. Only a tambourine is permissible. Furthermore, loud speakers are not permitted in weddings and so are the prohibited songs usually played, because they entail great Fitnah (temptation) and bad consequences as well as harming Muslims. It should be noted that a short time is enough for declaring marriage. Indeed, wasting a lot of time in weddings leads to missing Fajr (Dawn) Prayer, which is one of the worst abominations and acts of hypocrites.",
+          "content_type": "fatwa_ruling",
+          "page_number": 205,
+          "confidence": 0.9,
+          "notes": "Specific ruling on wedding celebrations and instruments",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 2: What is the ruling on people's gatherings to listen to musical instruments such as the lute, the voilin, the drums and other instruments which are usually accompanied by singing? Please note that they claim what they do is permissible.",
+        "content_type": "heading_question",
+        "page_number": 206,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "The answer: The Ayahs (Qur'anic verses) of the Qur'an and the Prophetic Hadiths emphatically dispraise songs and musical instruments and warn against them. Furthermore, the Qur'an mentions that using such instruments is a means to misguidance and mockery of Allah's Ayahs.",
+          "content_type": "answer",
+          "page_number": 206,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": true
+        },
+        {
+          "text": "And of mankind is he who purchases idle talks (i.e. music, singing, etc.) to mislead (men) from the Path of Allâh without knowledge, and takes it (the Path of Allâh, or the Verses of the Qur'ân) by way of mockery. For such there will be a humiliating torment (in the Hell­fire).",
+          "content_type": "quran_verse",
+          "page_number": 206,
+          "confidence": 0.95,
+          "notes": "Quranic verse with translation in parentheses"
+        },
+        {
+          "text": "( Part No : 3, Page No: 425)",
+          "content_type": "navigation",
+          "page_number": 206,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The majority of scholars explained that idle talks refers to songs and musical instruments and every sound that diverts from the path of Allah (Exalted be He). It is authentically reported that the Prophet (peace be upon him) said:",
+          "content_type": "paragraph",
+          "page_number": 206,
+          "confidence": 0.85,
+          "notes": "Scholarly interpretation and hadith introduction"
+        },
+        {
+          "text": "\"Verily, among my Ummah (nation) there will be people who will deem as lawful: Zina i.e. illicit sexual intercourse, silk, Khamr (alcohol) and musical instruments.\"",
+          "content_type": "hadith",
+          "page_number": 206,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition with explanatory translations"
+        },
+        {
+          "text": "At the end of the time, the people will make it lawful as they make wine, adultery, and silk lawful.",
+          "content_type": "hadith",
+          "page_number": 206,
+          "confidence": 0.85,
+          "notes": "Additional prophetic saying"
+        },
+        {
+          "text": "This is one of the signs of his prophethood (peace be upon him), as all that he said really came true. The aforementioned Hadith is clear in dispraising singing and those who regard it as lawful. It also dispraises those who consider it acceptable to drink Khamr and commit Zina. There are many Ayahs and Hadiths against songs and musical instruments.",
+          "content_type": "paragraph",
+          "page_number": 206,
+          "confidence": 0.9,
+          "notes": "Scholar's commentary on the hadith"
+        },
+        {
+          "text": "Whoever claims that Allah (Exalted be He) made it permissible to listen to songs and musical instruments, has ignorantly told lies against Allah (Exalted be He) and committed one of the ugliest abominations. May Allah save our hearts from following vain desires and Satan. It is even worse to claim that listening to songs is Mustahab (desirable). This reflects utter ignorance of Allah (Exalted be He) and His Din (religion). Thus, they falsely ascribe lies to His Shari`ah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 206,
+          "confidence": 0.95,
+          "notes": "Strong religious ruling against musical instruments"
+        },
+        {
+          "text": "It is indeed Mustahab to play the tambourine during weddings for women only to publicize marriage and distinguish it from Zina. Moreover, there is no harm in singing some songs that are familiar to women on occasions which do not include any unlawful words or forsaking an obligation. This should happen in women's places which are isolated from men's in order to avoid intermixing between both sexes and without bothering the neighbors with loudspeakers, because this is a wrongful act.",
+          "content_type": "fatwa_ruling",
+          "page_number": 206,
+          "confidence": 0.9,
+          "notes": "Exception ruling for women's wedding celebrations"
+        },
+        {
+          "text": "Similarly, it is impermissible for women in weddings to use any musical instruments other than the tambourine, such as the lute, the violin, or the rabab, as this is Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) and they are only permitted to use the tambourine.",
+          "content_type": "fatwa_ruling",
+          "page_number": 206,
+          "confidence": 0.9,
+          "notes": "Specific ruling on permitted instruments for women"
+        },
+        {
+          "text": "Men are not allowed to use or play any musical instruments whether in wedding parties or on other occasions. Rather, they are only permitted to train on weapons of war such as archery, riding horses, and competing in that field in addition to other means of war, such as",
+          "content_type": "fatwa_ruling",
+          "page_number": 206,
+          "confidence": 0.9,
+          "notes": "Ruling on men's activities and permissible alternatives"
+        },
+        {
+          "text": "( Part No : 3, Page No: 426)",
+          "content_type": "navigation",
+          "page_number": 206,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "training on using spears, tanks, planes, canons, automatic rifles, bombs, and all matters that help serve the purpose of Jihad (fighting/striving in the Cause of Allah).",
+          "content_type": "fatwa_ruling",
+          "page_number": 206,
+          "confidence": 0.85,
+          "notes": "Continuation of permitted activities for men"
+        },
+        {
+          "text": "May Allah set right the affairs of Muslims, grant them good comprehension of their religion and learning what help them in Jihad against their enemies and protection of their countries. He is All­Hearer and responsive!",
+          "content_type": "signature",
+          "page_number": 206,
+          "confidence": 0.8,
+          "notes": "Concluding prayer/supplication by the scholar"
+        }
+      ]
+    }
+  ]
+}

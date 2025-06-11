@@ -1,0 +1,397 @@
+{
+  "batch_number": 70,
+  "sections_count": 95,
+  "timestamp": "2025-06-11T18:59:43.440551",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 3 , Page No: 142)",
+        "content_type": "navigation",
+        "page_number": 142,
+        "confidence": 1.0
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on swearing by other than Allah",
+        "content_type": "heading_minor",
+        "page_number": 142,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Is it permissible to swear by the Prophet (peace be upon him)?",
+          "content_type": "question",
+          "page_number": 142,
+          "confidence": 1.0,
+          "notes": "Question posed to the scholar",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: It is not permissible to swear by any creature, including the Prophet (peace be upon him), the Ka`bah, the trust, or anything else according to the majority of scholars. Rather, some scholars reporteda consensus that this is prohibited. An odd view, however, is reported about the permissibility of swearing by the Prophet (peace be upon him), which is a groundless opinion. In fact, it is an invalid view that contradicts the preceding consensus of scholars and Hadith Sahih (authentic) mentioned on this issue.",
+          "content_type": "answer",
+          "page_number": 142,
+          "confidence": 1.0,
+          "notes": "Scholar's response providing the ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "Among these Hadith is the onerelated by Al­Bukhari and Mulimfrom Amir Al­Mu'minin (Commander of the Believers), `Umar ibn Al­Khattab (may Allah be pleased with him), that the Prophet (peace be upon him) said: Verily! Allah forbids you to swear by your fathers. If one has to take an oath, they should swear by Allah or else keep silent.",
+          "content_type": "hadith",
+          "page_number": 142,
+          "confidence": 0.95,
+          "notes": "Hadith from Bukhari and Muslim with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is also related in the Two Sahih Books of Hadith (i.e. Al­Bukhari and Muslim)on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said: Whoever swears, saying (by error) in their oath 'By Al­Lat and Al­`Uzza,' they should say, 'There is no deity but Allah.'",
+          "content_type": "hadith",
+          "page_number": 142,
+          "confidence": 0.95,
+          "notes": "Second hadith citation with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is because the one who swears by other than Allah commits a sort of Shirk (associating others with Allah in His Divinity or worship). The Kaffarah (expiation) for this is to sincerely and truthfully proclaim the Shahadah (Testimony of Faith) to atone for the Shirk they have slipped into.",
+          "content_type": "fatwa_ruling",
+          "page_number": 142,
+          "confidence": 0.9,
+          "notes": "Explanation of the religious ruling and its consequences",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, Al­Tirmidhy and Al­Hakim related through a sound Sanad (chain of narrators)from Ibn `Umar (may Allah be pleased with them both) that the Prophet (peace be upon him) said: Anyone who swears by other than Allah has become a Kafir (disbeliever) or Mushrik (one who associates others with Allah in His Divinity or worship).",
+          "content_type": "hadith",
+          "page_number": 142,
+          "confidence": 0.95,
+          "notes": "Third hadith citation from Al-Tirmidhy and Al-Hakim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Abu Dawud relatedfrom Buraydah ibn Al­Khasib (may Allah be pleased with him) that the Prophet (peace be upon him) said: Anyone who swears by Amanah (trust) is not one of us.",
+          "content_type": "hadith",
+          "page_number": 142,
+          "confidence": 0.95,
+          "notes": "Fourth hadith citation from Abu Dawud",
+          "memory_agreement": false
+        },
+        {
+          "text": "On the authority of Abu Hurayrah (may Allah be pleased with him) who narrated that the Prophet (peace be upon him) said: Do not swear by your fathers, mothers, or idols; and do not swear by Allah except when you are truthful. (Related by Abu Dawud and Al­Nasa'y)",
+          "content_type": "hadith",
+          "page_number": 142,
+          "confidence": 0.95,
+          "notes": "Fifth hadith citation with source attribution",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 3, Page No: 143)",
+        "content_type": "navigation",
+        "page_number": 143,
+        "confidence": 1.0
+      },
+      "content_items": [
+        {
+          "text": "Other scholars who reported unanimity regarding the prohibition of swearing by other than Allah include Imam Abu `Umar ibn `Abdul­Bar Al­Namiry (may Allah be merciful with him). Some other scholars, however, deemed it reprehensible, and, thus, it should be considered as prohibitively reprehensible according to the texts and favorable judgment of scholars. On the other hand, some scholars deemed it as somewhat allowable on account ofthe report related in Sahih Muslim that the Prophet (peace be upon him) said regarding the one who asked him about the laws of Islam, By his father, he shall succeed if he were true (to what he professed).",
+          "content_type": "paragraph",
+          "page_number": 143,
+          "confidence": 0.9,
+          "notes": "Scholarly discussion and different opinions",
+          "memory_agreement": true
+        },
+        {
+          "text": "The answer to such a claim is that it is a Shadh narration (not in line with the narration of other trustworthy narrators in terms of wording, chain of narrators, or both) that contradicts Hadith Sahih and thus no action should be based on it. Besides, such a ruling is a Shadh one according to religious scholars, as the narrator of it contradicts the majority of trustworthy narrators. Rather, it is likely that the wording involves distortion, as is stated by Ibn `Abdul­Bar (may Allah be merciful with him), and that the correct wording is \"By Allah, he shall succeed if he were true (to what he professed).\" It, thus, could be that some scribes or narrators distorted the original wording or that the Prophet (peace be upon him) said that before the proscription of swearing by other than Allah (Exalted be He) was revealed. Anyway, this is a Shadh single narration, and it is not permissible for the one who believes in Allah and in the Day of Resurrection to hold by it and contradict the Hadith Sahih that clearly indicate the prohibition of swearing by other than Allah and that it is a forbidden act that is tantamount to Shirk.",
+          "content_type": "paragraph",
+          "page_number": 143,
+          "confidence": 0.9,
+          "notes": "Scholarly refutation of opposing view",
+          "memory_agreement": true
+        },
+        {
+          "text": "Moreover,Al­Nasa'y relatedthrough an authentic Sanad from Sa`d ibn Abu Waqqas (may Allah be pleased with him) that he swore by Al­Lat and Al­`Uzza, and thus he asked the Prophet (peace be upon him) about that. The Prophet (peace be upon him) then replied: Say, \"La ilaha illa­Allahu wahdahu la sharika lahu lahul­mulku walahul­hamdu wa­huwa `alakully shay'in qadir (There is no deity but Allah, He is One and there is no associate with Him, to Him belongs all sovereignty and praise and He is over all things omnipotent)\", then spit three times to your left, seek refuge with Allah from Satan, and do not do that again.",
+          "content_type": "hadith",
+          "page_number": 143,
+          "confidence": 0.95,
+          "notes": "Hadith from Al-Nasa'y with Arabic text and translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "This expression stresses the strict prohibition of swearing by other than Allah, indicating that it is an act of Shirk and one of the incitements of Satan. This expression also implies a clear prohibition of returning to such an act. I ask Allah to grant us and you understanding of religion, and uprightness of objective and action, to safeguard us and the Muslims from following personal vain desires and the incitements of Satan for He is All­Hearing, Ever Near (to all things). As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "signature",
+          "page_number": 143,
+          "confidence": 0.85,
+          "notes": "Concluding remarks and Islamic greeting/blessing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on swearing by the Prophet (peace be upon him)",
+        "content_type": "heading_minor",
+        "page_number": 71,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 144)",
+          "content_type": "navigation",
+          "page_number": 71,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A questioner sent us a message that reads:",
+          "content_type": "question",
+          "page_number": 71,
+          "confidence": 0.8,
+          "notes": "Introduction to question",
+          "memory_agreement": false
+        },
+        {
+          "text": "Some people are used to swear by the Prophet (peace be upon him) and this has become customary for them, yet they do not take that as a belief. What is the ruling on this?",
+          "content_type": "question",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Actual question content",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Swearing by the Prophet (peace be upon him) or any other part of creation is a grave Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) and a form of Shirk (associating others with Allah in His Divinity or worship). Thus, it is not permissible for anyone to swear but by Allah Alone. It is reported from Imam Ibn `Abdul­Bar (may Allah be merciful with him) that it is not permissible to swear by other than Allah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's ruling with citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Besides, authentic Hadith are related in which the Prophet (peace be upon him) forbade this and declared it to be an act of Shirk. One of these Hadith is the onerelated in the Two Sahih (authentic) Books of Hadith (i.e. Al­Bukhari and Muslim)from the Prophet (peace be upon him) that he said:",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.8,
+          "notes": "Introduction to hadith citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily! Allah forbids you to swear by your fathers. If one has to take an oath, they should swear by Allah or else keep silent.",
+          "content_type": "hadith",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Hadith from Bukhari and Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Another wording reads: ...they should swear by Allah or say nothing.",
+          "content_type": "hadith",
+          "page_number": 71,
+          "confidence": 0.8,
+          "notes": "Alternative wording of same hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, Abu Dawud and Al­Tirmidhy related through an authentic Sanad (chain of narrators)from the Prophet (peace be upon him) that he said:",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.8,
+          "notes": "Introduction to another hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "Anyone who swears by other than Allah has become a Kafir (disbeliever) or Mushrik (one who associates others with Allah in His Divinity or worship).",
+          "content_type": "hadith",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Hadith from Abu Dawud and Tirmidhi",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is also authentically reported that the Prophet (peace be upon him) said:",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.8,
+          "notes": "Introduction to third hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "Anyone who swears by Amanah (trust) is not one of us.",
+          "content_type": "hadith",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Third hadith citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are numerous Hadith on this issue, and it is obligatory for all Muslims not to swear by other than Allah. Again, it is not permissible to swear by any creature, no matter who it may be, according to the Hadith mentioned above as well as other Hadith. Hence, the one who is used to do so should be warned against that and his family members, companions and acquaintances should be warned against that as well. The Prophet (peace be upon him) said:",
+          "content_type": "fatwa_ruling",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling with practical guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "Anyone among you who sees",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.7,
+          "notes": "Beginning of hadith cut off by page break",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 145)",
+          "content_type": "navigation",
+          "page_number": 71,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "(an act of) Munkar should change it with his hand; if he could not (do it), he should do so with his tongue; and if he could not, (even) then he should abhor it from his heart, and that is the least (form) of Iman (Faith). (Related by Muslim in his Sahih Book of Hadith)",
+          "content_type": "hadith",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Completion of hadith with citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Furthermore, swearing by other than Allah is a form of minor Shirk (associating others with Allah in His Divinity or worship), based on the above quoted Hadith. It could even be a form of major shirk if the one taking oath has it in his heart that the one by whom he swears deserves glorification just as Allah deserves it or that he could be worshipped along with Allah, or any other similar disbelieving objectives. We ask Allah to endow all the Muslims with protection against that and to grant them understanding of His Religion and safety from all things that could bring about His Wrath; indeed He is All­Hearing, Ever­Near.",
+          "content_type": "fatwa_ruling",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Final ruling with theological explanation and supplication",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Worries and Doubts Afflicting Faith",
+        "content_type": "heading_major",
+        "page_number": 146,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 146)",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah, and may peace and blessings be upon His Messenger after whom there is no prophet.",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.8,
+          "notes": "Opening invocation",
+          "memory_agreement": true
+        },
+        {
+          "text": "In its second edition, Al­Raya magazine published a message by the Islamic Center in Geneva, including many inquiries starting with faith as many people are suffering from doubts and worries. Is it true? A reply came from brother Dr. Sa`id Ramadan, who said after praising Allah: \"It is well­known that Allah (Glorified and Exalted be He) directed all humankind inherently to believe in Him as Lord, God and Controller of their affairs to be feared, beseeched for help, and become endeared to through various acts of worship. He said:",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.9,
+          "notes": "Introduction to the topic and context",
+          "memory_agreement": true
+        },
+        {
+          "text": "So set you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) your face towards the religion (of pure Islâmic Monotheism) Hanîf (worship none but Allâh Alone). Allâh's Fitrah (i.e. Allâh's Islâmic Monotheism) with which He has created mankind.",
+          "content_type": "quran_verse",
+          "page_number": 146,
+          "confidence": 0.9,
+          "notes": "Quranic verse with translation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah states: I have created my servants naturally inclined to the Truth, but devils deceived them, led them astray from their faith, and commanded them to associate partners with Me for which I sent down no evidence.",
+          "content_type": "hadith",
+          "page_number": 146,
+          "confidence": 0.8,
+          "notes": "Hadith Qudsi",
+          "memory_agreement": true
+        },
+        {
+          "text": "True faith is to believe in Allah, His angels, His Books, His messengers, the Last Day and divine decree in prosperity and adversity. This was the Prophet's reply to Jibril's (Gabriel) question about Iman (Faith/belief), which consists of more than seventy branches (i.e. parts), the highest of which is testifying that there is no deity but Allah and the lowest rank is removing harmful objects from the road. Iman also increases through obedience and decreases due to disobedience, as clearly pointed out in Ayahs (Qur'anic verses), prophetic Hadith and the way followed by the Salaf (righteous predecessors). After this introduction and definition of Iman we say that it is subject to worries and doubts for many reasons:",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.9,
+          "notes": "Definition and explanation of faith",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 147)",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "1­ Ignorance about prerequisites and evidence of Iman.",
+          "content_type": "list_item",
+          "page_number": 147,
+          "confidence": 0.9,
+          "notes": "First reason for doubts in faith",
+          "memory_agreement": false
+        },
+        {
+          "text": "2­ Failure to apply what you know, and this gradually leads to weakness of Iman, until it totally vanishes and is replaced with doubts. This fact is supported by actual occurrences as well as Islamic texts.",
+          "content_type": "list_item",
+          "page_number": 147,
+          "confidence": 0.9,
+          "notes": "Second reason for doubts in faith",
+          "memory_agreement": false
+        },
+        {
+          "text": "3­ Being in an environment devoid of Iman, which feeds suspicion and doubt, thus leading to wavering faith and weakness in the face of temptation and deviant impulses; especially if one is of little knowledge and does not have good companions who can help remain steadfast. The Prophet (peace be upon him) stated:",
+          "content_type": "list_item",
+          "page_number": 147,
+          "confidence": 0.9,
+          "notes": "Third reason for doubts in faith",
+          "memory_agreement": false
+        },
+        {
+          "text": "Hasten to perform (good) deeds before trials which are as dark as night, where one can be a believer in the morning and a disbeliever at night, or a believer at night and a disbeliever in the morning, who barters faith for the perishable goods of this life.",
+          "content_type": "hadith",
+          "page_number": 147,
+          "confidence": 0.8,
+          "notes": "Prophetic hadith about hastening to good deeds",
+          "memory_agreement": false
+        },
+        {
+          "text": "This Hadith indicates that hastening to perform righteous deeds is a way of keeping one's faith steadfast; the absence of which is a factor of casting doubts and being afflicted with trials. These trails include lower desires, doubts and war. Most dangerous of all is succumbing to one's lower desires, which weak souls are most inclined to. A believer may be tricked and gradually sink into immoral acts leading to the loss of faith. The way to salvation and safety is to distance oneself from the ways that lead to such temptations, to be on guard as much as possible, and to diligently ask Allah for steadfastness in faith. One must also recite the Qur'an and meditate on its Ayahs which guide us to Allah and contain rational evidence and theoretical proofs of the existence and oneness of Allah, His sovereignty, His worth of being glorified, His Shari`ah worth of being followed, and His limits that should not be transgressed. Once Iman is deep­rooted hearts can taste its beauty, become enlightened by evidence, and it becomes difficult to be uprooted or replaced with any alternative. Hiraql (Caesar) ­ Emperor of the Romans ­ asked Abu Sufyan, about the call of the Prophet (peace be up on him), \"Do any of Muhammad's Companions apostatize after embracing Islam then being unconvinced",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.9,
+          "notes": "Explanation and guidance on maintaining faith",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 148)",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of Islam? Abu Sufyan answered in the negative. The Caesar then said, \"This is what happens when the light of faith touches hearts.\" Reality attests to the statement of the Caesar. This is why the Prophet (peace be upon him) did not deny this statement. As for the practical application of this, Ibn Al­Qayyim in his poem, Al­ Nuniyyah, mentioned that he experienced some unrest and doubt because of his examination of the books of `Ilm­ul­Kalam (a discipline that searches for answers to creedal issues using logic) and their doubtful matters till he met Shaykh­ul­Islam Ibn Taymiyyah who guided him to the Ayahs and Hadith leading to knowing Allah, His glorious perfection, His Names and His complete sovereignty. This prompted him to rectify his faith and put an end to all his doubts. May peace and blessings be upon our Prophet Muhammad, his family and Companions.",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Historical example and conclusion with blessing",
+          "memory_agreement": true
+        }
+      ]
+    }
+  ]
+}

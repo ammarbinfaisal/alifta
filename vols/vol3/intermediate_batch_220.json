@@ -1,0 +1,726 @@
+{
+  "batch_number": 220,
+  "sections_count": 299,
+  "timestamp": "2025-06-11T21:02:07.845988",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The ruling on Going to soothsayers and fortunetellers",
+        "content_type": "heading_minor",
+        "page_number": 222,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 3: Is he a believer who visits soothsayers and fortunetellers and believe in what they say?",
+          "content_type": "heading_question",
+          "page_number": 222,
+          "confidence": 0.95,
+          "notes": "Question identifier with number",
+          "memory_agreement": false
+        },
+        {
+          "text": "Note that they sometimes tell things that come true as in the case of their telling a person about the name of a relative of his or describing what his house look like and even his wealth and children, etc.",
+          "content_type": "question",
+          "page_number": 222,
+          "confidence": 0.8,
+          "notes": "Continuation of the question providing context",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: This practice was present during the era of the Messenger of Allah (peace be upon him) and before and after it. Accordingly, the Prophet (peace be upon him) forbade visiting soothsayers and consulting them. He (peace be upon him) said, He who visits a diviner and asks him about anything, his prayers will not be accepted extending to forty nights. Related by Muslim in his Sahih.The Prophet (peace be upon him) also stated: If anyone resorts to a diviner and believes in what he says, then he disbelieves in what was revealed to Muhammad (peace be upon him).",
+          "content_type": "answer",
+          "page_number": 222,
+          "confidence": 0.9,
+          "notes": "Scholar's response with hadith citations",
+          "memory_agreement": true
+        },
+        {
+          "text": "Some people asked the Prophet (peace be upon him) about going to fortunetellers, so he (peace be upon him) said, \"Don't go to them as they are worthless.\" People said, \"O, Prophet of Allah! They sometimes say true things.\" He (peace be upon him) said, \"Sometimes a jinni in the sky may hear something while he is eavesdropping, so he tells it to his human companion of fortunetellers and magicians. They sometimes say true things. However, they tell hundreds of lies with this truth. According to another narration: More than one hundred lies. This pushed some ignorant people who were easily deceived by his fortunetelling that accidentally coincided with the truth for once to permanently believe his lies.",
+          "content_type": "hadith",
+          "page_number": 222,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition with dialogue",
+          "memory_agreement": false
+        },
+        {
+          "text": "The soothsayers have friends of Jinn that are called \"Al­Ra'ie\" i.e. a companion from the jinn who tells the soothsayer about",
+          "content_type": "paragraph",
+          "page_number": 222,
+          "confidence": 0.8,
+          "notes": "Explanatory text with Arabic term",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 450)",
+          "content_type": "navigation",
+          "page_number": 222,
+          "confidence": 0.95,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "matters of the Ghayb (the Unseen) and what takes place in some countries. This was known in Jahiliyyah (pre­Islamic time of ignorance) and after Islam. This Jinn tells his human friend from the soothsayers and fortunetellers that a matter happened in a certain country on a certain night, because the jinn swiftly exchange the news among themselves. Therefore, some people might be deluded by their deception when what they say come true.",
+          "content_type": "paragraph",
+          "page_number": 222,
+          "confidence": 0.85,
+          "notes": "Continuation of explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "This group of Jinn might eavesdrop and hear the discourse of angels with regard to what Allah (Glorified and Exalted be He) mentioned of people's affairs on earth, and they transfer what they heard into the ears of their human companions from soothsayers, sorcerers, and fortunetellers who in turn make use of that in taking people's money unjustly and lying to them. As a result of that, people believe what these liars say and consult them, especially the diseased who cling to any hope of healing, and they are driven to think by what they heard that these soothsayers have said the truth with regard to so­and­so.",
+          "content_type": "paragraph",
+          "page_number": 222,
+          "confidence": 0.85,
+          "notes": "Further explanation of the mechanism",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is obligatory on those with sound Iman not to go, consult, or believe them, even if what they say comes true, because the Messenger of Allah forbade going to or consulting them. This is enjoined on all Muslims and they should seek the lawful means of remedy through reciting the Ruqyah (reciting Qur'an and saying supplications over the sick seeking healing), taking permissible medication prescribed by doctors. These are the Shar`y (Islamically lawful) means and methods and they are the good alternative to escape forbidden matters.",
+          "content_type": "fatwa_ruling",
+          "page_number": 222,
+          "confidence": 0.9,
+          "notes": "Final ruling with prescribed alternatives",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Forbidding evil is a collective obligation",
+        "content_type": "heading_minor",
+        "page_number": 223,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: A female questioner asks: I am a nurse at a school and I denied an evil act which I saw at work. This act was the reason behind them firing me and it was the reason for my misery and my psychological disturbances. Therefore, I reached the point of stopping my children from forbidding any evil. Please direct me, may Allah reward you?",
+          "content_type": "question",
+          "page_number": 223,
+          "confidence": 0.95,
+          "notes": "Question from female nurse about consequences of forbidding evil",
+          "memory_agreement": true
+        },
+        {
+          "text": "A 4:",
+          "content_type": "heading_question",
+          "page_number": 223,
+          "confidence": 0.9,
+          "notes": "Answer identifier",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 451)",
+          "content_type": "navigation",
+          "page_number": 223,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Undoubtedly, what happened to you was a big mistake committed by the person who did it, if your denial of that evil was based on knowledge and insight. It is an obligation upon you to forbid what is evil, and getting fired and being dispensed with, will not harm you, because you have pleased your Lord [Exalted and Sublime Be He] and you have done what you should have done.",
+          "content_type": "answer",
+          "page_number": 223,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": false
+        },
+        {
+          "text": "All the affairs are in the Hand of Allah [Exalted and Sublime Be He]. Moreover, it is authentically reported from the Messenger of Allah (peace and blessings of Allah be upon him) that he said: Whoever, among you, sees something abominable should rectify it with his hand; and if he has not strength enough to do it, then he should do it with his tongue; and if he has not strength enough to do it, (even) then he should (abhor it) from his heart, and that is the least of Faith.",
+          "content_type": "hadith",
+          "page_number": 223,
+          "confidence": 0.9,
+          "notes": "Hadith about levels of forbidding evil",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah [Exalted and Sublime Be He] says in His mighty Book: The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another; they enjoin (on the people) Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden)",
+          "content_type": "quran_verse",
+          "page_number": 223,
+          "confidence": 0.85,
+          "notes": "Quranic verse about believers enjoining good and forbidding evil",
+          "memory_agreement": false
+        },
+        {
+          "text": "He, the Most Exalted of all speakers, says: You [true believers in Islâmic Monotheism, and real followers of Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) and his Sunnah] are the best of peoples ever raised up for mankind; you enjoin Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm has ordained) and forbid Al­Munkar (polytheism, disbelief and all that Islâm has forbidden), and you believe in Allâh.",
+          "content_type": "quran_verse",
+          "page_number": 223,
+          "confidence": 0.85,
+          "notes": "Second Quranic verse about the best of peoples",
+          "memory_agreement": false
+        },
+        {
+          "text": "Therefore, if you have done this out of obedience to Allah and seeking His pleasure, then the best result will be for you and what happened to you will not harm you and Allah will suffice you, since He [Exalted and Sublime Be He] is the Provider and all kinds of goodness are in His Hand.",
+          "content_type": "answer",
+          "page_number": 223,
+          "confidence": 0.9,
+          "notes": "Continuation of scholar's response",
+          "memory_agreement": false
+        },
+        {
+          "text": "He is the One Who says: And whosoever fears Allâh and keeps his duty to Him, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine. and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.",
+          "content_type": "quran_verse",
+          "page_number": 223,
+          "confidence": 0.85,
+          "notes": "Quranic verses about Allah's provision for the God-fearing",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, it is incumbent upon a believing woman to fear Allah [Exalted and Sublime Be He], whether she is working at a school or as a nurse. By the same token, the female doctor, the female manager and other similar women and everyone else are obligated to enjoin what is right and to forbid what is wrong and it is also an obligation upon men to do the same thing following what has been previously mentioned of the Qur'anic verses and Ahadeeth. You also made a mistake when you forbade your children from forbidding what is evil. So, fear Allah and repent to Him from that and command your children to implement what Allah has obligated them to do.",
+          "content_type": "fatwa_ruling",
+          "page_number": 223,
+          "confidence": 0.9,
+          "notes": "Final ruling and advice to the questioner",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Kuft meant in Issues of Defaming Lineage and Wailing over The dead:",
+        "content_type": "heading_minor",
+        "page_number": 224,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 5:What is the explanation of the Hadith, \"Two (practices) of people are tantamount to Kufr",
+          "content_type": "heading_question",
+          "page_number": 224,
+          "confidence": 0.95,
+          "notes": "Question identifier with partial text",
+          "memory_agreement": false
+        },
+        {
+          "text": "(disbelief); (they are) impugning",
+          "content_type": "question",
+          "page_number": 224,
+          "confidence": 0.8,
+          "notes": "Continuation of question text",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 452)",
+          "content_type": "navigation",
+          "page_number": 224,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "lineage and wailing over the dead\"? What is the exact meaning of Kufr in this Hadith?",
+          "content_type": "question",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Completion of the question",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: This is Hadith Sahih (authentic Hadith)related by Muslim in his Sahih book of Hadith on the",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.95,
+          "notes": "Beginning of scholar's answer",
+          "memory_agreement": true
+        },
+        {
+          "text": "authority of Abu Hurayrah(may Allah be pleased with him). Impugning lineage means",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Hadith citation and explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "defaming and criticizing people's lineage with the aim of despising and dispraising them.",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Definition explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "However, if it is for stating a fact such as saying so­and­so descends from the tribe of Banu Tamim",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Clarification with examples",
+          "memory_agreement": false
+        },
+        {
+          "text": "whose qualities are such­and­such, or from Qahtan , Quraysh , Banu Hashim whose qualities are such­",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Tribal examples",
+          "memory_agreement": false
+        },
+        {
+          "text": "and­such without defaming them, this is not considered as impugning lineage. As for wailing",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Continued explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "over the dead, it signifies crying loudly over the dead and this is prohibited. Kufr in this",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Definition of wailing and ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "context is a lesser degree of absolute Kufr that renders one outside the fold of Islam. For",
+          "content_type": "fatwa_ruling",
+          "page_number": 224,
+          "confidence": 0.85,
+          "notes": "Religious ruling on types of Kufr",
+          "memory_agreement": false
+        },
+        {
+          "text": "example, the Prophet (peace be upon him) said,  \"Verily, between a servant and Shirk and Kufr is the negligence",
+          "content_type": "hadith",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "of prayer.\"  (Related by Muslim in his Sahih)This is major Shirk (associating others with Allah in His",
+          "content_type": "hadith",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Hadith with source attribution",
+          "memory_agreement": false
+        },
+        {
+          "text": "Divinity or worship) according to the most authentic opinion of scholars.",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.85,
+          "notes": "Scholarly interpretation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Muslim scholars have divided Kufr, Zhulm (injustice) and Fisq (flagrant violation of Islamic",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Scholarly categorization explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "law) each into two types. Similarly, there are two types of Shirk; major and minor Shirk.",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Classification of religious concepts",
+          "memory_agreement": false
+        },
+        {
+          "text": "Major Shirk is like supplicating to, seeking the help of, and vowing to the dead, idols, trees,",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Definition with examples",
+          "memory_agreement": false
+        },
+        {
+          "text": "rocks, and planets.",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.8,
+          "notes": "Continuation of examples",
+          "memory_agreement": false
+        },
+        {
+          "text": "Minor Shirk can be seen in statements like \"Were it not for Allah and so­and­so...\" and \"If",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Examples of minor shirk",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah and so­and­so will\". The proper way of saying these statements would be \"Were it not",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Correction of improper statements",
+          "memory_agreement": false
+        },
+        {
+          "text": "for Allah then so­and­so...\" and \"If Allah wills then so­and­so.\"",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Proper formulations",
+          "memory_agreement": false
+        },
+        {
+          "text": "Swearing by other than Allah (Exalted be He) also falls under minor Shirk such as swearing by",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Additional examples of minor shirk",
+          "memory_agreement": false
+        },
+        {
+          "text": "the Prophet (peace be upon him), the life of someone or the Faith.",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Specific examples of improper oaths",
+          "memory_agreement": false
+        },
+        {
+          "text": "Riya' (showing­off) is another example of minor Shirk such as someone seeking Allah's",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Definition of showing off",
+          "memory_agreement": false
+        },
+        {
+          "text": "Forgiveness or reciting Qur'an loudly so that people may hear. Moreover, there are two types",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Examples of showing off",
+          "memory_agreement": false
+        },
+        {
+          "text": "of Zulm;",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.8,
+          "notes": "Transition to types of injustice",
+          "memory_agreement": false
+        },
+        {
+          "text": "the first is major Zulm which is Shirk. Allah (Exalted be He) says:  And it is the disbelievers who are the",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Definition with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "Zâlimûn (wrong­doers).  He (Glorified be He) also says:  It is those who believe (in the Oneness of Allâh and worship",
+          "content_type": "quran_verse",
+          "page_number": 224,
+          "confidence": 0.85,
+          "notes": "Quranic verse about wrongdoers",
+          "memory_agreement": false
+        },
+        {
+          "text": "none but Him Alone) and confuse not their belief with Zulm (wrong i.e. by worshipping others besides Allâh), for them (only) there is",
+          "content_type": "quran_verse",
+          "page_number": 224,
+          "confidence": 0.85,
+          "notes": "Continuation of Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "security and they are the guided.",
+          "content_type": "quran_verse",
+          "page_number": 224,
+          "confidence": 0.8,
+          "notes": "End of Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "The other type is minor Zulm which is apparent in people doing wrong to each other with",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Definition of minor injustice",
+          "memory_agreement": false
+        },
+        {
+          "text": "regard to their blood and property.",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.8,
+          "notes": "Examples of minor injustice",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 453)",
+          "content_type": "navigation",
+          "page_number": 224,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A servant can do himself wrong by committing sins such as Zina (premarital sexual intercourse",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Examples of self-inflicted wrongs",
+          "memory_agreement": false
+        },
+        {
+          "text": "and/or adultery), consuming Khamr (intoxicant) and the like. We seek Allah's Refuge from",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.9,
+          "notes": "Specific sins with supplication",
+          "memory_agreement": false
+        },
+        {
+          "text": "these evils.",
+          "content_type": "answer",
+          "page_number": 224,
+          "confidence": 0.8,
+          "notes": "Concluding supplication",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "How to Treat Physical and Spiritual Diseases",
+        "content_type": "heading_minor",
+        "page_number": 225,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 7: My wife was inflicted by a psychological disease that caused her to fear everything and she could not stand by herself. Another person has the same case and can not go to the Masjid (mosque) to perform Salah in congregation. He asks: What is the cure for his case in order not to resort to soothsayers and charlatans?",
+          "content_type": "question",
+          "page_number": 225,
+          "confidence": 0.95,
+          "notes": "Question number 7 with detailed inquiry about psychological disease treatment",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: There is no disease but it has a cure according to Allah's Will. However, some people know it while others do not. Allah has made the Qur'an and the Sunnah a cure for all physical and psychological diseases. This cure has proven its beneficial effects on people in countless cases.",
+          "content_type": "answer",
+          "page_number": 225,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": true
+        },
+        {
+          "text": "Man may experience certain conditions that cause him fear and panic without knowing the reason for it.",
+          "content_type": "paragraph",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Continuation of answer explaining psychological conditions",
+          "memory_agreement": false
+        },
+        {
+          "text": "Indeed, Allah has placed countless goodness, safety, and cure in what He revealed to His Prophet (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Continuation of answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "I advise these two questioners and others to use the Shar`y Dhikr, which brings about safety, tranquility, peace, and protection from Satan's tricks. For example, they may recite Ayat­ul­ Kursy (the Qur'anic Verse of Allah's Chair [Surah Al­Baqarah, 2:255] Allâh! Lâ ilâha illa Huwa (none has the right to be worshipped but He), Al­Hayyul­Qayyum (the Ever Living, the One Who sustains and protects all that exists). Until the end of the Ayah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 225,
+          "confidence": 0.9,
+          "notes": "Specific religious advice with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is the greatest and the best Ayah in the Book of Allah, for it stresses the Creed of the Oneness of Allah and devotion to Allah (may He be Praised). It also shows His sublimity and that He is the Ever Living, the Owner of everything, and nothing weakens Him. This Ayah is regarded as the best and greatest one in the Qur'an.",
+          "content_type": "paragraph",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Explanation of Ayat-ul-Kursy's significance",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 454)",
+          "content_type": "navigation",
+          "page_number": 225,
+          "confidence": 0.95,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "When a person reads this Ayah after each Salah and before going to bed, it protects him from all evils. The Prophet (peace be upon him) is reported to have said that whoever recites it once upon going to bed, there will be a guardian divinely appointed to protect him/her during the night and no Satan will be able to come near him until morning.",
+          "content_type": "hadith",
+          "page_number": 225,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition about Ayat-ul-Kursy",
+          "memory_agreement": false
+        },
+        {
+          "text": "The patient should try this prescription and he will not see harmful things provided that he believes in the truth that the Prophet (peace be upon him) conveyed composedly in certain belief that the Prophet (peace be upon him) only tells the unquestionable truth.",
+          "content_type": "fatwa_ruling",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Specific advice for the patient",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah has ordained that a male and female Muslim should recite Surah Al­Ikhlas (no: 112) after every Salah: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"He is Allâh, (the) One. In addition, a Muslim should recite Al­Mu`awwidhatayn [Surahs Al­Falaq (no: 113) and Al­Nas (no: 114)] after each Salah.",
+          "content_type": "quran_verse",
+          "page_number": 225,
+          "confidence": 0.9,
+          "notes": "Quranic verses with chapter references",
+          "memory_agreement": false
+        },
+        {
+          "text": "The recitation of these three Surahs forms a cause of having good health, safety, and cure from all evils. Indeed, Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"He is Allâh, (the) One. equals one third of the Qur'an.",
+          "content_type": "paragraph",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Explanation of benefits",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is a Sunnah for a person to recite these three Surahs thrice after Fajr (Dawn) and Maghrib (Sunset) Prayer. Likewise, a person should recite them thrice upon going to bed to have security and good health, tranquility and safety against all evils, according to the authentic reports of the Prophet in this regard.",
+          "content_type": "fatwa_ruling",
+          "page_number": 225,
+          "confidence": 0.9,
+          "notes": "Specific religious ruling about recitation",
+          "memory_agreement": false
+        },
+        {
+          "text": "A person should also seek refuge thrice in the morning and in the evening saying: I seek refuge in the Perfect Words of Allah from the evil of what He has created. The reported Hadiths indicate that these words bring about safety. In the Name of Allah with Whose Name there is protection against every kind of harm on the earth or in the heaven. He is the All­Hearing and All­Knowing thrice every morning and every evening.",
+          "content_type": "arabic_text",
+          "page_number": 225,
+          "confidence": 0.85,
+          "notes": "Supplications with translations",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) said that who recites it three times in the morning is not harmed by anything until the evening comes. He who recites it (three times) in the evening is not harmed by anything until the morning comes.",
+          "content_type": "hadith",
+          "page_number": 225,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition about protection",
+          "memory_agreement": false
+        },
+        {
+          "text": "These formulae of Dhikr and supplications of the Qur'an are reasons for maintaining peace and security from all evils.",
+          "content_type": "paragraph",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Summary statement",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, every believing man and woman should recite them regularly with sincerity and faith,",
+          "content_type": "fatwa_ruling",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "General ruling for believers",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 455)",
+          "content_type": "navigation",
+          "page_number": 225,
+          "confidence": 0.95,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "putting his trust in Allah and depending upon Him. Indeed, Allah is the One who manages every thing and in Whose Hand is giving, deprival, benefiting, and harming, and is the Owner of everything.",
+          "content_type": "paragraph",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Theological explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "He should also believe that the Messenger (peace be upon him) is the most truthful one because he does not speak of (his own) desire. Allah says: By the star when it goes down (or vanishes). Your companion (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) has neither gone astray nor has erred. Nor does he speak of (his own) desire. It is only a Revelation revealed.",
+          "content_type": "quran_verse",
+          "page_number": 225,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Prophet's truthfulness",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah's Best Peace and Blessings be upon him.",
+          "content_type": "paragraph",
+          "page_number": 225,
+          "confidence": 0.8,
+          "notes": "Concluding blessing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Conditions of Acceptable Supplications",
+        "content_type": "heading_minor",
+        "page_number": 227,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Du`a' (supplication) is like a weapon given to every believer; are there other conditions for the carrier of this weapon.",
+          "content_type": "question",
+          "page_number": 227,
+          "confidence": 0.95,
+          "notes": "Question about conditions for supplication",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Yes, the greatest conditions of Du`a' (supplication) are: Trusting Allah and His Messenger (peace be upon him), believing that Allah is the Truth and all that He says is true, devoting oneself and one's intention to Allah, and believing that the Messenger (peace be upon him) has delivered the true message. This should spring from firm faith and trust in Allah, a sincere heartfelt desire for His Paradise, that He is the Planner of all affairs and that He is the Omnipotent. This should come out of well thought of Allah (Exalted be He) and firm trust in Him, not out of doubt or ill thinking.",
+          "content_type": "answer",
+          "page_number": 227,
+          "confidence": 0.95,
+          "notes": "Scholar's response listing conditions for acceptable supplications",
+          "memory_agreement": true
+        },
+        {
+          "text": "Whenever something asked in a supplication does not happen, perhaps this is because of not fulfilling one of the mentioned conditions. The servant of Allah should adopt all means, and Allah is the Originator of all means, the Omniscient, the Wise. Sometimes the medicine is taken but the illness is not cured for reasons not known to the servant, but Allah Alone knows them. This includes the perceivable medicine prescribed by physicians, operations, and so on, and the moral medicine such as supplication, healing recitation, and so on. In spite of taking all the means, the asked matter may not occur for many reasons, such as being unmindful about Allah (Exalted be He),",
+          "content_type": "paragraph",
+          "page_number": 227,
+          "confidence": 0.9,
+          "notes": "Explanatory text about reasons supplications may not be answered",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 456)",
+          "content_type": "navigation",
+          "page_number": 227,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "committing sins, and especially ill­gotten money. The Messenger of Allah (peace be upon him ) said in an authentic Hadith, Whenever a servant supplicates Allah with an invocation that does not contain a sin or severance of one's ties, Allah will give him one of three things: his supplication will be accepted in this life, his supplication may be saved for him in the hereafter, or he may be saved from similar kind of trouble. The companions said: \"Then, we shall supplicate plenty.'' He (peace be upon him) said: \"Allah is more plentiful (in responding).\"",
+          "content_type": "hadith",
+          "page_number": 227,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition about supplication responses",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, believing men and women should know that answering supplications could be postponed to the Hereafter for reasons required by Allah's Wisdom. Because of one's supplication, Allah may save one from much evil instead of granting one's request. Allah (Exalted be He) is the Wise All­Knower in His doings, words, law, and destiny, as He says, Verily, your Lord is All­Knowing, All­ Wise.\" Finally, Allah is the Grantor of success.",
+          "content_type": "paragraph",
+          "page_number": 227,
+          "confidence": 0.85,
+          "notes": "Concluding explanation with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "The end of Volume Three, all praise is due to Allah. Following is Volume four about Monotheism, and the subsequent volumes of the compiled fatwas and various articles for His Excellency Sheikh `Abdul `Aziz Bin `Abdullah Ibn `Abdul­Rahman Ibn Baz",
+          "content_type": "navigation",
+          "page_number": 227,
+          "confidence": 0.95,
+          "notes": "Volume transition and author attribution",
+          "memory_agreement": true
+        }
+      ]
+    }
+  ]
+}

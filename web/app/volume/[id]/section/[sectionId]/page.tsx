@@ -98,7 +98,7 @@ export async function generateStaticParams() {
   const params = [];
   
   // For now, generate for volume 1 (can be extended for all volumes)
-  for (let volumeId = 1; volumeId <= 2; volumeId++) {
+  for (let volumeId = 1; volumeId <= 3; volumeId++) {
     try {
       const headings = await getAllHeadingsWithContent(volumeId);
       for (const heading of headings) {

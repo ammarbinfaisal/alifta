@@ -1,0 +1,517 @@
+{
+  "memory_effectiveness": {
+    "patterns_learned": 7,
+    "reliable_patterns": 4,
+    "classification_accuracy_estimate": 0.6369127246221262
+  },
+  "pattern_analysis": {
+    "short_text": {
+      "total_occurrences": 601,
+      "most_common_type": [
+        "navigation",
+        489
+      ],
+      "confidence": 0.8136439267886856,
+      "distribution": {
+        "heading_major": 5,
+        "paragraph": 30,
+        "citation": 11,
+        "navigation": 489,
+        "quran_verse": 24,
+        "signature": 6,
+        "heading_minor": 5,
+        "fatwa_ruling": 2,
+        "question": 2,
+        "heading_question": 4,
+        "hadith": 5,
+        "list_item": 12,
+        "arabic_text": 1,
+        "footnote": 1,
+        "answer": 4
+      }
+    },
+    "long_text": {
+      "total_occurrences": 1639,
+      "most_common_type": [
+        "paragraph",
+        584
+      ],
+      "confidence": 0.3563148261134838,
+      "distribution": {
+        "paragraph": 584,
+        "quran_verse": 277,
+        "hadith": 175,
+        "signature": 22,
+        "fatwa_ruling": 303,
+        "citation": 86,
+        "navigation": 9,
+        "list_item": 44,
+        "answer": 98,
+        "question": 32,
+        "arabic_text": 7,
+        "translation": 2
+      }
+    },
+    "islamic_keyword": {
+      "total_occurrences": 103,
+      "most_common_type": [
+        "paragraph",
+        42
+      ],
+      "confidence": 0.4077669902912621,
+      "distribution": {
+        "paragraph": 42,
+        "quran_verse": 8,
+        "hadith": 5,
+        "citation": 5,
+        "question": 18,
+        "answer": 5,
+        "fatwa_ruling": 15,
+        "signature": 1,
+        "list_item": 1,
+        "heading_minor": 2,
+        "heading_question": 1
+      }
+    },
+    "contains_arabic": {
+      "total_occurrences": 17,
+      "most_common_type": [
+        "quran_verse",
+        13
+      ],
+      "confidence": 0.7647058823529411,
+      "distribution": {
+        "quran_verse": 13,
+        "fatwa_ruling": 1,
+        "paragraph": 2,
+        "list_item": 1
+      }
+    },
+    "question_marker": {
+      "total_occurrences": 20,
+      "most_common_type": [
+        "question",
+        19
+      ],
+      "confidence": 0.95,
+      "distribution": {
+        "question": 19,
+        "heading_question": 1
+      }
+    },
+    "answer_marker": {
+      "total_occurrences": 47,
+      "most_common_type": [
+        "answer",
+        36
+      ],
+      "confidence": 0.7659574468085106,
+      "distribution": {
+        "answer": 36,
+        "fatwa_ruling": 6,
+        "navigation": 2,
+        "heading_minor": 1,
+        "heading_question": 1,
+        "hadith": 1
+      }
+    },
+    "all_caps": {
+      "total_occurrences": 5,
+      "most_common_type": [
+        "navigation",
+        2
+      ],
+      "confidence": 0.4,
+      "distribution": {
+        "navigation": 2,
+        "heading_minor": 1,
+        "heading_question": 2
+      }
+    }
+  },
+  "confidence_analysis": {
+    "heading_major": {
+      "average_confidence": 0.9,
+      "min_confidence": 0.85,
+      "max_confidence": 0.95,
+      "total_classifications": 5,
+      "improving_trend": null
+    },
+    "paragraph": {
+      "average_confidence": 0.8758302583025831,
+      "min_confidence": 0.7,
+      "max_confidence": 0.95,
+      "total_classifications": 813,
+      "improving_trend": true
+    },
+    "signature": {
+      "average_confidence": 0.8975,
+      "min_confidence": 0.8,
+      "max_confidence": 0.95,
+      "total_classifications": 64,
+      "improving_trend": false
+    },
+    "citation": {
+      "average_confidence": 0.8947286821705427,
+      "min_confidence": 0.7,
+      "max_confidence": 1.0,
+      "total_classifications": 129,
+      "improving_trend": false
+    },
+    "navigation": {
+      "average_confidence": 0.9645759368836292,
+      "min_confidence": 0.6,
+      "max_confidence": 1.0,
+      "total_classifications": 507,
+      "improving_trend": true
+    },
+    "quran_verse": {
+      "average_confidence": 0.9019485294117647,
+      "min_confidence": 0.6,
+      "max_confidence": 0.95,
+      "total_classifications": 544,
+      "improving_trend": false
+    },
+    "fatwa_ruling": {
+      "average_confidence": 0.888905325443787,
+      "min_confidence": 0.8,
+      "max_confidence": 0.95,
+      "total_classifications": 338,
+      "improving_trend": false
+    },
+    "hadith": {
+      "average_confidence": 0.8990322580645161,
+      "min_confidence": 0.8,
+      "max_confidence": 0.96,
+      "total_classifications": 279,
+      "improving_trend": false
+    },
+    "list_item": {
+      "average_confidence": 0.898235294117647,
+      "min_confidence": 0.8,
+      "max_confidence": 0.95,
+      "total_classifications": 85,
+      "improving_trend": false
+    },
+    "question": {
+      "average_confidence": 0.921864406779661,
+      "min_confidence": 0.8,
+      "max_confidence": 1.0,
+      "total_classifications": 59,
+      "improving_trend": false
+    },
+    "answer": {
+      "average_confidence": 0.8936170212765957,
+      "min_confidence": 0.7,
+      "max_confidence": 1.0,
+      "total_classifications": 141,
+      "improving_trend": false
+    },
+    "arabic_text": {
+      "average_confidence": 0.8275,
+      "min_confidence": 0.7,
+      "max_confidence": 0.9,
+      "total_classifications": 20,
+      "improving_trend": false
+    },
+    "heading_question": {
+      "average_confidence": 0.9214285714285715,
+      "min_confidence": 0.85,
+      "max_confidence": 1.0,
+      "total_classifications": 7,
+      "improving_trend": true
+    },
+    "heading_minor": {
+      "average_confidence": 0.8571428571428571,
+      "min_confidence": 0.8,
+      "max_confidence": 0.9,
+      "total_classifications": 7,
+      "improving_trend": false
+    },
+    "transliteration": {
+      "average_confidence": 0.9,
+      "min_confidence": 0.9,
+      "max_confidence": 0.9,
+      "total_classifications": 1,
+      "improving_trend": null
+    },
+    "translation": {
+      "average_confidence": 0.9,
+      "min_confidence": 0.9,
+      "max_confidence": 0.9,
+      "total_classifications": 2,
+      "improving_trend": null
+    },
+    "footnote": {
+      "average_confidence": 0.8500000000000001,
+      "min_confidence": 0.8,
+      "max_confidence": 0.9,
+      "total_classifications": 2,
+      "improving_trend": null
+    }
+  },
+  "cross_reference_analysis": {
+    "quran_verses": {
+      "unique_references": 7,
+      "total_occurrences": 20,
+      "most_cited": [
+        [
+          "2:2",
+          [
+            5,
+            17,
+            47,
+            48,
+            74,
+            74,
+            84,
+            96,
+            113,
+            115,
+            162
+          ]
+        ],
+        [
+          "2:255",
+          [
+            18,
+            129
+          ]
+        ],
+        [
+          "35:45",
+          [
+            151,
+            230
+          ]
+        ],
+        [
+          "2:105",
+          [
+            86,
+            90
+          ]
+        ],
+        [
+          "9:120",
+          [
+            21
+          ]
+        ],
+        [
+          "9:36",
+          [
+            187
+          ]
+        ],
+        [
+          "2:112",
+          [
+            115
+          ]
+        ]
+      ]
+    },
+    "hadith_collections": {
+      "collections_found": 5,
+      "total_references": 127,
+      "most_referenced": [
+        [
+          "Muslim",
+          [
+            5,
+            5,
+            5,
+            5,
+            8,
+            22,
+            42,
+            23,
+            39,
+            39,
+            42,
+            42,
+            46,
+            53,
+            53,
+            62,
+            68,
+            68,
+            142,
+            71,
+            78,
+            86,
+            194,
+            98,
+            100,
+            101,
+            102,
+            105,
+            236,
+            237,
+            237,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            113,
+            244,
+            116,
+            253,
+            124,
+            124,
+            275,
+            301,
+            302,
+            146,
+            150,
+            322,
+            323,
+            156,
+            160,
+            160,
+            353,
+            168,
+            171,
+            172,
+            172,
+            173,
+            173,
+            174,
+            174,
+            176,
+            178,
+            372,
+            375,
+            375,
+            378,
+            378,
+            190,
+            190,
+            208,
+            208,
+            224
+          ]
+        ],
+        [
+          "Bukhari",
+          [
+            5,
+            42,
+            39,
+            46,
+            53,
+            142,
+            142,
+            102,
+            236,
+            237,
+            111,
+            111,
+            111,
+            111,
+            264,
+            301,
+            144,
+            144,
+            302,
+            150,
+            323,
+            156,
+            353,
+            168,
+            172,
+            173,
+            173,
+            174,
+            178,
+            372,
+            375,
+            375,
+            378,
+            378,
+            190,
+            208,
+            210
+          ]
+        ],
+        [
+          "Abu Dawud",
+          [
+            39,
+            39,
+            142,
+            142,
+            98,
+            237,
+            111,
+            119,
+            275,
+            130,
+            138,
+            144
+          ]
+        ],
+        [
+          "Ibn Majah",
+          [
+            124,
+            275
+          ]
+        ],
+        [
+          "Nasa'i",
+          [
+            144,
+            172
+          ]
+        ]
+      ]
+    }
+  },
+  "document_structure_insights": {
+    "total_structural_points": 299,
+    "section_types_identified": [
+      "heading_minor",
+      "heading_major",
+      "answer",
+      "question",
+      "navigation",
+      "paragraph",
+      "heading_question"
+    ],
+    "structural_consistency": {
+      "total_transitions": 298,
+      "unique_patterns": 23,
+      "most_common_transitions": [
+        [
+          "heading_minor -> heading_minor",
+          181
+        ],
+        [
+          "heading_major -> heading_minor",
+          24
+        ],
+        [
+          "heading_minor -> heading_major",
+          21
+        ],
+        [
+          "navigation -> navigation",
+          12
+        ],
+        [
+          "navigation -> heading_minor",
+          12
+        ]
+      ],
+      "consistency_score": 0.13043478260869565
+    }
+  },
+  "recommendations": [
+    "Consider processing more pages to improve pattern reliability",
+    "Limited Quranic references detected - verify Arabic text recognition"
+  ]
+}

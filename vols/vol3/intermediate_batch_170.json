@@ -1,0 +1,742 @@
+{
+  "batch_number": 170,
+  "sections_count": 246,
+  "timestamp": "2025-06-11T20:26:38.433406",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Warning against bribery",
+        "content_type": "heading_major",
+        "page_number": 357,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 357)",
+          "content_type": "navigation",
+          "page_number": 357,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From `Abdul­`Aziz ibn `Abdullah ibn Baz to any Muslim who may see or hear this. May Allah guide me and you to His Right Path, and protect me and you from the punishment of Hellfire! As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "signature",
+          "page_number": 357,
+          "confidence": 0.95,
+          "notes": "Author introduction and greeting",
+          "memory_agreement": false
+        },
+        {
+          "text": "Islam strictly prohibits bribery, i.e., paying money to have one's interests fulfilled by an official whose responsibility it is to do so without payment. It is even more reprehensible if the aim behind paying this money is to render unlawful what is lawful, or vice versa, or to wrong any person.",
+          "content_type": "fatwa_ruling",
+          "page_number": 357,
+          "confidence": 0.9,
+          "notes": "Opening ruling on bribery",
+          "memory_agreement": false
+        },
+        {
+          "text": "Ibn `Abdin (may Allah be merciful with him) wrote in his book Hashiyat: \"Bribery is what a person gives to a ruler or any other person to judge in their favor, or to compel him to do what they want.\" It is clear from this definition that bribery is broader than being money or an interest that one could offer or afford. What is meant by the ruler is a judge or any other official, i.e., all those who can serve an interest to the briber; whether they are rulers, governmental employees or those achieving special tasks such as commission agents, companies, real estate owners, etc. Judging in favor of the briber and inducing the bribed person to do what the briber wants is to fulfill the desire and purpose of the briber, whether right or wrong.",
+          "content_type": "citation",
+          "page_number": 357,
+          "confidence": 0.85,
+          "notes": "Citation from Ibn Abdin with explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 358)",
+          "content_type": "navigation",
+          "page_number": 358,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "O dear brothers in Islam, bribery is one of the major sins that Allah prohibits for His Servants, thus His Messenger (peace be upon him) cursed those who practice it. It is obligatory for Muslims to refrain from bribery, beware of it, and warn people against it, because it involves great evil, grave sin, and bad consequences. It is an act of sin and transgression that Allah (Glorified and Exalted be He) forbids us to cooperate in.",
+          "content_type": "fatwa_ruling",
+          "page_number": 358,
+          "confidence": 0.9,
+          "notes": "Religious ruling on bribery",
+          "memory_agreement": false
+        },
+        {
+          "text": "Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression.",
+          "content_type": "quran_verse",
+          "page_number": 358,
+          "confidence": 0.9,
+          "notes": "Quranic verse about cooperation",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Eat not up your property among yourselves unjustly except it be a trade amongst you, by mutual consent.",
+          "content_type": "quran_verse",
+          "page_number": 358,
+          "confidence": 0.9,
+          "notes": "Quranic verse about unjust consumption of property",
+          "memory_agreement": false
+        },
+        {
+          "text": "And eat up not one another's property unjustly (in any illegal way e.g. stealing, robbing, deceiving, etc.), nor give bribery to the rulers (judges before presenting your cases) that you may knowingly eat up a part of the property of others sinfully.",
+          "content_type": "quran_verse",
+          "page_number": 358,
+          "confidence": 0.9,
+          "notes": "Quranic verse specifically mentioning bribery",
+          "memory_agreement": false
+        },
+        {
+          "text": "Bribery is the severest form of unjust devouring of wealth, because it means paying money to others to make them evade what is right.",
+          "content_type": "paragraph",
+          "page_number": 358,
+          "confidence": 0.8,
+          "notes": "Explanatory text",
+          "memory_agreement": true
+        },
+        {
+          "text": "The prohibition applies to the three pillars of bribery, i.e., the briber, bribed person, and the mediator between them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 358,
+          "confidence": 0.85,
+          "notes": "Ruling on who is affected by prohibition",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah has cursed the briber, the bribed person, and the mediator between them.",
+          "content_type": "hadith",
+          "page_number": 358,
+          "confidence": 0.9,
+          "notes": "Hadith about cursing those involved in bribery",
+          "memory_agreement": false
+        },
+        {
+          "text": "(Related by Ahmad and Al­Tabarany on the authority of Thawban (may Allah be pleased with him))",
+          "content_type": "citation",
+          "page_number": 358,
+          "confidence": 0.95,
+          "notes": "Hadith citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Being cursed by Allah means being cast out and expelled from His Mercy. We seek refuge in Allah from this. One incurs this by committing a grave sin. Bribery is also a kind of Suht (ill­gotten earnings) forbidden by both the Qur'an and Sunnah (whatever is reported from the Prophet). Denouncing the Jews for illegally devouring Suht, Allah (Glorified be He) states:",
+          "content_type": "paragraph",
+          "page_number": 358,
+          "confidence": 0.8,
+          "notes": "Explanatory text leading to Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "(They like to) listen to falsehood, to devour anything forbidden.",
+          "content_type": "quran_verse",
+          "page_number": 358,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Jews and forbidden consumption",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 359)",
+          "content_type": "navigation",
+          "page_number": 359,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And you see many of them (Jews) hurrying towards sin and transgression, and eating illegal things [as bribes and Ribâ (usury)]. Evil indeed is that which they have been doing.",
+          "content_type": "quran_verse",
+          "page_number": 359,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Jews and illegal consumption",
+          "memory_agreement": true
+        },
+        {
+          "text": "Why do not the rabbis and the religious learned men forbid them from uttering sinful words and from eating illegal things. Evil indeed is that which they have been performing.",
+          "content_type": "quran_verse",
+          "page_number": 359,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "For the wrong­doing of the Jews, We made unlawful for them certain good foods which had been lawful for them ­ and for their hindering many from Allâh's Way; And their taking of Ribâ (usury) though they were forbidden from taking it and their devouring of men's substance wrongfully (bribery).",
+          "content_type": "quran_verse",
+          "page_number": 359,
+          "confidence": 0.9,
+          "notes": "Quranic verse about punishment for wrongdoing",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Hadith that warn against this forbidden matter and indicate the evil consequences of those who commit it.",
+          "content_type": "paragraph",
+          "page_number": 359,
+          "confidence": 0.8,
+          "notes": "Transitional text introducing hadith",
+          "memory_agreement": true
+        },
+        {
+          "text": "For every flesh that is grown from Suht, the Fire is the most entitled to it. It was said: What is Suht? He (the Prophet) said: Bribery in ruling.",
+          "content_type": "hadith",
+          "page_number": 359,
+          "confidence": 0.9,
+          "notes": "Hadith from Ibn Umar about Suht",
+          "memory_agreement": true
+        },
+        {
+          "text": "If Riba (usury/interest) emerges among any people, they will suffer a bad harvest, and if bribery emerges among any people, they will suffer intense terror.",
+          "content_type": "hadith",
+          "page_number": 359,
+          "confidence": 0.9,
+          "notes": "Hadith from Amr ibn Al-As about consequences",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Religious Discourse on Lawful Earnings",
+        "content_type": "heading_minor",
+        "page_number": 171,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Muhammad Muwaffaq Al­Din Ibn Qudamah (may Allah be merciful with him) said in Al­Mughny: Al­Hasan and Sa`id ibn Jubayr said regarding the Tafsir (exegesis of the meanings of the Qur'an) of Allah's Statement: to devour anything forbidden. that this refers to bribery. He also stated: When a judge accepts bribery, it is tantamount to Kufr (disbelief). This is because he is willing to judge by other than what Allah has revealed:",
+          "content_type": "citation",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Citation from Ibn Qudamah's Al-Mughny",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever does not judge by what Allâh has revealed, such are the Kâfirûn (i.e. disbelievers of a lesser degree as they do not act on Allâh's Laws).",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.85,
+          "notes": "Quranic verse with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "It was related by Muslim on the authority of Abu Hurayrah (may Allah be pleased with him) that Allah's Messenger (peace be upon him) said: Allah is good and accepts only what is good. Indeed, Allah commands the believers with what He commands the Messengers and He (may He be Exalted)",
+          "content_type": "hadith",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Hadith from Muslim with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 360)",
+          "content_type": "navigation",
+          "page_number": 171,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "says: O (you) Messengers! Eat of the Tayyibât [all kinds of Halâl foods which Allâh has made lawful (meat of slaughtered eatable animals, milk products, fats, vegetables, fruits, etc.] and do righteous deeds. and: O you who believe (in the Oneness of Allâh ­ Islâmic Monotheism)! Eat of the lawful things that We have provided you with Then he (peace be upon him) mentioned a man who has travelled on a long journey and is dishevelled and covered with dust; he stretches forth his hands to the heaven, (saying) \"O Lord, O Lord\", but his food is Haram (prohibited), his drink is Haram, his cloth is Haram, and all his nourishment is Haram, so how can his Du`a' (supplication) be accepted?",
+          "content_type": "hadith",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Continuation of hadith with Quranic verses embedded",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Muslims, fear Allah and beware of His Wrath and avoid what causes His Anger. Allah (Glorified and Exalted be He) becomes jealous when what He has made inviolable is violated. It was reported in a Sahih (authentic) Hadith: There is none who has more jealousy than Allah. Guard yourselves and your families against unlawful earnings and food to save yourselves and your families from the Fire, which Allah has made most entitled to every flesh that is nourished by Suht. Unlawful food also prevents Du`a' from being accepted, based on the previously mentioned Hadith reported on the authority of Abu Hurayrah as recorded in Sahih Book of Hadith of Muslim and based onwhat was related by Al­Tabarany on the authority of Ibn `Abbas (may Allah be pleased with them both) who said: I recited in the presence of Allah's Messenger (peace be upon him) the following Ayah (Qur'anic verse): O mankind! Eat of that which is lawful and good on the earth Thereupon, Sa`d ibn Abu Waqqas stood up to say, \"O Messenger of Allah! Make Du`a' to Allah so that my Du`a' will always be answered.\" So the Prophet (peace be upon him) said, \"O Sa`d! Get your food from lawful means and your Du`a' will always be answered. By the One in Whose Hand is the life of Muhammad, a servant would put an unlawful morsel in his stomach, and his actions will not be accepted for forty days. Whenever a person develops a pot belly from Suht, the Fire is more befitting for it.\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 171,
+          "confidence": 0.85,
+          "notes": "Scholar's religious guidance with hadith citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "This was recorded by Al­Hafizh Ibn Rajab (may Allah be merciful with him) in the book of Jami` Al­`Ulum wal­Hikam from the narration of Al­Tabarany (may Allah be merciful with him). This indicates that seeking unlawful earnings prevents one's Du`a' from being accepted and blocks it from being raised to Allah. What a great misfortune and loss this is. We seek refuge in Allah from this. Allah calls you to protect yourselves and your families against the Fire so as to be safe from the Wrath of Allah and His Severe Punishment,",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.8,
+          "notes": "Explanatory text with citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 361)",
+          "content_type": "navigation",
+          "page_number": 171,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "when He (Glorified and Exalted be He) says: O you who believe! Ward off yourselves and your families against a Fire (Hell) whose fuel is men and stones, over which are (appointed) angels stern (and) severe, who disobey not, (from executing) the Commands they receive from Allâh, but do that which they are commanded. O Muslims, respond to the call of your Lord, obey His Command, avoid what He prohibited, and beware of what causes His Wrath so as to gain prosperity in both this life and the Hereafter. Allah (Exalted be He) says: O you who believe! Answer Allâh (by obeying Him) and (His) Messenger when he (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) calls you to that which will give you life, and know that Allâh comes in between a person and his heart (i.e. He prevents an evil person to decide anything). And verily to Him you shall (all) be gathered. And fear the Fitnah (affliction and trial) which affects not in particular (only) those of you who do wrong (but it may afflict all the good and the bad people), and know that Allâh is Severe in punishment.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.85,
+          "notes": "Religious exhortation with Quranic verses and Arabic text",
+          "memory_agreement": true
+        },
+        {
+          "text": "We supplicate to Allah to make us and you of those who listen to His Word and follow the best of it, those who help each other to righteousness and piety, and those who abide by the Glorious Book of Allah and the Sunnah of His Messenger (peace be upon him). May Allah protect us and you from the evils within ourselves and our misdeeds, give victory to His Din, make His Word uppermost, and guide our rulers to all that benefits people and countries. It is only He Who is Capable of doing so.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Concluding supplication",
+          "memory_agreement": false
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh",
+          "content_type": "signature",
+          "page_number": 171,
+          "confidence": 0.95,
+          "notes": "Islamic greeting/closing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on Letting the Beard Grow",
+        "content_type": "heading_major",
+        "page_number": 172,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 362)",
+          "content_type": "navigation",
+          "page_number": 172,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah Alone. May Allah's Peace and Blessings be upon our Prophet Muhammad, his family, and Companions!",
+          "content_type": "signature",
+          "page_number": 172,
+          "confidence": 0.8,
+          "notes": "Standard Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "Some Muslim brothers asked me the following questions:",
+          "content_type": "paragraph",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Introduction to questions",
+          "memory_agreement": false
+        },
+        {
+          "text": "1­ Is letting the beard grow obligatory or merely permissible?",
+          "content_type": "question",
+          "page_number": 172,
+          "confidence": 0.95,
+          "notes": "First numbered question",
+          "memory_agreement": false
+        },
+        {
+          "text": "2­ Is it a sin or just misconduct to shave one's beard?",
+          "content_type": "question",
+          "page_number": 172,
+          "confidence": 0.95,
+          "notes": "Second numbered question",
+          "memory_agreement": false
+        },
+        {
+          "text": "3­ Is it permissible to shave off the beard and let mustache grow?",
+          "content_type": "question",
+          "page_number": 172,
+          "confidence": 0.95,
+          "notes": "Third numbered question",
+          "memory_agreement": false
+        },
+        {
+          "text": "Following are the answers of these questions: It is authenticallyreported by Al­Bukhari and Muslim in the Two Sahih (authentic) Books of Hadithon the authority of Ibn `Umar (may Allah be pleased with both of them) that the Prophet (peace be upon him) said: Trim the mustache and let the beard grow and be contradictory to the unbelievers.",
+          "content_type": "hadith",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Hadith from Bukhari and Muslim with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, it is related by Muslim in his Sahih on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said: Trim closely the moustache, and grow the beard, and thus act against the fire­worshippers.",
+          "content_type": "hadith",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Second hadith from Muslim with chain of narration",
+          "memory_agreement": true
+        },
+        {
+          "text": "Furthermore, it was related by Al­Nasa'iy in his Sunan through an authentic chain of narrators on the authority of Zayd ibn Arqam (may Allah be pleased with him) that the Prophet (peace be upon him) said: \"Whoever does not trim his moustache is not one of us.\"",
+          "content_type": "hadith",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Third hadith from Al-Nasa'i",
+          "memory_agreement": false
+        },
+        {
+          "text": "The great and well­known Hadith scholar Abu Muhammad ibn Hazm said: \"Scholars are unanimously in agreement that trimming the moustache and letting the beard grow are obligatory.\"",
+          "content_type": "citation",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Quote from Ibn Hazm regarding scholarly consensus",
+          "memory_agreement": true
+        },
+        {
+          "text": "There are many other Hadiths and scholarly discussions in this regard i.e., trimming mustache and letting the beard grow long. They are too lengthy to be quoted in this brief note. The answers of the three questions are evident from the Hadiths mentioned above and the juristic agreement cited by Ibn Hazm.",
+          "content_type": "paragraph",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Transitional paragraph",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 363)",
+          "content_type": "navigation",
+          "page_number": 172,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "In brief, growing beards is obligatory and should not be abandoned as the Prophet (peace be upon him) ordered us to do so which indicates obligation. Allah (Glorified and Exalted be He) says: And whatsoever the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) gives you, take it; and whatsoever he forbids you, abstain (from it).",
+          "content_type": "fatwa_ruling",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Religious ruling with Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "The same is equally applied to cutting and trimming mustaches. However, trimming it closely is better. Anyway, it is by no means permissible to let it grow too much. Actually, this runs counter to the Prophet's (peace be upon him) commands: Trim closely the mustache Trim closely the moustache, and let the beard grow. Trim closely the moustache, and grow the beard, and thus act against the fire­worshippers. \"Whoever does not trim his moustache is not one of us.\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Continued ruling with hadith references",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Prophet (peace be upon him) is authentically reported to have said all these four narrations of Hadith. The last narration said: \"Whoever does not trim his moustache is not one of us.\" This is a severe threat and strict warning, which requires a Muslim to be on his guard against doing that which Allah (Exalted be He) and His Messenger (peace be upon him) prohibited and to proceed to do that which Allah (Exalted be He) and His Messenger (peace be upon him) commanded.",
+          "content_type": "fatwa_ruling",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Explanation of hadith implications",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is also inferred that letting the mustache grow too long is a sin and disobedience. Likewise, shaving and cutting the beard short is a sin and disobedience having the effect of decreasing and weakening one's faith. Moreover, it is likely to incur Allah's wrath and punishment.",
+          "content_type": "fatwa_ruling",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Clear religious ruling on consequences",
+          "memory_agreement": true
+        },
+        {
+          "text": "Moreover, the above­quoted Hadiths indicate that letting mustaches grow and trimming beards fall under acting like the magi and disbelievers when it is well­known that acting like them is not permissible. To this effect, the Prophet (peace be upon him) said: \"Anyone who imitates a people is one of them.\" I hope that my answer is sufficient and convincing.",
+          "content_type": "fatwa_ruling",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Final ruling with additional hadith",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah grant us success! May Peace and Blessings be upon our Prophet Muhammad, his family, and Companions!",
+          "content_type": "signature",
+          "page_number": 172,
+          "confidence": 0.95,
+          "notes": "Standard Islamic closing formula",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The obligation of letting the beard grow",
+        "content_type": "heading_minor",
+        "page_number": 173,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 364)",
+          "content_type": "navigation",
+          "page_number": 173,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: An inquirer from the Kingdom of Morocco asks: Is letting the beard grow a necessary characteristic that should be observed by a Muslim?",
+          "content_type": "question",
+          "page_number": 173,
+          "confidence": 0.95,
+          "notes": "Question from Moroccan inquirer",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: It is obligatory upon a Muslim to let the beard grow without shaving it, as a way of obeying the commandment of the master of the earlier and the later people, Prophet Muhammad ibn `Abdullah, the Messenger of the Lord of the Worlds. May Allah's Peace and Blessings be upon him!",
+          "content_type": "answer",
+          "page_number": 173,
+          "confidence": 0.95,
+          "notes": "Scholar's initial response establishing obligation",
+          "memory_agreement": true
+        },
+        {
+          "text": "This is because He (peace be upon him) said: Trim closely the mustache and let the beard grow! Be distinguished from the unbelievers! (Agreed upon by Imams Al­Bukhari and Muslim). This Hadith was narrated on the authority of Ibn `Umar (may Allah be pleased with them both).",
+          "content_type": "hadith",
+          "page_number": 173,
+          "confidence": 0.9,
+          "notes": "Hadith from Ibn Umar with citation to Bukhari and Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, he (peace be upon him) said: Trim closely the mustache and grow the beard! Act against The Magi! Narrated by Muslim in his Sahih from the Hadith of Abu Hurayrah (may Allah be pleased with him)",
+          "content_type": "hadith",
+          "page_number": 173,
+          "confidence": 0.9,
+          "notes": "Second hadith from Abu Hurayrah via Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is well known that one can only attain all good in this life and in the Hereafter through obeying and following the Messenger of Allah (peace be upon him) and that all evil lies in disobeying Allah and His Messenger and following desires and Shaytan (Satan).",
+          "content_type": "paragraph",
+          "page_number": 173,
+          "confidence": 0.85,
+          "notes": "Explanatory text on obedience",
+          "memory_agreement": false
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ to mankind): \"If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur'ân and the Sunnah), Allâh will love you and forgive you your sins.",
+          "content_type": "quran_verse",
+          "page_number": 173,
+          "confidence": 0.85,
+          "notes": "Quranic verse about following the Prophet",
+          "memory_agreement": false
+        },
+        {
+          "text": "Then for him who transgressed all bounds, (in disbelief, oppression and evil deeds of disobedience to Allâh). And preferred the life of this world (by following his evil desires and lusts), Verily, his abode will be Hell­fire; But as for him who feared standing before his Lord, and restrained himself from impure evil desires and lusts. Verily, Paradise will be his abode.",
+          "content_type": "quran_verse",
+          "page_number": 173,
+          "confidence": 0.8,
+          "notes": "Quranic verse about consequences of obedience/disobedience",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (may He be Praised) condemned the polytheists for following their assumptions and desires. Thus, Allah (Glorified and Exalted be He) says in Surat Al­Najm: They follow but a guess and that which they themselves desire, whereas there has surely come to them the Guidance from their Lord!",
+          "content_type": "quran_verse",
+          "page_number": 173,
+          "confidence": 0.85,
+          "notes": "Verse from Surat Al-Najm with context",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 365)",
+          "content_type": "navigation",
+          "page_number": 173,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Prophet (peace be upon him) said: My entire Ummah will enter Paradise except who refuses, then it was said: O' Messenger of Allah, who will refuse? He said, \"Whoever obeys me will enter Paradise, and whoever disobeys me is the one who refuses.\" (Narrated by Al­Bukhari in his book of Sahih Hadiths)",
+          "content_type": "hadith",
+          "page_number": 173,
+          "confidence": 0.9,
+          "notes": "Hadith about obedience from Bukhari",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Ayahs and Hadiths on the command of obeying Allah and His Messenger and forbidding disobeying Allah and His Messenger (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 173,
+          "confidence": 0.85,
+          "notes": "Summary statement about scriptural evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah guide all Muslims to obey their Lord, worship Him Alone, and be devoted to Him and follow His Messenger Muhammad (peace be upon him) and hold fast to what the Prophet brought, He is All­Hearer, Ever Near.",
+          "content_type": "paragraph",
+          "page_number": 173,
+          "confidence": 0.8,
+          "notes": "Concluding supplication",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "An important answer on the ruling on shaving beards and whether other sins invalidate good deeds",
+        "content_type": "heading_minor",
+        "page_number": 174,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 366)",
+          "content_type": "navigation",
+          "page_number": 174,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From `Abdul Aziz ibn `Abdullah ibn Baz to you honorable brother, the editor­in­chief of Arab News newspaper,",
+          "content_type": "signature",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Letter opening with author identification",
+          "memory_agreement": false
+        },
+        {
+          "text": "may Allah grant you success!",
+          "content_type": "signature",
+          "page_number": 174,
+          "confidence": 0.8,
+          "notes": "Formal greeting continuation",
+          "memory_agreement": false
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "arabic_text",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Islamic greeting with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "I have read the translation of what was mentioned in your newspaper (p. 7, issue of Friday, 24/2/1984) in the religious affairs section, as an answer to the following question sent to you by a brother from Jeddah.",
+          "content_type": "paragraph",
+          "page_number": 174,
+          "confidence": 0.8,
+          "notes": "Context setting for the response",
+          "memory_agreement": true
+        },
+        {
+          "text": "The question was as follows: What is the ruling on shaving the beard and mustache? Is there a specific punishment after death for those who shave their beards? Does shaving the beard invalidate good deeds and the reward of `Ibadah (worship)?",
+          "content_type": "question",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Multi-part question about beard shaving",
+          "memory_agreement": false
+        },
+        {
+          "text": "I saw that the answer issued by the newspaper was insufficient. The correct answer is to say that growing the beard and trimming the mustache is obligated by the Prophet (peace be upon him).",
+          "content_type": "answer",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": false
+        },
+        {
+          "text": "It was authentically reported that he (peace be upon him) said: Trim closely the mustache and let the beard grow! Be distinguished from the Mushriks i.e polytheists. (Agreed upon by Imams Al­Bukhari and Muslim).",
+          "content_type": "hadith",
+          "page_number": 174,
+          "confidence": 0.95,
+          "notes": "Hadith with citation to Bukhari and Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "It was also related by Muslim in his Sahih (authentic) Book of Hadith, on the authority of Abu Hurayrah (may Allah be pleased with him) that the Messenger of Allah (peace be upon him) said: Trim closely the mustache and let the beard grow! Be distinguished from the magi.",
+          "content_type": "hadith",
+          "page_number": 174,
+          "confidence": 0.95,
+          "notes": "Second hadith with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "These two Sahih Hadiths and others that have the same meaning indicate the obligation of letting the beard grow without ever cutting it and trimming the mustache. No punishment was mentioned for this case.",
+          "content_type": "fatwa_ruling",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Scholar's interpretation and ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 367)",
+          "content_type": "navigation",
+          "page_number": 174,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "However, a Muslim should obey the orders of Allah (Glorified be He) and His Messenger (peace be upon him), and avoid what they prohibit even if no particular punishment is specified. It is permissible for the ruler to punish those who violate the commands and prohibitions through the suitable deterring punishment that he might see, provided that it is less than the punishment of Hudud (ordained punishment for violating Allah's Law) in order to deter people from committing the things prohibited by Allah (Exalted be He) and transgressing His limits.",
+          "content_type": "fatwa_ruling",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Continued ruling on punishment and obedience",
+          "memory_agreement": false
+        },
+        {
+          "text": "It was authentically reported that the Rightly­Guided Caliph `Uthman ibn `Affan (may Allah be pleased with him) said, \"Allah fulfills through the rulers what might not be fulfilled through the Qur'an.\"",
+          "content_type": "citation",
+          "page_number": 174,
+          "confidence": 0.8,
+          "notes": "Quote from Caliph Uthman",
+          "memory_agreement": false
+        },
+        {
+          "text": "Those who die in this state are left to Allah's Will, like the rest of the sins. He might forgive them if He wants; and He might punish them with what serves them right for their sins, if he wants. Those sins include shaving the beard and letting the mustache grow.",
+          "content_type": "fatwa_ruling",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Ruling on afterlife consequences",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Exalted be He) says: Verily, Allâh forgives not that partners should be set up with Him (in worship), but He forgives except that (anything else) to whom He wills",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Quranic verse about forgiveness",
+          "memory_agreement": false
+        },
+        {
+          "text": "This noble Ayah (Qur'anic verse) indicates that all sins less than Shirk (associating others with Allah in His Divinity or worship) are left to Allah's Will, which is the opinion of Ahl­ul­Sunnah wal­Jama`ah (those adhering to the Sunnah and the Muslim main body), unlike that of Khawarij (separatist group that believes committing a major sin amounts to disbelief), Mu`tazilah (a deviant Islamic sect claiming that those who commit major sins are in a state between belief and disbelief) and other similar people of Bida` (innovations in religion) who followed them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Theological explanation with sect comparisons",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, it is deduced that shaving the beard, letting the mustache grow and other sins less than Shirk do not invalidate righteous deeds or their rewards. However, they decrease and weaken one's Iman (Faith). Deeds are only invalidated through Shirk and major Kufr (disbelief), not sins.",
+          "content_type": "fatwa_ruling",
+          "page_number": 174,
+          "confidence": 0.95,
+          "notes": "Main ruling answering the original question",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is according to Allah's Saying (Exalted be He): But if they had joined in worship others with Allâh, all that they used to do would have been of no benefit to them.",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Supporting Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "He (Glorified and Exalted be He) also says: And indeed it has been revealed to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), as it was to those (Allâh's Messengers) before you: \"If you join others in worship with Allâh, (then) surely (all) your deeds will be in vain, and you will certainly be among the losers.\"",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Second supporting Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Ayahs that stress the same meaning.",
+          "content_type": "paragraph",
+          "page_number": 174,
+          "confidence": 0.8,
+          "notes": "Concluding statement about Quranic support",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah guide everyone and grant them success! May Allah's Peace and Blessings be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "signature",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Closing prayer and blessing",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

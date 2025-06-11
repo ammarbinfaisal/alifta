@@ -1,0 +1,319 @@
+{
+  "batch_number": 140,
+  "sections_count": 209,
+  "timestamp": "2025-06-11T20:00:28.743067",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Lesson 18:",
+        "content_type": "navigation",
+        "page_number": 141,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "Preparing the deceased for burial and offering the funeral prayer.",
+          "content_type": "navigation",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Lesson description",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Preparing the deceased for burial:",
+        "content_type": "navigation",
+        "page_number": 141,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "(1) If someone dies, his eyes should be closed and his jaws have to be kept together.",
+          "content_type": "list_item",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "First step in preparing deceased",
+          "memory_agreement": false
+        },
+        {
+          "text": "(2) The body of a deceased Muslim, other than one killed in a battlefield, should be washed. Martyrs should not be washed and no funeral prayer should be offered for them. Their bodies should be enshrouded in the clothes they wore when they died; as the Prophet (peace be upon him) did not wash the martyrs of the Battle of Uhud and did not offer funeral prayer for them.",
+          "content_type": "list_item",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Instructions for washing deceased with hadith reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "(3) How should the dead be washed? Upon washing the body of the deceased, his private parts are to be covered, and his stomach is to be gently pressed. The person who undertakes the washing of the body of the deceased should bind a clean piece of cloth, or something similar to it, around his own hand with which to clean the private parts of the deceased. He then gives him a Wudu' (ablution) wash [like the one that is performed prior to offering prayer]. He then washes his head and beard with water and nabk (lotus jujube) or something similar to it. Then he washes the rest of the body, beginning with the right side then the left side. He repeats this procedure two or three times, each time gently pressing the deceased's stomach. If anything happens to come out of one of the two orifices, then he has to wash it off and then block off the affected orifice with a piece of cotton wool or something similar to it. If this fails to work, he can then use anything that can satisfactorily serve the purpose, such as the use of adhesive plaster that is used in modern medical treatment.",
+          "content_type": "list_item",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Detailed washing procedure",
+          "memory_agreement": true
+        },
+        {
+          "text": "He should repeat the ablution. If the body is not clean with three major washes, he can then wash it five or seven times. He then wipes the body dry, puts perfume on his underarms, in the upper part between the legs as well as the parts of the body that we put on the floor in the position of prostration. It is better to put perfume all over the body. His shrouds should be incensed with burned incense. His moustache and nails should be trimmed if they are too long,",
+          "content_type": "paragraph",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Continuation of washing procedure",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 297)",
+          "content_type": "navigation",
+          "page_number": 141,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and his hair should not be combed or styled. If the deceased is a woman, her hair has to be made into three plaits and then let it hangs loosely behind her.",
+          "content_type": "paragraph",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Hair preparation instructions",
+          "memory_agreement": true
+        },
+        {
+          "text": "(4) Enshrouding the dead: It is better to wrap the body of the deceased in three white shrouds not including a Qamis (long shirt) or a turban if he is a man. There is no harm in shrouding him in a Qamis, Izar (loincloth) and a large wrapper. If the deceased is a woman, her body has to be wrapped in five shrouds: a Dir` (breast cloth), Khimar (scarf), Izar, and two long wrappers.",
+          "content_type": "list_item",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Shrouding instructions for men and women",
+          "memory_agreement": false
+        },
+        {
+          "text": "A young boy should be wrapped in one, two, or three shrouds, and the body of the young girl has to be wrapped in one Qamis and two long wrappers. However, one shroud is sufficient for any person, if it covers the whole body. If the deceased man was in a state of Ihram (ritual state for Hajj or `Umrah), his body should be washed with water and nabk and he should be enshrouded in his Izar (what covers the lower part of the body) and Rida' (what covers the upper part of the body) or any other shroud. His head and face should not be covered and his body should not be perfumed; as he will be raised on the Day of Resurrection with Talbiyah (devotional expressions chanted at certain times during Hajj and `Umrah) on his lips, according to the Hadith of our great Prophet (peace be upon him). If (the deceased was) a woman, she should be shrouded like any other woman; but, her body should not be perfumed, her face should not be covered by Niqab (face veil) and her hands should not be covered with gloves. Her face and hands should be covered by the shroud itself, as we clarified above.",
+          "content_type": "paragraph",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Detailed shrouding instructions for different categories",
+          "memory_agreement": false
+        },
+        {
+          "text": "(5) The person who is more right to undertake the washing of the body of the deceased is the one appointed in the deceased will, then the father, the grandfather, and then the next of kin.",
+          "content_type": "list_item",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Priority order for washing deceased men",
+          "memory_agreement": false
+        },
+        {
+          "text": "The person more entitled to wash the body of the body of the deceased woman is the female person appointed in the will to do so, then the mother, then the grandmother, and then the next of kin amongst the female relatives. A man can wash the body of his wife and she can also wash the body of her husband. Abu Bakr Al­Siddiq (may Allah be pleased with him) was washed by his wife, and `Ali Ibn Abi Talib (may Allah be pleased with him) washed his wife Fatimah (may Allah be pleased with her).",
+          "content_type": "paragraph",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Priority order for washing deceased women with historical examples",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "(6) Performing the funeral prayer:",
+        "content_type": "navigation",
+        "page_number": 141,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "a) To say Allahu Akbar and to recite Surah Al­Fatihah. It is good to recite along with it a short Surah, or a verse or two, as evidenced by the Hadith narrated on the authority of Ibn `Abbas (may Allah be pleased with him). b) To say Allahu Akbar for the second time and invoke peace and blessings upon the Prophet (peace be upon him), reciting the same form of the second Tashahhud. c) To say Allahu Akbar for the third time and then say, \"O Allah, forgive our living and our dead, those who are with us and those who are absent, our young and old, and our men and our women. O Allah, whomever You keep alive from among us let him be upon Islam and whomever You take away from among us, take him away in Faith. O Allah, forgive him, have mercy on him,",
+          "content_type": "list_item",
+          "page_number": 141,
+          "confidence": 0.9,
+          "notes": "Steps of funeral prayer with supplications - text appears to be cut off",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Funeral Prayer Instructions",
+        "content_type": "heading_minor",
+        "page_number": 142,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 298)",
+          "content_type": "navigation",
+          "page_number": 142,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "pardon him and make honorable his reception. Cause his entrance to be wide and cleanse him with water, snow and ice. Cleanse him of sins as a white cloth is cleansed of stains. Exchange his home for a better home, his family for a better family, and his spouse for a better spouse. Admit him into Paradise, protect him from the punishment of the grave and the torment of the Fire. Enlarge for him his tomb and shed light upon him in it. O Allah, do not deprive us of his reward and do not let us go astray after him.\" d) To say Allahu Akbar for the fourth time and then to make Taslim on the right side only.",
+          "content_type": "fatwa_ruling",
+          "page_number": 142,
+          "confidence": 0.9,
+          "notes": "Continuation of funeral prayer instructions with specific du'a",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is desirable to raise one's hands with each Takbir. If the deceased is a woman, then one should change the ending of certain words, such as, \"O Allah, forgive her, have mercy on her, keep her safe, pardon her ...\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 142,
+          "confidence": 0.9,
+          "notes": "Instructions for prayer modifications based on gender",
+          "memory_agreement": false
+        },
+        {
+          "text": "Also, if the deceased are two or more persons, a few changes to some of the words have to be made, \"O Allah, forgive them both, have mercy on them both, keep them both safe, pardon them both ...\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 142,
+          "confidence": 0.9,
+          "notes": "Instructions for multiple deceased persons",
+          "memory_agreement": false
+        },
+        {
+          "text": "If the deceased is a baby or a child, we should pray for him thus, \"O Allah, make him/her a preceding reward and a stored treasure for his/her parents and an answered intercessor. O Allah, through him/her, make heavy their Scales and magnify their reward. Gather him/her with the righteous believers, place him/her under the care of (Prophet) Ibrahim, and save him/her by Your Mercy from the torment of Hell.\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 142,
+          "confidence": 0.9,
+          "notes": "Special prayer for deceased children",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Sunnah, when performing the funeral prayer, is that the Imam should stand by the head of the deceased if he is a man, or by the middle of the deceased if she is a woman. If there are children amongst the dead, the boy is to be placed before the woman and the girl after her. The boy's head should be placed next to the head of the man, and the middle of the woman should be placed next to the head of the man. If there is a girl amongst them, her head should be placed next to the head of the woman. Those offering the funeral prayer should stand behind the Imam. If there is one person with the Imam, then the former should stand on the right of the latter.",
+          "content_type": "fatwa_ruling",
+          "page_number": 142,
+          "confidence": 0.85,
+          "notes": "Detailed positioning instructions for funeral prayer",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise is due to Allah Alone. Peace and blessings be upon His Messenger, his family, and his noble Companions.",
+          "content_type": "signature",
+          "page_number": 142,
+          "confidence": 0.95,
+          "notes": "Standard Islamic closing formula",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Proving the Truth of Jinn's Inhabitation of Human Beings and Refuting Those Who Deny This",
+        "content_type": "heading_major",
+        "page_number": 299,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 299)",
+          "content_type": "navigation",
+          "page_number": 299,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah. May peace and blessings be upon the Messenger of Allah, his Companions,",
+          "content_type": "paragraph",
+          "page_number": 299,
+          "confidence": 0.85,
+          "notes": "Opening invocation"
+        },
+        {
+          "text": "and those who follow his guidance!",
+          "content_type": "paragraph",
+          "page_number": 299,
+          "confidence": 0.8,
+          "notes": "Continuation of opening invocation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Some short and long articles were published in local newspapers and others in the month of Sha`ban of this year (1407 A.H.) regarding the declaration of some members of the Jinn who possessed Muslim women in Riyadh. They declared that they had become Muslims before me after they had declared this before brother `Abdullah ibn Mushrif Al­`Umary who lives in Riyadh. Al­ `Umary recited some Adhkar (invocations) on the Jinn­possessed lady and talked to the Jinn, reminding him of Allah (Exalted be He) and His Omnipotence as well as frightening him with the grievous sin of injustice. After the Jinn said that he is a Buddhist disbeliever, the shaykh called him to Islam and to come out of the woman whom he was possessing. Accordingly, the Jinn complied and declared his conversion to Islam before shaykh Al­`Umary. Then, shaykh Al­ `Umary and the guardians of the woman wanted to come to me with the woman to hear the Jinn member's conversion to Islam. When they were all present, I asked the Jinn about the reason for embracing Islam. He spoke on the tongue of the woman but in a manly voice. All this happened in the presence of the woman who was sitting in the chair next to me beside her brother, sister and shaykh Al­`Umary as well as some shayks who witnessed and heard the speech of the Jinn while openly declaring his conversion to Islam. He said he was a Buddhist from India. On my part, I advised him to observe Taqwa (fearing Allah as He should be feared) and to leave the body of this woman as he is making her suffer. The Jinn submitted to my order and said that he embraced Islam willingly. Therefore, I advised him",
+          "content_type": "paragraph",
+          "page_number": 299,
+          "confidence": 0.9,
+          "notes": "Main narrative describing the incident with the Jinn"
+        },
+        {
+          "text": "( Part No : 3, Page No: 300)",
+          "content_type": "navigation",
+          "page_number": 300,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "to call his people to Islam after Allah (Exalted be He) had guided him to the right path. He came out of the woman's body and his last word was \"As­salamu `alaykum\" (peace be upon you), then the woman spoke with her normal voice and felt comfortable and relaxed from the pain he was causing to her. After the lapse of a month or more, she visited me again with her brothers, maternal uncle, and sister and told me that she was very well, her condition was stable and the Jinn had never returned to her. When I asked her about how she felt when she was possessed by this Jinn, she said that she always had deviant ideas contradicting the Shari`ah, in addition to an inclination to the Buddhist religion, and a desire to read its books. However, after this Jinn was exercised from her, she no longer had such ideas, as she returned to her normal state away from such abominable ideas.",
+          "content_type": "paragraph",
+          "page_number": 300,
+          "confidence": 0.9,
+          "notes": "Continuation of narrative and follow-up"
+        },
+        {
+          "text": "I was told that shaykh `Aly Al­Tantawy denied the occurrence of such matters, claiming that this is a kind of charlatanism and mere lies. He said that the speech that was mentioned on the tongue of the woman might have been recorded, not real. I asked for the tape in which the Jinn had declared that, and was confirmed that such opinions are really his. However, I could not imagine how he could think that what the woman said was recorded even though I, myself, asked the Jinn some questions and he replied. Then how could a person having the least degree of wisdom imagine that a recorded tape can be asked and give answers. This is one of the ugliest abominations and a way of permitting falsehood. He even said that the Jinn's conversion to Islam by a human opposes Allah's Saying in the story of Sulayman (Solomon) as He says:",
+          "content_type": "paragraph",
+          "page_number": 300,
+          "confidence": 0.88,
+          "notes": "Response to criticism and refutation"
+        },
+        {
+          "text": "and bestow upon me a kingdom such as shall not belong to any other after me",
+          "content_type": "quran_verse",
+          "page_number": 300,
+          "confidence": 0.85,
+          "notes": "Quranic verse reference"
+        },
+        {
+          "text": "Undoubtedly, his understanding was wrongful and untrue (may Allah guide him) as there is nothing whatsoever regarding the Jinn's conversion to Islam by a human going against Sulayman's call.",
+          "content_type": "fatwa_ruling",
+          "page_number": 300,
+          "confidence": 0.8,
+          "notes": "Scholar's ruling on the matter",
+          "memory_agreement": false
+        },
+        {
+          "text": "Similarly, a multitude of the members of the Jinn converted to Islam as a result of the Prophet's (peace be upon him) Da`wah (calling to Islam) to them.",
+          "content_type": "paragraph",
+          "page_number": 300,
+          "confidence": 0.85,
+          "notes": "Supporting evidence from Islamic history"
+        },
+        {
+          "text": "This is mentioned in the Surah of Al­Ahkaf and Surah of Al­Jinn.It is reported in the Two Sahih Bookson the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said,",
+          "content_type": "citation",
+          "page_number": 300,
+          "confidence": 0.9,
+          "notes": "Citation of Quranic chapters and hadith source"
+        },
+        {
+          "text": "Satan came to me yesterday suddenly, so as to spoil my prayer but Allah enabled me to overpower him, and so I caught him",
+          "content_type": "hadith",
+          "page_number": 300,
+          "confidence": 0.85,
+          "notes": "Beginning of hadith narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 301)",
+          "content_type": "navigation",
+          "page_number": 301,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and intended to tie him to one of the pillars of the mosque so that all of you might see him, but I remembered the invocation of my brother Sulayman (Solomon) (peace be upon him): My Lord! Forgive me, and bestow upon me a kingdom such as shall not belong to any other after me so I let him go cursed. This is the wording of Al­Bukhari, whereas the wording of Muslim is: A strong demon of the Jinn came to me yesterday suddenly, so as to spoil my prayer, but Allah enabled me to overpower him, and I caught him and intended to tie him to one of the pillars of the mosque so that all of you might see him, but I remembered the invocation of my brother Sulayman (Solomon) (peace be upon him): My Lord! Forgive me, and bestow upon me a kingdom such as shall not belong to any other after me so I let him go cursed",
+          "content_type": "hadith",
+          "page_number": 301,
+          "confidence": 0.9,
+          "notes": "Continuation of hadith with different versions from Bukhari and Muslim",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}
