@@ -1,0 +1,1651 @@
+{
+  "batch_number": 30,
+  "sections_count": 114,
+  "timestamp": "2025-06-12T03:00:26.353257",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 4:",
+        "content_type": "heading_question",
+        "page_number": 97,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Some disagreements arise among the Du`ah i.e. Muslim callers, that almost outweigh the points of agreement, hinder Islamic work, and may lead to some seditious acts, differences, and disputes. What is your advice for those concerned?",
+          "content_type": "question",
+          "page_number": 97,
+          "confidence": 0.95,
+          "notes": "Question about disagreements among Muslim callers",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: I advise the Du`ah to act sincerely for the sake of Allah and cooperate in righteousness and piety. They should refer to the judgments of the Book and Sunnah in their disputes, acting upon Allah's Saying (Exalted be He):",
+          "content_type": "answer",
+          "page_number": 97,
+          "confidence": 0.95,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": true
+        },
+        {
+          "text": "(And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.",
+          "content_type": "quran_verse",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Quranic verse about resolving disputes",
+          "memory_agreement": false
+        },
+        {
+          "text": "In this way, the objective will be united, efforts combined, and Al­Haqq (the Truth) would triumph and falsehood would be defeated. All this can be achieved by seeking refuge with Allah and asking Him for success and avoiding the personal whims. Allah (Glorified and Exalted be He) says:",
+          "content_type": "answer",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Continuation of answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "But if they answer you not (i.e. do not bring the Book nor believe in your doctrine of Islâmic Monotheism), then know that they only follow their own lusts. And who is more astray than one who follows his own lusts, without guidance from Allâh?",
+          "content_type": "quran_verse",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Quranic verse about following desires",
+          "memory_agreement": false
+        },
+        {
+          "text": "Addressing His Prophet and Messenger Dawud (David peace be upon him), Allah (Glorified and Exalted be He) says:",
+          "content_type": "answer",
+          "page_number": 97,
+          "confidence": 0.85,
+          "notes": "Introduction to another verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Dâwûd (David)! Verily, We have placed you as a successor on the earth; so judge you between men in truth (and justice) and follow not your desire — for it will mislead you from the Path of Allâh.",
+          "content_type": "quran_verse",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Quranic verse addressed to Prophet David",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 171)",
+        "content_type": "navigation",
+        "page_number": 98,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "Q: What is your general advice to the youth of the ever­growing Islamic awakening nowadays in the Islamic world?",
+          "content_type": "question",
+          "page_number": 98,
+          "confidence": 0.95,
+          "notes": "Question about Islamic awakening among youth",
+          "memory_agreement": false
+        },
+        {
+          "text": "A : This awakening, which pleases every Mu'min (believer) may be called an Islamic movement, revival and activity ­ should be promoted and directed to hold fast to the Book and Sunnah (whatever is reported from the Prophet). Its leaders and members should stay away from excessiveness and immoderation. Allah (Glorified and Exalted be He) says:",
+          "content_type": "answer",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Answer about Islamic awakening",
+          "memory_agreement": false
+        },
+        {
+          "text": "O people of the Scripture (Christians)! Do not exceed the limits in your religion",
+          "content_type": "quran_verse",
+          "page_number": 98,
+          "confidence": 0.85,
+          "notes": "Quranic verse about religious moderation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Beware of religious extremism, for those who were before you perished because of their religious extremism.",
+          "content_type": "hadith",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about extremism",
+          "memory_agreement": false
+        },
+        {
+          "text": "Ruined are those who are harsh in religion. Ruined are those who are harsh in religion. Ruined are those who are harsh in religion.",
+          "content_type": "hadith",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Prophetic saying repeated three times",
+          "memory_agreement": false
+        },
+        {
+          "text": "They should always devote their efforts to Allah asking Him for success, sincerity, and righteous deed and steadfastness upon truth. They should carefully recite, contemplate, and comprehend the Ever­Glorious Qur'an and act upon the Sunnah that comes next only to the Qur'an as a source of legislation, for it also interprets the Book of Allah. Allah (Glorified and Exalted be He) says:",
+          "content_type": "answer",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Continuation of advice",
+          "memory_agreement": false
+        },
+        {
+          "text": "And We have also sent down unto you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) the Dhikr [reminder and the advice (i.e. the Qur'ân)], that you may explain clearly to men what is sent down to them, and that they may give thought.",
+          "content_type": "quran_verse",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the Quran's purpose",
+          "memory_agreement": false
+        },
+        {
+          "text": "And We have not sent down the Book (the Qur'an) to you (O Muhammad ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭ ﺳـﻠﻢ), except that you may explain clearly unto them those things in which they differ, and (as) a guidance and a mercy for a folk who believe.",
+          "content_type": "quran_verse",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the Book's guidance",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Du`ah (callers to Islam) should make use of this Islamic awakening and cooperate with its leaders to remove suspicions that may waver around any of them acting upon Allah's Saying (Glorified and Exalted be He):",
+          "content_type": "answer",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Advice for Islamic callers",
+          "memory_agreement": false
+        },
+        {
+          "text": "Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression.",
+          "content_type": "quran_verse",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Quranic verse about cooperation",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 6:",
+        "content_type": "heading_question",
+        "page_number": 99,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "What do you say about a Muslim community that applied the Islamic prescriptions for about one year or more and then replaced them with positive Western laws?",
+          "content_type": "question",
+          "page_number": 99,
+          "confidence": 0.95,
+          "notes": "Question about replacing Islamic law with Western law",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Indeed, it is obligatory on all Muslim rulers to apply Allah's Shari`ah (Islamic law) among Muslims.",
+          "content_type": "answer",
+          "page_number": 99,
+          "confidence": 0.95,
+          "notes": "Beginning of fatwa ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 172)",
+          "content_type": "navigation",
+          "page_number": 99,
+          "confidence": 0.95,
+          "notes": "Page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "They are required to do this at all times, call others to it, and impose the prescribed punishments on members of the society. Addressing His Prophet (peace be upon him), Allah (may He be exalted) says:",
+          "content_type": "answer",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "And so judge (you O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) among them by what Allâh has revealed",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.85,
+          "notes": "Quranic verse about judging by revelation",
+          "memory_agreement": false
+        },
+        {
+          "text": "But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Quranic verse about accepting Islamic judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith.",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Allah's judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever does not judge by what Allâh has revealed, such are the Kâfirûn (i.e. disbelievers of a lesser degree as they do not act on Allâh's Laws). And whosoever does not judge by that which Allâh has revealed, such are the Zâlimûn (polytheists and wrong­doers ­ of a lesser degree). And whosoever does not judge by what Allâh has revealed (then) such (people) are the Fâsiqûn [the rebellious i.e. disobedient (of a lesser degree) to Allâh].",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Three-part Quranic verse about not judging by Allah's revelation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Muslim rulers should observe these noble verses and adhere to the rulings by themselves (i.e. Muslim rulers) and enforce them among their peoples. If they do so, Allah will consolidate and honor them, grant them victory over the enemies, bless them with His Support and bestow on them a blessed end of life and happiness in the worldly life and in the Hereafter. Allah (Exalted be He) says:",
+          "content_type": "fatwa_ruling",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Ruling about Muslim rulers' obligations",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm.",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Quranic verse about divine help",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, Allâh will help those who help His (Cause). Truly, Allâh is All­Strong, All­Mighty. Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat­as­Salât [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al­Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur'ân as the law of their country in all the spheres of life]. And with Allâh rests the end of (all) matters (of creatures).",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Extended Quranic verse about righteous rulers",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allâh has promised those among you who believe and do righteous good deeds, that He will certainly grant them succession to (the present rulers) in the land, as He granted it to those before them, and that He will grant them the authority to practise their religion which He has chosen for them (i.e. Islâm). And He will surely give them in exchange a safe security after their fear (provided) they (believers) worship Me and do not associate anything (in worship) with Me.",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Quranic verse about divine promise to believers",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 173)",
+          "content_type": "navigation",
+          "page_number": 99,
+          "confidence": 0.95,
+          "notes": "Page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "No doubt, making Allah's Shari`ah the ruler on the affairs of people is a sign of victory of Islam, a way of enjoining what is good and forbidding what is evil and a righteous deed. Allah (glory be to Him) promised those who do these things to give them succession in the earth, grant them the authority to practice their religion, and give them security after having fear. We ask Allah (Exalted be He) to help the Muslim rulers to adhere to His Shari`ah, be satisfied with it, and shun anything that runs counter to it for He is the One who is Able to do so.",
+          "content_type": "fatwa_ruling",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Concluding ruling and supplication",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 7:",
+        "content_type": "heading_question",
+        "page_number": 100,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "What do you think of calling to nationalism believing that one's national origin has priority over being a follower of Islam? They claim that they do not oppose Islam but only give priority to their nationality.",
+          "content_type": "question",
+          "page_number": 100,
+          "confidence": 0.95,
+          "notes": "Question about nationalism vs Islam",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: This is a call of Jahiliyyah (pre­Islamic time of ignorance). It is impermissible to follow it or encourage people who believe in it; instead it should be opposed. The Shari`ah (Islamic law) opposes this call, refutes its claims and clarifies the truth to its supporters. It is only Islam that eternalizes Pan­Arabism; and rejection of Islam results in the destruction of language, literature, and morals of Pan­Arabism. Thus, they should do their best in promoting Islam as much as the invaders do their best to surpress it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 100,
+          "confidence": 0.95,
+          "notes": "Strong ruling against nationalism",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is necessarily known in Islam that calling for Pan­Arabism or nationalism is Batil (null and void), evident Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect), an act of Jahiliyyah, and a plot against Islam, and the Muslims. We have clarified this in a book entitled \"Naqd Al­Qawmiyyah Al­`Arabiyyah `ala Daw' Al­Islam wal­Waqi` (Criticism of Pan­Arabism in the Light of Islam and Reality)\".We have sent you a copy of this book to quote from it whatever you like. May Allah guide us all to what pleases Him.",
+          "content_type": "fatwa_ruling",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Extended ruling with book reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah's peace and blessings be upon our Prophet Muhammad, his family, and Companions!",
+          "content_type": "signature",
+          "page_number": 100,
+          "confidence": 0.95,
+          "notes": "Closing blessing formula",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A call to help the Sudan and its people in their crisis",
+        "content_type": "heading_major",
+        "page_number": 101,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 174)",
+          "content_type": "navigation",
+          "page_number": 101,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "These words are from `Abdul `Aziz Bin `Abdullah Ibn Baz to Muslims and others in the Kingdom of Saudi Arabia and outside. May Allah guide us all to do good and be among those who hasten to perform lasting righteous good deeds!",
+          "content_type": "signature",
+          "page_number": 101,
+          "confidence": 0.9,
+          "notes": "Author attribution and introduction",
+          "memory_agreement": false
+        },
+        {
+          "text": "A s­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "arabic_text",
+          "page_number": 101,
+          "confidence": 0.85,
+          "notes": "Islamic greeting with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Everyone is aware of the crisis that has struck the Government of Sudan and its people. It was hit by heavy rains and floods which caused great harm and damage in the Sudanese capital and its neighboring cities and villages. Many properties were destroyed, more than one million people were dislocated, lots of people died, and thousands of homes collapsed leaving their inhabitants homeless.",
+          "content_type": "paragraph",
+          "page_number": 101,
+          "confidence": 0.92,
+          "notes": "Description of Sudan crisis",
+          "memory_agreement": false
+        },
+        {
+          "text": "and We shall make a trial of you with evil and with good. And to Us you will be returned.",
+          "content_type": "quran_verse",
+          "page_number": 101,
+          "confidence": 0.88,
+          "notes": "Quranic verse about trials",
+          "memory_agreement": false
+        },
+        {
+          "text": "And certainly, We shall test you with something of fear, hunger, loss of wealth, lives and fruits, but give glad tidings to As­Sâbirûn (the patient). Who, when afflicted with calamity, say: \"Truly! To Allâh we belong and truly, to Him we shall return.\"",
+          "content_type": "quran_verse",
+          "page_number": 101,
+          "confidence": 0.9,
+          "notes": "Quranic verse about patience in trials",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 175)",
+          "content_type": "navigation",
+          "page_number": 101,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Due to the severity of the affliction that befell our brothers in Sudan and the huge loss of lives and property, I urge Muslims and others among princes, ministers, the wealthy, and anyone who would like to give in charity in the Kingdom of Saudi Arabia and other countries to help their brothers in Sudan.",
+          "content_type": "fatwa_ruling",
+          "page_number": 101,
+          "confidence": 0.85,
+          "notes": "Call for charitable assistance",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"The similitude of believers in regard to their mutual love, affection, and empathy is that of a body. When any of its parts aches, the whole body aches due to sleeplessness and fever.\"",
+          "content_type": "hadith",
+          "page_number": 102,
+          "confidence": 0.92,
+          "notes": "Hadith about Muslim brotherhood",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 177)",
+          "content_type": "navigation",
+          "page_number": 102,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Wealth will not diminish by giving charity.\"",
+          "content_type": "hadith",
+          "page_number": 102,
+          "confidence": 0.88,
+          "notes": "Hadith about charity",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 178)",
+          "content_type": "navigation",
+          "page_number": 102,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 179)",
+          "content_type": "navigation",
+          "page_number": 102,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "`Abdul `Aziz Bin `Abdullah Ibn Baz President of the Constituent Assembly of the World Muslim League in Makkah, Chairman of the Departments of Scholarly Research, Ifta', Daw`ah, and Guidance in the Kingdom of Saudi Arabia",
+          "content_type": "signature",
+          "page_number": 103,
+          "confidence": 0.95,
+          "notes": "Author signature with titles",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Calling upon the Muslims to support their Muslim brothers in Africa",
+        "content_type": "heading_major",
+        "page_number": 104,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 180)",
+          "content_type": "navigation",
+          "page_number": 104,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "This advice was issued on 25 Rabi'a Awal, 1405 A.H.",
+          "content_type": "citation",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Date of issuance",
+          "memory_agreement": false
+        },
+        {
+          "text": "Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety)",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.88,
+          "notes": "Quranic verse about cooperation",
+          "memory_agreement": false
+        },
+        {
+          "text": "You are aware of the afflictions of the Muslims living in Africa and in Sudan in particular. Years ago, they suffered drought. These conditions paved the way for the involvement of missionary organizations whose secret aim is to convert Muslims to Christianity.",
+          "content_type": "paragraph",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Description of African Muslim crisis",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 181)",
+          "content_type": "navigation",
+          "page_number": 104,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"The Muslim is the brother of his fellow Muslim; he does not wrong him or let him down. Whoever meets his brother's needs, Allah will meet his needs, and whoever relieves a Muslim of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection.\"",
+          "content_type": "hadith",
+          "page_number": 104,
+          "confidence": 0.92,
+          "notes": "Hadith about Muslim brotherhood and mutual support",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 182)",
+          "content_type": "navigation",
+          "page_number": 104,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of charity discussion",
+        "content_type": "heading_minor",
+        "page_number": 105,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "which was too heavy to carry. Thereafter, the people came successively (with charity) until I saw two heaps of food and clothes. I noticed that the face of the Messenger of Allah (peace be upon him) was glowing like that of the bright moon or glittering gold. Then, he (peace be upon him) said, \"Whoever introduces a good practice in Islam, there is for him its reward and the reward of those who act upon it after him without anything being diminished from their rewards. Whoever introduces an evil practice in Islam, will shoulder its sin and sins equal to those who will act upon it without diminishing in any way their burden.\" (Related by Muslim).",
+          "content_type": "hadith",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Hadith about good and evil practices with citation to Muslim",
+          "memory_agreement": true
+        },
+        {
+          "text": "You watched and read about this disaster and severe famine which has inflicted the Muslims in Africa. You should give them Sadaqah (voluntary charity) from your money granted by Allah (Exalted be He). In this way, you will be following the example of the Prophet (peace be upon him) in his love for goodness and spending money in Allah's cause and the example of his Sahabah (may Allah be pleased with them) in hastening to spend money in charitable activities. Do not hold your aid in contempt even if it is insignificant. The date you give is considered as Sadaqah. Your rapid response will hinder the non-Muslims who exploit this famine to invade the Muslims in their country to misguide and convert them to Christianity.",
+          "content_type": "fatwa_ruling",
+          "page_number": 105,
+          "confidence": 0.8,
+          "notes": "Ruling about giving charity to African Muslims",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 183)",
+          "content_type": "navigation",
+          "page_number": 105,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "You can confront the non-Muslims by spending your money in Allah's Cause to support and help your brothers thereby dispensing with the enemy who awaits for their misfortune. It should be noted that Sadaqah wards off the evil death and afflictions and extinguishes the fire of sins as reported from the Prophet (peace be upon him). In this regard, Allah (Exalted be He) says: Whatever is with you, will be exhausted, and whatever is with Allâh (of good deeds) will remain. Allah (Glorified be He) also says: And whatever good you send before you for yourselves, (i.e. Nawâfil non-obligatory acts of worship: prayers, charity, fasting, Hajj and 'Umrah), you will certainly find it with Allâh, better and greater in reward.",
+          "content_type": "paragraph",
+          "page_number": 105,
+          "confidence": 0.8,
+          "notes": "Contains Quranic verses about charity",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Custodian of the Two Sacred Mosques, King Fahd ibn Abdul Aziz (may Allah protect him), in a kind and blessed initiative, constituted committees throughout the Kingdom to support the poor and needy in Africa. He was affected by the conditions of hunger, thirst, death, and nakedness under which the Muslims live there. May Allah reward him for these efforts and make the truth victorious through him! Newspapers and mass media broadcasted information about these committees for which we hope success. These committees have objectives to work with the intention to save Muslims from ruin and help them overcome this calamity through what those who seek reward can offer.",
+          "content_type": "paragraph",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Discussion of King Fahd's charitable initiatives",
+          "memory_agreement": true
+        },
+        {
+          "text": "I appeal to you my brothers in Islam to support and cooperate with these committees in collecting assistance and encouraging people to offer them. Allah (Exalted be He) supports a servant as long as the servant supports his brother. It is authentically reported from the Prophet (peace be upon him) that he said: A believer to another believer is like a wall of bricks supporting each other. And he interlocked his fingers Also, The similitude of believers in regard to mutual love, affection, and fellow-feeling is that of one body; when any of its limbs aches, the whole body aches, because of fever and sleeplessness.",
+          "content_type": "hadith",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Multiple hadith about believers supporting each other",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 184)",
+          "content_type": "navigation",
+          "page_number": 105,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "He (peace be upon him) also said, Save yourself from Hell-fire even by giving half a date-fruit in charity. He (peace be upon him) also said, Charity extinguishes (the fire of) sin just as water extinguishes fire. It is reported in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim)on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said: Whoever gives charity equal to a date from good (halal) earnings – for Allah does not accept anything but that which is good – Allah will take it in His right hand and tend it for the one who gave it as any one of you tends his foal until it becomes like a mountain.",
+          "content_type": "hadith",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Multiple hadith about charity with citations to Bukhari and Muslim",
+          "memory_agreement": true
+        },
+        {
+          "text": "There are many well-known Ayat and Hadith mentioning the merits of giving Sadaqah and helping poor Muslims. I ask Allah (Exalted be He) to grant us all success to compete for Allah's pleasure, to accept our and your deeds, to double your reward and replace what you spend in the way of goodness with what is best. May Allah be merciful with our Muslim brothers in Africa and other lands, succor them by His Grace, and relieve their afflictions and calamity for He is the Most Generous and Able to answer! May Allah's peace and blessings be upon Prophet Muhammad, his Family and Companions!",
+          "content_type": "paragraph",
+          "page_number": 105,
+          "confidence": 0.8,
+          "notes": "Concluding prayer and supplication",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Congratulating the government of Pakistan on its Declaration of applying the Islamic Shari'ah",
+        "content_type": "heading_minor",
+        "page_number": 106,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 185)",
+          "content_type": "navigation",
+          "page_number": 106,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Your Highness, President of the Islamic government of Pakistan Muhammad Diya' Al-Haqq May Allah support Islam with him! As-salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "paragraph",
+          "page_number": 106,
+          "confidence": 0.8,
+          "notes": "Formal address to Pakistani President",
+          "memory_agreement": true
+        },
+        {
+          "text": "We have heard the news announced in radio stations and papers about your Highness' declaration of applying the rulings of the Islamic Shari`ah in Pakistan. We and all Muslims everywhere are very happy to hear that. It gives me pleasure to express my gratitude and deep appreciation of this sublime action that is approved by Allah (Exalted be He), His Messenger (peace be upon him) and every Muslim. This action is actually an obligation that all Muslim rulers must do. May Allah reward you the best, grant you success, support you with the truth, and support the truth with you!",
+          "content_type": "paragraph",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Congratulatory message about implementing Shariah",
+          "memory_agreement": true
+        },
+        {
+          "text": "We and all Muslims share the great happiness of the Pakistani people for such good news for which Pakistan was established. Sincere people of Pakistan looked forward to seeing the fulfillment of this dream and utilized all possible means to have it come true until Allah (Exalted be He) facilitated it at your hands. Congratulations on this great gift and blessing. We should all be happy and pleased with it as well as thank Allah (Exalted be He) for it in compliance with what Allah (may He be Praised) says: Say: \"In the Bounty of Allâh, and in His Mercy (i.e. Islâm and the Qur'ân); - therein let them rejoice.\" That is better than what (the wealth) they amass. Go ahead, may Allah bless you! Allah is your supporter so long as you support His religion and rule according to His Shari`ah (Islamic law). Allah (may He be Praised) says: O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm.",
+          "content_type": "quran_verse",
+          "page_number": 106,
+          "confidence": 0.8,
+          "notes": "Contains Quranic verses about Allah's bounty and help",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says: Verily, Allâh will help those who help His (Cause). Truly, Allâh is All-Strong, All-Mighty. Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat-as-Salât [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin Al-Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al-Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur'ân as the law of their country in all the spheres of life]. And with Allâh rests the end of (all) matters (of creatures).",
+          "content_type": "quran_verse",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Allah helping those who help His cause",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 186)",
+          "content_type": "navigation",
+          "page_number": 106,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is no law better that that of Allah Who is Well-Aware of the conditions and interests of His slaves both in the worldly life and in the Hereafter. Allah (Glorified and Exalted be He) says: Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith. May Allah guide you to the truth, make you steadfast on it, and increase your assistants - He is All-Hearer, Ever Near! As-salamu `alaykum warahmatullah wabarakatuh",
+          "content_type": "quran_verse",
+          "page_number": 106,
+          "confidence": 0.8,
+          "notes": "Quranic verse about Allah's judgment and closing salutation",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A Speech delivered on the Occasion of the Spring Vacation",
+        "content_type": "heading_minor",
+        "page_number": 107,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 187)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah. May peace and blessings be upon the Messenger of Allah, his family, Companions, and those who follow his guidance!",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Opening praise formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "On the occasion of the Spring vacation, I advise all my students and all Muslims to fear Allah (Glorified and Exalted be He) as He should be feared at all times and to spend their times in things pleasant to Allah (Glorified and Exalted be He) that draw them closer to Him and keep away from things that incur His anger. This includes spending time in educational lectures, studying and reading useful books. All this benefits a person in this world and in the Hereafter and saves their time from being wasted. I would also like to warn my students against traveling to non-Muslim countries, because it harms their `Aqidah (creed) and morals. There is no doubt that traveling to non-Muslim countries leads to great evil, and few people are able to keep their `Aqidah and morals safe abroad unless they are scholars who have deep insight and Istiqamah (integrity), and they travel abroad to practice Da`wah (calling to Islam); guide people to goodness, Tawhid (monotheism) and obedience to Allah. This is a different matter and Da`wah is needed everywhere and at all times.",
+          "content_type": "fatwa_ruling",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Advice about vacation activities and warning against travel to non-Muslim countries",
+          "memory_agreement": true
+        },
+        {
+          "text": "However, if the case is different, a person should beware of traveling to non-Muslim, corrupt, misleading countries, as it entails great danger to their `Aqidah and morals. The Prophet (peace be upon him) said, I disown any Muslim who stays among Mushriks (polytheists). It is narrated that he (peace be upon him) said, Anyone who associates with a Mushrik and lives with them is like them. He (peace be upon him) also said, Allah does not accept any deeds from a Mushrik after having embraced Islam until they separates themselves from other Mushriks.",
+          "content_type": "hadith",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Multiple hadith about associating with polytheists",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 188)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "According to the scholars, these Hadiths and others revolving the same meaning refer to those who do not have knowledge, deep insight, and Istiqamah so that they can be safe from committing prohibited things, and so that they can practice Da`wah and guide people to the means of safety, according to Allah's saying, Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân) and fair preaching, and argue with them in a way that is better. Allah (Glorified be He) also says, Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh - Islâmic Monotheism) with sure knowledge, I and whosoever follows me (also must invite others to Allâh i.e. to the Oneness of Allâh - Islâmic Monotheism with sure knowledge). They are also keen on the reward promised by Allah to the Du`ah (callers to Islam), and the goodness it results in, according to Allah's saying, And who is better in speech than he who [says: \"My Lord is Allâh (believes in His Oneness),\" and then stands firm (acts upon His Order), and] invites (men) to Allâh's (Islâmic Monotheism), and does righteous deeds, and says: \"I am one of the Muslims.\" When the Prophet (peace be upon him) sent `Aly (may Allah be pleased with him) to Khaybar, he said to him, By Allah, if Allah guides aright even one man through you, that is better for you than to possess the most valuable of the camels. He (peace be upon him) also said, One who guides to something good has a reward similar to that of its doer.",
+          "content_type": "quran_verse",
+          "page_number": 107,
+          "confidence": 0.8,
+          "notes": "Contains multiple Quranic verses and hadith about Da'wah",
+          "memory_agreement": true
+        },
+        {
+          "text": "Du`ah who have understood religion and practiced Da`wah are safe in shaa'-Allah (if Allah wills). There is no harm in their traveling to the lands of non-Muslims to call them to Islam, guide them to goodness and clarify to them what they were originally created for. However, laypeople and students who do not have thorough understanding of religion and have not graduated in specialized religious faculties where people learn the requirements of practicing Da`wah, those people will be in great danger if they travel to non-Muslim countries. My advice is for them and for anyone other than the previously mentioned scholars and believers. I advise them not to travel to non-Muslim countries and beware of this. They should rather make use of their vacation in strengthening their Iman (Faith) and increasing their knowledge, by",
+          "content_type": "fatwa_ruling",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Ruling about who can safely travel to non-Muslim countries",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 189)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "spending time in studying at home in harmless fields, so that this vacation is a good opportunity for acquiring more knowledge, practicing more Da`wah and safety from wasting their precious time. May Allah grant everyone success and guidance! May Allah protect us and all Muslims from delusive temptations and insinuations of Satan! May Allah guide everyone to what benefits them regarding their hearts, their deeds, and their end! May Allah's peace and blessings be upon our Prophet Muhammad, his family, and Companions!",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Concluding advice and supplication",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Youth and Vacation",
+        "content_type": "heading_minor",
+        "page_number": 108,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 190)",
+          "content_type": "navigation",
+          "page_number": 108,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise is due to Allah. May peace and blessings be upon the Messenger of Allah and upon his family, Companions, and whoever followed his guidance. To proceed,",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Opening praise formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "During this current vacation, I would like to advise young people in particular and Muslims in general to fear Allah (Glorified and Exalted be He) wherever they are. They should take advantage of the vacation days to do what pleases Allah and helps them to adopt the means of attaining happiness and salvation. One of these means is to revise their previously-studied lessons with colleagues in order to memorize them by heart and use them to strengthen their `Aqidah (faith), manners, and efforts. Moreover, I recommend all young people to use their free time in reciting the Qur'an attentively and memorizing what they can of its Ayahs (Qur'anic verses), because the Qur'an is the source of happiness for all Muslims and the spring gushing forth goodness and guidance. Allah (Glorified be He) revealed the Qur'an as a clarification of all things and as a guide, mercy, and glad tidings to Muslims. Even more, He (Glorified be He) has made it a guide to that which is most just and right and has urged His Servants to recite it and contemplate its meanings. Allah states: Do they not then think deeply in the Qur'ân, or are their hearts locked up (from understanding it)? Allah (Exalted be He) also states: (This is) a Book (the Qur'ân) which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember. Allah (Glorified and Exalted be He) states: Verily, this Qur'ân guides to that which is most just and right",
+          "content_type": "fatwa_ruling",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Advice to youth about vacation activities with Quranic verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "I advise our youth and all Muslims to increase their recitation of the Qur'an and their contemplation of its meanings. They are also required to study it to gain benificial knowledge and apply its teachings wherever they may be. I also advise them to give attention to the Sunnah (whatever is reported from the Prophet) and memorize portions of it, especially during vacation, and work according to its teachings as the Sunnah is the second Wahy (Revelation) and the second principle of Shari`ah (Islamic law).",
+          "content_type": "fatwa_ruling",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Advice about studying Quran and Sunnah",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 191)",
+          "content_type": "navigation",
+          "page_number": 108,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "I warn all youth against traveling to non-Muslim countries because this exposes them to dangers, threatens their `Aqidah and manners, and because Muslim countries are in dire need for youth to offer guidance, instruction, advice, and cooperation in righteousness and piety. They should encourage one another to stick to Al-Haqq (the Truth) and perseverance.",
+          "content_type": "fatwa_ruling",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Warning against travel to non-Muslim countries",
+          "memory_agreement": true
+        },
+        {
+          "text": "I advise all teachers to take advantage of this vacation holding seminars, Halaqahs (learning circles), and lectures because of the dire need for this. I also recommend that they engage in Da`wah (calling to Islam) in the countries in need of this, according to their means, and to visit the Islamic centers and Muslim minorities abroad to help guide them and call them to Islam. They should teach Muslims the matters which they are unaware of regarding their Din (Islam) and encourage them to cooperate and recommend one another to hold fast to Al-Haqq and endure it. They must urge the students there to stick to their Din, fulfill the objective of their travel abroad, and be cautious of the causes of corruption. I, finally, advise them to care about the Qur'an by memorizing, reciting and contemplating it, and to follow the purified Sunnah by memorizing, studying, and applying its teachings.",
+          "content_type": "fatwa_ruling",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Advice to teachers about vacation activities and Da'wah",
+          "memory_agreement": true
+        },
+        {
+          "text": "I ask Allah to guide all Muslims, young and old, teachers and students, scholars and lay people, to all that brings happiness, righteousness, and salvation in this world and the Hereafter, for He is indeed Bountiful and Generous. May peace and blessings be upon Allah's Servant, Messenger, and His chosen one from among His creation, our Prophet Muhammad, and upon his family, and Companions!",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Concluding supplication",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Warning against Traveling to Non­Muslim Countries and Outlining its Dangers",
+        "content_type": "heading_major",
+        "page_number": 109,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 192)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "on `Aqidah and Manners",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Section category indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah, Alone. May peace and blessings be upon whom no Prophet shall come after, our Prophet Muhammad and upon his family, Companions, and followers till the Day of Judgment.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Opening invocation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (may He be exalted) has blessed the Muslim nation with many favors, distinguished it with unique characteristics, and made it the best of peoples ever raised up for mankind when it enjoins what is good and forbids what is evil and believes in Allah (Exalted be He). Indeed, the best thing Allah (Exalted be He) bestowed upon it is the Religion of Islam. Allah (may He be exalted) chose Islam as the Shari`ah (revealed teachings and laws) and way of life for His Slaves and completed His favor upon His Slaves and perfected the religion by Islam. He (Exalted be He) says,",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.85,
+          "notes": "Introductory theological statement",
+          "memory_agreement": false
+        },
+        {
+          "text": "This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion.",
+          "content_type": "quran_verse",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 193)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "1­ Choosing a non­Muslim family with which a student will live in spite of the great risks included in this.",
+          "content_type": "list_item",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Enumerated danger point",
+          "memory_agreement": false
+        },
+        {
+          "text": "2­ Attending music parties and shows performed in the city where the student lives.",
+          "content_type": "list_item",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Enumerated danger point",
+          "memory_agreement": false
+        },
+        {
+          "text": "3­ Going to dance and entertainment clubs.",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 0.7,
+          "notes": "Listed as navigation in memory but appears to be list item",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 194)",
+          "content_type": "navigation",
+          "page_number": 110,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The ruling on traveling to non­Muslim countries",
+        "content_type": "heading_minor",
+        "page_number": 111,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 195)",
+          "content_type": "navigation",
+          "page_number": 111,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 1: Many people, especially those who travel to spend what is called the honey­moon, tend to travel to non­Muslim countries where sins are openly committed. I hope that Your Honor will kindly advise our Muslim sons, brothers, and rulers to beware of this trend ..",
+          "content_type": "question",
+          "page_number": 111,
+          "confidence": 0.95,
+          "notes": "Formal question to the scholar",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Praise be to Allah. Peace and blessings be upon the Messenger of Allah, his family, Companions and whoever is guided by his guidance. To proceed,",
+          "content_type": "answer",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": true
+        },
+        {
+          "text": "I have nothing to do with any Muslim who settles among the Mushrikin",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah will not accept any deed from a Mushrik after they become Muslim until they leave the Mushrikin",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 196)",
+          "content_type": "navigation",
+          "page_number": 111,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "No to these journeys!",
+        "content_type": "heading_minor",
+        "page_number": 112,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 197)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily! As for those whom the angels take (in death) while they are wronging themselves (as they stayed among the disbelievers even though emigration was obligatory for them), they (angels) say (to them): \"In what (condition) were you?\" They reply: \"We were weak and oppressed on the earth.\" They (angels) say: \"Was not the earth of Allâh spacious enough for you to emigrate therein?\" Such men will find their abode in Hell ­ What an evil destination! Except the weak ones among men, women and children who cannot devise a plan, nor are they able to direct their way. These are",
+          "content_type": "quran_verse",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Extended Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "I disown any Muslim who stays among polytheists.",
+          "content_type": "hadith",
+          "page_number": 112,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah does not accept any deeds from a Mushrik, after having embraced Islam, until he separates himself from the Mushrikin.",
+          "content_type": "hadith",
+          "page_number": 112,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 198)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 199)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 113,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "adolescents where they are brainwashed by the instructions they learn. Let Muslims be alert to such malicious plans, not to entrust their children to the enemies, so that they are destroyed and pushed into the way of error. Allah (Exalted be He) says: O you who believe! Ward off yourselves and your families against a Fire (Hell) whose fuel is men and stones, over which are (appointed) angels stern (and) severe, who disobey not, (from executing) the Commands they receive from Allâh, but do that which they are commanded.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Contains Quranic verse within paragraph text",
+          "memory_agreement": true
+        },
+        {
+          "text": "We also remind Muslims of their duties towards their children. They should carefully bring them up and direct them to observe the rituals of Islam and practice its etiquettes. They should forbid their children to commit prohibitions, vices, and the means to them. They should implant the good morals in them and keep them away from bad friends and corrupted societies.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Guidance text",
+          "memory_agreement": true
+        },
+        {
+          "text": "We point out to those who are responsible for the local newspapers to be more alert and jealous for Islam and the society. They should not publish such harmful advertisements that serve interests of the enemies of Islam and harm religion, creed, and morals of members of the Muslim society. They must contribute to the process of reform and guide to goodness and truth.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Advisory text",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah grant all Muslims safety in this life and in the Hereafter! May Allah show us the truth and guide us to follow it showing us the falsehood and guide us to avoid it! We implore Allah to set aright the affairs of the Muslim rulers and support the truth with them. We ask Him to guide all Muslims to the means of goodness and glory everywhere ­ He is All­Hearer and Responsive. May Allah's peace and blessings be upon our Prophet Muhammad, his family, and Companions.",
+          "content_type": "signature",
+          "page_number": 113,
+          "confidence": 0.8,
+          "notes": "Closing prayer and blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Warning against Gambling, Intoxicants, and Gharar sale",
+        "content_type": "heading_major",
+        "page_number": 114,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 200)",
+          "content_type": "navigation",
+          "page_number": 114,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah. May peace and blessings be upon His Messenger, his family, and his Companions!",
+          "content_type": "paragraph",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Opening blessing",
+          "memory_agreement": true
+        },
+        {
+          "text": "Good foodstuff, drinks, and transactions are made Divinely lawful to people for they need them and due to their great usefulness and harmlessness. Allah also (Glorified and Exalted be He) prohibited all evil foodstuff, drinks, and transactions due to their great harm and uselessness or due to the overweighed benefit contained when compared to the overwhelming harm to follow.",
+          "content_type": "paragraph",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Explanatory text",
+          "memory_agreement": true
+        },
+        {
+          "text": "They ask you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) what is lawful for them (as food). Say: \"Lawful unto you are At­Tayyibât [all kind of Halâl (lawful­good) foods which Allâh has made lawful (meat of slaughtered eatable animals, milk products, fats, vegetables and fruits)].",
+          "content_type": "quran_verse",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "From Surah Al-Ma'idah",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! Intoxicants (all kinds of alcoholic drinks), and gambling, and Al­Ansâb, and Al­Azlâm (arrows for seeking luck or decision) are an abomination of Shaitan's (Satan) handiwork. So avoid (strictly all) that (abomination) in order that you may be successful. Shaitân (Satan) wants only to excite enmity and hatred between you with intoxicants (alcoholic drinks) and gambling, and hinder you from the remembrance of Allâh and from As­Salât (the prayer). So, will you not then abstain?",
+          "content_type": "quran_verse",
+          "page_number": 114,
+          "confidence": 0.95,
+          "notes": "Key verse about gambling and intoxicants",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 201)",
+          "content_type": "navigation",
+          "page_number": 114,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "committing sins. It is one of the most abominable major sins. Allah has promised those who drink Khamr and do not repent before their death, to give them Tinat Al­Khabal which is the discharge of the people of Hell­fire to drink. We seek refuge with Allah.",
+          "content_type": "paragraph",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Warning about consequences",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 202)",
+          "content_type": "navigation",
+          "page_number": 114,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A Form of Gambling",
+        "content_type": "heading_minor",
+        "page_number": 116,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 203)",
+          "content_type": "navigation",
+          "page_number": 116,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: In our city, a cooperative society displays a car in front of its entrance as a prize in a competition among customers who buy up one hundred dirhams worth of goods. This enables them to have a free numbered coupon with the word \"Its value is ten dirhams\" printed upon it and it takes part in the draw in which the lucky person gets the car. My question is: 1­ What is the ruling on taking part in this draw by getting this free coupon, while the participator will lose nothing in case he does not win? 2­ What is the ruling on buying from this cooperative society, for the purpose of getting this coupon in order to take part in the draw?",
+          "content_type": "question",
+          "page_number": 116,
+          "confidence": 0.95,
+          "notes": "Two-part question about gambling ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "Given that people here, including the well­educated, are confused concerning this matter. I hope Your Eminence would answer the two attached questions providing proofs, so that Muslims could understand their religion correctly. May Allah reward you the best! As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!) M.`A.D. Al­Fujayrah United Arab Emirates",
+          "content_type": "signature",
+          "page_number": 116,
+          "confidence": 0.9,
+          "notes": "Questioner's closing and signature",
+          "memory_agreement": true
+        },
+        {
+          "text": "A:",
+          "content_type": "answer",
+          "page_number": 116,
+          "confidence": 0.8,
+          "notes": "Answer marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "This kind of dealing is considered a form of gambling which Allah (Exalted be He) prohibits in His Saying: O you who believe! Intoxicants (all kinds of alcoholic drinks), and gambling, and Al­Ansâb, and Al­Azlâm (arrows for seeking luck or decision) are an abomination of Shaitan's (Satan) handiwork. So avoid (strictly all) that (abomination) in order that you may be successful. Shaitân (Satan) wants only to excite enmity and hatred between you with intoxicants (alcoholic drinks) and gambling, and hinder you from the remembrance of Allâh and from As­Salât (the prayer). So, will you not then abstain?",
+          "content_type": "fatwa_ruling",
+          "page_number": 116,
+          "confidence": 0.95,
+          "notes": "Ruling with Quranic evidence",
+          "memory_agreement": true
+        },
+        {
+          "text": "Therefore, the rulers and the people of knowledge in Al­Fujayrah and elsewhere should renounce and warn against this dealing, for it contradicts the Book of Allah and entails devouring the wealth of people unjustly. May Allah grant us all guidance and uprightness!",
+          "content_type": "fatwa_ruling",
+          "page_number": 116,
+          "confidence": 0.9,
+          "notes": "Final ruling and advice",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A brief comment to clarify the truth about what was written in Al-Yamamah Magazine, issue no. 684, dated 20/3/1402",
+        "content_type": "heading_minor",
+        "page_number": 117,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 204)",
+          "content_type": "navigation",
+          "page_number": 117,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah, the Lord of the Worlds. May peace and blessings be upon His Messenger, his family and Companions!",
+          "content_type": "paragraph",
+          "page_number": 117,
+          "confidence": 0.8,
+          "notes": "Opening praise formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "I have read the story copied from the book entitled \"Al-Tarikh\" written by Ibn Jarir Al-Tabary (may Allah be merciful with him) regarding Amir Al-Mu'minin (Commander of the Believers) `Umar ibn Al-Khattab (may Allah be pleased with him) in which he said,",
+          "content_type": "paragraph",
+          "page_number": 117,
+          "confidence": 0.9,
+          "notes": "Introduction to the story being discussed",
+          "memory_agreement": false
+        },
+        {
+          "text": "\" I followed him until he entered a house, and then he entered a room. I took permission to enter and saluted. I was permitted entry. When I entered, I found him sitting on a mat and leaning on two pillows made of leather and stuffed with palm fibers. He gave me one of them to sit on. I saw a hall in which there was a curtain. He said, \"O, Um Kulthum! Bring us lunch.\" She brought him bread, oil and salt. He said, \"O, Um Kulthum! Are not you going to eat with us?\" She said, \"I hear the voice of a man with you.\" He said, \"Yes and I do not think he is one of the residents of the country.\" She said, \"If you want me to sit with men, you would have bought me clothes like those bought by Ibn Ja`far to his wife, Al-Zubayr to his wife, or Talhah to his wife.\" He said, \"Is not it enough for you to be said that Um Kulthum bint Ali ibn Abu Talib and the wife of Amir Al-Mu'minin `Umar?\" He said, \"Come on, eat. If she was satisfied, she would have brought you better food than this.\"",
+          "content_type": "citation",
+          "page_number": 117,
+          "confidence": 0.9,
+          "notes": "Quoted story from historical source",
+          "memory_agreement": false
+        },
+        {
+          "text": "This tale is false; it is not true according to Riwayah (the study of the text of a Hadith and how to apply it) or Dirayah (the study of the principles to verify whether a Hadith is acceptable in terms of text and chain of narrators).",
+          "content_type": "fatwa_ruling",
+          "page_number": 117,
+          "confidence": 0.9,
+          "notes": "Scholar's ruling on the authenticity of the story",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for Riwayah, it was narrated by a group of weak narrators. Some of them are accused of being liars. The source of this tale who narrated this from `Umar, is an unknown person. Thus, it is false according to Riwayah.",
+          "content_type": "answer",
+          "page_number": 117,
+          "confidence": 0.8,
+          "notes": "Explanation of why the story is false from narration perspective",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 205)",
+          "content_type": "navigation",
+          "page_number": 117,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "As for Dirayah, there are a number of issues:",
+          "content_type": "paragraph",
+          "page_number": 117,
+          "confidence": 0.8,
+          "notes": "Introduction to analysis from understanding perspective",
+          "memory_agreement": false
+        },
+        {
+          "text": "First, it is contradictory to what is known about `Umar (may Allah be pleased with him), his strictness in Hijab (veil), his extreme jealousy and his care that the Prophet's wives wear Hijab until the Ayah (Qur'anic verse) was revealed.",
+          "content_type": "list_item",
+          "page_number": 117,
+          "confidence": 0.9,
+          "notes": "First point of analysis",
+          "memory_agreement": false
+        },
+        {
+          "text": "Second, it is contradictory to the rulings of Islam that were known to `Umar or other scholar. The Qur'an and Sunnah (whatever is reported from the Prophet) prove the obligation of wearing Hijab and the prohibition of free intermixing (of men and women) in a way that causes Fitnah (temptation).",
+          "content_type": "list_item",
+          "page_number": 117,
+          "confidence": 0.9,
+          "notes": "Second point of analysis",
+          "memory_agreement": false
+        },
+        {
+          "text": "Third, its text is absolutely rejected by anyone who contemplates it. In any case, this tale about `Umar is undoubtedly fabricated, whether to slander him, call for the free intermixing of men and women, or for other evil purposes. May Allah grant us safety!",
+          "content_type": "list_item",
+          "page_number": 117,
+          "confidence": 0.9,
+          "notes": "Third point of analysis and conclusion",
+          "memory_agreement": false
+        },
+        {
+          "text": "Sheikh Abu Turab Al-Zhahiri, Sheikh Muhammad Ahmad Hisany and Dr. Hashim Bakr Habashi did well in their reply to this tale, clarifying its fabrication, and making it clear that such a tale cannot be attributed to Amir Al-Mu'minin `Umar ibn Al-Khattab (may Allah be pleased with him). May Allah reward them well, double their reward, grant us and them more knowledge and success, and make us and them of the supporters of Al-Haqq (the Truth).",
+          "content_type": "paragraph",
+          "page_number": 117,
+          "confidence": 0.8,
+          "notes": "Acknowledgment of other scholars' work",
+          "memory_agreement": false
+        },
+        {
+          "text": "I wrote this short speech to participate in revealing the truth and rejecting the falsehood to ascertain readers of the falsity of this tale, which is so dubious and unreliable for the aforesaid reasons. May Allah guide us all to the Straight Path, and protect us and all brothers from the evil souls and bad deeds! He is All-Hearing. May Allah's Peace be upon Prophet Muhammad!",
+          "content_type": "signature",
+          "page_number": 117,
+          "confidence": 0.9,
+          "notes": "Author's concluding statement and prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Beware of Pornographic Newspapers",
+        "content_type": "heading_minor",
+        "page_number": 118,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 206)",
+          "content_type": "navigation",
+          "page_number": 118,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Islamic world in general and the inhabitants of the Arabian Peninsula in particular have been invaded by a flood of newspapers that contain different forms of pornographic pictures that arouse lusts, bring corruption, call for dissolution, and tempt our youth. This leads to many forms of corruption for anyone who reads such pornographic materials and their likes. Many young people have become obsessed with them, and have been led to perdition due to imitating them. These newspapers include articles that propagate atheism, spread corrupt ideas, and call for denying faith and opposing Islam. Our government, may Allah guide them, should ban these newspapers completely, as they are a great danger to the Muslims in their `Aqidah (faith), morals, spiritual and worldly matters.",
+          "content_type": "paragraph",
+          "page_number": 118,
+          "confidence": 0.9,
+          "notes": "Description of the problem with pornographic newspapers",
+          "memory_agreement": false
+        },
+        {
+          "text": "There is no doubt that the rulers carry the greatest share of responsibility for protecting the faith and morals of the people. There is also no doubt that these newspapers aim at corrupting Islam and morals, cause great harm to the Muslim whether in spiritual or worldly matters, shake their `Aqidah, and cause troubles among them. Allah (Glorified and Exalted be He) states, Verily, Allâh will help those who help His (Cause). Truly, Allâh is All-Strong, All-Mighty.",
+          "content_type": "paragraph",
+          "page_number": 118,
+          "confidence": 0.8,
+          "notes": "Discussion of rulers' responsibility with Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat-as-Salât [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin Al-Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al-Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur'ân as the law of their country in all the spheres of life].",
+          "content_type": "quran_verse",
+          "page_number": 118,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Muslim rulers' duties",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Exalted be He) also states, O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm. There is no doubt that banning such newspapers is the greatest way to help the Cause of Allah and protect Islam. The Prophet (peace be upon him) stated in a Sahih (authentic) Hadith, All of you are guardians",
+          "content_type": "paragraph",
+          "page_number": 118,
+          "confidence": 0.8,
+          "notes": "Another Quranic verse and introduction to hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 207)",
+          "content_type": "navigation",
+          "page_number": 118,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and responsible for your charges; an Imam (ruler) is a guardian and responsible for his charges; a man is a guardian at home and responsible for his charges (his family); a woman is a guardian at her husband's home and responsible for her charges (her family); a slave is a guardian in his master's money and responsible for his charges. He (peace be upon him) also said, A ruler who has been entrusted with the affairs of the Muslims but makes no endeavors and does not sincerely mean their welfare would not enter Jannah (Paradise) along with them. Related by Muslim .",
+          "content_type": "hadith",
+          "page_number": 118,
+          "confidence": 0.9,
+          "notes": "Hadith about guardianship and responsibility",
+          "memory_agreement": false
+        },
+        {
+          "text": "O, Muslim rulers! Fear Allah as He should be feared when dealing with the Muslims. Oppose such destructive newspapers, prevent the foolish from spreading their foolishness, and close the doors of corruption so that you may win happiness and save many young people from this stream and those wicked, corrupt newspapers. O Muslims! Fight these wicked and corrupt newspapers! Do not buy them at all! Buying them and their price is Haram (prohibited). You should cry whenever you see them, and keep away their harm and protect the Muslims from their evil. May Allah eliminate them from the Muslim lands, and guide the Muslim rulers to what benefits them in their faith and worldly affairs, and grant the safety of their `Aqidah and morals! He is Omnipotent over all things.",
+          "content_type": "fatwa_ruling",
+          "page_number": 118,
+          "confidence": 0.9,
+          "notes": "Direct address to rulers and Muslims with religious ruling",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on Publishing Immoral Magazines",
+        "content_type": "heading_minor",
+        "page_number": 119,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 408)",
+          "content_type": "navigation",
+          "page_number": 119,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A person from Jeddah poses the following question:",
+          "content_type": "paragraph",
+          "page_number": 119,
+          "confidence": 0.8,
+          "notes": "Introduction to questioner",
+          "memory_agreement": false
+        },
+        {
+          "text": "What is the ruling on publishing porno magazines where scantily dressed women appear in a seductive way and with covers displaying the news of actors and actresses? What is the ruling on those who work for these magazines and help distribute them, and on those who buy them?",
+          "content_type": "question",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Question about immoral magazines",
+          "memory_agreement": false
+        },
+        {
+          "text": "Answer:",
+          "content_type": "paragraph",
+          "page_number": 119,
+          "confidence": 0.7,
+          "notes": "Answer indicator",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is not permissible to publish magazines that contain pictures of women or propagate Zina (premarital sexual intercourse and/or adultery), immorality, homosexuality, drinking alcohol, or other forms of falsehood. Also, it is not permissible to work as an editor, writer, or distributor for such magazines, because this involves cooperating in sin and transgression, spreading mischief throughout the land, calling for the corruption of the society, and propagating promiscuity. Allah (Glorified and Exalted be He) states: Help you one another in Al-Birr and At-Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allâh. Verily, Allâh is Severe in punishment.",
+          "content_type": "fatwa_ruling",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Religious ruling with Quranic support",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) stated: Whoever calls to right guidance will have a reward equal to that of the one who follows him without their reward being diminished in the least and whoever calls to misguidance will bear sin equal to that of the one who follows it without their sins being diminished in the least. (Related by Muslim in his Sahih (authentic) Book of Hadith)",
+          "content_type": "hadith",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Hadith about guidance and misguidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) also stated: There are two types of the people of the Fire whom I have not seen: people with whips like the tails of cattle with which they beat people and women who are clothed yet naked, walking with an enticing gait",
+          "content_type": "hadith",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Beginning of hadith about people of the Fire",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 209)",
+          "content_type": "navigation",
+          "page_number": 119,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and their heads looking like the humps of camels leaning to one side. They will not enter Jannah (Paradise) or even smell its fragrance, although its fragrance can be detected from such-and-such a distance. (Related by Muslim in his Sahih).There are many Ayahs (Qur'anic verses) and Hadith on this topic.",
+          "content_type": "hadith",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Continuation and conclusion of hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "We ask Allah to guide Muslims to do what is good for them and what will bring them salvation. We also ask Him to guide those in charge of the media and press to do what brings safety to the society and to protect them from the evils within themselves and from the tricks of Satan, for He is indeed the Most Bountiful and Generous.",
+          "content_type": "paragraph",
+          "page_number": 119,
+          "confidence": 0.8,
+          "notes": "Concluding prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The ruling on Taswir",
+        "content_type": "heading_minor",
+        "page_number": 120,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 210)",
+          "content_type": "navigation",
+          "page_number": 120,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Question:",
+          "content_type": "paragraph",
+          "page_number": 120,
+          "confidence": 0.7,
+          "notes": "Question indicator",
+          "memory_agreement": false
+        },
+        {
+          "text": "What is the ruling on Taswir (painting, drawing, sculpture, and photography), that is widely common among people?",
+          "content_type": "question",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "First part of question about Taswir",
+          "memory_agreement": false
+        },
+        {
+          "text": "Would you please give us a comprehensive answer about lawful and unlawful Taswir? May Allah reward you!",
+          "content_type": "question",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Second part of question requesting comprehensive answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "Answer: Praise is due to Allah alone. Peace be upon the Last Prophet!",
+          "content_type": "paragraph",
+          "page_number": 120,
+          "confidence": 0.8,
+          "notes": "Beginning of answer with praise formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Hadith reported from the Prophet (peace be upon him) in Sahih (authentic) books of Hadith, Musnad (Hadith compilation), and Sunan (Hadith compilations classified by jurisprudential themes) indicating the prohibition of Taswir of any being with a soul, whether human or not. These texts urge defacing pictures and curse Musawwirs (those who make pictures and statues, or photographs of living beings), indicating that they will receive the severest punishment on the Day of Resurrection. Following are some of the Sahih Hadith that were reported in this regard. We will cite the scholars' comments on them and explain the correct opinion concerning this matter In sha'a-Allah (if Allah wills).",
+          "content_type": "answer",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Introduction to the answer about Taswir prohibition",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is related in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhary and Muslim)on the authority of Abu Hurayrah (may Allah be pleased with him) that the Messenger of Allah (peace be upon him) informed us that Allah (Exalted be He) stated: Who can be more unjust than one who tries to create a creation like Mine. Let them create an atom, a grain of wheat, or a grain of barley. This wording reported by Muslim.",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "First hadith about creation and image-making",
+          "memory_agreement": false
+        },
+        {
+          "text": "In the Two Sahih, it is related on the authority of Ibn Mas`ud (may Allah be pleased with him) that the Messenger of Allah (peace be upon him) stated: The people who will receive the severest punishment on the Day of Resurrection will be the Musawwirs.",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Second hadith about punishment for image-makers",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is also related in the same books of Hadith on the authority of Ibn `Umar (may Allah be pleased with both of them) that the Messenger of Allah (peace be upon him) stated: Those who",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.8,
+          "notes": "Beginning of third hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 211)",
+          "content_type": "navigation",
+          "page_number": 120,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "make siwar (pictures, images, statues) will be punished on the Day of Resurrection and it will be said to them: Breathe soul into what you have created. This wording is reported by Al-Bukhary.",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Continuation of third hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "Also, Al-Bukhary related in the Sahihon the authority of Abu Juhayfah (may Allah be pleased with him): The Prophet (peace be upon him) forbade taking payment for blood, a dog, and the earnings of a prostitute. He cursed those who accept or pay Riba (usury/interest), a woman who tattoos others or gets herself tattooed, and the Musawwir.",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Fourth hadith about various prohibitions including image-making",
+          "memory_agreement": false
+        },
+        {
+          "text": "On the authority of Ibn `Abbas (may Allah be pleased with both of them) that he heard the Messenger of Allah (peace be upon him) saying: Whoever makes a sura (picture, icon, idol, etc.) in the world will be asked to breathe soul into it (on the Day of Resurrection), but they will not be able to breathe soul (into it). (Agreed upon by Al-Bukhary and Muslim).",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Fifth hadith about image-making punishment",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is related by Muslim that Sa`id ibn Abu Al-Hasan said: A man came to Ibn `Abbas and said: I make suras, so tell me about (the ruling on) this. Ibn `Abbas said: Come closer to me. The man did. Ibn `Abbas asked him to come closer again and the man did and he put his hand on the man's head and said: I will tell you what I heard the Messenger of Allah (peace be upon him) saying. I heard him saying: Every Musawwir will enter the Fire and a soul will be given to every sura they made so that it would torment them in the Fire. He added: If you have to do this (go on in this profession), then make suras of trees and everything that does not have a soul. The statement \"If you have to do this...\" was related by Al-Bukhary in the aforementioned Hadith related by Muslim.",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Sixth hadith with Ibn Abbas' advice about permissible images",
+          "memory_agreement": false
+        },
+        {
+          "text": "Furthermore, it was related by Al-Tirmidhi in his Jami` Book of Hadithon the authority of Abu Al-Zubayr from Jabir (may Allah be pleased with him): The Messenger of Allah (peace be upon him) forbade having suras in the home and forbade the making of them. He commented that it was a Hadith Hasan Sahih (a valid and authentic Hadith).",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Seventh hadith about forbidding images in homes",
+          "memory_agreement": false
+        },
+        {
+          "text": "On the authority of `Aishah (may Allah be pleased with her) who narrated: The Messenger of Allah (peace be upon him) came to me, and I had screened my alcove with a curtain on which there were suras. When he saw it, he tore it up and the color of his face changed [due to anger] and he said, \"O `Aishah! The people who will receive the severest punishment on the Day of Resurrection will be those who imitate Allah's Creation.\" `Aishah added: So we tore it up and we stuffed a cushion or two with it. (Relatedby Muslim).",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Eighth hadith about Aishah's curtain with images",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 212)",
+          "content_type": "navigation",
+          "page_number": 120,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "On the authority of `Aishah (may Allah be pleased with her) who narrated: Allah's Messenger (peace be upon him) returned from a journey and I had covered my alcove with a curtain on which there were suras. No sooner did he see it than he tore it up and said: Those who will receive the severest punishment on the Day of Resurrection will be those who imitate Allah's Creation. She said: Thus, we turned it (i.e. the curtain) into one or two cushions. (Related by Al-Bukhary and Muslim). Muslim added, \"his face changed\" after",
+          "content_type": "hadith",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Ninth hadith, similar to previous Aishah narration",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

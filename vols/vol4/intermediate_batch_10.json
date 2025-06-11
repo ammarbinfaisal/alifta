@@ -1,0 +1,1227 @@
+{
+  "batch_number": 10,
+  "sections_count": 39,
+  "timestamp": "2025-06-12T02:27:04.931368",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Religious Discourse on Prayer and Obligations",
+        "content_type": "heading_minor",
+        "page_number": 25,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Exalted be He).",
+          "content_type": "navigation",
+          "page_number": 25,
+          "confidence": 0.9,
+          "notes": "Fragment continuing from previous page",
+          "memory_agreement": true
+        },
+        {
+          "text": "Then, Allah (Glorified be He) says: they perform As­Salât (Iqâmat­as­Salât) and give the Zakât Thus, Mu'mins establish Salahs and observe performing them at their due times, where the men should establish them at the Masjid in congregation with their brothers.",
+          "content_type": "paragraph",
+          "page_number": 25,
+          "confidence": 0.9,
+          "notes": "Religious instruction on prayer obligations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 52)",
+          "content_type": "navigation",
+          "page_number": 25,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "the Prophet (peace be upon him) said: That which differentiates us from the disbelievers and hypocrites is our performance of Salah. He who abandons it, becomes a Kafir.",
+          "content_type": "hadith",
+          "page_number": 25,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition about prayer",
+          "memory_agreement": false
+        },
+        {
+          "text": "Those who offer their Salât",
+          "content_type": "navigation",
+          "page_number": 25,
+          "confidence": 0.8,
+          "notes": "Fragment at page break",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 53)",
+          "content_type": "navigation",
+          "page_number": 25,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 54)",
+          "content_type": "navigation",
+          "page_number": 25,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Quranic Verses and Religious Guidance",
+        "content_type": "heading_minor",
+        "page_number": 26,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "A l­' Asr (the time). Verily, man is in loss,",
+          "content_type": "quran_verse",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Beginning of Surah Al-Asr",
+          "memory_agreement": true
+        },
+        {
+          "text": "Except those who believe (in Islâmic Monotheism) and do righteous good deeds, and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al­Ma'ruf) which Allâh has ordained, and abstain from all kinds of sins and evil deeds (Al­Munkar which Allâh has forbidden], and recommend one another to patience",
+          "content_type": "quran_verse",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Continuation of Surah Al-Asr with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "comprehends more than the one who heard.",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 0.7,
+          "notes": "Fragment from hadith",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 55)",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": false
+        },
+        {
+          "text": "to seek knowledge and benefit.",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 0.7,
+          "notes": "Fragment continuing discussion on knowledge",
+          "memory_agreement": true
+        },
+        {
+          "text": "Al­Masâkin (the poor)",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 0.8,
+          "notes": "Fragment about Zakah recipients",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 56)",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": false
+        },
+        {
+          "text": "And preferred the life of this world (by following his evil desires and lusts), Verily, his abode will be Hell­fire; But as for him who feared standing before his Lord, and restrained himself from impure evil desires and lusts. Verily, Paradise will be his abode.",
+          "content_type": "quran_verse",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Quranic verses about afterlife consequences",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 57)",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": false
+        },
+        {
+          "text": "able to do that.",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 0.7,
+          "notes": "Fragment ending supplication",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah's Peace and Blessings be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "signature",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Closing blessing formula",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The need for legal judicial authorities",
+        "content_type": "heading_minor",
+        "page_number": 27,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 1: We see great scholars escape working as judges; they knew the danger of this job. How can we accept this job although we are incomparable to them?",
+          "content_type": "question",
+          "page_number": 27,
+          "confidence": 0.95,
+          "notes": "First question about judicial responsibilities",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: This is true. However, bearing in mind the strong need of the people for legal judicial authorities, you should accept this job if you are qualified. Do your best and avoid its harms as much as possible, in order to clear your conscience, advise the Ummah (nation), have mercy upon the Muslims, help them solve their problems, and judge among them according to Al­Haqq (the Truth). Allah will help you according to your devotion and sincerity. Our era is not like that of the Salaf (righteous predecessors). In that era, the scholars were many. If one of them refused the post, there were others to assume this post instead of him. However, in our era scholars are few and ignorance has spread. If a competent person refuses to assume the post of a judge, it is difficult to find another, and the judiciary system in the country will be affected. Undoubtedly, this will cause great harm. May Allah help us!",
+          "content_type": "answer",
+          "page_number": 27,
+          "confidence": 0.95,
+          "notes": "Scholar's response about accepting judicial positions",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Comparing Shari`ah to Positive Law",
+        "content_type": "heading_minor",
+        "page_number": 28,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 2: Is it denigrating to compare Shari`ah to man­made law?",
+          "content_type": "question",
+          "page_number": 28,
+          "confidence": 0.95,
+          "notes": "Second question about comparing Islamic law to secular law",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 58)",
+          "content_type": "navigation",
+          "page_number": 28,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: If the comparison is made for a good objective such as clarifying the comprehensive characteristic of Shari`ah (Islamic Law), its highness, supremacy and care for the public interests of humankind, there is nothing wrong with it. Indeed, this serves to clear up the truth and persuade those who call people to falsehood. It also discloses the false claims for enforcing the positive laws or that the present time is not valid for the laws of Shari`ah since the time of enforcing Shari`ah has passed. If these things and the like are the goal of making comparisons, there is no harm, for it helps to clarify the vanity of the falsehoods of those people and the invalidity of their inclinations as well as bringing confidence to hearts of Muslims regarding their religion so that they hold fast to it. There is nothing wrong with undertaking these comparisons by the insightful and knowledgeable scholars known for their sound creed, good conduct, erudition in Islamic sciences and the honorable objectives of Shari`ah.",
+          "content_type": "answer",
+          "page_number": 28,
+          "confidence": 0.95,
+          "notes": "Scholar's response about comparing Islamic and secular law",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Dyeing the beard black",
+        "content_type": "heading_minor",
+        "page_number": 29,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 3: What is the degree of authenticity of the Hadiths on dying beards black?",
+          "content_type": "question",
+          "page_number": 29,
+          "confidence": 0.95,
+          "notes": "Numbered question about hadith authenticity",
+          "memory_agreement": false
+        },
+        {
+          "text": "Dying beards black is widely spread among some people known as religious men.",
+          "content_type": "paragraph",
+          "page_number": 29,
+          "confidence": 0.8,
+          "notes": "Context statement about the practice",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: There are many Sahih (authentic) Hadiths in this point, the most common of which is the story of the father of Al­Siddiq (may Allah be pleased with him)which was related by Muslim in his Sahih (authentic) book of Hadithon the authority of Jabir Ibn `Abdullah (may Allah be pleased with him) that when the Prophet (peace be upon him) saw that the hair and beard of the father of Al­Siddiq were like the Thaghamah (a mountain plant whose leaves and flowers are intensely white) due to their whiteness, he (peace be upon him) said: \"Change these (hair and beard) with another color, but avoid black.\"| According to another narration, the Prophet (peace be upon him) said: do not dye it with a black color. Also, the Hadith of Ibn `Abbas which was narrated by Ahmad, Abu Dawud and Al­Nasa'y through a sound Sanad (chain of narrators) on the authority of Ibn `Abbas (may Allah be pleased with both of them) that the Prophet (peace be upon him) said: At the end of time (of life on earth), there will appear those who dye their hair black like the corps of pigeons. They will not smell the scent of Paradise. This is a severe warning. Other Hadiths that indicate the prohibition of dying hair black and the permissibility of dying it with different colors.",
+          "content_type": "answer",
+          "page_number": 29,
+          "confidence": 0.95,
+          "notes": "Scholar's detailed response with hadith citations",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 59)",
+        "content_type": "navigation",
+        "page_number": 30,
+        "confidence": 0.95
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Importance of religious knowledge in fighting destructive thought",
+        "content_type": "heading_minor",
+        "page_number": 30,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "All praise is due to Allah, the Lord of the Worlds, and the good end will be for the pious. May peace and blessings be upon the Servant and Messenger of Allah, the best of His Creatures, whom He entrusted with His Revelation; our Prophet Muhammad ibn `Abdullah, his family, his Companions and those who follow his guidance until the Day of Recompense!",
+          "content_type": "paragraph",
+          "page_number": 30,
+          "confidence": 0.85,
+          "notes": "Opening praise and salutation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Dear brothers and sisters, firstly I salute you with the greeting of Islam: As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!), I then thank Allah (Glorified and Exalted be He) that He made us gather. I ask Him (Exalted be He) to bless our meeting, make it useful for all of us, and a means for pleasing and drawing closer to Him, eliminating the reasons of corruption and trials, supporting the truth and warding off evil. I thank the people in charge of this project for inviting me to speak to you, and answer your questions. I ask Allah (Glorified be He) to reward them with the best for their efforts. I supplicate to Him to make them and us among the guided. I also ask Him for success to support the truth, ward off falsehood and to help me give the questioners the correct answers that please Him (Glorified be He).",
+          "content_type": "paragraph",
+          "page_number": 30,
+          "confidence": 0.9,
+          "notes": "Opening address to audience",
+          "memory_agreement": true
+        },
+        {
+          "text": "The title is, as you heard, \"The importance of knowledge in fighting destructive thought.\" This is the title of the speech I will deliver to my Muslim brothers and children.",
+          "content_type": "paragraph",
+          "page_number": 30,
+          "confidence": 0.85,
+          "notes": "Introduction to the speech topic",
+          "memory_agreement": false
+        },
+        {
+          "text": "There is no doubt that knowledge is the key to all good and the means to fulfill the Ordinances of Allah and abstain from what He has forbidden. Actions come after having knowledge, for those whom Allah has granted success. Knowledge supports the determination to do good, because there is no Iman (faith), action or striving except based on knowledge. Words and actions which are not based on knowledge are worthless and may incur bad consequences and great corruption.",
+          "content_type": "paragraph",
+          "page_number": 30,
+          "confidence": 0.9,
+          "notes": "Main thesis about importance of knowledge",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 60)",
+        "content_type": "navigation",
+        "page_number": 30,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "We worship Allah, fulfill His due Rights, spread His Religion, fight destructive ideas, false claims and deviant activities by useful knowledge received from the Book of Allah (Glorified and Exalted be He) and the Sunnah of His Messenger (peace be upon him). Likewise, through knowledge, we perform the obligatory duties, fear Allah and discover the truths which are stated in the Book of Allah (Glorified and Exalted be He) and the Sunnah of His Prophet Muhammad (peace be upon him). Allah (Glorified and Exalted be He) says in the Ever­Glorious Qur'an: And no example or similitude do they bring (to oppose or to find fault in you or in this Qur'ân), but We reveal to you the truth (against that similitude or example), and the better explanation thereof.",
+          "content_type": "paragraph",
+          "page_number": 30,
+          "confidence": 0.9,
+          "notes": "Contains Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "All vanities and falsehood that evil people present and use to deceive people and cause them to doubt the Laws of Allah and the Sunnah of the Prophet (peace be upon him), will be refuted and the Laws revealed by Allah will all the more be taught with stronger and clearer words, giving certain evidence that fills the hearts and supports the truth. That is because the knowledge learned from the Book of Allah and the purified Sunnah of the Prophet (peace be upon him) is revealed by the All­Wise, the All­Knowing, Who knows the conditions of His Servants, their problems and what is hidden in their hearts, whether good or bad. He fully knows the claims of evil people. He sent down His Book to explain the truth, uncover falsehood and establish the proofs on the same instructions which all Prophets came with. Allah has sent His Messenger Muhammad (peace be upon him) with guidance and the true religion, and sent down His Book as an explanation to everything, and as a guidance, mercy and glad tidings for all Muslims.",
+          "content_type": "paragraph",
+          "page_number": 30,
+          "confidence": 0.9,
+          "notes": "Explanation of how divine knowledge refutes falsehood",
+          "memory_agreement": false
+        },
+        {
+          "text": "The evil people become active when people of knowledge retreat and ignorance prevails and the arena becomes empty of those who say: \"Allah says and the Messenger says\". Then they show their teeth against others and become active in their falsehood, because of the lack of advocates of the truth, faith and insight. Allah (Glorified and Exalted be He) mentioned in His Book everything collectively in some places and in details in other places. Allah (Glorified and Exalted be He) says: And We have sent down to you the Book (the Qur'an) as an exposition of everything",
+          "content_type": "paragraph",
+          "page_number": 30,
+          "confidence": 0.9,
+          "notes": "Discussion of knowledge vacuum and Quranic verse",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 61)",
+        "content_type": "navigation",
+        "page_number": 31,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "This is the Speech of the All­Wise, the All­Knowing, which cannot be denied or opposed. and whose words can be truer than those of Allâh? (Of course, none). Allah explains in His Saying: And We have sent down to you the Book (the Qur'an) as an exposition of everything, a guidance, a mercy, and glad tidings for those who have submitted themselves (to Allâh as Muslims). that it also contains guidance, mercy and glad tidings besides being an explanation to everything. It is an explanation of the truth, its ways, methodologies and calling to it in the clearest statement and the most illustrative indication. It is guidance for the world regarding all they need from their Lord and what leads them to what pleases Him and makes them escape anything that brings about His Wrath. It shows them the way of success and happiness, in addition of being a mercy in explanation and instruction. It is guidance, benevolence, glad tidings and comfort for the hearts due to the explained truths and the guidance it gives to the insights that affect the hearts, relieve the souls, and open the hearts for them because of their simplicity and clarity. Allah (Glorified be He) says: O mankind! There has come to you a good advice from your Lord (i.e. the Qur'ân, enjoining all that is good and forbidding all that is evil), and a healing for that (disease of ignorance, doubt, hypocrisy and differences) which is in your breasts, ­ a guidance and a mercy (explaining lawful and unlawful things) for the believers. He (Glorified be He) also says: O you who believe! Obey Allâh and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination. He (Glorified be He) also says: And in whatsoever you differ, the decision thereof is with Allâh (He is the ruling Judge). (And say O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ to these polytheists:) Such is Allâh, my Lord in Whom I put my trust, and to Him I turn (in all of my affairs and) in repentance.",
+          "content_type": "paragraph",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses with commentary",
+          "memory_agreement": true
+        },
+        {
+          "text": "Had it not been that the Book of Allah (Glorified and Exalted be He) and the Sunnah of His Prophet (peace be upon him) contained guidance and enough knowledge, He would not have directed people to them. If resorting to them was not useful, He would not direct people to them in settling disputes and disagreement because of their power of guidance, clear explanation and solving problems and eliminating falsehood. Then Allah states that doing so is a condition of Iman (faith), saying:",
+          "content_type": "paragraph",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Logical argument about divine guidance",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 62)",
+        "content_type": "navigation",
+        "page_number": 31,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "if you believe in Allâh and in the Last Day. Then He mentions that it is for the good of the Servants in the present, future and in the final end. It means that their referring the matter of dispute to Allah and His Messenger is better for them in this world and the next.",
+          "content_type": "paragraph",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse explanation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Thus, we know that the Book of Allah and the Sunnah of His Messenger contain a solution for all problems and an explanation of what people need to know regarding their religion and the way of settling their disputes. It is the means of support for anyone calling to the truth which refutes the claims of adversaries with clear evidence; therefore, Allah (Glorified be He) says: And no example or similitude do they bring (to oppose or to find fault in you or in this Qur'ân), but We reveal to you the truth (against that similitude or example), and the better explanation thereof. This includes any claim put forth as evidence or a doctrine claimed to be true. All this is disclosed by this Book and the Sunnah of His Messenger (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Comprehensive nature of Islamic sources",
+          "memory_agreement": false
+        },
+        {
+          "text": "All problems, doubts, false claims and destructive doctrines that they cast are removed by understanding this Book (the Qur'an) and the Sunnah of the Messenger (peace be upon him). It is known that destructive ideas, false principles and deviated doctrines are countless. The people who try to confuse the truth with falsehood are also countless. Likewise, the advocates of falsehood and authors who hinder people from the Way of Allah are countless, but they are known to Allah. They mystify matters by distorting words. There are many preachers and speakers now on the radio, television and every other means such as the press and gatherings where everyone calls to his own doctrine, ideas and mislead others. There is no way out of these trials that puts an end to them except by referring to the Book of Allah and the Sunnah of the Prophet (peace be upon him). When weighed with this Great Scale of truth, what is right will be distinguished from wrong, true from false and guidance from misguidance. This way, truth and its advocates will prevail, whereas falsehood and its advocates will be defeated. Any communists",
+          "content_type": "paragraph",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Discussion of modern challenges and false ideologies",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 63)",
+        "content_type": "navigation",
+        "page_number": 31,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "or socialist advocates who deny the existence of Allah, saying: \"There is no God and life is material\", and deny the truth, and the textual and logic­based evidence stated in the Book of Allah that indicates the existence of the Creator, His Supreme Power and All­Inclusive Knowledge, must be refuted by referring oneself to the Book of Allah and reciting the Ayahs which indicate His existence (Exalted be He) and that He is the All­Wise Maker and Creator of everything.",
+          "content_type": "paragraph",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Specific refutation of atheistic ideologies",
+          "memory_agreement": true
+        },
+        {
+          "text": "In His Ever­Glorious Book, Allah (may be Glorified) guides mankind to this truth and explains that He is the Lord of all the Worlds, the All­Knowing Creator Who created everything. He supports the truth and gives the evidence on this in many places in His Book in order for the seekers of the truth to depend on. Allah (Glorified be He) says: And your Ilâh (God) is One Ilâh (God ­ Allâh), Lâ ilâha illa Huwa (there is none who has the right to be worshipped but He), the Most Gracious, the Most Merciful. Then He (Glorified be He) says after that: Verily! In the creation of the heavens and the earth, and in the alternation of night and day, and the ships which sail through the sea with that which is of use to mankind, and the water (rain) which Allâh sends down from the sky and makes the earth alive therewith after its death, and the moving (living) creatures of all kinds that He has scattered therein, and in the veering of winds and clouds which are held between the sky and the earth, are indeed Ayât (proofs, evidence, signs, etc.) for people of understanding. And: O mankind! Worship your Lord (Allâh), Who created you and those who were before you so that you may become Al­Muttaqûn (the pious ­ See V.2:2). Who has made the earth a resting place for you, and the sky as a canopy, and sent down water (rain) from the sky and brought forth therewith fruits as a provision for you. Then do not set up rivals unto Allâh (in worship) while you know (that He Alone has the right to be worshipped). And: Your Ilâh (God) is only Allâh, (the One) Lâ ilâha illa Huwa (none has the right to be worshipped but He). He has full knowledge of all things. And: And your Lord has decreed that you worship none but Him. And: You (Alone) we worship, and You (Alone) we ask for help (for each and everything).",
+          "content_type": "quran_verse",
+          "page_number": 31,
+          "confidence": 0.95,
+          "notes": "Multiple Quranic verses about Allah's oneness and creation",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 64)",
+        "content_type": "navigation",
+        "page_number": 32,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "In addition to many other Ayahs with which Allah (Exalted be He) guides to the truth of His being the Lord of mankind and all existence. All messengers came to preach this truth. Allah (Glorified and Exalted be He) says: And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): \"Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).\" And: And We did not send any Messenger before you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) but We revealed to him (saying): Lâ ilâha illa Ana [none has the right to be worshipped but I (Allâh)], so worship Me (Alone and none else).\" And: That is because Allâh ­ He is the Truth (the only True God of all that exists, Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood). And verily, Allâh ­ He is the Most High, the Most Great. And: So worship Allâh (Alone) by doing religious deeds sincerely for Allâh's sake only. Surely the religion (i.e. the worship and the obedience) is for Allâh only. And: Allâh is the Creator of all things, and He is the Wakîl (Trustee, Disposer of affairs, Guardian) over all things. And: Is there any creator other than Allâh",
+          "content_type": "quran_verse",
+          "page_number": 32,
+          "confidence": 0.95,
+          "notes": "Multiple verses about messengers and Allah's uniqueness",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah then explains the proofs in many places, which, when reflected on by a believer, they will surely realize that the textual evidence is supported by visible and palpable evidence. Therefore, after His Statement: O mankind! Worship your Lord (Allâh) Allah (Glorified be He) mentions the proof, saying: Who created you and those who were before you so that you may become Al­Muttaqûn (the pious). The meaning is that our Creator is the only One worthy of worship because He created us and provides for all creatures. This is a matter which is known by Fitrah (innate pure nature) and sound minds. People do not create themselves, but are created by their Creator. Allah is the Creator by textual and logic­based evidence. Then Allah (Glorified be He) says: Who has made the earth a resting place for you, and the sky as a canopy, and sent down water (rain) from the sky and brought forth therewith fruits as a provision for you. Then do not set up rivals unto Allâh (in worship) while you know (that He Alone has the right to be worshipped).",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Commentary on divine proofs and creation",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 65)",
+        "content_type": "navigation",
+        "page_number": 32,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "teaches how to realize the truth behind these visible created things which are perceived by the mind and known to every human. So, He made the earth spread out to sleep on, walk on, and use it to graze our cattle, carry things on, plant trees on and extract minerals out of. He also sends down rain from the sky and thereby brings forth fruits for us.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Description of Allah's provisions",
+          "memory_agreement": true
+        },
+        {
+          "text": "Who sends down rain?",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.8,
+          "notes": "Rhetorical question",
+          "memory_agreement": true
+        },
+        {
+          "text": "Who brings forth these fruits of which people and animals eat?",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.8,
+          "notes": "Rhetorical question",
+          "memory_agreement": false
+        },
+        {
+          "text": "They are all from the great Signs of Allah which indicate His Absolute Power and testify that He is the Lord of all the Worlds. A firmly set land which our Lord made stable with mountains as pegs. He made it flat and still so that we can live on it, and our animals as well, and feel comfort. We drive our cars on them and our planes fly in their atmosphere. We enjoy all that Allah has created. Likewise, He created the sky over us which He adorned with moving and static stars. He made the sun and the moon therein in order for the Servants to realize the Power of the Great Creator, the Most­High, Who has no partner or associate (Glorified and Exalted be He).",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Detailed description of Allah's creation as signs",
+          "memory_agreement": true
+        },
+        {
+          "text": "These various plants and kinds of fruits offering lots of benefits and serving great interests; with different shapes, colors, sizes, tastes and benefits. They manifest the Power of Allah and His uncontested right of exclusive worship. Allah (Glorified and Exalted be He) says: And your Ilâh (God) is One Ilâh (God ­ Allâh), Lâ ilâha illa Huwa (there is none who has the right to be worshipped but He), the Most Gracious, the Most Merciful. Verily! In the creation of the heavens and the earth, and in the alternation of night and day, and the ships which sail through the sea with that which is of use to mankind, and the water (rain) which Allâh sends down from the sky and makes the earth alive therewith after its death, and the moving (living) creatures of all kinds that He has scattered therein, and in the veering of winds and clouds which are held between the sky and the earth, are indeed Ayât (proofs, evidence, signs, etc.) for people of understanding. Allah (Glorified be He) gives us evidence through these signs which we witness, see and feel: Verily, in the creation of the heavens and the earth, and in the alternation of night and day These Heavens with their vastness,",
+          "content_type": "quran_verse",
+          "page_number": 32,
+          "confidence": 0.95,
+          "notes": "Quranic verses about signs in creation",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 66)",
+        "content_type": "navigation",
+        "page_number": 32,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "loftiness and wonders; this Earth with its spaciousness and surface surface, on which are rivers, mountains and so on; then the alteration of night and day and the rain which Allah sends down from the sky and the benefits He brings out of the sea and the ships that travel on its water carrying people's needs and also transporting them from a country to another.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Continuation of description of divine signs",
+          "memory_agreement": true
+        },
+        {
+          "text": "Then Allah sends down rain from the sky to give life to the Earth after its death, and has dispersed on it creatures of all kinds. Also, the signs of directing the winds, and the controlled clouds between Heaven and Earth. These great proofs guide those who reflect on them to the truth that their Creator exists; He brought them into being out of nothing. Verily, He is the Lord of all the Worlds (may He be Exalted and Glorified). None of the creatures can have an existence independent of Him (Glorified and Exalted be He). Allah (Exalted be He) says: And among His Signs is that the heaven and the earth stand by His Command. These signs which we observe and proofs which we read and learn can only be beneficial to people of sound minds and upright insight. Therefore, Allah (Glorified be He) says in the last portion of the Ayah: are indeed Ayât (proofs, evidence, signs, etc.) for people of understanding.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Commentary on divine signs and their purpose",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Messengers (peace be upon them) are the sincerest of all people who established the proofs and were supported by miracles to prove their truthfulness. They informed us that Allah is the Sole Creator of all this; He is our Lord and Creator. He is the Most Gracious, the Most Merciful, the One Who is Free from all imperfections, the All­Holy; in addition to His other Magnificent Names. Allah (Glorified and Exalted be He) states in His Ever­Glorious Book that He is the All­Wise, the All­Knowing, the All­Able over everything. This is the best answer to the advocates of communism, atheism, socialism and other sects which deny the existence of Allah. Do these creatures create themselves? Can a rational person say such a thing? If you say to a rational person that water created itself, he would say: you are crazy. Likewise, a cup of tea, a cup of coffee, a spoon or a stick whose makers are known,",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Argument against atheistic ideologies using logical reasoning",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 4, Page No: 67)",
+        "content_type": "navigation",
+        "page_number": 32,
+        "confidence": 0.95
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Religious Discourse",
+        "content_type": "heading_minor",
+        "page_number": 33,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "so how about this great world which was created by the Al­Mighty Creator from nothing. He has placed countless signs and benefits in it. He is the Originator (Glorified be He) of all that exists. Glorified and Exalted is He! High above the falsehood that the wrongdoers say!",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Opening theological argument about creation"
+        },
+        {
+          "text": "The Creator has explained His Names which befit His Sublime and Divine Being. The Messengers explained His Attributes and Names; they taught and guided people to them. The proofs supported their validity; especially the testimony of our Prophet Muhammad (peace be upon him); the truest and best of all Prophets. Allah sent him with His Great Book and the universal Message in which He explains everything. Then comes the role of the advocates of Masonry who want to make people regress to living like animals, putting everything on equal footing, fighting high moral standards and righteous deeds to make people like beasts which cannot distinguish the truth from falsehood or the good from the bad. This is against what the Messengers (peace be upon them) called for and against what the Glorious Qur'an preaches. It is also against the sound minds and the Fitrah with which Allah created people. Allah (Glorified be He) created the people with the ability to recognize high moral standards, righteous deeds, justice, truth and to hate oppression, aggression and harm.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Discussion of divine attributes and criticism of Masonry",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah has created His Servants and has given them the ability to distinguish a father from a son, a brother from a sister, a wife from a husband, even animals can distinguish that.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Argument about natural human discernment"
+        },
+        {
+          "text": "Likewise, those who advocate pornography and do not see any sin in people doing what they want and allowing themselves to have whatever pleasures or immoralities they desire; they are all atheists and misled people. Allah has abolished this doctrine and explained that He sent the Messengers and revealed the Books to explain His due Rights upon mankind and explain the lawful good things that He permitted and the unlawful evil things that He prohibited. Allah (may He be Exalted and Glorified) commanded His Servants to adhere to the Law the Prophets were sent with and avoid whatever contradicts it.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Criticism of moral relativism and emphasis on divine law"
+        },
+        {
+          "text": "Allah (Glorified be He) has clarified in the Heavenly Books the details of the lawful and",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.8,
+          "notes": "Incomplete sentence continuing to next page"
+        },
+        {
+          "text": "( Part No : 4, Page No: 68)",
+          "content_type": "navigation",
+          "page_number": 33,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "the unlawful, right and wrong, and good and evil.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.8,
+          "notes": "Continuation from previous page",
+          "memory_agreement": true
+        },
+        {
+          "text": "Pornographers and freemasons have turned away from all this and cast them behind their backs; they neither adhere to good morals nor sound logic. They refuse to follow what the Messengers came with of guidance, and discrimination between truth and falsehood, guidance and error. Anyone who contemplates the Book of Allah (Glorified and Exalted be He) and the Sunnah of His Prophet (peace be upon him) and thinks about the conditions of the world, will know that the truth lies in what the Messengers came with such as the explained laws of what Allah has permitted and prohibited. They were sent to distinguish between good and bad, lawful and forbidden according to the Shar` (Law) of Allah in order for societies to be properly established on the right basis of righteousness, guidance and good morals that preserve a person in terms of mentality, religion, property, person, offspring, wife...etc.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Extended criticism of moral relativists and emphasis on Islamic law"
+        },
+        {
+          "text": "No one is entitled to go beyond their limits and attack others. This way, the community will be secure, conditions and manners will be upright, people will be secure and freedom will be achieved for everyone; in taking and giving, selling and purchasing. Every person will then take that which is lawful for them and possess that which is earned by Shar`y (Islamic legal) means, acting upon what benefits and causes harm to no one.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Description of ideal Islamic society",
+          "memory_agreement": true
+        },
+        {
+          "text": "As for those who call for other ideologies such as Qadianiyyah and their like of those who call to follow a new Prophet or a new Messenger, their claim is void and their beliefs are false and misleading, because Allah (Glorified and Exalted be He) explained in His Truth­Clarifying Book that Muhammad (peace be upon him) is the Last of the Prophets. This was reported in the Hadiths Mutawatir (Hadiths reported by a significant number of narrators throughout the chain of narration, whose agreement upon a lie is impossible), and was announced by the previous Prophets. Allah (May He be Exalted) says: Muhammad (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) is not the father of any of your men, but he is the Messenger of Allâh and the last (end) of the Prophets. But there are naive people who cannot distinguish these claims, miss everything, and do not discriminate between truth",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Refutation of Qadiani claims with Quranic verse"
+        },
+        {
+          "text": "( Part No : 4, Page No: 69)",
+          "content_type": "navigation",
+          "page_number": 33,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "and falsehood, guidance and misguidance.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.8,
+          "notes": "Continuation from previous page",
+          "memory_agreement": true
+        },
+        {
+          "text": "So, any claim raised will confuse them, because of their lack of knowledge and insight. Therefore, the voice of this man, Mirza Ghulam Ahmad, and his false claim found its way to these people who followed him and believed in what he said and wrote down in this matter, where he claimed himself to be the last of Prophets and Messengers, which blatantly goes against the Book of Allah and the Sunnah of the Prophet (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Specific criticism of Mirza Ghulam Ahmad",
+          "memory_agreement": true
+        },
+        {
+          "text": "How can this possibly be accepted? How can people of sound minds, who can read and write, be deceived by such a claim? The falsehood of this claim is crystal­clear. Allah (Glorified and Exalted be He) has given signs, lessons and admonition, but as Allah (Glorified be He) says: Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind. Likewise, Bahiyyah, Babiyyah and their like who made false claims, who themselves are astray and deceive the weak­minded people who follow their claims. Their leader claimed that he is a prophet then claimed to be the Lord of all the Worlds!",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Rhetorical questions and Quranic quote about spiritual blindness"
+        },
+        {
+          "text": "Despite their glaring falsehood, we find followers, callers and gatherings which circulate their false claims and call to their beliefs. Many of them know the truth and the falsity of their claims, but pretend to support their falsehood because they have some personal interests, so they follow their false way. They are like animals and even worse, as Allah (Glorified and Exalted be He) says: Or do you think that most of them hear or understand? They are only like cattle ­ nay, they are even farther astray from the Path (i.e. even worse than cattle). Allah (Glorified be He) says:",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Criticism of false religious movements with Quranic comparison",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 70)",
+          "content_type": "navigation",
+          "page_number": 34,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "And surely, We have created many of the jinn and mankind for Hell. They have hearts wherewith they understand not, and they have eyes wherewith they see not, and they have ears wherewith they hear not (the truth). They are like cattle, nay even more astray; those! They are the heedless ones.",
+          "content_type": "quran_verse",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Quranic verse about spiritual blindness",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, these people are led astray like the people of Pharoah were misled by Pharoah and the people of Al­Namrud by Al­Namrud.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Historical comparison to ancient tyrants",
+          "memory_agreement": true
+        },
+        {
+          "text": "This helpless person who urinates, defecates, eats, drinks and feels the pain of everything, how could he be a Lord or God? How can this be acceptable to him or to his followers? But the matter as Allah (Exalted be He) says: Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind. And as Allah (Glorified be He) says: Or do you think that most of them hear or understand? They are only like cattle Allah (Glorified and Exalted be He) also says: And who is more astray than one who follows his own lusts, without guidance from Allâh?",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Rhetorical argument against false prophets with multiple Quranic quotes"
+        },
+        {
+          "text": "Likewise, the Antichrist who will come at the end of time and will be followed by a lot of ignorant people, who lack insight, and so will be blind to the falsehood he will circulate and the unusual acts he shall do that will only deceive the people weak in soul and mind.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Reference to eschatological figure of the Antichrist"
+        },
+        {
+          "text": "Every doctrine and every false call finds followers and supporters with no hearts or guidance. As for the way of Salaf (righteous predecessors), it is clearer than the sun in the middle of the day, because it is based on clear proofs, sound evidence and decisive facts for any person of the least discernment who wishes to know the truth. Allah has explained in His Book and in the Sunnah of the Prophet (peace be upon him) that good and success are attained by adhering to the Book of Allah, the Sunnah of the Prophet (peace be upon him) and the way of the Salaf",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Praise of Salafi methodology",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 71)",
+          "content_type": "navigation",
+          "page_number": 34,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "from the Sahabah (Companions of the Prophet, may Allah be pleased with them) and those who followed them righteously. The callers to the truth can refute the claims of those perverted people by the knowledge they obtain from the Book of Allah and the Sunnah of the Prophet (peace be upon him); and by the knowledge they gain through their sound minds, sharp discernment and pure nature on the basis of the guidance learned from the Book of Allah, the Sunnah of His Messenger (peace be upon him); and by what they have learned about Allah through His creatures that all testify to His Power, Greatness, Exclusive Right of worship and the truthfulness of His Messengers (peace be upon them). We should know that the truth which they preached is the truth found in the Book of Allah and the Sunnah of the Prophet (peace be upon him) which clarifies the lawful and the prohibited, guidance and misguidance, the Commands of Allah and His prohibitions and what He has informed about Paradise and Hellfire...etc.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Continuation about Salafi methodology and sources of Islamic knowledge"
+        },
+        {
+          "text": "As for Resurrection, Paradise, Hell and matters related to the Last Day which those people, Communists and all atheists deny, all these allegations are false and against the decisive proofs.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Defense of Islamic eschatology against atheist denial"
+        },
+        {
+          "text": "Their claims are refutable and invalid, because there are countless proofs on the resurrection of the dead and their standing for judgment before the Lord of all the Worlds. All that Allah has created in this world is a witness to the Power of Allah (Exalted be He) and His Exclusive Right to be worshipped. Allah sends down the rain upon the barren land and, by it, revives it after death and causes plants to come forth and every kind of fruit, as He wills.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Natural argument for resurrection using agricultural metaphor",
+          "memory_agreement": true
+        },
+        {
+          "text": "The One Who caused this plant to grow and granted us all these fruits is Allah (Glorified and Exalted be He), Who sends down this rain and revives the barren land that brings forth plants and fruits. He is the One who will revive the dead and resurrect them from their graves. Everyone will stand before Him (Glorified and Exalted be He) to be asked about all that they did and earned in this world.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Continuation of resurrection argument"
+        },
+        {
+          "text": "In the same way, Allah has created our father Adam of dust and then Allah created his offspring",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.8,
+          "notes": "Beginning of creation argument"
+        },
+        {
+          "text": "( Part No : 4, Page No: 72)",
+          "content_type": "navigation",
+          "page_number": 34,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "from a weak fluid which He formed into `Alaqah (clot; a piece of coagulated blood) then into Mudghah (small lump of flesh) then an embryo and finally a full human endowed with hearing, sight, reason, senses and organs. Gradually man grows and becomes a great human being who takes, gives, thinks, learns and produces.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Description of human embryological development",
+          "memory_agreement": true
+        },
+        {
+          "text": "These great proofs indicate the Ability of Allah and the truthfulness of the Messengers and their informing that there, in the Hereafter, will be a gathering before the Lord (Exalted be He) in which the truth shall be upheld and people of righteous deeds shall be rewarded with the best reward, enter Paradise and be saved from Hell and enemies of Allah shall be humiliated and cast into Hellfire forever.",
+          "content_type": "paragraph",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Connection between creation and eschatological justice"
+        },
+        {
+          "text": "Every rational person can see that there are people who oppress others and people whose rights are usurped and people who cannot protect their property and themselves. The oppressor may die without rendering back the right to its owner, nor the oppressed being treated justly; will this eliminate the rights of the oppressed, the needy and the helpless? No, because the All­Wise, All­Knowing Creator has set a fixed date for justice, which is the Day of Recompense, where an oppressed person who has not been given their full rights in this world shall be avenged and Allah shall punish the oppressor in the way they deserve.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Rational argument for divine justice and afterlife"
+        },
+        {
+          "text": "Verily, this world is not the place of reward and punishment, but it is the place of test, trial, work, joy and sorrows. A wronged person may regain their rights in it or it may be postponed to the Day of Judgment for a great wisdom, where Allah shall retaliate against those wrongdoers, as He (Glorified be He) says: Consider not that Allâh is unaware of that which the Zâlimûn (polytheists, wrong­doers) do, but He gives them respite up to a Day when the eyes will stare in horror.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Explanation of worldly trials with Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "On that Terrible Day, Allah shall treat the oppressed people with justice, give them their rewards and retaliate against those who wronged them. Allah may bring down a quick punishment on the oppressor in this world, as He did with many past nations. Allah may also postpone the defending of the oppressed, the punishing of the oppressor, then the due rights are given",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Description of divine justice"
+        },
+        {
+          "text": "( Part No : 4, Page No: 73)",
+          "content_type": "navigation",
+          "page_number": 35,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "on this Great Day; the Day of Judgment when the eyes will stare in horror; all this is true.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Continuation about Day of Judgment"
+        },
+        {
+          "text": "The All­Wise, All­Knowing and Able over everything will not allow the rights of the oppressed to be wasted. Therefore, He has informed us that there will be resurrection, and there will also be retribution and judgment. There are numerous proofs on this from the Qur'an, the Sunnah, the Ijma` (consensus) of people of sound minds and intact nature. They also indicate that there must be retribution and judgment and that resurrection is true, Paradise is true and Hellfire is true. All these truths are stated in Heavenly Books, the Sunnah of the Prophet (peace be upon him) and supported by Ijma` of Muslims.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Sources of proof for resurrection and judgment"
+        },
+        {
+          "text": "Certainly, Fitrah and sound mind testify to that, for we witness oppressors and oppressed people who remain undefended, their rights not given back. There must be a Day when they shall be judged and there shall be retribution for everyone for what they did.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Natural reasoning for divine justice"
+        },
+        {
+          "text": "We find pious believers, who are rightly guided and strive in the way of good, yet they do not have as much as those who transgressed the Limits of Allah and wronged the people, who ­ in spite of their wrongdoing ­ possess bundles of money, lofty palaces, servants and luxury.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Observation about worldly inequality"
+        },
+        {
+          "text": "There are many pious people who are deprived of all this. Therefore, there must be a Day on which they will meet their Lord to be given high status, great reward and many bounties for their patience and righteous deeds. They will have great reward, high status, ample good, palaces, servants and countless blessings for the pious work they did. On the other hand, Allah (Exalted be He) shall punish the wrongdoers, who overstepped the boundaries and rejected the truth. Those who are satisfied with the worldly life; deceived by its pleasures and drawn away by its allure; they will receive the punishment they deserve.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Description of afterlife rewards and punishments"
+        },
+        {
+          "text": "( Part No : 4, Page No: 74)",
+          "content_type": "navigation",
+          "page_number": 35,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "They will suffer disgrace and the worst end, because of their transgression, turning away from Allah, overstepping the boundaries of His Law, repaying His favors with ingratitude, oppressing His Servants and their reluctance to show obedience.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Description of punishment for wrongdoers",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) shall punish them as they deserve. When a rational person of a sound nature contemplates these matters properly, they will realize that returning to Allah is true and that the claims which the atheists, communists, idol­worshippers and other deniers of the Hereafter and resurrection are of the worst false claims. It will become evident that their claims are groundless and their sayings are false.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Rational conclusion about afterlife truth"
+        },
+        {
+          "text": "Likewise, the preachers of false religions, calls and destructive ideas are all on the same track. But when people of sound minds, precise discernment and pure nature reflect on them, they will realize their falsehood and their fake evidence by measuring them against the Qur'an, the Sunnah and authentic books. Allah (Glorified be He) has created signs and provided the proofs supporting the truth from His Book, the Sunnah of His Prophet (peace be upon him) and the power of discernment He endowed mankind with; in addition to all the creatures which He has created in this universe. All these signs are proofs of His Wisdom and that He is the All­Knowing, the All­Bountiful Creator, having power over everything and the only One Who is worthy of worship ­ without a partner.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Criticism of false religions and emphasis on Islamic sources",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is important for knowledge seekers ­ wherever they are ­ to recite the Book of Allah and to make understanding it and reflection on it one of their paramount concerns, and to devote care to proper recitation and contemplation of its meanings and clear proofs on the truthfulness of what the Messengers conveyed and what is explained in the Qur'an and on the falsehood of the statements made by evil people wherever they are.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Advice for knowledge seekers",
+          "memory_agreement": true
+        },
+        {
+          "text": "Anyone who reflects on the Qur'an seeking guidance, Allah will honor them, give them insight and help them achieve their aim.",
+          "content_type": "paragraph",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Promise for those who study Quran",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 75)",
+          "content_type": "navigation",
+          "page_number": 35,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) says: Verily, this Qur'ân guides to that which is most just and right Allah (Glorified and Exalted be He) also says: Say: \"It is for those who believe, a guide and a healing.\"",
+          "content_type": "quran_verse",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Two Quranic verses about guidance"
+        },
+        {
+          "text": "Likewise, when a believer reflects on the purified Sunnah and the way the Prophet (peace be upon him) dealt with his enemies in Makkah and Madinah, they will feel the truth and know that the advocates of the truth are victorious and are always tested. Whoever misses victory in this world, shall not miss their reward and compensation in the Hereafter, as Allah (Glorified and Exalted be He) says: Verily, We will indeed make victorious Our Messengers and those who believe (in the Oneness of Allâh ­ Islâmic Monotheism) in this world's life and on the Day when the witnesses will stand forth, (i.e. Day of Resurrection) ­ The Day when their excuses will be of no profit to Zâlimûn (polytheists, wrong­doers and disbelievers in the Oneness of Allâh). Theirs will be the curse, and theirs will be the evil abode (i.e. painful torment in Hell­fire).",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Promise of victory for believers with Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) has promised those who work towards the Hereafter with victory in this world and reward in the Hereafter. Allah (Glorified and Exalted be He) says: Verily, Allâh will help those who help His (Cause). Truly, Allâh is All­Strong, All­Mighty.",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Promise of divine help with Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat­as­Salât [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin Al­ M a' rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al­Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur'ân as the law of their country in all the spheres of life]. And with Allâh rests the end of (all) matters (of creatures). Allah (may He be Exalted and Glorified) has promised victory in these two Ayahs to those who work for the truth, perform Salah (Prayer), give Zakah to those who deserve it, enjoin good and forbid evil. Victory includes success and authority in this world and success and the Good Pleasure of Allah on the Day of Resurrection when the witnesses shall stand.",
+          "content_type": "quran_verse",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Extended Quranic verse about righteous rulers with commentary"
+        },
+        {
+          "text": "This is victory to the believers and humiliation to the disbelievers. The believers shall win Paradise, whereas humiliation and sorrow will cover the faces of the disbelievers and their final abode will be Hellfire. Concerning this meaning Allah (Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Commentary on victory and defeat"
+        },
+        {
+          "text": "( Part No : 4, Page No: 76)",
+          "content_type": "navigation",
+          "page_number": 36,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allâh has promised those among you who believe and do righteous good deeds, that He will certainly grant them succession to (the present rulers) in the land, as He granted it to those before them, and that He will grant them the authority to practise their religion which He has chosen for them (i.e. Islâm). And He will surely give them in exchange a safe security after their fear (provided) they (believers) worship Me and do not associate anything (in worship) with Me.",
+          "content_type": "quran_verse",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Quranic verse about divine promise to believers"
+        },
+        {
+          "text": "There are many Ayahs to the same effect.",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Reference to similar verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "Many wonders are revealed to anyone who reflects on the conditions of the people of knowledge who excelled in this nation and reflected on the Book of their Lord and the Sunnah of His Prophet (peace be upon him) and learned the knowledge which helped them acquire a correct understanding of the Book of Allah and the Sunnah of the Messenger of Allah (peace be upon him) from the writings and reported narrations of the Sahabah (may Allah be pleased with them) and Tabi`un (Followers, the generation after the Companions of the Prophet) and those who followed them righteously such as Abu Al­`Abbas ibn Taymiyah (may Allah be merciful to him) and his two students: Ibn Al­Qayyim and Al­Hafiz ibn Kathir and those who were prominent in this field.",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Praise of classical Islamic scholars",
+          "memory_agreement": true
+        },
+        {
+          "text": "Yes, whoever thinks of their conditions and that Allah has granted them understanding of their statements and writings, shall see wonders, learn significant lessons, obtain valuable sciences, approach enlightened hearts and hear clear proofs that will guide anyone who adheres to them to the ways of happiness and uprightness.",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Benefits of studying classical scholars",
+          "memory_agreement": true
+        },
+        {
+          "text": "This way, they will reach, by the Help of Allah, the sought­after goal and will be fortified by sciences, knowledge and enjoy the tranquility of learning the truth with which Allah sent His Messengers, revealed in His Scriptures and was followed by the Salaf of this nation.",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Results of following classical scholarship"
+        },
+        {
+          "text": "It will become clear that those who disagree with them from the callers to aberrance and error have nothing but casting doubts and some false claims which are of no avail.",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Criticism of those who oppose classical scholarship"
+        },
+        {
+          "text": "( Part No : 4, Page No: 77)",
+          "content_type": "navigation",
+          "page_number": 36,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "We should know that the student of knowledge is the one who distinguishes the truth from falsehood through clear proofs and certain evidence. They read the books of the guided Imams, take from them that which is in conformity with the truth and leaves the weak views and those which are contradictory to the truth. From these prominent Imams is Shaykh Muhammad ibn `Abdul­Wahhab (may Allah be merciful to him) and his supporters during the twelfth centuries who became prominent in this field. They wrote great successful writings and sent letters to people and refuted the opponents. They explained the truth in their messages and compositions based on proofs from the Qur'an and the Sunnah. Shaykh `Abdul­Rahman ibn Qasim (may Allah be merciful to him) gathered many of these writings in His Book which is entitled: (Al­Durar Al­ Sunniyyah Fi Al­Ajwibah Al­Najdiyyah).",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Praise of Muhammad ibn Abdul-Wahhab and citation of scholarly work",
+          "memory_agreement": true
+        },
+        {
+          "text": "Anyone who considers the proofs which Shaykh Muhammad ibn `Abdul­Wahhab (may Allah be merciful to him) and his students wrote, would see the obvious truth, the decisive evidence and clear proofs which show the invalidity of the opponents' views and their doubts and explain the truth with clear evidence.",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Continued praise of Wahhabi scholarship"
+        },
+        {
+          "text": "Although they are late scholars, they were guided to show the truth and explain its proofs. They explained the issues of Tawhid (belief in the Oneness of Allah/ monotheism), refuted idol advocates, grave worshippers and became prominent in this field. They were on the straight path; the way of the Salaf and they depended on clear proofs from the Book of Allah and the Sunnah of the Prophet (peace be upon him). Moreover, they gave much care to the books of Hadith and Tafsir (exegesis of the meanings of the Qur'an)",
+          "content_type": "paragraph",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Description of Wahhabi methodology and focus areas"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 37,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "and became prominent in this field until, through them, Allah made truth prevail, falsehood to be defeated and established the clear evidence by their efforts. He made them spread Islam, uplift the banner of Jihad (striving in the Cause of Allah) and caused blessings and good to gush forth on their hands. The advocates of the truth in all countries who knew their books, the truthfulness of their claims and the soundness of their methodology follow their call and resort to their writing in answering the enemies of Islam everywhere such as the followers of polytheism, heresies and superstitions.",
+          "content_type": "paragraph",
+          "page_number": 37,
+          "confidence": 0.9,
+          "notes": "Continuation of previous discussion about Islamic scholars",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 78)",
+          "content_type": "navigation",
+          "page_number": 37,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "I ask Allah (Glorified and Exalted be He) to guide us to do the things that please Him and to mend our hearts and deeds. I ask Him to make us guided and guiding, righteous and acting for righteousness and to grant us good understanding of religion. I also ask Him (Glorified and Exalted be He) to make His religion victorious, to make His Word uppermost, and set right the conditions of Muslims everywhere. I ask Him to make their rulers pious, guided and guiding. I ask Him to help them rule by Shari`ah and appeal to its judgment, and guide them to every good, and uphold the truth through them, for He is the Most Generous, All­Bountiful. May peace and blessings be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "paragraph",
+          "page_number": 37,
+          "confidence": 0.9,
+          "notes": "Concluding prayer/supplication",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The morals of scholars",
+        "content_type": "heading_major",
+        "page_number": 38,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 79)",
+          "content_type": "navigation",
+          "page_number": 38,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah, the Lord of the Worlds. May Allah's peace and blessings be upon the most honorable of Prophets and Messengers, our Prophet Muhammad, his family, and Companions.",
+          "content_type": "paragraph",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Opening praise formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "I would like to clarify the morals that should be found in scholars and what they should do as they follow their great leader and role model in everything good, our Prophet Muhammad ibn `Abdullah (peace be upon him), the Messenger sent by Allah, and the leader of all callers to Allah. I saw that it is better to be entitled \"The morals of scholars\". It is known for anyone who has the least knowledge that the scholars are the successors of the prophets, because the prophets did not bequeath money; they left us only knowledge, and knowledge is what was indicated in the Qur'an and the Sunnah (whatever is reported from the Prophet). That is why `Aishah (may Allah be pleased with her), when asked about the morals of the Prophet (peace be upon him) said, The character of the Prophet (peace be upon him) was the Qur'an. These great words said by `Aishah (may Allah be pleased with her) guides us to the fact that his morals (peace be upon him) were based on following the commands of the Qur'an and avoiding its prohibitions, which entails adhering to the morals praised in the Qur'an and keeping away from those that are dispraised in the Qur'an. It is a great and comprehensive word. The scholars, Du`ah (callers to Islam), teachers, and students should care about Allah's Book, derive the morals loved by Allah (Glorified and Exalted be He) from it, and adhere to them so that they become a permanent lifestyle for them wherever they are.",
+          "content_type": "paragraph",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Introduction to the topic of scholarly morals",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says, Verily, this Qur'ân guides to that which is most just and right The Qur'an is the guide to the most just and right way. There is no greater aim for a Mu'min (believer) than being straight on the most just and right way;",
+          "content_type": "quran_verse",
+          "page_number": 38,
+          "confidence": 0.8,
+          "notes": "Quranic verse with commentary",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 80)",
+          "content_type": "navigation",
+          "page_number": 38,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is no doubt that this is the noblest and most important of objectives, which is the great moral character with which Allah praised His Prophet Muhammad (peace be upon him) in Surah Al­Qalam, as He (Glorified and Exalted be He) says, Nûn. [These letters (Nûn, etc.) are one of the miracles of the Qur'ân, and none but Allâh (Alone) knows their meanings]. By the pen and by what they (the angels) write (in the Records of men). You (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), by the Grace of your Lord, are not mad. And Verily, for you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) will be an endless And Verily, you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) are on an exalted (standard of) character. reward. Thus, all scholars and knowledge seekers should care about this moral and recite Allah's Book and work accordingly.",
+          "content_type": "quran_verse",
+          "page_number": 38,
+          "confidence": 0.8,
+          "notes": "Extended Quranic quotation with Arabic text and commentary",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation - The morals of scholars",
+        "content_type": "heading_minor",
+        "page_number": 39,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 81)",
+          "content_type": "navigation",
+          "page_number": 39,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 82)",
+          "content_type": "navigation",
+          "page_number": 39,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 83)",
+          "content_type": "navigation",
+          "page_number": 39,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "one of them said, \"I will offer Salah (Prayer) continuously and never sleep.\" Another one said, \"I will observe Sawm (fast) continuously and never break it.\" The third one said, \"I will never sleep on a bed.\" The fourth one said, \"I will never eat meat.\" When the Prophet (peace be upon him) heard about this, he gave a Khutbah (sermon) to people, praised Allah and then said, \"By Allah, I am the most pious one among you. However, I offer Salah and sleep; I observe Sawm and break it; and I marry women. Those who shun away from my Sunnah are not real Muslims.\"",
+          "content_type": "hadith",
+          "page_number": 39,
+          "confidence": 0.9,
+          "notes": "Hadith about moderation in worship",
+          "memory_agreement": true
+        },
+        {
+          "text": "All Banu Adam (human beings, descendents from Prophet Adam) are sinners, and the best among them are those who repent.",
+          "content_type": "hadith",
+          "page_number": 39,
+          "confidence": 0.8,
+          "notes": "Prophetic saying about human nature and repentance",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation - The morals of scholars",
+        "content_type": "heading_minor",
+        "page_number": 40,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 84)",
+          "content_type": "navigation",
+          "page_number": 40,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 85)",
+          "content_type": "navigation",
+          "page_number": 40,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 86)",
+          "content_type": "navigation",
+          "page_number": 40,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        }
+      ]
+    }
+  ]
+}

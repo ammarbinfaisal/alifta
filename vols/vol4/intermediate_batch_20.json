@@ -1,0 +1,1275 @@
+{
+  "batch_number": 20,
+  "sections_count": 80,
+  "timestamp": "2025-06-12T02:43:43.844419",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The ruling on extravagant funerals:",
+        "content_type": "heading_question",
+        "page_number": 59,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 2: What is the ruling on extravagance in funerals? The bereaved family has dinners for those who come to offer condolences. There are also some customs that have spread such as holding a ceremony for people to come and offer condolences again on the third, eighth, and fortieth day after death.",
+          "content_type": "question",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Question about funeral customs",
+          "memory_agreement": false
+        },
+        {
+          "text": "A2: This is baseless; it is a Bid`ah (innovation in Islam), Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect), and one of the deeds of Jahiliyyah (pre-Islamic time of ignorance). It is impermissible to make dinners for the people who come to offer condolences, either on the first, third, fourth, fortieth or any other day after death.",
+          "content_type": "answer",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Fatwa ruling against funeral customs",
+          "memory_agreement": true
+        },
+        {
+          "text": "Jarir ibn `Abdullah Al-Bajaly (may Allah be pleased with him), a noble Companion of the Prophet, said, \"We considered gathering in the house of the bereaved family and cooking food after burial an act of wailing.\"Related by Imam Ahmad with a good Isnad (chain of narration).",
+          "content_type": "hadith",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Supporting hadith evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 120)",
+          "content_type": "navigation",
+          "page_number": 59,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "extravagance in parties",
+        "content_type": "heading_question",
+        "page_number": 60,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Q 3: Are parties that are held in hotels, which cost a lot of money, considered to be a form of extravagance? If so, we hope that you warn against this.",
+          "content_type": "question",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Question about wedding parties in hotels",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: The parties that are held in hotels involve wrong acts and many blameworthy attitudes; for they mostly involve unnecessary extravagance and excessiveness.",
+          "content_type": "answer",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Beginning of fatwa against hotel parties",
+          "memory_agreement": true
+        },
+        {
+          "text": "My advice to all the Muslim brothers is not to hold wedding parties in hotels or expensive halls. Instead, they can be held in either an inexpensive hall or at home; there is nothing wrong in this. Wedding parties must not be held in wedding palaces; holding them at home instead, wherever possible, suffices the purpose. This is preferable and avoids extravagance and wastefulness. May Allah help us!",
+          "content_type": "fatwa_ruling",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Final ruling and advice on wedding venues",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Some violations that take place at weddings",
+        "content_type": "heading_minor",
+        "page_number": 61,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 121)",
+          "content_type": "navigation",
+          "page_number": 61,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 4: Complementary to the first question: Your Eminence stated that it is Haram (prohibited) for men to lengthen their clothes and also for women if this is out of arrogance. What is the ruling on a wedding dress that extends for 3 meters behind a bride? What is your opinion also on the money paid to female singers in wedding parties?",
+          "content_type": "question",
+          "page_number": 61,
+          "confidence": 0.95,
+          "notes": "Question about wedding dress length and female singers",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: As for women, the Sunnah (whatever is reported from the Prophet) is to lengthen the dress for a span in order to cover their feet. Increasing more than that is not permissible for the bride or for any one else. Indeed, it is a waste of money to buy expensive clothes. One should seek moderation in clothing; there is no need to embroider it with expensive jewels that cost lots of money, which could instead benefit the Ummah (nation based on one creed) in religious and worldly affairs. It is not permissible to hire female singers. However, if the female singer performs light songs during a period at night to express delight and happiness for the bride, there is no problem in this. Singing and beating the Duff (a tambourine­like instrument without bells) at weddings are permissible and Mustahab (desirable) provided that it does not lead to evil, and is among women only at a time of night without staying awake all night and without loudspeakers. Only regular songs that praise the bride, bridegroom, and their families are to be performed in the presence of women only. This was the tradition at the time of the Prophet (peace be upon him) and the Sahabah (Companions of the Prophet). However, boasting about hiring very expensive female singers is unacceptable and impermissible. So are loudspeakers that harm people and let them stay awake at night and cause them to miss Fajr (Dawn) Prayer. Such reprehensible act should be avoided.",
+          "content_type": "answer",
+          "page_number": 61,
+          "confidence": 0.95,
+          "notes": "Scholar's response about wedding dress length and singers",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Extravagant Parties",
+        "content_type": "heading_minor",
+        "page_number": 61,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 122)",
+          "content_type": "navigation",
+          "page_number": 61,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 5: What is Your Eminence's view concerning extravagance in food served in parties, which is eventually thrown in the garbage? Is there a solution? How should leftovers be used?",
+          "content_type": "question",
+          "page_number": 61,
+          "confidence": 0.95,
+          "notes": "Question about food waste at parties",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: I have previously replied that it is not permissible to exaggerate in the cost of wedding banquets or any thing else. The owner of the Walimah (wedding banquet) should be careful to serve the necessary kinds of food. Needless food stuff should be avoided. Any remaining food should be given to charitable societies or poor workers who may accept them. The remaining food should be delivered to those who could benefit from it; it should not be thrown in the garbage near impure things. The food should be delivered to the needy. If there are no needy people, the remaining food should be put in a pure place, not on roads or with impurities, so that some people or animals may come to eat from it. This is a way to keep food from being desecrated when there is no one to take it. However, if there are workers or poor people, the remaining food should be delivered to them. It could also be dried and transferred to the needy or used as fodder for animals. Being economic and thrifty will decrease the amount of leftover food.",
+          "content_type": "answer",
+          "page_number": 61,
+          "confidence": 0.95,
+          "notes": "Scholar's response about handling leftover food",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The authenticity of the Hadith that reads: \"We are people who do not eat until we are hungry.\"",
+        "content_type": "heading_minor",
+        "page_number": 62,
+        "confidence": 0.85
+      },
+      "content_items": [
+        {
+          "text": "Q 6: What is the degree of authenticity of this Hadith: \"We are people who do not eat until we are hungry and when we eat, we do not eat to our fill.",
+          "content_type": "question",
+          "page_number": 62,
+          "confidence": 0.95,
+          "notes": "Question about hadith authenticity",
+          "memory_agreement": false
+        },
+        {
+          "text": "A 6 : This report is narrated from some delegation with dubious Sanad (chain of narrators). It is reported that they said that the Prophet (peace be upon him) said: \"We are people who do not eat until we are hungry, and when we eat, we do not eat to our fill.\" i.e. they are economic. This meaning is correct, but the Sanad contains some shortcomings in terms of reliability. For more information about it, refer to [Zad Al­Ma`ad by ibn al­Qayyim] and [Al­Bidayah by ibn Katheer]. This benefits the person if he eats when he is hungry or in need to do so. When he eats, he should not overeat",
+          "content_type": "answer",
+          "page_number": 62,
+          "confidence": 0.9,
+          "notes": "Scholar's response about hadith authenticity and eating habits",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 123)",
+          "content_type": "navigation",
+          "page_number": 62,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "or be excessively satiated with food. There is no harm with harmless satiation. People used to eat until they are full at the time of the Prophet (peace be upon him). However, excessive satiation is detrimental. The Prophet (peace be upon him) was occasionally invited for banquets and would invite people and order them to eat and they did till they become satiated. Then, he (peace be upon him) and the Sahabah (Companions of the Prophet) would eat after. During his time, it was reported that Jabir ibn `Abdullah Al­Ansary invited the Prophet (peace be upon him) on the Day of the Battle of the Trench and prepared a small lamb and some barley. The Prophet (peace be upon him) ordered that bread and meat be cut and invited ten men to come and eat their fill, then they left and other ten came and so on. Allah (may He be Exalted) blessed the barley and the lamb, so that a large number of people ate from the food and still some food remained that they sent to their neighbors. It is also reported that the Prophet (peace be upon him) gave milk to Ahl­Al­Suffah (poor Muslims who lived in the Mosque and were devoted to learning). Abu Hurayrah said: \"I gave them (milk) to drink, till they were satiated. Then, the Prophet (peace be upon them) said: 'O Abu Hurayrah drink (from it).' He said: 'I did.' Then, he said: 'Drink', and I did. Then I said: 'By Him Who has sent you with the truth, I cannot drink anymore.' Then the Prophet (peace be upon him) drank what remained.\" This provides evidence that it is permissible to be satiated with food and drink without causing any harm.",
+          "content_type": "paragraph",
+          "page_number": 62,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with hadith examples",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Golden Vessels",
+        "content_type": "heading_minor",
+        "page_number": 63,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 7: Is it Haram (prohibited) to use gilded vessels that are not completely made of gold? Does this Hadith apply to it: Do not eat from gold and silver vessels?",
+          "content_type": "question",
+          "page_number": 63,
+          "confidence": 0.95,
+          "notes": "Question about gilded vessels",
+          "memory_agreement": false
+        },
+        {
+          "text": "A 7: The scholars state that the prohibition in the Hadith is applied to vessels gilded with gold. The Prophet (peace be upon him) said: Do not drink from gold and silver vessels and do not eat from plates of such metals, for these things are for them (disbelievers) in this worldly life and for you in the Hereafter. Reported by Imams Al­Bukhari and Muslim. He (peace be upon him) said: He who drinks from gold and silver utensils is only filling his abdomen with Hellfire. Related by Muslim in his Sahih.",
+          "content_type": "answer",
+          "page_number": 63,
+          "confidence": 0.95,
+          "notes": "Scholar's response with hadith citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 124)",
+          "content_type": "navigation",
+          "page_number": 63,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A l­Daraqutny who regarded it as Hasan (good) and Al­Bayhaqy on the authority of Ibn `Umar (may Allah be pleased with both of them) that the Prophet (peace be upon him) said, \"He who drinks from vessels of gold or silver, is in fact drinking Hellfire in his belly.\" The prohibition in his saying (peace be upon him): \"He who drinks from vessels of gold or silver ...'' is general and thus, implies to what is made of pure gold and silver and what is plated with them. Gold­coated vessels contain the enamel of gold, so they are forbidden according to the text of the Hadith. Likewise, small utensils such as cups for tea and coffee and spoons should not be made of gold or silver. Muslims should avoid them. If Allah (Exalted be He) has made a person affluent, he should abide by the Shari`ah. If he has additional money, he should give it to the needy. A Muslim should not be a spendthrift.",
+          "content_type": "paragraph",
+          "page_number": 63,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with additional hadith and ruling",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "zakah on jewelry",
+        "content_type": "heading_minor",
+        "page_number": 64,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 8: Some women are extravagant in wearing gold, although it is Halal (lawful) to wear. What is the ruling on the Zakah on gold? Zakah is obviously one of the branches of the topic dealing with consumption and expenditure.",
+          "content_type": "question",
+          "page_number": 64,
+          "confidence": 0.95,
+          "notes": "Question about zakah on gold jewelry",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Gold and silk are only Halal for women to wear, not men. It was authentically reported from the Messenger of Allah (peace be upon him) that he said, \"Gold and silk are Halal for the women of my Ummah (nation based on one creed) and Haram (prohibited) for its men.\" (Related by Ahmad, Al­Nasa'y, and Al­Tirmidhy, who ranked it as Hadith Sahih [a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish], from a Hadith narrated by Abu Musa Al­Ash'ary [may Allah be pleased with him]) Scholars have differed as to whether Zakah is obligatory on jewelry or not. Some scholars are of the opinion that it is not obligatory on the jewelry that a woman wears or lends to others, while others said that it is obligatory; and this is the sound opinion. Zakah is obligatory on jewelry if it reaches the Nisab (the minimum amount on which Zakah is due) and a Hawl (one lunar year calculated from the time a property reaches the minimum amount upon which Zakah is due) passes, according to the general meaning of the evidence. The Nisab is twenty Mithqals (1 Mithqal = 4.25 grams) of gold and 140 Mithqals of silver. If the gold jewelry that a woman owns, whether it is in the form of necklaces, bracelets, or anything similar, reaches 20",
+          "content_type": "answer",
+          "page_number": 64,
+          "confidence": 0.95,
+          "notes": "Scholar's response about zakah on jewelry with hadith citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 125)",
+          "content_type": "navigation",
+          "page_number": 64,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Mithqals, equivalent to 11.5 Saudi golden Pounds, it is obligatory to pay Zakah on it. This amount in grams is 92 grams. So if the gold jewelry is equal to 92 grams ­ 11.5 Saudi golden Pounds ­ it is obligatory to pay Zakah on it. Zakah is one­quarter of one­tenth (2.5%), which means 25 out of every 1000 every Hawl. It was authentically reported from the Messenger of Allah (peace be upon him) that A woman came to the Messenger of Allah (peace be upon him) with her daughter, on whose hand were two thick bangles of gold. He (peace be upon him) asked, \"Do you pay Zakah on these?\" She said, \"No.\" He (peace be upon him) said, \"Would it please you if Allah were to encircle you on the Day of Resurrection with two bracelets of Fire because of them?\" The narrator, 'Abdullah ibn 'Amr ibn Al­'As (may Allah be pleased with them both), said that she took them off, gave them to the Prophet (peace be upon him) and said, \"They are for Allah (may He be Glorified and Exalted) and His Messenger.\" (Related by Abu Dawud and Al­Nasa'y with a Sahih Isnad [chain of narrators]) Um Salamah (may Allah be pleased with her) narrated that she was wearing some gold ornaments, so she asked, \"O Messenger of Allah! Is this Kanz (hoarded wealth, the Zakah of which has not been paid)?\" He (peace be upon him) said, \"Anything that reaches the amount at which Zakah is payable and its Zakah is paid is not considered Kanz.\" (Related by Abu Dawud and Al­Darqutny, and ranked as Sahih by Al­Hakim) It was related by Abu Dawud in a Hadith narrated by 'Aishah (may Allah be pleased with her) with a Sahih Sanad (chain of narrators) that she said, \"The Messenger of Allah (peace be upon him) came to me and saw big silver rings on my hands. He (peace be upon him) said, 'What is this, O 'Aishah?' I said, 'I made them to adorn myself for you, O Messenger of Allah.' He (peace be upon him) said, 'Do you pay the Zakah due on them?' I said, 'No,' or 'What Allah wishes.' He (peace be upon him) said, ' They are sufficient for your (deserving) punishment of Fire.'\" This Hadith was ranked as Sahih by Al­Hakim, as was mentioned by Al­Hafizh Ibn Rajab in: \"Bulugh Al­Maram\". This is evidence that anything on which Zakah is not paid is hoarded wealth, whose owner will be tortured with on the Day of Judgment. May Allah forbid! We ask Allah to grant us all success, to help us, guide us, and make our deeds righteous. We also ask Allah (may He be Praised) to guide us, you, and all the Muslims together to do what is in the good of Islam and to let us all die committed to it. He is All­Hearer, Ever­Near. May Allah's peace and blessings be upon Prophet Muhammad, and his family and Companions!",
+          "content_type": "paragraph",
+          "page_number": 64,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with multiple hadith citations and closing prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Remarks on the news published about the draft personal status law in some Muslim countries",
+        "content_type": "heading_minor",
+        "page_number": 65,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4",
+          "content_type": "navigation",
+          "page_number": 65,
+          "confidence": 1.0,
+          "notes": "Part number indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": ", Page No: 126)",
+          "content_type": "navigation",
+          "page_number": 65,
+          "confidence": 1.0,
+          "notes": "Page number indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah, and peace and blessings be upon the Messenger of Allah!",
+          "content_type": "paragraph",
+          "page_number": 65,
+          "confidence": 0.8,
+          "notes": "Opening invocation",
+          "memory_agreement": false
+        },
+        {
+          "text": "There was an article published in \"Al­Riyadh\" newspaper, issue no. 4974, entitled: \"The Draft Personal Status Law in the Emirates\". The article explains that the law is derived from the Shari'ah (Islamic law). It states, \"Pertaining to marriage contracts, the law stipulates that the man must not be less than 18 years old and the woman not be less than 16 years old. A fine of not less than 1,000 Dirhams and no more than 5,000 Dirhams will be imposed on anyone who violates this law. No fine will be imposed if the court finds an acceptable justification, such as preserving honor. It is also not permissible for anyone over 60 years old to marry without obtaining permission from the court, especially when there is a big age difference between the two parties and one is half the age of the other.\"",
+          "content_type": "paragraph",
+          "page_number": 65,
+          "confidence": 0.9,
+          "notes": "Description of the law being discussed",
+          "memory_agreement": false
+        },
+        {
+          "text": "As these laws contradict the Shari'ah, I want to clarify the truth. marriage is not limited to a certain minimum or maximum age by the Qur'an or the Sunnah (whatever is reported from the Prophet).",
+          "content_type": "fatwa_ruling",
+          "page_number": 65,
+          "confidence": 0.9,
+          "notes": "Scholar's ruling on the matter",
+          "memory_agreement": true
+        },
+        {
+          "text": "They both encourage marriage and awaken a desire for it without specifying a certain age. Allah (Exalted be He) says: They ask your legal instruction concerning women, say: Allâh instructs you about them, and about what is recited unto you in the Book concerning the orphan girls whom you give not the prescribed portions (as regards Mahr and inheritance) and yet whom you desire to marry",
+          "content_type": "quran_verse",
+          "page_number": 65,
+          "confidence": 0.8,
+          "notes": "Quranic verse cited as evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "It gives permission to marry an orphan girl, defined as the one who has not attained the age of puberty yet, which is maximally at the age of fifteen, as is most likely, yet she may attain it at a lesser age. The Prophet (peace be upon him) said, \"An orphan girl's permission must be sought in regard to herself. If she is silent, that is her permission, but if she refuses, it is not permissible to marry her (against her wishes).\"",
+          "content_type": "hadith",
+          "page_number": 65,
+          "confidence": 0.8,
+          "notes": "Prophetic tradition cited",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 127)",
+          "content_type": "navigation",
+          "page_number": 65,
+          "confidence": 1.0,
+          "notes": "Page transition indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "' Aishah (may Allah be pleased with her) when she was 6 or 7 years old and he (peace be upon him) consummated the marriage when she was 9 years old. His actions (peace be upon him) are legislation to this Ummah (nation based on one creed). The Sahabah (Companions of the Prophet, may Allah be pleased with them all) also used to marry when they were young and old, without any specifications on age. No one has the right to impose laws other than those laid down by Allah and His Messenger or to change them, as they are sufficient. Anyone who holds an opposing view has wronged themselves and has created a law for people to do what Allah has not ordained. Allah (Glorified and Exalted be He) criticizes those who do that saying: Or have they partners (with Allâh — false gods) who have instituted for them a religion which Allâh has not ordained?",
+          "content_type": "fatwa_ruling",
+          "page_number": 65,
+          "confidence": 0.9,
+          "notes": "Continued ruling with historical examples",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) said, \"Anyone who introduces something in this matter of ours (Islam) that is not from it, will have it rejected.\" (Agreed upon by Al­Bukhari and Muslim)In another narration by Muslim, he (peace be upon him) said, \"Anyone who does an action which is not in accordance with this matter of ours (Islam), will have it rejected.\" (A l­Bukhari ranked it as Hadith Mu'allaq (a Hadith missing link in the chain of narration, reported directly from the Prophet) in his \"Sahih [Book of Authentic Hadith]\" and stressed it)",
+          "content_type": "hadith",
+          "page_number": 65,
+          "confidence": 0.9,
+          "notes": "Hadith with citation details",
+          "memory_agreement": true
+        },
+        {
+          "text": "I would like to remind those responsible for these matters of Allah's Words: And let those who oppose the Messenger's (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them. Any Fitnah (trials), hindrance on the Path of Allah, plague, war, or any affliction that befalls the Ummah or its members is due to their opposition to Shari'ah. Allah (Exalted be He) says: And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much. (See the Qur'ân Verse 35:45). Allah (Glorified and Exalted be He) tells us about the punishments and destruction that afflicted previous nations due to their opposition to His Orders, so wise people may heed this cautionary advice and receive admonition.",
+          "content_type": "paragraph",
+          "page_number": 65,
+          "confidence": 0.8,
+          "notes": "Warning with Quranic verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is not a sufficient claim to be applying the Shari'ah if there is what opposes it. Allah (Glorified and Exalted be He) criticizes the Jews for this when He says: Then do you believe in a part of the Scripture and reject the rest? Then what is the recompense of those who do so among you, except disgrace in the life of this world, and on the Day of Resurrection they shall be consigned to the most grievous torment. And Allâh is not unaware of what you do.",
+          "content_type": "quran_verse",
+          "page_number": 65,
+          "confidence": 0.8,
+          "notes": "Quranic verse about partial application",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 128)",
+          "content_type": "navigation",
+          "page_number": 65,
+          "confidence": 1.0,
+          "notes": "Page transition indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "I would like to remind Muslim scholars to have Taqwa (fearing Allah as He should be feared) and fulfill their duty of giving advice to rulers, by showing them Al­Haqq (the Truth), exhorting them to stick to it, and warning them against opposing it. Allah (Exalted be He) says: O mankind! Be afraid of your Lord (by keeping your duty to Him and avoiding all evil), and fear a Day when no father can avail aught for his son, nor a son avail aught for his father. Verily, the Promise of Allâh is true: let not then this (worldly) present life deceive you, nor let the chief deceiver (Satan) deceive you about Allâh.",
+          "content_type": "paragraph",
+          "page_number": 66,
+          "confidence": 0.8,
+          "notes": "Advice to scholars with Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah guide us all to speak the truth, accept it and follow it! I ask Allah to unite all Muslims and guide them to follow His Shari'ah in all their affairs, as He is the Patron and the only One Capable of that. May peace and blessings be upon our Prophet Muhammad, and his family and his Companions.",
+          "content_type": "signature",
+          "page_number": 66,
+          "confidence": 0.9,
+          "notes": "Closing prayer and blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Answering some questions posed to his Eminence during a lecture in Makkah Al­Mukaramah at Umm­ ul­Qura University",
+        "content_type": "heading_minor",
+        "page_number": 67,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 129)",
+          "content_type": "navigation",
+          "page_number": 67,
+          "confidence": 1.0,
+          "notes": "Page number indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Traveling abroad\":",
+          "content_type": "heading_minor",
+          "page_number": 67,
+          "confidence": 0.8,
+          "notes": "Topic heading",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 1: A questioner asks: It has been noticed recently that many young Muslims tend to travel to non­Muslim countries either to study or for some other reason. Some of them are newcomers to Islam. Do you think that they are in need of a department or an authority to supervise and direct them to the right path and look after their affairs, so that this department could be linked either to the General Presidency for Scholarly Research and Ifta' or to the Muslim League? May Allah reward you.",
+          "content_type": "question",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "First question about traveling abroad",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: There is no doubt that traveling abroad may have dangerous consequences for students, whether they are originally Muslims or new converts, so it should be avoided. People should beware of its serious consequences. We have written and warned several times against traveling abroad, and we have also clarified the risks of doing that. However, if traveling becomes inevitable, those who are inclined to travel should have profound knowledge and deep perception of their religion. They should be accompanied by supervisors to monitor and supervise their behavior to prevent them from deviating to evil paths. Moreover, this should be carefully considered, and followed up until it is accomplished, since it is a great danger for a preparatory, high school, college student, or whoever falls under this ruling in doing this. Accordingly, all fields of specialization should exist inside the country to substitute for traveling abroad. Yet, if it becomes necessary to travel abroad, then students should be selected depending on their level of virtue, knowledge, prudence, and uprightness in religion. They must also be monitored, watched and fostered until they return home provided that",
+          "content_type": "answer",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Answer about traveling abroad",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 130)",
+          "content_type": "navigation",
+          "page_number": 67,
+          "confidence": 1.0,
+          "notes": "Page transition indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "the field of specialization required is of great importance and does not exist inside the country. We ask Allah (Exalted be He) to guide our rulers to good and to support the people of knowledge in fulfilling their duty.",
+          "content_type": "answer",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Continuation of answer",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Reward for performing Salah in Makkah",
+        "content_type": "heading_minor",
+        "page_number": 68,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 2: Is the reward given for performing Salah (prayer) in all Masjids (mosques) of Makkah Al­ Mukarramah equal to that given for performing Salah in the Sacred House? Many people perform Salah in the Masjids of Makkah located at the limits of the Sacred Precincts, saying that the reward is equal.",
+          "content_type": "question",
+          "page_number": 68,
+          "confidence": 0.9,
+          "notes": "Second question about prayer rewards",
+          "memory_agreement": true
+        },
+        {
+          "text": "A 2 : Scholars disagree on this issue; some scholars maintain that the doubled reward is exclusive to the surrounding areas of the Ka`bah, i.e. Al­Masjid Al­Haram that circulates Al­Ka`bah. They add that the doubled reward of one hundred thousand Salahs is granted to a Muslim who performs Salah in the Masjid that surrounds the Ka`bah. Other scholars are of the opinion that Al­Masjid Al­Haram encompasses the entire Sacred Precinct, though performing Salah in the areas around Al­Ka`bah has a special merit and virtue due to the large number of people in congregation and the scholars' agreement on that. Actually, the second opinion is the sound one and the virtue extends to the whole area and all the Masjids of Makkah bring the multiplied reward mentioned in the Hadith for the Muslim who performs Salah in them. Nevertheless, the reward of the latter person is less than that of the one who performs it in A l­Masjid Al­Haram round Al­Ka`bah due to the large congregation of Muslims, his closeness to Al­ Ka`bah, and looking at it. The scholars do not differ about that. However, this does not mean that all the areas of Makkah are called Al­Masjid Al­Haram where performance of Salah commands a multiplied reward ­ Allah willing.",
+          "content_type": "answer",
+          "page_number": 68,
+          "confidence": 0.9,
+          "notes": "Answer about prayer rewards in Makkah",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The truth about the meaning of \"The Shin\"",
+        "content_type": "heading_minor",
+        "page_number": 69,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 3: A student asks about the authentic Tafsir (explanation/exegesis of the meanings) of",
+          "content_type": "heading_question",
+          "page_number": 69,
+          "confidence": 0.95,
+          "notes": "Question identifier with context",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah's Statement (meanings of which are translated as): (Remember) the Day when the Shin shall be laid bare (i.e. the Day of Resurrection) and they shall be called to prostrate themselves (to Allâh), but they (hypocrites) shall not be able to do so. ?",
+          "content_type": "quran_verse",
+          "page_number": 69,
+          "confidence": 0.9,
+          "notes": "Quranic verse with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 131)",
+          "content_type": "navigation",
+          "page_number": 69,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: The Messenger of Allah (peace be upon him) explained this Ayah (Qur'anic verse) saying that Allah (Glorified be He) will come on the Day of Resurrection and reveal His Shin to His believing servants. It will be a sign for the believers, which when He reveals, they will know Him and follow Him.",
+          "content_type": "answer",
+          "page_number": 69,
+          "confidence": 0.95,
+          "notes": "Scholar's response beginning with hadith reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Noble Ayah should be interpreted according to what was mentioned in the Hadith, which is Allah's revealing of His Shin. This is one of the attributes such as befits Allah's Majesty and Grandeur (Glorified and Exalted be He) that does not resemble any of His creation in any way. The same applies to other attributes, such His Face, His Hands, His Foot, His Eyes, and other attributes which are authentically established in Nas (Islamic texts from the Qur'an or the Sunnah). Also, anger, love, hatred, and all attributes with which He has described Himself in the Noble Qur'an and which the Prophet (peace be upon him) reported.",
+          "content_type": "fatwa_ruling",
+          "page_number": 69,
+          "confidence": 0.9,
+          "notes": "Religious ruling on interpretation of divine attributes",
+          "memory_agreement": false
+        },
+        {
+          "text": "They are all truly His Attributes; all are as befitting Allah's Grandeur (Glorified and Exalted be He); and no one resembles Him (Glorified be He) in them, according to His Statement: There is nothing like Him; and He is the All­Hearer, the All­Seer. He (Exalted be He) also says: Say (O Muhammad peace be upon him): \"He is Allâh, (the) One.",
+          "content_type": "paragraph",
+          "page_number": 69,
+          "confidence": 0.85,
+          "notes": "Continuation with Quranic references",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allâh­us­Samad [Allâh the Self­Sufficient Master, Whom all creatures need, (He neither eats nor drinks)].",
+          "content_type": "arabic_text",
+          "page_number": 69,
+          "confidence": 0.9,
+          "notes": "Arabic term with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "He begets not, nor was He begotten.",
+          "content_type": "quran_verse",
+          "page_number": 69,
+          "confidence": 0.85,
+          "notes": "Quranic verse continuation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And there is none co­equal or comparable unto Him.\" This is the opinion of Ahl­ul­Sunnah wal­Jama`ah (adherents to the Sunnah and the Muslim mainstream) of the Sahabah (Companions of the Prophet) and the scholars who followed them in righteousness.",
+          "content_type": "paragraph",
+          "page_number": 69,
+          "confidence": 0.9,
+          "notes": "Scholarly consensus statement",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah grant us success!",
+          "content_type": "signature",
+          "page_number": 69,
+          "confidence": 0.95,
+          "notes": "Closing prayer/signature",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on Ta'wil of Allah's Attributes",
+        "content_type": "heading_minor",
+        "page_number": 70,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 4: What is the ruling on ta'wil (allegorical interpretation) of Allah's Attributes?",
+          "content_type": "heading_question",
+          "page_number": 70,
+          "confidence": 0.95,
+          "notes": "Question with Arabic term definition",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: T a'wil of Allah's Attributes is Munkar (disapproved of by Islamic law and Muslims of sound intellect) and is not permissible. In fact, it is obligatory for the Attributes of Allah to be accepted as stated, according to their apparent meaning that befits Allah's Glory (Glorified and Exalted be He), without Tahrif (distortion of the meaning), Ta'til (denial), Takyif (describing how), or Tamthil (likening His Attributes to those of His Creation).",
+          "content_type": "fatwa_ruling",
+          "page_number": 70,
+          "confidence": 0.95,
+          "notes": "Clear religious ruling with Arabic terms",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) informs us of His Names and Attributes, saying: There is nothing like Him; and He is the All­Hearer, the All­Seer. As Muslims, we have to accept them as they are, according to the opinion of Ahl­ul­Sunnah wal­Jama'ah (those adhering to the Sunnah and the Muslim main body). They advise Muslims to acknowledge Allah's Attributes as they are, without Takyif.",
+          "content_type": "paragraph",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Supporting explanation with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 132)",
+          "content_type": "navigation",
+          "page_number": 70,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "They should be accepted as they are, without Tahrif, Ta'wil or Takyif. Muslims should attest to Allah's Attributes as they were revealed, according to their apparent meaning and as befits Allah's Stature, without any Takyif or Tamthil. For example, Allah says: The Most Gracious (Allâh) rose over (Istawâ) the (Mighty) Throne (in a manner that suits His Majesty). In this Ayah (Qur'anic verse) and similar ones, we are told that Allah rose over the Throne, which is in a manner that suits His Majesty and Grandeur, and the manner of this cannot be compared to that of any of His creatures. The scholars who follow Al­Haqq (the Truth) see this as signifying His Highness and Exaltedness.",
+          "content_type": "paragraph",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Detailed explanation with Quranic example",
+          "memory_agreement": false
+        },
+        {
+          "text": "The same applies to other Attributes of Allah, such as His Eye, Hearing, Sight, Hand, Foot, and other Attributes that are authentically reported in Nas (Islamic texts from the Qur'an or the Sunnah). All of these Attributes are as befits Allah (Exalted be He) and are not comparable to those of any creature. This is the opinion of the scholars from among the Sahabah (Companions of the Prophet) and those after them from the Imams (initiators of a School of Jurisprudence), such as Al­Awza'y, Al­Thawry, Malik, Abu Hanifah, Ahmad, Ishaq, and other Muslim Imams (may Allah be merciful to them all).",
+          "content_type": "citation",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Scholarly consensus with named authorities",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah says, when relating the story of Prophet Nuh (Noah, peace be upon him): And We carried him on a (ship) made of planks and nails, Floating under Our Eyes",
+          "content_type": "quran_verse",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Quranic verse with context",
+          "memory_agreement": false
+        },
+        {
+          "text": "He (Glorified be He) also says when relating the story of Prophet Musa (Moses, peace be upon him): in order that you may be brought up under My Eye. Ahl­ul­Sunnah wal­Jama'ah explained the Ayah where Allah says: Floating under Our Eyes by saying that He (Glorified be He) let the ship float under His Care until it rested on Mount Judy. Similarly, when Allah says: in order that you may be brought up under My Eye. they say that He (Glorified be He) means that Musa (peace be upon him) will be brought up under His Care and with His Guidance to those in charge of raising him.",
+          "content_type": "paragraph",
+          "page_number": 70,
+          "confidence": 0.85,
+          "notes": "Scholarly interpretation of Quranic verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "In the same manner, when Allah (may He be Praised) says to the Prophet (peace be upon him): So wait patiently (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) for the Decision of your Lord, for verily, you are under Our Eyes He means that Muhammad is under Allah's Protection and Care. These interpretations do not fall under the prohibited Ta'wil; rather, they fall under Tafsir (explanation/exegesis) well­known in the Arabic language and its styles. A third example is in a Hadith Qudsy (Revelation from Allah in the Prophet's words)",
+          "content_type": "paragraph",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Contains Arabic text and hadith reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 133)",
+          "content_type": "navigation",
+          "page_number": 70,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "where Allah (Glorified be He) says: \"Anyone who comes nearer to Me by a span, I come nearer to them by a cubit; and anyone who comes nearer to Me by a cubit, I come nearer to them by a fathom; and anyone who comes to Me walking, I come to them running.\" These words are accepted as they were revealed from Allah (may He be Praised and Exalted) without Tahrif, Takyif, or Tamthil, but in the way that is wanted by Allah. The same thing can be said about Allah's Descent at the end of the night, His Hearing, Sight, Anger, Pleasure, Laughter, Happiness, and other authentically established Attributes of Allah. They all must be accepted as they were revealed, in the manner that befits Allah, without any Takyif, Tahrif, Ta'til or Tamthil. This is because Allah says: There is nothing like Him; and He is the All­Hearer, the All­Seer. and many Ayahs to the same effect.",
+          "content_type": "hadith",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Hadith Qudsi with interpretation",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for Ta'wil of Allah's Attributes and diverging them from apparent meaning, this is the methodology of those who follow Bid'ah (innovations in religion), such as the Jahmiyyah and the M u' tazilah (deviant Islamic sects), and those who follow them. Their Madh­habs (Schools of Jurisprudence) are Batil (null and void), and have been denied and renounced by Ahl­ul­Sunnah wal­Jama'ah, who have warned people against their promoters. And Allah is the Grantor of success.",
+          "content_type": "fatwa_ruling",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Ruling against deviant interpretations",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Duty of Scholars towards the Ummah",
+        "content_type": "heading_minor",
+        "page_number": 72,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 134)",
+          "content_type": "navigation",
+          "page_number": 72,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Duties of Muslim scholars regarding the disasters that the Muslim world suffers:",
+          "content_type": "heading_minor",
+          "page_number": 72,
+          "confidence": 0.85,
+          "notes": "Sub-heading introducing the topic",
+          "memory_agreement": false
+        },
+        {
+          "text": "Q 1: What are the duties of Muslim scholars regarding the disasters that the Muslim world suffers?",
+          "content_type": "question",
+          "page_number": 72,
+          "confidence": 0.95,
+          "notes": "Direct question format",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Undoubtedly, sins and contradicting the true creed of Islam in sayings and actions constitute the key reasons behind the crises and disasters befalling the Muslims. Allah (Exalted be He) says: Whatever of good reaches you, is from Allâh, but whatever of evil befalls you, is from yourself. Allah (may He be Praised) says: And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much. (See the Qur'ân Verse 35:45). Allah, the Almighty, is Forbearing, Oft­Forgiving, and Merciful with His slaves. He sends them the Ayahs and warners so that they may return to Him and He accepts their repentance.",
+          "content_type": "answer",
+          "page_number": 72,
+          "confidence": 0.95,
+          "notes": "Scholar's response with Quranic support",
+          "memory_agreement": true
+        },
+        {
+          "text": "And certainly, We shall test you with something of fear, hunger, loss of wealth, lives and fruits, but give glad tidings to As­Sâbirûn (the patient). Who, when afflicted with calamity, say: \"Truly! To Allâh we belong and truly, to Him we shall return.\" They are those on whom are the Salawât (i.e. who are blessed and will be forgiven) from their Lord, and (they are those who) receive His Mercy, and it is they who are the guided ones.",
+          "content_type": "quran_verse",
+          "page_number": 72,
+          "confidence": 0.9,
+          "notes": "Extended Quranic passage",
+          "memory_agreement": false
+        },
+        {
+          "text": "He (may He be Praised) also says: Evil (sins and disobedience to Allâh) has appeared on land and sea because of what the hands of men have earned (by oppression and evil deeds), that He (Allâh) may make them taste a part of that which they have done, in order that they may return (by repenting to Allâh, and begging His Pardon). Allah (Exalted be He) says: and We shall make a trial of you with evil and with good. And to Us you will be returned. He (may He be Praised) says:",
+          "content_type": "quran_verse",
+          "page_number": 72,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic references",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 135)",
+          "content_type": "navigation",
+          "page_number": 72,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And We tried them with good (blessings) and evil (calamities) in order that they might turn (to Allâh's Obedience). There are many Ayahs to that effect.",
+          "content_type": "quran_verse",
+          "page_number": 72,
+          "confidence": 0.85,
+          "notes": "Quranic verse with summary statement",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is obligatory on Muslim leaders, scholars, princes, and others to pay attention to every disaster that is taking place and remind people of the misdeeds they commit. Moreover, the Muslim ruler, including scholars and governors, should be good examples in doing righteous deeds. They should find out the reasons behind Allah's wrath and retaliation and encounter them with repentance, seeking forgiveness, and correcting bad conditions. The Muslim Ummah would follow them in this course. That is because the guidance of the scholar and the wisdom and uprightness of the rulers greatly influence the subject. The Prophet (peace be upon him) said: All of you are guardians and responsible for your charges",
+          "content_type": "fatwa_ruling",
+          "page_number": 72,
+          "confidence": 0.9,
+          "notes": "Religious ruling with hadith reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "When the Muslims are accustomed to committing misdeeds without condemnation by the authorities or responsible people, this heralds the eminent wrath of Allah (Exalted be He) with the Ummah. If Allah's Wrath descends, it encompasses both the good and evil doers ­ Allah Forbid! Allah (Exalted be He) says: And fear the Fitnah (affliction and trial) which affects not in particular (only) those of you who do wrong (but it may afflict all the good and the bad people)",
+          "content_type": "paragraph",
+          "page_number": 72,
+          "confidence": 0.85,
+          "notes": "Warning with Quranic support",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) said: If acts of disobedience are done among any people and they do not change them, Allah will soon punish them all. Related by Imam Ahmad in his Musnad (Hadith compilation) on the authority of Abu Bakr Al­Siddiq.",
+          "content_type": "hadith",
+          "page_number": 72,
+          "confidence": 0.9,
+          "notes": "Hadith with full citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (may He be Praised) also says: Verily, Allâh will not change the (good) condition of a people as long as they do not change their state (of goodness) themselves (by committing sins and by being ungrateful and disobedient to Allâh). But when Allâh wills a people's punishment, there can be no turning back of it, and they will find besides Him no protector.",
+          "content_type": "quran_verse",
+          "page_number": 72,
+          "confidence": 0.9,
+          "notes": "Quranic verse with extended translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Scholars, in particular, are accountable before Allah (Exalted be He) for the enlightenment of people, instructing them, and distinguishing between what is right and wrong and what is beneficial from what is harmful. May Allah (Exalted be He) guide all Muslims to obey Him and adhere to the guidance of Prophet Muhammad (peace be upon him)! We implore Him to guide their leaders and scholars to follow the straight path and to invite the Ummah thereto! May Allah guide the Muslims who are astray and reform their affairs! Indeed, Allah is the One Who is Capable of doing so.",
+          "content_type": "paragraph",
+          "page_number": 72,
+          "confidence": 0.9,
+          "notes": "Concluding statement with prayers",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Duty of Scholars reagrding the various Associations and Groups",
+        "content_type": "heading_minor",
+        "page_number": 74,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 136)",
+          "content_type": "navigation",
+          "page_number": 74,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q 2: What is the obligation of Muslim scholars toward the numerous associations and groups in both Muslim and non­Muslim countries, especially when differences arise among them and each of them accuses others of deviation? Do not you believe that it is better to explain the truth regarding these differences lest they should grow worse and lead to further divergence among Muslims?",
+          "content_type": "question",
+          "page_number": 74,
+          "confidence": 0.95,
+          "notes": "Question about scholars' duties regarding religious groups",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Our Prophet Muhammad (peace be upon him) explained one path which Muslims must follow, namely, Al­Sirat­ul­Mustaqim (the Straight Path) and the Manhaj (methodology) of Allah's Din (Islam). Allah (Exalted be He) states: \"And verily, this (i.e. Allâh's Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al­Muttaqûn (the pious ­ see V.2:2).\" Also, Allah (Glorified and Exalted be He) has forbidden the Muslim Ummah (community) from division and disunity, because they are causes of failure and the domination of enemies.",
+          "content_type": "answer",
+          "page_number": 74,
+          "confidence": 0.95,
+          "notes": "Scholar's response with Quranic citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "And hold fast, all of you together, to the Rope of Allâh (i.e. this Qur'ân), and be not divided among yourselves",
+          "content_type": "quran_verse",
+          "page_number": 74,
+          "confidence": 0.9,
+          "notes": "Quranic verse about unity",
+          "memory_agreement": false
+        },
+        {
+          "text": "He (Allâh) has ordained for you the same religion (Islâmic Monotheism) which He ordained for Nûh (Noah), and that which We have revealed to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ), and that which We ordained for Ibrâhîm (Abraham), Mûsâ (Moses) and ' Isâ (Jesus) saying you should establish religion (i.e. to do what it orders you to do practically), and make no divisions in it (religion) (i.e. various sects in religion). Intolerable for the Mushrikûn, is that (Islamic Monotheism) to which you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) call them.",
+          "content_type": "quran_verse",
+          "page_number": 74,
+          "confidence": 0.9,
+          "notes": "Quranic verse about religious unity across prophets",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is a divine call for hearts and minds to be united. If there are a lot of associations in any Muslim country for the sake of doing good, offering help, and engaging in cooperation in piety and righteousness and those in charge have the same objectives, this is a blessing that will yield great benefits. Conversely, if every association misguides the other and criticizes its work, there will be great harm and evil consequences. Accordingly, Muslim scholars are required to explain",
+          "content_type": "paragraph",
+          "page_number": 74,
+          "confidence": 0.9,
+          "notes": "Continuation of scholar's answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 137)",
+          "content_type": "navigation",
+          "page_number": 74,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "the truth and discuss every group or association advising them all to follow the path prescribed by Allah for His Servants and called to by our Prophet Muhammad. When someone deviates from this path and is stubborn for personal interests or objectives that none but Allah knows, it is obligatory to defame and warn the people against them. By doing so, people will avoid them and those who are unaware of their reality will not join their group or association or be deviated from Al­Sirat­ul­Mustaqim that Allah has ordered us to follow in the following Ayah (Qur'anic verse): \"And verily, this (i.e. Allâh's Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al­Muttaqûn (the pious ­ see V.2:2).\" First of all, there is no doubt that having a lot of groups and sects in the Muslim community is one of the objectives of Satan and of the enemies of Islam. This is because the Muslims' agreement and unity and their realization of the imminent danger threatening their `Aqidah (creed) prompt them to actively combat this threat and stand together for the public interest and warding off danger away from their Din, countries, and fellow Muslims. Definitely, the enemies of Islam from among mankind and Jinn (creatures created from fire) are displeased with this, since they are keen on dividing and disuniting the Muslims and planting seeds of enmity among them. We ask Allah to unite Muslims to Al­Haqq (the Truth) and remove any Fitnah (temptation) and misguidance from their communities, for He, Alone, is indeed the One Capable of doing so.",
+          "content_type": "paragraph",
+          "page_number": 75,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with fatwa ruling elements",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Hostile Penetration of Muslim countries :",
+        "content_type": "heading_minor",
+        "page_number": 75,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q 3: The enemies of Islam are keen on penetrating Muslim countries by every possible means. What is the effort you see necessary to face the attempts that threaten the Islamic countries?",
+          "content_type": "question",
+          "page_number": 75,
+          "confidence": 0.95,
+          "notes": "Question about defending against hostile penetration",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: This is expected from the callers to Christianity, Judaism, or other ideologies that spread Kufr (disbelief) and destruction. Allah (Glorified be He) has informed us of this",
+          "content_type": "answer",
+          "page_number": 75,
+          "confidence": 0.95,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 138)",
+          "content_type": "navigation",
+          "page_number": 75,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Never will the Jews nor the Christians be pleased with you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) till you follow their religion. Say: \"Verily, the Guidance of Allâh (i.e. Islâmic Monotheism) that is the (only) Guidance. And if you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) were to follow their (Jews and Christians) desires after what you have received of Knowledge (i.e. the Qur'ân), then you would have against Allâh neither any Walî (protector or guardian) nor any helper.",
+          "content_type": "quran_verse",
+          "page_number": 75,
+          "confidence": 0.9,
+          "notes": "Quranic verse about religious opposition",
+          "memory_agreement": false
+        },
+        {
+          "text": "And they will never cease fighting you until they turn you back from your religion (Islâmic Monotheism) if they can.",
+          "content_type": "quran_verse",
+          "page_number": 75,
+          "confidence": 0.9,
+          "notes": "Quranic verse about persistent opposition",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, they do their best to gain influence in the Muslim countries. They have their ways such as creating skepticism and sowing doubts. They constantly do this, motivated and encouraged by the church, envy, and hatred. We must raise awareness among the Muslims through their leaders and scholars, and resist the efforts exerted by the enemies of Islam with counter efforts. The Islamic Ummah (community) bears the responsibility of preserving the Amanah (trust) of Islam and conveying it. If we provide the Muslim children with knowledge and faith, and accustom them to practice it from childhood, we will not be worry about them as long as they remain on Allah's path, glorify it, follow its teachings and oppose what contradicts it. On the contrary, their enemies will fear them, as Allah (Glorified be He) states, O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm. He (Glorified and Exalted be He) also states, But if you remain patient and become Al­Muttaqûn [the pious ­ See V.2:2], not the least harm will their cunning do to you. Surely, Allâh surrounds all that they do. There are many Ayahs (Qur'anic verses) that stress this meaning. The most important factor that enables us to oppose such attempts is producing a generation that understands the truth of Islam, which is accomplished through guidance and care at home and school through the mass media and social development. In addition, the Islamic leaders should assume their role in guidance and care,",
+          "content_type": "paragraph",
+          "page_number": 75,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with practical guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 139)",
+          "content_type": "navigation",
+          "page_number": 75,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "by edifying work and constantly reminding the people of what benefits them and instills the `Aqidah (belief) in their souls. Allah states, verily, in the remembrance of Allâh do hearts find rest. There is no doubt that carelessness is one of the reasons behind the penetration of enemies into the Muslim countries through culture and sciences that gradually draw Muslims away from their beliefs. Thus, evil spreads among them and they are affected by the concepts of their enemies. Allah (Glorified and Exalted be He) has asked the believing party to be patient and fight in His Cause with every possible means in His statement, O you who believe! Endure and be more patient (than your enemy), and guard your territory by stationing army units permanently at the places from where the enemy can attack you, and fear Allâh, so that you may be successful. He (Glorified be He) also states, As for those who strive hard in Us (Our Cause), We will surely guide them to Our Paths (i.e. Allâh's religion ­ Islâmic Monotheism). And verily, Allâh is with the Muhsinûn (good doers).\" I ask Allah with His Most Beautiful Names and Attributes to rectify the affairs of the Muslims, grant them deep understanding of Islam, make all their leaders agree upon Al­Haqq (the Truth), and guide their consultants. He is the Most Generous. May Allah's peace and blessings be upon our Prophet Muhammad, his family, and Companions!",
+          "content_type": "paragraph",
+          "page_number": 75,
+          "confidence": 0.9,
+          "notes": "Conclusion of answer with prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A lie that should be refuted",
+        "content_type": "heading_minor",
+        "page_number": 76,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 140)",
+          "content_type": "navigation",
+          "page_number": 76,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah alone. May peace and blessings be upon the Last Prophet! I read what was published in `Ukazh newspaper on Monday 24/12/1402 A.H. (p. 20, issue no. 5977) as quoted from \"Al­Syasah Al­Kuwaytiyyah\" newspaper. They wrote that a man called Muhammad Al­Masri was buried on Wednesday after he fainted and people thought he had died. On Friday, he was taken out of the grave and claimed to have seen wonders and miracles. As some people might believe this tale, I decided to warn people against it and tell them that it is a blatant lie fabricated by this man called Muhammad Al­Masri or others for malicious purposes. It is known that if a person can hear his family, the doctor and those following his procession, the doctor should have discovered that he was alive. How could he have fainted and at the same time remember everything that took place. It is also known that a person cannot live all this time in a tight, closed place. The two angels of the grave do not come to living people if they are put in the grave; they only come to the dead. Allah (Glorified be He) knows the dead from the living, and it is He who sends the angels to question the dead. This liar then described the two angels as if they were two men, not angels. The angels do not tell the dead person about their sins or rewards; they ask them about their Lord, religion, and prophet. If they give correct answers, they will be blessed. If they failed to answer, they will be tortured. The strange scenes he described were intended to make people believe his lie that he was saved from the grave, so that they pity him and help him; just pity him, or he perhaps is seeking fame",
+          "content_type": "fatwa_ruling",
+          "page_number": 76,
+          "confidence": 0.9,
+          "notes": "Scholar's refutation of false claims about grave experience",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 141)",
+          "content_type": "navigation",
+          "page_number": 76,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "so that he is asked everywhere about what happened to him and thus achieves some of his ambitions. What indicates his ignorance is his saying, \"Accidentally, my family came to visit my grave.\" Such words are impermissible to say; a person should rather say \"It was the will of Allah\", as coincidence has no power. In short, this tale is fabricated and baseless, as deduced from its context and incidents. Our respectable newspapers should not publish such lies. May Allah clear our newspapers and the Muslim newspapers from falsehood and expose the deceitful liars. May Allah protect the Muslims from their evil and grant all Muslims a good understanding of Islam and being firm on it! He (Glorified be He) is the Best Responsible One. May Allah's peace and blessings be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "fatwa_ruling",
+          "page_number": 76,
+          "confidence": 0.9,
+          "notes": "Conclusion of refutation with prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "We often read in the newspaper advertisements condemning illiteracy although Allah (Exalted be He) describes this Ummah as being illiterate. Please clarify this point.",
+        "content_type": "heading_minor",
+        "page_number": 77,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 142)",
+          "content_type": "navigation",
+          "page_number": 77,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Question: it is very often to read and see condemnation of illiteracy in newspaper, streets, and advertisements counting it as one of the signs of backwardness although Allah (Exalted be He) describes this Ummah (nation of creed) as being illiterate by saying: He it is Who sent among the unlettered ones a Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) from among themselves Please clarify this.",
+          "content_type": "question",
+          "page_number": 77,
+          "confidence": 0.95,
+          "notes": "Question about illiteracy and Islamic perspective",
+          "memory_agreement": true
+        },
+        {
+          "text": "Answer: The Ummah of Muhammad (peace be upon him) amongst Arabs and Persians can not read or write, this is why they were called unlettered. However, those who used to read and write amongst them were very few compared to others. Moreover, our Prophet Muhammad did not know how to read or write as Allah (Glorified be He) says:",
+          "content_type": "answer",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": false
+        },
+        {
+          "text": "Neither did you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) read any book before it (this Qur'ân), nor did you write any book (whatsoever) with your right hand. In that case, indeed, the followers of falsehood might have doubted.",
+          "content_type": "quran_verse",
+          "page_number": 77,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Prophet's illiteracy",
+          "memory_agreement": true
+        },
+        {
+          "text": "This was one of the evidences of the verity of his Prophethood and mission (peace be upon him), for he had come to people with a great book revealed by Allah and brought down to him by Jibril (Gabriel), the Trustworthy Soul, by which he had miraculously amazed the Arabs and Persians. Allah (Glorified be He) had also revealed to him the purified Sunnah (whatever is reported from the Prophet) along with much knowledge about the earlier generations. Furthermore, He (Glorified be He) had informed him of many things that happened in the old times and many things that will happen in the last times and on the Day of Resurrection. In addition, Allah had told him about the status of Jannah (Paradise) and Nar (Hellfire) and their inhabitants, and this was one of the things with which He had favored him unlike others and guided people to his superior rank and the essence of his mission (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Explanatory text about Prophet's mission",
+          "memory_agreement": false
+        },
+        {
+          "text": "However, describing this Ummah as being illiterate did not mean to encourage them to stay like that, rather it was meant to inform about their fact and real condition when Allah had sent Muhammad (peace be upon him) to them. Both the Qur'an and Sunnah encourage learning",
+          "content_type": "paragraph",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Continuation of answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 4, Page No: 143)",
+          "content_type": "navigation",
+          "page_number": 77,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and writing and urge for eliminating illiteracy, thus Allah (Glorified be He) says: Say: \"Are those who know equal to those who know not?\" Allah (Glorified be He) also says: O you who believe! When you are told to make room in the assemblies, (spread out and) make room. Allâh will give you (ample) room (from His Mercy). And when you are told to rise up [for prayers, or Jihâd (holy fighting in Allâh's cause), or for any other good deed], rise up. Allâh will exalt in degree those of you who believe, and those who have been granted knowledge.",
+          "content_type": "quran_verse",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses about knowledge",
+          "memory_agreement": false
+        },
+        {
+          "text": "He (Glorified be He) also says: It is only those who have knowledge among His slaves that fear Allâh. Moreover, the Prophet (peace be upon him) said: Whoever follows a path in pursuit of knowledge, Allah will facilitate for them a path to Jannah (Paradise) Related by Imam Muslim in his Sahih (authentic book of Hadith).He (peace be upon him) also said: When Allah wishes good for a person, He causes them to clearly understand the religion (Agreed upon by Imams Al­Bukhari and Muslim)There are also many Ayahs and Hadiths stressing this meaning. May Allah grant us success.",
+          "content_type": "hadith",
+          "page_number": 77,
+          "confidence": 0.85,
+          "notes": "Multiple hadith citations about seeking knowledge",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The legal decision on weeping over one's sickness and telling others about it",
+        "content_type": "heading_minor",
+        "page_number": 78,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 144)",
+          "content_type": "navigation",
+          "page_number": 78,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: A woman in Riyadh says that she is sick; sometimes she weeps due to her state; is this crying considered objection to Allah (Glorified and Exalted be He)? Shall she be considered unsatisfied with the Divine Decree though this is out of her hands? Is talking with relatives about her illness is an objection to Allah's Will?",
+          "content_type": "question",
+          "page_number": 78,
+          "confidence": 0.95,
+          "notes": "Question about weeping during illness",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: There is nothing wrong with weeping without wailing, for the Prophet (peace be upon him) said upon the death of his son Ibrahim: The eyes are shedding tears and the heart is grieved but we will not say except what pleases our Lord. O Ibrahim! Indeed we are grieved by your departure. There are many Hadiths to this effect.",
+          "content_type": "answer",
+          "page_number": 78,
+          "confidence": 0.9,
+          "notes": "Scholar's response with hadith citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is nothing wrong also if you told your relatives and friends about your illness, provided that you praise and thank Allah, ask Him recovery, and take the possible means to that. You should be patient and wait for the reward from Allah. You should seek glad tidings in Allah's Saying (Glorified and Exalted be He): Only those who are patient shall receive their reward in full, without reckoning. Allah also says: but give glad tidings to As­Sâbirûn (the patient). Who, when afflicted with calamity, say: \"Truly! To Allâh we belong and truly, to Him we shall return.\" They are those on whom are the Salawât (i.e. who are blessed and will be forgiven) from their Lord, and (they are those who) receive His Mercy, and it is they who are the guided ones.",
+          "content_type": "fatwa_ruling",
+          "page_number": 78,
+          "confidence": 0.9,
+          "notes": "Religious ruling with Quranic support",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) said: \"Nothing befalls the believer of grief, sorrow, fatigue, illness or even the harm of a thorn but Allah will cause it to expiate for some of his sins.\" He (peace be upon him) also said: ''Allah afflicts the one for whom He desires good.\" We ask Allah to grant you recovery, safety, and goodness of heart and deed. He is All­Hearer and responsive.",
+          "content_type": "hadith",
+          "page_number": 78,
+          "confidence": 0.9,
+          "notes": "Hadith citations with closing prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A Person Swore Three Time on Repentance",
+        "content_type": "heading_minor",
+        "page_number": 79,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 145)",
+          "content_type": "navigation",
+          "page_number": 79,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: I am a young man. I took oath more than three times to repent of a prohibited deed. Should I perform Kaffarah (expiation) for it once or three times and what is Kaffarah?",
+          "content_type": "question",
+          "page_number": 79,
+          "confidence": 0.95,
+          "notes": "Question about oath expiation",
+          "memory_agreement": false
+        },
+        {
+          "text": "A. H. Al­Madinah Al­Munawwarah",
+          "content_type": "signature",
+          "page_number": 79,
+          "confidence": 0.8,
+          "notes": "Location signature",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: You should offer one Kaffarah which is feeding ten needy people, clothing them, or freeing a believing salve. If you are unable to do any of these things, you must fast for three days.",
+          "content_type": "answer",
+          "page_number": 79,
+          "confidence": 0.9,
+          "notes": "Direct answer about expiation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) says: Allâh will not punish you for what is unintentional in your oaths, but He will punish you for your deliberate oaths; for its expiation feed ten Masâkîn (poor persons), on a scale of the average of that with which you feed your own families, or clothe them or manumit a slave. But whosoever cannot afford (that), then he should fast for three days. That is the expiation for the oaths when you have sworn. And protect your oaths (i.e. do not swear much).",
+          "content_type": "quran_verse",
+          "page_number": 79,
+          "confidence": 0.95,
+          "notes": "Quranic verse about oath expiation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, there is only one Kaffarah if one does not fulfill his oath to do an act or abandon an act, even if he repeats his oath several times unless he makes a Kaffarah for the first oath he breaks and then takes a second oath and breaks it, thus he has to make a second Kaffarah. Likewise, if he makes a third oath after making Kaffarah for the second oath, he has to make a third Kaffarah. However, if he makes several oaths for doing or abandoning several things; then he has to make a Kaffarah for each oath he breaks. For instance, if he makes an oath not to talk to so and so and not to eat from his food or not to travel to this place or said: \"By Allah, I will not talk to so and so or hit so and so,\" in this case he has to make a Kaffarah for each oath he breaks. As for feeding, he should feed each poor person half a Sa` (1 Sa` = 2.172 kg) of the staple food of your area.",
+          "content_type": "fatwa_ruling",
+          "page_number": 79,
+          "confidence": 0.9,
+          "notes": "Detailed ruling on multiple oaths",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for clothing, he should give each needy person a Qamis (long shirt) or Izar (garment worn below the waist) and Rida' (garment worn around the upper part of the body (that is suitable to wear while offering Salah (Prayer). If he gives each one of them a lunch or dinner, this will be sufficient, based upon the generality of the Ayah (Qur'anic verse) mentioned above. May Allah grant us success!",
+          "content_type": "paragraph",
+          "page_number": 79,
+          "confidence": 0.9,
+          "notes": "Additional details on expiation methods",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Swearing by the Ka`bah is Forbidden",
+        "content_type": "heading_minor",
+        "page_number": 80,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 4, Page No: 146)",
+          "content_type": "navigation",
+          "page_number": 80,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: What is the ruling on swearing by the Ka`bah and the like? What is the permissible form of taking an oath?",
+          "content_type": "question",
+          "page_number": 80,
+          "confidence": 0.95,
+          "notes": "Question about permissible oaths",
+          "memory_agreement": true
+        },
+        {
+          "text": "`A.H.Q. Zahrah Banu Bashir Village",
+          "content_type": "signature",
+          "page_number": 80,
+          "confidence": 0.8,
+          "notes": "Location/name signature",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: It is not permissible to swear by the Ka`bah or any other created thing. The Prophet (peace be upon him) said: \"Whoever has to take an oath should swear by Allah or remain silent.\" (i.e. He should not swear by other than Allah.) Agreed upon by Imams Al­Bukhari and Muslim.",
+          "content_type": "answer",
+          "page_number": 80,
+          "confidence": 0.9,
+          "notes": "Answer with hadith citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "He (peace be upon him) also said: \"He who swears by anything other than Allah is committing an act of Shirk (associating others with Allah in His Divinity or worship).'' Related by Al­Imam Ahmad on the authority of `Umar ibn Al­ Khattab (may Allah be pleased with him) with a Sahih (authentic) Sanad (chain of narrators).He (peace be upon him) said: He who swears by anyone but Allah commits Kufr (disbelief) or Shirk. Related by Abu Dawud and Al­Tirmidhy with a Sahih Sanad on the authority of `Abdullah ibn `Umar ibn Al­Khattab (may Allah be pleased with them).",
+          "content_type": "hadith",
+          "page_number": 80,
+          "confidence": 0.9,
+          "notes": "Multiple hadith citations about forbidden oaths",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are so many Hadiths narrated to the same effect prohibiting swearing by the Ka`bah, honesty, prophets, and other creatures.",
+          "content_type": "paragraph",
+          "page_number": 80,
+          "confidence": 0.9,
+          "notes": "Summary statement",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Shar`y (Islamically lawful) oath is to swear by Allah Alone, saying, \"By Allah, I will do or I will not do such and such.\" Likewise, it is permissible to swear by any of Allah's Attributes such as Al­Rahman (the Most Gracious), Al­Rahim (the Most Merciful), Malik Al­Mulk (the Owner of Sovereignty) and by Allah's Life and Knowledge, etc. The Prophet (peace be upon him) used to swear saying, \"By Him in Whose Hand my soul is.\" May Allah grant us success!",
+          "content_type": "fatwa_ruling",
+          "page_number": 80,
+          "confidence": 0.9,
+          "notes": "Ruling on permissible forms of oaths",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}
