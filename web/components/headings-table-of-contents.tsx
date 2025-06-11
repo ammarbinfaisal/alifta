@@ -122,17 +122,6 @@ export function HeadingsTableOfContents({
           >
             All
           </Button>
-          {headingTypes.map(type => (
-            <Button
-              key={type}
-              variant={filterType === type ? 'default' : 'outline'}
-              size="sm"
-              className="text-xs"
-              onClick={() => setFilterType(type)}
-            >
-              {type.replace('_', ' ')}
-            </Button>
-          ))}
         </div>
       </CardHeader>
 
