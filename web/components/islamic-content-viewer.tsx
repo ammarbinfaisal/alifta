@@ -231,7 +231,7 @@ export function IslamicContentViewer({ data, volumeId }: IslamicContentViewerPro
         {filteredHeadings.length === 0 && (
           <div className="text-center py-12">
             <div className="text-gray-500 text-lg">
-              No headings found for the selected filter.
+              No sectionsfound for the selected filter.
             </div>
           </div>
         )}

@@ -35,7 +35,7 @@ export function VolumeIndex({ volumes }: VolumeIndexProps) {
               </div>
               
               <div className="flex flex-wrap gap-2">
-                <Badge variant="secondary">{volume.total_headings} headings</Badge>
+                <Badge variant="secondary">{volume.total_headings} sections/Badge>
                 <Badge variant="outline">{volume.title}</Badge>
               </div>
               
