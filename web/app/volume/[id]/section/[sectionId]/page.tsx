@@ -4,7 +4,7 @@ import { QuestionViewer } from '@/components/question-viewer';
 import { VolumeNavigation } from '@/components/volume-navigation';
 
 interface QuestionPageProps {
-  params: { id: string; sectionId: string };
+  params: Promise<{ id: string; sectionId: string }>;
 }
 
 // Generate static params for all questions in all volumes
@@ -33,8 +33,9 @@ export async function generateStaticParams() {
 }
 
 export default async function QuestionPage({ params }: QuestionPageProps) {
-  const volumeId = parseInt(params.id);
-  const sectionId = parseInt(params.sectionId);
+  const p = await params;
+  const volumeId = parseInt(p.id);
+  const sectionId = parseInt(p.sectionId);
   
   if (isNaN(volumeId) || isNaN(sectionId) || volumeId < 1 || volumeId > 30) {
     notFound();
