@@ -67,9 +67,6 @@ function HeadingItem({ heading, volumeId }: HeadingItemProps) {
                   {heading.heading.text}
                 </CardTitle>
                 <div className="flex items-center gap-2 mt-2">
-                  <Badge variant="secondary" className="text-xs">
-                    {heading.content_count} items
-                  </Badge>
                   {heading.heading.page_number && (
                     <Badge variant="outline" className="text-xs">
                       Page {heading.heading.page_number}
