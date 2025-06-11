@@ -44,7 +44,7 @@ function TOCItem({ heading, volume }: TOCItemProps) {
 
   return (
     <Link
-      className={`${getItemStyle(heading.type)} cursor-pointer hover:bg-opacity-80 transition-colors rounded-r-md mb-1`}
+      className={`block ${getItemStyle(heading.type)} cursor-pointer hover:bg-opacity-80 transition-colors rounded-r-md mb-1`}
       href={`/volume/${volume}/section/${heading.section_id}`}
     >
       <div className="flex items-center gap-2">
