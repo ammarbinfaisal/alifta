@@ -1,0 +1,763 @@
+{
+  "heading_patterns": {},
+  "question_patterns": {},
+  "arabic_patterns": [],
+  "scholar_names": [],
+  "classification_history": {
+    "short_text": {
+      "navigation": 458,
+      "signature": 11,
+      "paragraph": 10,
+      "quran_verse": 25,
+      "citation": 2,
+      "heading_minor": 8,
+      "footnote": 1,
+      "hadith": 5,
+      "list_item": 4,
+      "answer": 1,
+      "heading_question": 1,
+      "question": 1
+    },
+    "long_text": {
+      "paragraph": 415,
+      "list_item": 45,
+      "quran_verse": 252,
+      "hadith": 109,
+      "citation": 55,
+      "signature": 29,
+      "fatwa_ruling": 320,
+      "question": 21,
+      "answer": 35,
+      "transliteration": 1,
+      "translation": 1,
+      "arabic_text": 7,
+      "navigation": 1
+    },
+    "islamic_keyword": {
+      "paragraph": 7,
+      "list_item": 12,
+      "citation": 5,
+      "fatwa_ruling": 71,
+      "question": 21,
+      "hadith": 8,
+      "answer": 9,
+      "quran_verse": 11,
+      "heading_minor": 1,
+      "heading_question": 1
+    },
+    "contains_arabic": {
+      "quran_verse": 29,
+      "fatwa_ruling": 1
+    },
+    "question_marker": {
+      "question": 10
+    },
+    "answer_marker": {
+      "answer": 6,
+      "fatwa_ruling": 13
+    },
+    "numbered_item": {
+      "list_item": 4
+    }
+  },
+  "quran_references": {
+    "2:2": [
+      37,
+      115,
+      231,
+      130,
+      144,
+      150,
+      170,
+      192,
+      192
+    ],
+    "35:45": [
+      103,
+      147,
+      174
+    ],
+    "43:84": [
+      69
+    ],
+    "9:120": [
+      141
+    ],
+    "2:105": [
+      119
+    ]
+  },
+  "hadith_references": {
+    "Muslim": [
+      10,
+      26,
+      30,
+      30,
+      33,
+      35,
+      38,
+      40,
+      100,
+      129,
+      69,
+      79,
+      92,
+      92,
+      94,
+      94,
+      96,
+      112,
+      121,
+      121,
+      145,
+      146,
+      149,
+      168,
+      169,
+      195,
+      197,
+      211,
+      211,
+      211,
+      216
+    ],
+    "Abu Dawud": [
+      22,
+      121,
+      121
+    ],
+    "Bukhari": [
+      36,
+      40,
+      79,
+      79,
+      92,
+      94,
+      112,
+      121,
+      121,
+      121,
+      146,
+      195,
+      197,
+      211,
+      211,
+      216,
+      216
+    ],
+    "Nasa'i": [
+      92
+    ],
+    "Tirmidhi": [
+      96
+    ],
+    "Ibn Majah": [
+      109,
+      121,
+      121
+    ]
+  },
+  "document_structure": [
+    {
+      "page": 102,
+      "section_type": "heading_minor",
+      "heading": "A Word on Al­Mu`adid",
+      "timestamp": "2025-06-11T10:51:32.541577"
+    },
+    {
+      "page": 103,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Fatwa",
+      "timestamp": "2025-06-11T10:52:56.921205"
+    },
+    {
+      "page": 104,
+      "section_type": "heading_minor",
+      "heading": "Copper Bracelet",
+      "timestamp": "2025-06-11T10:52:56.921459"
+    },
+    {
+      "page": 208,
+      "section_type": "heading_major",
+      "heading": "Avoiding incantations that violate Shari`ah",
+      "timestamp": "2025-06-11T10:53:53.957993"
+    },
+    {
+      "page": 107,
+      "section_type": "heading_major",
+      "heading": "Obligation of applying the Sunnah of the Messenger of Allah (peace be upon him) and the Kufr of those who deny it",
+      "timestamp": "2025-06-11T10:54:45.363155"
+    },
+    {
+      "page": 107,
+      "section_type": "heading_minor",
+      "heading": "The first source is Allah's Book",
+      "timestamp": "2025-06-11T10:54:45.363243"
+    },
+    {
+      "page": 107,
+      "section_type": "heading_minor",
+      "heading": "The second source is the Sunnah of the Messenger of Allah (peace be upon him)",
+      "timestamp": "2025-06-11T10:54:45.363345"
+    },
+    {
+      "page": 109,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Hadith and Sunnah Authority Discussion",
+      "timestamp": "2025-06-11T10:57:12.209564"
+    },
+    {
+      "page": 111,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section",
+      "timestamp": "2025-06-11T10:58:26.554023"
+    },
+    {
+      "page": 112,
+      "section_type": "heading_major",
+      "heading": "The duty of sticking to the Sunnah and warning against Bid'ah",
+      "timestamp": "2025-06-11T10:58:26.554162"
+    },
+    {
+      "page": 113,
+      "section_type": "heading_minor",
+      "heading": "Religious Innovation and Birthday Celebrations",
+      "timestamp": "2025-06-11T10:59:24.617401"
+    },
+    {
+      "page": 115,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Wahhabism Discussion",
+      "timestamp": "2025-06-11T11:00:22.985723"
+    },
+    {
+      "page": 231,
+      "section_type": "heading_major",
+      "heading": "The obligation of abiding by Allah's Book and the Prophet's Sunnah and warning against whatever contradicts them",
+      "timestamp": "2025-06-11T11:01:12.241832"
+    },
+    {
+      "page": 119,
+      "section_type": "heading_minor",
+      "heading": "Wisdom of Contemplating the Book of Allah",
+      "timestamp": "2025-06-11T11:02:43.073492"
+    },
+    {
+      "page": 120,
+      "section_type": "heading_minor",
+      "heading": "Commands to Follow the Quran and Sunnah",
+      "timestamp": "2025-06-11T11:02:43.073716"
+    },
+    {
+      "page": 121,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Religious Discourse on Obedience",
+      "timestamp": "2025-06-11T11:04:02.025252"
+    },
+    {
+      "page": 243,
+      "section_type": "heading_major",
+      "heading": "Factors Of social reform",
+      "timestamp": "2025-06-11T11:05:49.956281"
+    },
+    {
+      "page": 125,
+      "section_type": "heading_minor",
+      "heading": "Religious Guidance and Reform",
+      "timestamp": "2025-06-11T11:07:52.635322"
+    },
+    {
+      "page": 127,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section",
+      "timestamp": "2025-06-11T11:09:32.579418"
+    },
+    {
+      "page": 128,
+      "section_type": "heading_major",
+      "heading": "Ascending to the planets: Islamic and material evidence",
+      "timestamp": "2025-06-11T11:09:32.579663"
+    },
+    {
+      "page": 129,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Moon Landing",
+      "timestamp": "2025-06-11T11:10:35.229445"
+    },
+    {
+      "page": 130,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Scholarly Analysis",
+      "timestamp": "2025-06-11T11:10:35.229663"
+    },
+    {
+      "page": 131,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Celestial Bodies and Space Travel",
+      "timestamp": "2025-06-11T11:12:22.873144"
+    },
+    {
+      "page": 133,
+      "section_type": "heading_minor",
+      "heading": "Traveling into Outer Space",
+      "timestamp": "2025-06-11T11:13:31.280847"
+    },
+    {
+      "page": 134,
+      "section_type": "heading_question",
+      "heading": "What is the religious ruling on the socialism and communism advocates?",
+      "timestamp": "2025-06-11T11:13:31.280985"
+    },
+    {
+      "page": 136,
+      "section_type": "heading_minor",
+      "heading": "The ruling on judging by positive law instead of the Qur'an",
+      "timestamp": "2025-06-11T11:13:57.697751"
+    },
+    {
+      "page": 272,
+      "section_type": "heading_major",
+      "heading": "Necessity of seeking Shari`ah judgment concerning hijackers",
+      "timestamp": "2025-06-11T11:15:13.476068"
+    },
+    {
+      "page": 277,
+      "section_type": "heading_question",
+      "heading": "Q: How can we find a solution to the Palestinian cause that is worsening by the passage of time?",
+      "timestamp": "2025-06-11T11:15:13.476356"
+    },
+    {
+      "page": 139,
+      "section_type": "heading_question",
+      "heading": "Q: What is the effective remedy for the Muslim world to get out of this predicament?",
+      "timestamp": "2025-06-11T11:16:36.318074"
+    },
+    {
+      "page": 140,
+      "section_type": "heading_major",
+      "heading": "Criticizing Arab Nationalism According to Islam and Reality",
+      "timestamp": "2025-06-11T11:16:36.318268"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_minor",
+      "heading": "Analysis of Arab Nationalism vs Islam",
+      "timestamp": "2025-06-11T11:18:37.053387"
+    },
+    {
+      "page": 142,
+      "section_type": "heading_minor",
+      "heading": "Continued Analysis of Nationalism vs Islam",
+      "timestamp": "2025-06-11T11:18:37.053641"
+    },
+    {
+      "page": 143,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Arab Nationalism Discussion",
+      "timestamp": "2025-06-11T11:19:40.744315"
+    },
+    {
+      "page": 144,
+      "section_type": "heading_minor",
+      "heading": "Second aspect: That Islam prohibited Da'wa Al­Jahiliyyah (i.e. cries of the pre­Islamic time of ignorance), warned against it, stated and repeated many texts regarding this",
+      "timestamp": "2025-06-11T11:19:40.744454"
+    },
+    {
+      "page": 145,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Arab Nationalism",
+      "timestamp": "2025-06-11T11:20:59.801458"
+    },
+    {
+      "page": 146,
+      "section_type": "heading_minor",
+      "heading": "The third aspect indicating the falsification of the call to Arab Nationalism",
+      "timestamp": "2025-06-11T11:20:59.801814"
+    },
+    {
+      "page": 147,
+      "section_type": "heading_minor",
+      "heading": "Critique of Arab Nationalism and Islamic Unity",
+      "timestamp": "2025-06-11T11:22:40.151566"
+    },
+    {
+      "page": 148,
+      "section_type": "heading_minor",
+      "heading": "Prohibition of Seeking Help from Disbelievers",
+      "timestamp": "2025-06-11T11:22:40.151871"
+    },
+    {
+      "page": 149,
+      "section_type": "heading_minor",
+      "heading": "Quranic Interpretation and Christian-Muslim Relations",
+      "timestamp": "2025-06-11T11:24:10.880209"
+    },
+    {
+      "page": 149,
+      "section_type": "heading_minor",
+      "heading": "Response to Nationalist Arguments",
+      "timestamp": "2025-06-11T11:24:10.880442"
+    },
+    {
+      "page": 151,
+      "section_type": "heading_minor",
+      "heading": "The fourth aspect: One of the proofs of the corruption of the Arab nationalism",
+      "timestamp": "2025-06-11T11:25:23.380884"
+    },
+    {
+      "page": 153,
+      "section_type": "heading_minor",
+      "heading": "Quotation from Shaykh Muhammad Al-Ghazaly on Nationalism",
+      "timestamp": "2025-06-11T11:27:14.691849"
+    },
+    {
+      "page": 154,
+      "section_type": "heading_minor",
+      "heading": "Spiritual Destruction",
+      "timestamp": "2025-06-11T11:27:14.692140"
+    },
+    {
+      "page": 155,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Al-Ghazaly's Statement on Arabism and Islam",
+      "timestamp": "2025-06-11T11:28:52.793184"
+    },
+    {
+      "page": 156,
+      "section_type": "heading_minor",
+      "heading": "Continuation on Page 156",
+      "timestamp": "2025-06-11T11:28:52.793416"
+    },
+    {
+      "page": 157,
+      "section_type": "heading_minor",
+      "heading": "Conclusion of Previous Section",
+      "timestamp": "2025-06-11T11:30:02.633428"
+    },
+    {
+      "page": 158,
+      "section_type": "heading_minor",
+      "heading": "Newspaper Interview Questions",
+      "timestamp": "2025-06-11T11:30:02.633485"
+    },
+    {
+      "page": 158,
+      "section_type": "heading_minor",
+      "heading": "Answer to First Question on Pan-Arabism",
+      "timestamp": "2025-06-11T11:30:02.633540"
+    },
+    {
+      "page": 159,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Second Question Response",
+      "timestamp": "2025-06-11T11:31:10.532195"
+    },
+    {
+      "page": 159,
+      "section_type": "heading_minor",
+      "heading": "Third Question Response",
+      "timestamp": "2025-06-11T11:31:10.532288"
+    },
+    {
+      "page": 159,
+      "section_type": "heading_minor",
+      "heading": "Fourth Question Response",
+      "timestamp": "2025-06-11T11:31:10.532354"
+    },
+    {
+      "page": 324,
+      "section_type": "heading_major",
+      "heading": "Da`wah to Allah and the Manners of those Calling to Allah",
+      "timestamp": "2025-06-11T11:32:18.119408"
+    },
+    {
+      "page": 163,
+      "section_type": "heading_minor",
+      "heading": "Da`wah to Allah Summary Points",
+      "timestamp": "2025-06-11T11:33:25.600647"
+    },
+    {
+      "page": 164,
+      "section_type": "heading_minor",
+      "heading": "First: the ruling on and merits of Da`wah to Allah :",
+      "timestamp": "2025-06-11T11:33:25.600736"
+    },
+    {
+      "page": 165,
+      "section_type": "heading_minor",
+      "heading": "Da'wah Obligations and Methods",
+      "timestamp": "2025-06-11T11:34:43.838050"
+    },
+    {
+      "page": 165,
+      "section_type": "heading_minor",
+      "heading": "Merits of Da`wah to Allah:",
+      "timestamp": "2025-06-11T11:34:43.838140"
+    },
+    {
+      "page": 167,
+      "section_type": "heading_minor",
+      "heading": "Second: how it should be carried out",
+      "timestamp": "2025-06-11T11:36:31.056220"
+    },
+    {
+      "page": 168,
+      "section_type": "heading_minor",
+      "heading": "Third: to what a Da`y should call",
+      "timestamp": "2025-06-11T11:36:31.056486"
+    },
+    {
+      "page": 169,
+      "section_type": "heading_minor",
+      "heading": "Islamic Economic System and Brotherhood",
+      "timestamp": "2025-06-11T11:38:23.391999"
+    },
+    {
+      "page": 170,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Quranic Guidance and Da'wah Principles",
+      "timestamp": "2025-06-11T11:38:23.392341"
+    },
+    {
+      "page": 171,
+      "section_type": "heading_minor",
+      "heading": "Fourth: morals and etiquettes of the Da`ys to Allah",
+      "timestamp": "2025-06-11T11:39:50.598345"
+    },
+    {
+      "page": 173,
+      "section_type": "heading_minor",
+      "heading": "duties of a teacher",
+      "timestamp": "2025-06-11T11:40:49.317509"
+    },
+    {
+      "page": 175,
+      "section_type": "heading_minor",
+      "heading": "A Comment on a lecture about the methodology of Islam",
+      "timestamp": "2025-06-11T11:42:12.877623"
+    },
+    {
+      "page": 176,
+      "section_type": "heading_major",
+      "heading": "Imam Muhammad ibn `Abdul­Wahhab His Da`wah and Biography",
+      "timestamp": "2025-06-11T11:42:12.877768"
+    },
+    {
+      "page": 177,
+      "section_type": "heading_minor",
+      "heading": "Biography of Shaykh Ibn Abdul-Wahhab - Journey and Da'wah",
+      "timestamp": "2025-06-11T11:44:09.821483"
+    },
+    {
+      "page": 179,
+      "section_type": "heading_minor",
+      "heading": "Historical Narrative of Shaykh Muhammad ibn Abdul-Wahhab",
+      "timestamp": "2025-06-11T11:45:17.818448"
+    },
+    {
+      "page": 181,
+      "section_type": "heading_minor",
+      "heading": "Opponents were three categories:",
+      "timestamp": "2025-06-11T11:47:09.026513"
+    },
+    {
+      "page": 183,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Shaykh's Da'wah Analysis",
+      "timestamp": "2025-06-11T11:48:16.613539"
+    },
+    {
+      "page": 185,
+      "section_type": "heading_minor",
+      "heading": "Reply given by Ibn Baz to written questions posed by a Shaykh from outside the Kingdom of Saudi Arabia",
+      "timestamp": "2025-06-11T11:49:14.484868"
+    },
+    {
+      "page": 185,
+      "section_type": "heading_question",
+      "heading": "Q 1: You asked about Wahhabism and whether it is a fifth Madh­hab (School of Jurisprudence) or follows one of the four Madh­habs.",
+      "timestamp": "2025-06-11T11:49:14.484929"
+    },
+    {
+      "page": 185,
+      "section_type": "heading_question",
+      "heading": "Q 2: Do Wahhabis deny Shafa'ah (intercession) by the Messenger of Allah (peace be upon him)?",
+      "timestamp": "2025-06-11T11:49:14.485090"
+    },
+    {
+      "page": 187,
+      "section_type": "heading_question",
+      "heading": "Q 3: Is it true that when the followers of Imam Shaykh Muhammad ibn `Abdul­Wahhab (may Allah be merciful with him) seized the Arabian Peninsula and reached Madinah, they tied their horses to Al­Rawdah Al­Sharifah (the \"Noble Garden\" – a blessed place between the Prophet's grave and mimbar in his Masjid) in Al­Masjid Al­Nabawi (the Prophet's Mosque)?",
+      "timestamp": "2025-06-11T11:50:26.562428"
+    },
+    {
+      "page": 188,
+      "section_type": "heading_minor",
+      "heading": "Speech during Sheikh Muhammad Ibn `Abdul­Wahhab Week",
+      "timestamp": "2025-06-11T11:50:26.562550"
+    },
+    {
+      "page": 189,
+      "section_type": "heading_major",
+      "heading": "Continuation of Foreword/Introduction",
+      "timestamp": "2025-06-11T11:51:40.804774"
+    },
+    {
+      "page": 191,
+      "section_type": "heading_major",
+      "heading": "How to combat Eastern and Western cultural invasion",
+      "timestamp": "2025-06-11T11:53:13.375650"
+    },
+    {
+      "page": 391,
+      "section_type": "heading_major",
+      "heading": "A reply to Mustafa Amin",
+      "timestamp": "2025-06-11T11:55:02.843621"
+    },
+    {
+      "page": 195,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa Discussion on Graves and Shirk",
+      "timestamp": "2025-06-11T11:55:49.436880"
+    },
+    {
+      "page": 195,
+      "section_type": "heading_minor",
+      "heading": "Fifth: the writer says, \"Likewise, Baqi` (the graveyard of Madinah, near the Prophet's Mosque)...",
+      "timestamp": "2025-06-11T11:55:49.437036"
+    },
+    {
+      "page": 196,
+      "section_type": "heading_minor",
+      "heading": "Conclusion and Final Advice",
+      "timestamp": "2025-06-11T11:55:49.437102"
+    },
+    {
+      "page": 197,
+      "section_type": "heading_major",
+      "heading": "Reply to Salih Muhammad Jamal",
+      "timestamp": "2025-06-11T11:57:40.543078"
+    },
+    {
+      "page": 199,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Islamic Monuments",
+      "timestamp": "2025-06-11T11:59:16.289848"
+    },
+    {
+      "page": 201,
+      "section_type": "heading_minor",
+      "heading": "Ruling on mourning kings and leaders",
+      "timestamp": "2025-06-11T12:00:48.144651"
+    },
+    {
+      "page": 202,
+      "section_type": "heading_minor",
+      "heading": "Denunciation of producing movie 'Muhammad, the Messenger of Allah'",
+      "timestamp": "2025-06-11T12:00:48.144793"
+    },
+    {
+      "page": 203,
+      "section_type": "heading_minor",
+      "heading": "Film Production Ruling Continuation",
+      "timestamp": "2025-06-11T12:02:35.179448"
+    },
+    {
+      "page": 204,
+      "section_type": "heading_minor",
+      "heading": "Danger of women participation with men at work",
+      "timestamp": "2025-06-11T12:02:35.179681"
+    },
+    {
+      "page": 205,
+      "section_type": "heading_minor",
+      "heading": "Islamic Guidance on Women's Conduct and Workplace Intermixing",
+      "timestamp": "2025-06-11T12:03:48.882583"
+    },
+    {
+      "page": 207,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section on women's roles",
+      "timestamp": "2025-06-11T12:05:08.859443"
+    },
+    {
+      "page": 208,
+      "section_type": "heading_minor",
+      "heading": "An answer about the usage of the coordinating conjunction \"Wa\" in the Ayah (Qur'anic verse) \"Wa Futihat Abwaboha\" and its gates will be opened (before their arrival for their reception)",
+      "timestamp": "2025-06-11T12:05:08.859586"
+    },
+    {
+      "page": 209,
+      "section_type": "heading_minor",
+      "heading": "Ruling on those who claim that 'Isa (Jesus, peace be upon him) was not raised to the heavens and will not return at the end of time",
+      "timestamp": "2025-06-11T12:06:03.760754"
+    },
+    {
+      "page": 211,
+      "section_type": "heading_major",
+      "heading": "Warning against building Masjids (mosques) over graves",
+      "timestamp": "2025-06-11T12:07:14.401887"
+    },
+    {
+      "page": 213,
+      "section_type": "navigation",
+      "heading": "( Part No : 1, Page No: 437)",
+      "timestamp": "2025-06-11T12:07:36.725601"
+    },
+    {
+      "page": 214,
+      "section_type": "heading_question",
+      "heading": "2­ A response to a question about Taswir (painting, drawing, sculpture, and photography)",
+      "timestamp": "2025-06-11T12:07:36.725666"
+    },
+    {
+      "page": 215,
+      "section_type": "heading_minor",
+      "heading": "Response to a question regarding cursing Islam and the Lord:",
+      "timestamp": "2025-06-11T12:08:17.686343"
+    },
+    {
+      "page": 216,
+      "section_type": "heading_question",
+      "heading": "4­ An answer to a question about songs:",
+      "timestamp": "2025-06-11T12:08:17.686420"
+    },
+    {
+      "page": 217,
+      "section_type": "heading_question",
+      "heading": "5­ An answer to a question regarding pronouncing the Adhan and Iqamah at graves :",
+      "timestamp": "2025-06-11T12:09:00.080003"
+    },
+    {
+      "page": 218,
+      "section_type": "heading_question",
+      "heading": "6­An Answer to a question regarding conferring peace and blessings upon the Prophet (peace be upon him) after Adhan :",
+      "timestamp": "2025-06-11T12:09:00.080140"
+    },
+    {
+      "page": 219,
+      "section_type": "heading_question",
+      "heading": "7­ An answer to a question about saying Takbir (i.e. Allahu Akbar [Allah is The Greatest]) between the Surahs of the Qur'an beginning from Surah Al­Duha to the end of the Qur'an :",
+      "timestamp": "2025-06-11T12:09:27.318455"
+    },
+    {
+      "page": 220,
+      "section_type": "heading_question",
+      "heading": "8­ An answer to a question about supplications upon distributing charities:",
+      "timestamp": "2025-06-11T12:09:27.318515"
+    },
+    {
+      "page": 221,
+      "section_type": "heading_question",
+      "heading": "A response to a question from a person who claims to have Karamahs and Mu`jizahs",
+      "timestamp": "2025-06-11T12:10:24.560276"
+    },
+    {
+      "page": 222,
+      "section_type": "heading_question",
+      "heading": "10­ Response to a question regarding Al­`Aqa'ir (pl. of`Aqirah; animal slaughtered during tribal peacemaking gatherings) of camels and sheep:",
+      "timestamp": "2025-06-11T12:10:24.560392"
+    }
+  ],
+  "saved_at": "2025-06-11T12:10:25.562823"
+}

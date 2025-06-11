@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "generated": "2025-06-11T07:59:24.881Z",
+    "generator": "Islamic Content Aggregator v1.0",
+    "schema_version": "1.0.0",
+    "collection_title": "Majmoo'al-Fatawa of Ibn Bazz"
+  },
+  "collection": {
+    "title": "Majmoo'al-Fatawa of Ibn Bazz",
+    "description": "Complete collection of Fatwas by Sheikh Abdul Aziz ibn Baz",
+    "author": "Sheikh Abdul Aziz ibn Abdullah ibn Baz",
+    "totalVolumes": 0,
+    "totalPages": 0,
+    "totalSections": 0,
+    "totalContentItems": 0,
+    "processingCompleted": "2025-06-11T07:59:24.881Z"
+  },
+  "statistics": {
+    "totalVolumes": 0,
+    "totalPages": 0,
+    "totalSections": 0,
+    "totalContentItems": 0,
+    "contentTypeDistribution": {},
+    "confidenceStats": {
+      "average": 0,
+      "min": 1,
+      "max": 0,
+      "distribution": {}
+    },
+    "processingStats": {
+      "totalProcessingTime": 0,
+      "averageProcessingTimePerVolume": 0,
+      "totalMemoryPredictions": 0,
+      "successfulLLMCalls": 0,
+      "failedLLMCalls": 0
+    },
+    "crossReferences": {
+      "quranReferences": {},
+      "hadithReferences": {},
+      "scholarNames": [],
+      "topics": []
+    }
+  },
+  "volumes": []
+}

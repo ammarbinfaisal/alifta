@@ -1,0 +1,1213 @@
+{
+  "batch_number": 60,
+  "sections_count": 123,
+  "timestamp": "2025-06-11T11:02:44.076570",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The first source is Allah's Book",
+        "content_type": "heading_minor",
+        "page_number": 107,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "In many Ayahs (Qur'anic verses), Allah (Glorified and Exalted be He) indicates the obligation of following this Book (Qur'an), adherence to it and observation of its limits.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Introduction to Quranic evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "Follow what has been sent down unto you from your Lord (the Qur'ân and Prophet Muhammad's Sunnah), and follow not any Auliyâ' (protectors and helpers who order you to associate partners in worship with Allâh), besides Him (Allâh). Little do you remember!",
+          "content_type": "quran_verse",
+          "page_number": 107,
+          "confidence": 0.95,
+          "notes": "Quranic verse with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And this is a blessed Book (the Qur'ân) which We have sent down, so follow it and fear Allâh (i.e. do not disobey His Orders), that you may receive mercy (i.e. be saved from the torment of Hell).",
+          "content_type": "quran_verse",
+          "page_number": 107,
+          "confidence": 0.95,
+          "notes": "Another Quranic verse with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Indeed, there has come to you from Allâh a light (Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) and a plain Book (this Qur'ân). Wherewith Allâh guides all those who seek His Good Pleasure to ways of peace, and He brings them out of darkness by His Will unto light and guides them to the Straight Way (Islâmic Monotheism).",
+          "content_type": "quran_verse",
+          "page_number": 107,
+          "confidence": 0.95,
+          "notes": "Quranic verse with Arabic text and translation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 212)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "I am leaving you that which if you adhere to you will not go astray: the Book of Allah.",
+          "content_type": "hadith",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Hadith from Farewell Hajj, related by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "I am leaving among you two weighty things, the first of which is the Book of Allah in which there is guidance and light, so hold fast to the Book of Allah and adhere to it.",
+          "content_type": "hadith",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Hadith from Sahih Muslim via Zayd ibn Arqam",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The second source is the Sunnah of the Messenger of Allah (peace be upon him)",
+        "content_type": "heading_minor",
+        "page_number": 107,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 213)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Without Sunnah, Muslims would not have known the number of Rak`ahs (units of Prayer) of each Salah (Prayer), the way to perform it and its obligations. They would not have known the details of the rulings on Sawm (Fast), Zakah (obligatory charity), Hajj, Jihad (fighting in the Cause of Allah), propagation of virtue and prevention of vice, or the details of rulings on transactions, prohibitions, Hudud (ordained punishments for violating Allah's Law), etc.",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Explanation of Sunnah's importance",
+          "memory_agreement": false
+        },
+        {
+          "text": "And obey Allâh and the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) that you may obtain mercy.",
+          "content_type": "quran_verse",
+          "page_number": 108,
+          "confidence": 0.95,
+          "notes": "Verse from Surah Al-Imran",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Obey Allâh and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.",
+          "content_type": "quran_verse",
+          "page_number": 108,
+          "confidence": 0.95,
+          "notes": "Verse from Surah Al-Nisa",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 214)",
+          "content_type": "navigation",
+          "page_number": 108,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Whoever obeys me has obeyed Allah; and whoever disobeys me has disobeyed Allah.",
+          "content_type": "hadith",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Hadith from Abu Hurayrah in Sahih collections",
+          "memory_agreement": false
+        },
+        {
+          "text": "My entire Ummah will enter Jannah (Paradise) except those who refuse.",
+          "content_type": "hadith",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Hadith from Sahih Al-Bukhari",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 215)",
+          "content_type": "navigation",
+          "page_number": 108,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Hadith and Sunnah Authority Discussion",
+        "content_type": "heading_minor",
+        "page_number": 109,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Ma`dy Karib (may Allah be pleased with him) saying, The Messenger of Allah (peace be upon him) prohibited some things on the Day of Khaybar, and then he said, \"Some of you will belie me (i.e. my Hadith) while reclining on comfortable cushions. They would claim, 'The Book of Allah is a judge between you and us; what we find in it to be Halal, we will declare as Halal; and what we find in it to be Haram, we will declare as Haram.' Indeed, what the Messenger of Allah has forbidden authorizes the same power of the prohibitions forbidden by Allah.\" (Related by Al­Hakim, A l­Tirmidhy and Ibn Majah with a Sahih Isnad).",
+          "content_type": "hadith",
+          "page_number": 109,
+          "confidence": 0.95,
+          "notes": "Complete hadith with chain of narration and source citation"
+        },
+        {
+          "text": "Hadith Mutawatir were reported from the Messenger of Allah (peace be upon him) that he recommended the attendants of his Khutbahs (sermons) to notify the absentees, saying to them, The informed one might comprehend it (what I have said) better than the present audience.",
+          "content_type": "hadith",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Reference to Mutawatir hadith about conveying knowledge"
+        },
+        {
+          "text": "This also includeswhat was recorded in the two Sahih books of Hadiththat when the Prophet (peace be upon him) delivered a Khutbah to the people in the Farewell Hajj, on the Day of `Arafah (9th of Dhul­Hijjah) and on the Day of Sacrifice (10th of Dhul­Hijjah), he said to them, Those who are present should convey it (this information) to those who are absent, as the informed one might comprehend it (what I have said) better than the present audience who will convey it to them.",
+          "content_type": "hadith",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Hadith from Farewell Hajj about conveying knowledge"
+        },
+        {
+          "text": "those who hear it and",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 0.8,
+          "notes": "Text fragment indicating page break",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 216)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "were informed of it, and had it not been eternal until the Day of Resurrection, he would not have asked them to convey it. Thus, it is known that the evidence of the Sunnah is established on those who hear it from him (peace be upon him) and those to whom it was reported by Sahih Isnad.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Continuation of scholarly explanation about Sunnah authority"
+        },
+        {
+          "text": "The Sahabah preserved the Sunnah of the Messenger of Allah (peace be upon him) by words and actions. They conveyed it to those who came after the Tabi`un (Followers, the generation after the Companions of the Prophet), who in turn conveyed it to the following generations. Thus, trustworthy scholars conveyed from generation to another and from a century to another. They also compiled it in their books, classified it into Sahih (authentic) and Da`if (weak) categories of Hadith, developed rules for the Sahih and Da`if Hadiths. Scholars have preserved the books of the Sunnah, such as the two Sahih books of Hadith just like Allah (Exalted be He) has preserved His Book from distortions and atheism in order to apply Allah's Saying (Glorified be He), Verily, We, it is We Who have sent down the Dhikr (i.e. the Qur'ân) and surely, We will guard it (from corruption).",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Includes Quranic verse at the end"
+        },
+        {
+          "text": "corruption).",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 0.7,
+          "notes": "Fragment indicating page break",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is no doubt that the Sunnah of the Messenger of Allah (peace be upon him) was revealed to him through Wahy, so Allah preserved it just like He preserved His Book; He appointed for it great scholars to protect it from distortion of distorters and interpretations of the ignorant, and to defend it against all that was falsely ascribed to it by ignorant people, liars and atheists. Allah (Glorified be He) made the Sunnah an interpretation of the meanings of the Qur'an in which the rulings of the Qur'an are clarified in detail, and which includes other rulings that are not mentioned in the Qur'an, such as the rulings on breastfeeding, inheritance, prohibition of combining in marriage a woman and her paternal or maternal aunt, and such other rulings mentioned in the Sahih Sunnah but not mentioned in the Qur'an.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Scholarly explanation of Sunnah's divine nature and role"
+        },
+        {
+          "text": "Below is some of what was reported from the Sahabah, Tabi`un and the scholars who followed them about the obligation of honoring and applying the Sunnah.",
+          "content_type": "heading_minor",
+          "page_number": 109,
+          "confidence": 0.85,
+          "notes": "Bold and centered text introducing new subsection"
+        },
+        {
+          "text": "It was reported in the two Sahih books of Hadithon the authority of Abu Hurayrah (may Allah be pleased with him) that he said, When the Messenger of Allah (peace be upon him) died and some of the Arabs became Murtad (apostates), Abu Bakr Al­Siddiq (may Allah be pleased with him) said, \"By Allah, I will fight those who differentiate between Salah (Prayer) and Zakah (obligatory charity).\"",
+          "content_type": "hadith",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Hadith about Abu Bakr's stance on apostates"
+        },
+        {
+          "text": "( Part No : 1, Page No: 217)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "`Umar (may Allah be pleased with him) wondered, \"How can you fight them although the Prophet (peace be upon him) said, 'I have been ordered to fight the people until they testify that La ilaha illa Allah (there is no deity but Allah). If they say it, they have saved their lives and property from me, provided that they fulfill its conditions?'\" Abu Bakr Al­Siddiq said, \"Is Zakah not one of its conditions? By Allah, if they refuse to give me even a young she­goat they used to give to the Messenger of Allah (peace be upon him), I will fight them for that.\" `Umar (may Allah be pleased with him) said, \"When I saw that Abu Bakr has already decided to fight, I knew that it is A l­Haqq (the Truth).\" Sahabah (may Allah be pleased with them) followed suit and fought the apostates until they returned to Islam and killed those who insisted on Riddah (apostasy). This is a clear evidence of the obligation of honoring and applying the Sunnah.",
+          "content_type": "hadith",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Continuation of hadith about Ridda wars"
+        },
+        {
+          "text": "A grandmother came to Al­Siddiq (may Allah be pleased with him) asking him about her share in inheritance, he said to her, \"There is nothing prescribed for you in Allah's Book, nor do I know anything prescribed for you in the Sunnah of the Messenger of Allah (peace be upon him), but I will ask the people.\" He (may Allah be pleased with him) asked the Sahabah. Some of them testified that the Prophet (peace be upon him) gave the grandmother one sixth of the inheritance, so he gave it to her.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.85,
+          "notes": "Example of Abu Bakr's judicial ruling based on Sunnah"
+        },
+        {
+          "text": "`Umar (may Allah be pleased with him) used to ask his governors to judge among the people according to Allah's Book. If they failed to find a solution to a case in Allah's Book, they should refer to the Sunnah of the Messenger (peace be upon him). When he got stuck with the ruling on Imlas (a pregnant woman losing her child because of a felony committed against her), he asked some of the Sahabah (may Allah be pleased with them) about it. Muhammad ibn Maslamah and Al­Mughirah ibn Shu`bah (may Allah be pleased with them) testified that the Prophet (peace be upon him) gave a verdict of paying the value of a male or female slave, so he (peace be upon him) gave the same verdict.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Umar's judicial methodology and specific ruling on Imlas",
+          "memory_agreement": true
+        },
+        {
+          "text": "When `Uthman (may Allah be pleased with him) was confused about the ruling on a woman spending `Iddah (woman's prescribed waiting period after widowhood) in the house of her husband or moving to her parents' house, Furay`ah bint Malik ibn Sinan, sister of Abu Sa`id (may Allah be pleased with them both), testified that the Prophet (peace be upon him) commanded her to spend `Iddah in her husband's house. Therefore, `Uthman (may Allah be pleased with him) gave that verdict. It was also judged according to the Sunnah when performing the Had (ordained punishment for violating Allah's Law) of drinking Khamr (intoxicant) on Al­Walid ibn `Uqbah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Uthman's rulings based on Sunnah regarding Iddah and Had punishment"
+        },
+        {
+          "text": "When `Aly (may Allah be pleased with him) was told that `Uthman (may Allah be pleased with him) forbade Tamattu` Hajj (combining Hajj and `Umrah with a break in between), `Aly (may Allah be pleased with him) performed Tamattu` Hajj and said, \"I shall never leave a Sunnah of the Messenger of Allah (peace be upon him) because of the opinion of any person.\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Ali's stance on following Sunnah over personal opinions"
+        },
+        {
+          "text": "( Part No : 1, Page No: 218)",
+          "content_type": "navigation",
+          "page_number": 110,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Ibn `Abbas heard some people objecting to his Fatwa (legal opinion issued by a qualified Muslim scholar) regarding Tamattu` Hajj, taking as evidence the opinion of Abu Bakr and `Umar (may Allah be pleased with them) who preferred Ifrad Hajj (performing Hajj only), Ibn `Abbas said \"Stones from the sky are about to fall onto you. I am telling you that the Messenger of Allah (peace be upon him) said (so and so), and you say that Abu Bakr and `Umar said (so and so)!\" If those who contradict the Sunnah and favor the opinions of Abu Bakr and `Umar are liable to punishment, what about those who contradict it favoring the opinion of someone less important or for personal opinions?",
+          "content_type": "fatwa_ruling",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Ibn Abbas's strong defense of Sunnah over companion opinions",
+          "memory_agreement": true
+        },
+        {
+          "text": "When some people argued with `Abdullah ibn `Umar (may Allah be pleased with them) about some matters pertaining to the Sunnah, `Abdullah said to them, \"Are we asked to follow the Prophet (peace be upon him) or follow `Umar?\" While `Imran ibn Husayn (may Allah be pleased with him) was telling the people about the Sunnah, a man asked him to tell them about the Qur'an. He (may Allah be pleased with him) became angry and said that the Sunnah is the interpretation of the Qur'an; without the Sunnah we would not have known that Zhuhr (Noon) Prayer is four Rak`ahs, Maghrib (Sunset) Prayer is three Rak`ahs, and Fajr (Dawn) Prayer is two Rak`ahs. We would not neither have known the details of the rulings on Zakah, in addition to other details mentioned in the Sunnah.",
+          "content_type": "paragraph",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Examples from companions emphasizing Sunnah's importance"
+        },
+        {
+          "text": "There are many cases reported from the Sahabah (may Allah be pleased with them) about honoring the Sunnah, the obligation of applying it and warning about violating it. When `Abdullah ibn `Umar (may Allah be pleased with them) told the people the saying of the Prophet (peace be upon him), Do not forbid the female Servants of Allah from going into the Masjids (mosques) of Allah one of his sons said, \"By Allah, we will forbid them.\" `Abdullah became very angry at him and said, \"I am telling you 'The Messenger of Allah said' and you tell me 'By Allah, we will prevent them'?\"",
+          "content_type": "hadith",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Hadith about women attending mosques and Ibn Umar's reaction"
+        },
+        {
+          "text": "When `Abdullah ibn Al­Mughaffal Al­Muzany (may Allah be pleased with him) saw one of his relatives throwing pebbles, so he forbade him to do this and said, \"The Prophet (peace be upon him) forbade throwing of pebbles since it neither leads to hunting a prey, nor does it defeat an enemy, but it may break a tooth or gouges out an eye.\" Later, he saw him throwing pebbles, so he said, \"By Allah I will never talk to you again. I told you that the Messenger of Allah (peace be upon him) forbade throwing pebbles, but you insist on doing it.\"",
+          "content_type": "hadith",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Hadith about prohibition of throwing pebbles"
+        },
+        {
+          "text": "It was related by Al­Bayhaqy on the authority of Ayyub Al­Sikhtiyany, the honorable Tabi`ythat he said, \"If a person when told about a Sunnah says, 'Forget about it and tell us about the Qur'an'; indeed he is misguided.\"",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Quote from Tabi'i scholar about rejecting Sunnah"
+        },
+        {
+          "text": "A l­Awza`y (may Allah be merciful with him) said, \"The Sunnah is considered authoritative on the Qur'an. This means that the Sunnah clarifies in detail what was mentioned briefly in the Qur'an, or mentions rulings that are not stated in the Qur'an, such as Allah's saying (Glorified be He), And We have also sent down unto you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) the Dhikr [reminder and the advice (i.e. the Qur'ân)], that you may explain clearly to men what is sent down to them, and that they may give thought.",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Al-Awza'i's statement with Quranic verse"
+        },
+        {
+          "text": "( Part No : 1, Page No: 219)",
+          "content_type": "navigation",
+          "page_number": 110,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The saying of the Prophet (peace be upon him) was previously mentioned, I have been given the Qur'an and something like it. It was related by Al­Bayhaqy on the authority of `Amir Al­Sha`by (may Allah be merciful with him) that he said to some people, \"You went astray when you ignored (the Prophetic) reports,\" i.e. authentic Hadith.",
+          "content_type": "hadith",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Prophetic saying and Al-Sha'bi's comment"
+        },
+        {
+          "text": "It was also related by Al­Bayhaqy on the authority of Al­Awza`y (may Allah be merciful with him) that he said to one of his friends, \"If you hear a Hadith reported from the Messenger of Allah (peace be upon him), never give an opinion according to other than it, for the Messenger of Allah (peace be upon him) conveyed the Message of Allah (Exalted be He).\"It was also related by Al­Bayhaqy on the authority of the great Imam, Sufyan ibn Sa`id Al­Thawry (may Allah be merciful with him), that he said, \"All knowledge is based on (Prophetic) reports.\" Malik (may Allah be merciful with him) said, \"The views of anyone of us can be refuted except that of the one who is buried in this grave.\" He meant the grave of the Messenger of Allah (peace be upon him). Abu Hanifah (may Allah be merciful with him) said, \"If a Hadith is reported from the Messenger of Allah (peace be upon him), it is heartily welcomed.\"",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Multiple scholarly quotes from major Islamic scholars"
+        },
+        {
+          "text": "Al­Shafi`y (may Allah be merciful with him) said, \"If I ever narrate a Hadith from the Messenger of Allah (peace be upon him) and I do not work accordingly, I call you to witness that my mind has gone.\" He also said, \"If I ever say anything and a Hadith of the Messenger of Allah (peace be upon him) tells otherwise, ignore my statement.\"",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Al-Shafi'i's statements about following hadith"
+        },
+        {
+          "text": "Imam Ahmad ibn Hanbal (may Allah be merciful with him) said to one of his friends, \"Do not imitate me, Malik or Al­Shafi`y, and rather take from the same source we based our opinions on.\" He (may Allah be merciful with him) also said, \"I wonder at people who have known the authenticity of Isnad from the Messenger of Allah (peace be upon him), but they prefer the Ra'y (personal opinion) of Sufyan, while Allah (Glorified be He) says, And let those who oppose the Messenger's (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them. He then said, \"Do you know what Fitnah (temptation) is? Fitnah is Shirk (associating others with Allah in His Divinity or worship). If someone refuses some of the sayings of the Prophet (peace be upon him), they might have some aberration deep inside their hearts, and so they become losers.\"",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Ahmad ibn Hanbal's statements with Quranic verse"
+        },
+        {
+          "text": "It was related by Al­Bayhaqy on the authority of Mujahid ibn Jabr, the honorable Tabi`y, that he said about Allah's saying (Glorified be He), (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) that referring to Allah means referring to the Qur'an, and referring to the Messenger of Allah (peace be upon him) means referring to his Sunnah.",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Mujahid's interpretation of Quranic verse"
+        },
+        {
+          "text": "It was also related by Al­Bayhaqy on the authority of Al­Zuhry (may Allah be merciful with him)",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.8,
+          "notes": "Incomplete citation at page end"
+        },
+        {
+          "text": "( Part No : 1, Page No: 220)",
+          "content_type": "navigation",
+          "page_number": 110,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "that he said, \"Our scholars in the past used to say that adhering to the Sunnah guarantees safety.\" Muwaffaq Al­Din ibn Qudamah (may Allah be merciful with him) said in his book Rawdat Al­Nazhir fi Bayan Usul Al­Ahkam, \"The second source of evidence is the Sunnah of the Messenger of Allah (peace be upon him). His saying (peace be upon him) is considered supporting evidence on the miracle of his truthfulness. Allah (Exalted be He) ordered the people to obey him and warned them against disobeying his orders.\" Al­ Hafizh ibn Kathir (may Allah be merciful with him) interpreted Allah's saying (Exalted be He), And let those who oppose the Messenger's (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them. that it is order, approach, Sunnah, Shari`ah (Islamic law), words and deeds of the Messenger of Allah (peace be upon him); if any action complies with them it will be approved and if not it will be rejected from whoever does them.It was authentically reported in the two Sahih books of Hadithand others that the Messenger of Allah (peace be upon him) said, If a person does any act for which there is no sanction from our behalf, that is to be rejected. This means that a person who violates Shari`ah, whether explicitly or implicitly, should beware lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them by Kufr, hypocrisy or Bid`ah (innovation in religion), or a painful torment be inflicted on them. in this world by being killed, imprisoned or Had inflicted upon them. It was related by Imam Ahmad that",
+          "content_type": "citation",
+          "page_number": 110,
+          "confidence": 0.9,
+          "notes": "Multiple scholarly citations including Al-Zuhri, Ibn Qudamah, and Ibn Kathir with hadith"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of previous section",
+        "content_type": "heading_minor",
+        "page_number": 111,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "`Abdul­Razzaq told him that Ma`mar reported on the authority of Hammam ibn Munabbih that Abu Hurayrah said that the Messenger of Allah (peace be upon him) said, The similitude of you and I is that of a man who lit a fire and there began to fall into it moths and insects that normally fall into a fire. The man tried his best to prevent them from falling into the fire, but they overpowered him and rushed into the fire. He (peace be upon him) said, \"This is what our situation is like. Similarly, I take hold of the knots at your waist (belts) to prevent you from falling into the fire saying, 'Beware of the fire!', but you insist on falling into it.'\" This Hadith was narrated on the authority of `Abdul­Razzaq.",
+          "content_type": "hadith",
+          "page_number": 111,
+          "confidence": 0.95,
+          "notes": "Complete hadith with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "A l­Suyuty (may Allah be merciful with him) said in his thesis entitled Muftah Al­Jannah fi Al­Ihtijaj bil­Sunnah, \"Please be advised, may Allah have mercy on you, that whoever denies that the Hadith of the Prophet (peace be upon him), whether words or action, with its known conditions, as a source of jurisprudence, is considered a Kafir (disbeliever), rendered outside of the bale of Islam and would be gathered with the Jews, the Christians or any other Kafirs.\" There are many reports from",
+          "content_type": "citation",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Quote from Al-Suyuty with source reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 221)",
+          "content_type": "navigation",
+          "page_number": 111,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Sahabah, Tabi`un and those who followed them about honoring the Sunnah, obligation of applying it and warning against violating it. I hope the Ayahs, Hadith and reports we have cited will be enough and convincing to truth­seekers. I ask Allah to guide all Muslims and us to what pleases Him; protect us from the reasons that incur His Wrath; and guide us all to His Straight Path. He is All­Hearer, Ever­ Near.",
+          "content_type": "paragraph",
+          "page_number": 111,
+          "confidence": 0.8,
+          "notes": "Concluding paragraph with supplication",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah's peace and blessings be upon Allah's Slave and Messenger, Prophet Muhammad, his family, Companions and those who follow them in righteousness!",
+          "content_type": "signature",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Closing blessing formula",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The duty of sticking to the Sunnah and warning against Bid'ah",
+        "content_type": "heading_major",
+        "page_number": 112,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 222)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah Who has perfected the religion for us, completed His favor upon us and approved Islam as a religion for us. Peace and blessings be upon His slave and Messenger, who invited to obey his Lord and warned against excessiveness, innovations in religion and disobedience. May peace be upon his family, his companions, and upon those who have followed his path and guidance until the Day of Judgment. To continue:",
+          "content_type": "paragraph",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Opening praise and introduction",
+          "memory_agreement": true
+        },
+        {
+          "text": "I have reviewed the article published in the weekly Urdu newspaper \"Idarat\", released in the city of Canfor, an industrial city in the state of Andhra Pradesh, on the first page, it launched a press campaign against the Kingdom of Saudi Arabia and its adherence to Islamic belief and fighting against innovations in religion and accusing the belief of the righteous predecessors which the government follows of not being a Sunni belief. The writer of this article aims at discriminating among Ahl­ul­Sunnah (those adhering to the Sunnah and the Muslim main body) and encouraging innovations in religion and superstitions.",
+          "content_type": "paragraph",
+          "page_number": 112,
+          "confidence": 0.85,
+          "notes": "Context setting for the fatwa",
+          "memory_agreement": false
+        },
+        {
+          "text": "Undoubtedly, this is an evil plot and a serious act that aims at insulting the religion of Islam and spreading innovations and misguidance. Moreover, this article, clearly concentrates on the subject of celebrating the birthday of the Messenger (peace be upon him) and making it an excuse to talk about the creed of the Kingdom and its leaders. Therefore, I found it obligatory to attract attention to this issue. After seeking help from Allah (Exalted be He), I say:",
+          "content_type": "paragraph",
+          "page_number": 112,
+          "confidence": 0.8,
+          "notes": "Scholar's assessment and transition to ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is not allowed to celebrate the birthday of the Messenger (peace be upon him) or other birthdays; rather such celebrations should be prevented, because they are invented innovations in religion and the Messenger (peace be upon him) did not celebrate it and did not command others to celebrate it for him or for other prophets who passed away before him or for his daughters, wives or anyone of his relatives or companions. Moreover, it was not celebrated by the rightly­guided caliphs, other companions (may Allah be pleased with all of them), those who followed them in piety and righteousness, or by any scholars of Islamic Law during the blessed centuries. It is noted that they were the most knowledgeable people of the Sunnah and the ones who were more perfect in their love of the Messenger of Allah (peace be upon him) and in their following of his legislation than those who came after them. If it had truly been good, they would have preceded us to it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 112,
+          "confidence": 0.95,
+          "notes": "Main ruling on celebrating Prophet's birthday",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 223)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "We have been commanded to follow and prohibited to innovate, because of the perfection of the religion of Islam and the satisfaction with what Allah (Exalted be He) and His Messenger (peace be upon him) have ordained, which was received by Ahl­ul­Sunnah wal­Jama`ah (those adhering to the Sunnah and the Muslim main body) from among the companions and those who had followed them in piety and righteousness with pleasure.",
+          "content_type": "paragraph",
+          "page_number": 112,
+          "confidence": 0.8,
+          "notes": "Supporting explanation for the ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is authentically reported that the Prophet (peace be upon him) said: Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected. (Agreed upon by Al­Bukhari and Muslim). In another narration reported by Muslim, he (peace be upon him) said: Anyone who does an action which is not in accordance with this matter of ours (Islam) will have it rejected. He (peace be upon him) also said in another Hadith: You must follow my Sunnah and that of the Rightly­Guided Caliphs. Stick to them and hold fast to them. Avoid novelties, for every novelty is an innovation, and every innovation is an error.",
+          "content_type": "hadith",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Multiple hadith citations with sources",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Prophet (peace be upon him) used to say in his speech on Friday: And then, the best of speech is embodied in the Book of Allah; the best of guidance is that given by Muhammad (peace be upon him); the most evil affairs are their innovations; and every innovation is an error.",
+          "content_type": "hadith",
+          "page_number": 112,
+          "confidence": 0.85,
+          "notes": "Friday sermon hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "These Hadiths warn against the introduction of innovations in religion and draw attention that it is misguidance in order to attract the attention of the Muslim Ummah (nation based on one creed) to its grievous danger and help them avoid committing and practicing them. There are many other Hadiths to this effect.",
+          "content_type": "paragraph",
+          "page_number": 112,
+          "confidence": 0.8,
+          "notes": "Commentary on the hadith citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Exalted be He) says: And whatsoever the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) gives you, take it; and whatsoever he forbids you, abstain (from it). Allah (Glorified and Exalted be He) also says: And let those who oppose the Messenger's (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them. In another verse, Allah (Exalted be He) says: Indeed in the Messenger of Allâh (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) you have a good example to follow for him who hopes for (the Meeting with) Allâh and the Last Day, and remembers Allâh much. Allah (Glorified be He) also says: And the foremost to embrace Islâm of the Muhâjirûn (those who migrated from Makkah to Al­Madinah) and the Ansâr (the citizens of Al­Madinah who helped and gave aid to the Muhâjirûn ) and also those who followed them exactly (in Faith). Allâh is well­pleased with them as they are well­pleased with Him. He has prepared for them Gardens under which rivers flow (Paradise), to dwell therein forever. That is the supreme success. Allah (Glorified be He) also says: This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion. This Ayah (Qur'anic verse)",
+          "content_type": "quran_verse",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses with Arabic text and translations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 224)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "is a clear indication that Allah (may He be Exalted and Sublime) has perfected the religion for this Ummah",
+          "content_type": "paragraph",
+          "page_number": 112,
+          "confidence": 0.8,
+          "notes": "Commentary on the final Quranic verse",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Religious Innovation and Birthday Celebrations",
+        "content_type": "heading_minor",
+        "page_number": 113,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "and completed His favor upon it. He had not caused His Prophet (peace be upon him) to die except after he delivered the clear message, explained to the Muslim Ummah what Allah (Exalted be He) has ordained for it of sayings and actions and pointed out that everything that people innovated after him and related to the religion of Islam are all innovations in religion and that those who have innovated them are rejected, even if the innovator has a good intention.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Continuation of previous discussion on religious innovation",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is authentically reported from the companions of the Messenger of Allah (peace be upon him) and from the righteous predecessors who followed them that there is a warning against innovations in religion and making people shun them. This rejection and caution about innovations in religion have been done, because they are additions to religion and legislation that is not sanctioned by Allah (Exalted be He) and likening oneself to the enemies of Allah (Exalted be He) from among the Jews and the Christians in their additions to their religion and their innovations therein with that which Allah (Exalted be He) has not permitted.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Scholarly evidence against religious innovation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Innovation in religion is also abhorred, because its existence denotes that there is deficiency in religion and doing so accuses it of being imperfect, and this is heinous corruption and grievous evil and contradicts Allah's (Glorified and Exalted be He) saying: This day, I have perfected your religion for you It also contradicts the evident Hadiths of the Messenger (peace be upon him) that warn against innovations in religion and repulse people against them.",
+          "content_type": "paragraph",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Contains Quranic reference within paragraph",
+          "memory_agreement": false
+        },
+        {
+          "text": "There was never a Prophet before me except that it was a duty upon him that he should guide his Ummah to what he knew was good for them and warn them against what he knew was bad for them.",
+          "content_type": "hadith",
+          "page_number": 113,
+          "confidence": 0.9,
+          "notes": "Reported by Muslim in his Sahih",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 225)",
+          "content_type": "navigation",
+          "page_number": 113,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! Obey Allâh and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.95,
+          "notes": "Quranic verse about obedience and dispute resolution",
+          "memory_agreement": false
+        },
+        {
+          "text": "And in whatsoever you differ, the decision thereof is with Allâh (He is the ruling Judge).",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.95,
+          "notes": "Quranic verse about divine judgment",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 226)",
+          "content_type": "navigation",
+          "page_number": 113,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And they say, \"None shall enter Paradise unless he be a Jew or a Christian.\" These are their own desires. Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ), \"Produce your proof if you are truthful.\"",
+          "content_type": "quran_verse",
+          "page_number": 113,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Jews and Christians",
+          "memory_agreement": true
+        },
+        {
+          "text": "And if you obey most of those on the earth, they will mislead you far away from Allâh's Path.",
+          "content_type": "quran_verse",
+          "page_number": 114,
+          "confidence": 0.95,
+          "notes": "Continuation from previous page",
+          "memory_agreement": false
+        },
+        {
+          "text": "Be cautious against exceeding the proper limits in matters of religion. Those who were before you were devastated because of exceeding the proper limits in matters of religion.",
+          "content_type": "hadith",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Prophetic warning against religious extremism",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do not praise me excessively as Jesus, son of Marry was praised by Christians, I am just a slave, so call me Allah's Slave and His Messenger.",
+          "content_type": "hadith",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Reported by Al-Bukhary in his Sahih",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 227)",
+          "content_type": "navigation",
+          "page_number": 114,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "After that, surely, you will die. Then (again), surely, you will be resurrected on the Day of Resurrection.",
+          "content_type": "quran_verse",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Quranic verse about death and resurrection",
+          "memory_agreement": false
+        },
+        {
+          "text": "I will be the first to rise from my grave on the Day of resurrection and I will be the first intercessor and the first whose intercession will be accepted (by Allah).",
+          "content_type": "hadith",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Prophetic statement about resurrection",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allâh sends His Salât (Graces, Honours, Blessings, Mercy) on the Prophet (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and also His angels (ask Allâh to bless and forgive him). O you who believe! Send your Salât on (ask Allâh to bless) him (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ), and (you should) greet (salute) him with the Islâmic way of greeting (salutation i.e. As­Salâmu 'Alaikum ).",
+          "content_type": "quran_verse",
+          "page_number": 114,
+          "confidence": 0.95,
+          "notes": "Quranic verse about sending blessings on the Prophet",
+          "memory_agreement": true
+        },
+        {
+          "text": "Anyone who sends peace upon me once, Allah sends peace upon him ten times.",
+          "content_type": "hadith",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Prophetic statement about rewards of sending peace",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 228)",
+          "content_type": "navigation",
+          "page_number": 114,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The love of the Messenger (peace be upon him) is not manifested by celebrating his birthday, but by obeying him, believing in what he brought, avoiding what he prohibited and warned against. [This includes] that Allah (Exalted be He) should only be worshipped by what He has ordained and legislated. His love is also manifested by sending peace and blessings upon him whenever his name is mentioned, during prayers and at all times and occasions. Wahhabism is not, as stated by the writer, innovative in their denial of such invented issues in the religion; rather, the creed of Wahhabism is to abide by the Book of Allah and the Sunnah of His Messenger (peace be upon him) and to follow his guidance and the guidance of the rightly-guided caliphs, of those who have followed them in piety and righteousness and the way of the righteous predecessors, of the leaders of religion and guidance, of the people of jurisprudence and Fatwa with regard to knowing Allah (Exalted be He) and establishing the Attributes of His perfection and the Qualities of His Majesty pointed out in the Glorious Book and authentically reported in the Prophetic traditions and received by the companions of the Messenger of Allah (peace be upon him) with pleasure and submission.",
+          "content_type": "fatwa_ruling",
+          "page_number": 114,
+          "confidence": 0.9,
+          "notes": "Scholar's ruling on proper expression of love for the Prophet and defense of Wahhabism",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Wahhabism Discussion",
+        "content_type": "heading_minor",
+        "page_number": 115,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "confirm such Attributes, believing in them and narrating them as they came without Tahrif (i.e. interpreting their meanings into different things), Ta'til (i.e. completely ignoring or denying them), Takyif (adjusting their meanings) or Tamthil (i.e. giving resemblance or similarity to any of the creatures) and they hold fast to what has been practiced by the followers of the companions and those who followed them from the people of knowledge, faith and piety, and the righteous predecessors of this Ummah (Muslim Nation) and its leaders. They also believe that the basis of faith and its foundation is bearing witness that no one has the right to be worshipped but Allah (Exalted be He) and testifying that Muhammad is the Messenger of Allah. This is the foundation of belief in Allah as the Only God and the best of the branches of Faith. They also know that this foundation is to be manifested by knowledge, action and by accepting the unanimous opinion of Muslim scholars which necessitates the obligation of worshipping Allah Alone without partner and worshipping nothing else, whatever it is. This belief also implies that the worship of Allah (Exalted be He) is the main objective of the creation of the Jinn and Mankind and that the Messengers had been sent and the divine revelations had been revealed to achieve this objective. It also includes perfect humility and love for Allah Alone and perfect obedience and magnification and that this is the religion of Islam that Allah (Exalted be He) does not accept but it from the earlier and the later generations. All the Prophets came with the religion of Islam and were sent to invite people to it and to submission to Allah Alone. Therefore, whoever submits himself to Allah (Exalted be He) and to other than Him or calls upon Him along with other than Him, commits polytheism. If anyone does not submit himself to Allah (Exalted be He), he will be",
+          "content_type": "paragraph",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Continuation of theological explanation about Islamic beliefs",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 229)",
+          "content_type": "navigation",
+          "page_number": 115,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "arrogant and will turn away from His worship. Allah (Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Introduction to Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): \"Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).\"",
+          "content_type": "quran_verse",
+          "page_number": 115,
+          "confidence": 0.95,
+          "notes": "Quranic verse with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, Wahhabism is established on the verification of the testimony that Muhammad is the Messenger of Allah and shunning innovations in religion and superstitions as well as anything that contradicts the legislation brought by Muhammad, the Messenger of Allah (peace be upon him). This is what Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah bestow His mercy upon him) believed in, accepted as his religion and invited others to. Whoever attributes something different from that to him, then he lies and invents a manifest sin and says something about which he has no knowledge. So, Allah (Exalted be He) will punish him with the punishment He threatened the like of him from those who invent sins. Moreover, he (may Allah bestow His mercy upon him) produced useful reports, unique researches and great compilations with regard to sincerity, monotheism, bearing witness that none has the right to be worshipped but Allah and what has been proved by the Qur'an, the Sunnah and the consensus of opinion including the negation of the right of worship and godhood for other than Allah and confirming them to Allah (Exalted be He) in a perfect way that contradicts minor and major polytheism. Whoever is acquainted with his writings and what was transmitted from him or known and become widespread from his Da'wah (call to Islam) and affairs, and what has been practiced by his notable companions and students, will find that the Shaykh followed the practice of the righteous predecessors and the leaders of religion and guidance of sincere worship to Allah, the One and Only, and avoided innovations in religion and superstitions. Saudi Arabia is based on this principle and its scholars, praise be to Allah, follow that way. The government of Saudi Arabia is persistent against innovations in religion and superstitions that have been inserted into the religion of Islam that exceed the proper limits prohibited by the Messenger (peace be upon him). It is noted that scholars and Muslims in Saudi Arabia as well as their rulers have a great deal of respect for every Muslim and harbor all kinds of loyalty, love and appreciation regardless of their nationality. They only deny what the followers of deviated beliefs do including innovations in religion and superstitions and innovated celebrations. They deny the initiation of such festivals and celebrating them as long as Allah (Exalted be He) and His Messenger (peace be upon him) did not allow them and prohibited such celebrations. This is because they are invented issues in religion and every invented issue in religion is an innovation and Muslims are commanded not to follow them and are prohibited to innovate, because of the perfection of the religion of Islam and because of what Allah (Exalted be He)",
+          "content_type": "fatwa_ruling",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Detailed explanation and defense of Wahhabism and Saudi religious practices",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 230)",
+          "content_type": "navigation",
+          "page_number": 115,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "and His Messenger (peace be upon him) have ordained, as received by Ahl-ul-Sunnah wal-Jama`ah including the companions, their followers in piety and righteousness, and those who followed their way with pleasure and acceptance.",
+          "content_type": "paragraph",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Continuation of previous paragraph",
+          "memory_agreement": false
+        },
+        {
+          "text": "The prohibition of celebrating the birthday of the Messenger (peace be upon him) and the excessiveness or polytheism and other similar issues is not un-Islamic act or an offence against the Messenger (peace be upon him); rather, it is obedience to him and following his orders, as he said:",
+          "content_type": "paragraph",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Introduction to hadith citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "Beware of exceeding the proper limits in matters of religion. Those who were before you were destroyed because of exceeding the proper limits in matters of religion.",
+          "content_type": "hadith",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do not praise me excessively as Jesus, son of Mary, was praised by Christians. I am just a slave, so call me Allah's Slave and His Messenger.",
+          "content_type": "hadith",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Second prophetic tradition",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is what I wanted to pay attention thereto of the above-mentioned article. He is Allah Whom we ask to guide us and all Muslims to understand His religion and make us firm in it. May He help all of us adhere to the Sunnah and beware of the innovation in religion! Indeed, He is Generous and Gracious. May Allah's Peace and Blessings be upon our Prophet Muhammad, upon his family and Companions!",
+          "content_type": "paragraph",
+          "page_number": 115,
+          "confidence": 0.9,
+          "notes": "Concluding remarks and supplication",
+          "memory_agreement": false
+        },
+        {
+          "text": "General Chairman",
+          "content_type": "signature",
+          "page_number": 115,
+          "confidence": 1.0,
+          "notes": "Title in signature block",
+          "memory_agreement": true
+        },
+        {
+          "text": "of the Departments of Scholarly Research, Ifta, Da'wa and Guidance",
+          "content_type": "signature",
+          "page_number": 115,
+          "confidence": 1.0,
+          "notes": "Department title in signature block",
+          "memory_agreement": false
+        },
+        {
+          "text": "'Abdul 'Aziz ibn 'Abdullah ibn Baz",
+          "content_type": "signature",
+          "page_number": 115,
+          "confidence": 1.0,
+          "notes": "Author's name",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The obligation of abiding by Allah's Book and the Prophet's Sunnah and warning against whatever contradicts them",
+        "content_type": "heading_major",
+        "page_number": 231,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 231)",
+          "content_type": "navigation",
+          "page_number": 231,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah, the Lord of the worlds. The best outcome is for the righteous. Peace and blessings be upon His slave and Messenger, the trustee over His revelation and His Chosen One from among His creation, our Prophet, Imam and master Muhammad, son of 'Abdullah, and upon his family, his companions and those follow his way and adopt his guidance until the Day of Judgment. To continue:",
+          "content_type": "paragraph",
+          "page_number": 231,
+          "confidence": 0.9,
+          "notes": "Opening praise and introduction",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is He Who has sent His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) with guidance and the religion of truth (Islâm), to make it superior over all religions even though the Mushrikûn (polytheists, pagans, idolaters, disbelievers in the Oneness of Allâh) hate (it).",
+          "content_type": "quran_verse",
+          "page_number": 231,
+          "confidence": 0.9,
+          "notes": "From Surah Al-Tawbah and Surah Al-Saff",
+          "memory_agreement": false
+        },
+        {
+          "text": "He it is Who has sent His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) with guidance and the religion of truth (Islâm), that He may make it (Islâm) superior to all religions. And All-Sufficient is Allâh as a Witness.",
+          "content_type": "quran_verse",
+          "page_number": 231,
+          "confidence": 0.9,
+          "notes": "From Surah Al-Fath",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"And verily, this (i.e. Allâh's Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al-Muttaqûn (the pious - see V.2:2).\"",
+          "content_type": "quran_verse",
+          "page_number": 231,
+          "confidence": 0.95,
+          "notes": "From Surah Al-An'am",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 232)",
+          "content_type": "navigation",
+          "page_number": 232,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"Come, I will recite what your Lord has prohibited you from: Join not anything in worship with Him; be good and dutiful to your parents; kill not your children because of poverty - We provide sustenance for you and for them; come not near to Al-Fawâhish (shameful sins, illegal sexual intercourse) whether committed openly or secretly; and kill not anyone whom Allâh has forbidden, except for a just cause (according to Islâmic law). This He has commanded you that you may understand.\"",
+          "content_type": "quran_verse",
+          "page_number": 232,
+          "confidence": 0.95,
+          "notes": "Quranic verse with detailed commandments",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"And come not near to the orphan's property, except to improve it, until he (or she) attains the age of full strength; and give full measure and full weight with justice. We burden not any person, but that which he can bear. And whenever you give your word (i.e. judge between men or give evidence), say the truth even if a near relative is concerned, and fulfil the Covenant of Allâh. This He commands you, that you may remember.",
+          "content_type": "quran_verse",
+          "page_number": 232,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic commandments",
+          "memory_agreement": true
+        },
+        {
+          "text": "And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone).",
+          "content_type": "quran_verse",
+          "page_number": 232,
+          "confidence": 0.95,
+          "notes": "Verse about purpose of creation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And We did not send any Messenger before you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ) but We revealed to him (saying): Lâ ilâha illa Ana [none has the right to be worshipped but I (Allâh)], so worship Me (Alone and none else).\"",
+          "content_type": "quran_verse",
+          "page_number": 232,
+          "confidence": 0.95,
+          "notes": "Verse about monotheism message to all messengers",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 233)",
+          "content_type": "navigation",
+          "page_number": 233,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All the praises and thanks be to Allâh, the Lord of the 'Alamîn (mankind, jinn and all that exists). The Most Gracious, the Most Merciful. The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection) You (Alone) we worship, and You (Alone) we ask for help (for each and everything).",
+          "content_type": "quran_verse",
+          "page_number": 233,
+          "confidence": 0.95,
+          "notes": "From Surah Al-Fatihah",
+          "memory_agreement": false
+        },
+        {
+          "text": "That the Prophet (peace be upon him) said to Mu'adh: Do you know what is the right of Allah upon His slaves? And what is the right of the slaves upon Allah (may He be Exalted)? Then Mu`adh said: I said: Allah (may He be Exalted) and His Messenger (peace be upon him) know best. Then he (peace be upon him) said: The right of Allah upon His slaves is that they should worship Him and should not associate any partner with Him...",
+          "content_type": "hadith",
+          "page_number": 233,
+          "confidence": 0.9,
+          "notes": "Hadith from Ibn Abbas reported in Sahih Bukhari and Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever dies while still invoking a rival (in worship) to Allah, will enter Hell (Fire).",
+          "content_type": "hadith",
+          "page_number": 233,
+          "confidence": 0.9,
+          "notes": "Hadith reported by Al-Bukhari",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 234)",
+          "content_type": "navigation",
+          "page_number": 234,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Messenger of Allah (peace be upon him) drew a line with his hand and then said: This is the path of Allah; it is straight and then he drew other lines on its right and left side and then said: All these paths have a Satan on it inviting people to it. Then, he (peace be upon him) recited: And verily, this (i.e. Allâh's Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path.",
+          "content_type": "hadith",
+          "page_number": 234,
+          "confidence": 0.9,
+          "notes": "Hadith from Abdullah ibn Mas'ud reported by Ahmad and An-Nasa'i",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 235)",
+          "content_type": "navigation",
+          "page_number": 235,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Wisdom of Contemplating the Book of Allah",
+        "content_type": "heading_minor",
+        "page_number": 119,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "wisdom behind that, and Allah knows best, is that whoever contemplates the Book of Allah (Exalted be He) and frequently reads it, will have a sound understanding of the commands and prohibitions and the remembrance of the great interest and the best outcomes found in this life and the Hereafter. By doing this, one will achieve piety, which is to abide by the commands and avoid the prohibitions out of fearing the wrath of Allah (Exalted be He) and His punishment, and hoping for His forgiveness and mercy, and attaining His honor. This is a great concept of piety and it is one of the secrets of the Book of Allah, which falsehood cannot approach from before it or from behind it, as it is a revelation from the All­Wise and Praiseworthy from Whom nothing will be hidden and nothing escapes His knowledge. He Knows everything about His slaves' affairs and interests. None is worthy of worship but Him and there is no Lord other than Him.",
+          "content_type": "paragraph",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Explanatory text about the wisdom of contemplating the Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "And thus We have sent to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭ ﺳـﻠﻢ) Ruh (a Revelation, and a Mercy) of Our Command. You knew not what is the Book, nor what is Faith? But We have made it (this Qur'ân) a light wherewith We guide whosoever of Our slaves We will. And verily, you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) are indeed guiding (mankind) to the Straight Path (i.e. Allâh's Religion of Islâmic Monotheism). The Path of Allâh to Whom belongs all that is in the heavens and all that is in the earth. Verily, all matters at the end go to Allâh (for decision).",
+          "content_type": "quran_verse",
+          "page_number": 119,
+          "confidence": 0.95,
+          "notes": "Verse from Surah Al-Shura",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 236)",
+          "content_type": "navigation",
+          "page_number": 119,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Is he who was dead (without Faith by ignorance and disbelief) and We gave him life (by knowledge and Faith) and set for him a light (of Belief) whereby he can walk amongst men ? like him who is in the darkness (of disbelief, polytheism and hypocrisy) from which he can never come out?",
+          "content_type": "quran_verse",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-An'am",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Answer Allâh (by obeying Him) and (His) Messenger when he (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) calls you to that which will give you life",
+          "content_type": "quran_verse",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Anfal",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever works righteousness ­ whether male or female ­ while he (or she) is a true believer (of Islâmic Monotheism) verily, to him We will give a good life (in this world with respect, contentment and lawful provision), and We shall pay them certainly a reward in proportion to the best of what they used to do (i.e. Paradise in the Hereafter).",
+          "content_type": "quran_verse",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Nahl",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Fear Allâh (by doing all that He has ordered and by abstaining from all that He has forbidden) as He should be feared. [Obey Him, be thankful to Him, and remember Him always], and die not except in a state of Islâm [as Muslims (with complete submission to Allâh)]. And hold fast, all of you together, to the Rope of Allâh (i.e. this Qur'ân), and be not divided among yourselves",
+          "content_type": "quran_verse",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Verses from Surah Al-Imran",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 237)",
+          "content_type": "navigation",
+          "page_number": 119,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Therefore proclaim openly (Allâh's Message ­ Islâmic Monotheism) that which you are commanded, and turn away from Al­Mushrikûn (polytheists, idolaters, and disbelievers ­ See V.2:105). So glorify the praises of your Lord and be of those who prostrate themselves (to Him). And worship your Lord until there comes unto you the certainty (i.e. death).",
+          "content_type": "quran_verse",
+          "page_number": 119,
+          "confidence": 0.9,
+          "notes": "Verses from Surah Al-Hijr",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Commands to Follow the Quran and Sunnah",
+        "content_type": "heading_minor",
+        "page_number": 120,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "In many Ayahs from His Glorious Book and in many authentic Hadiths reported from the Messenger of Allah (peace be upon him), Allah (Exalted be He) commanded that His Noble Book should be followed and that people should abide by it, follow the Sunnah, magnify it and beware of all that disagrees with it.",
+          "content_type": "paragraph",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Introduction to Quranic commands about following the Book and Sunnah",
+          "memory_agreement": false
+        },
+        {
+          "text": "[Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) to these idolaters (pagan Arabs) of your folk:] Follow what has been sent down unto you from your Lord (the Qur'ân and Prophet Muhammad's Sunnah), and follow not any Auliyâ' (protectors and helpers who order you to associate partners in worship with Allâh), besides Him (Allâh). Little do you remember!",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-A'raf",
+          "memory_agreement": false
+        },
+        {
+          "text": "And this is a blessed Book (the Qur'ân) which We have sent down, so follow it and fear Allâh (i.e. do not disobey His Orders), that you may receive mercy (i.e. be saved from the torment of Hell).",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-An'am",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, this Qur'ân guides to that which is most just and right and gives glad tidings to the believers (in the Oneness of Allâh and His Messenger, Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ), who work deeds of righteousness, that they shall have a great reward (Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Isra'",
+          "memory_agreement": false
+        },
+        {
+          "text": "(This is) a Book (the Qur'ân) which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember.",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Sad",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 238)",
+          "content_type": "navigation",
+          "page_number": 120,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "These are the limits (set by) Allâh (or ordainments as regards laws of inheritance), and whosoever obeys Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) will be admitted to Gardens under which rivers flow (in Paradise), to abide therein, and that will be the great success. And whosoever disobeys Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ), and transgresses His limits, He will cast him into the Fire, to abide therein; and he shall have a disgraceful torment.",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.95,
+          "notes": "Verses from Surah Al-Nisa' about inheritance laws",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! Obey Allâh and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Nisa' about obedience",
+          "memory_agreement": false
+        },
+        {
+          "text": "And We have also sent down unto you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) the Dhikr [reminder and the advice (i.e. the Qur'ân)], that you may explain clearly to men what is sent down to them, and that they may give thought.",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Nahl",
+          "memory_agreement": false
+        },
+        {
+          "text": "And We have not sent down the Book (the Qur'an) to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ), except that you may explain clearly unto them those things in which they differ, and (as) a guidance and a mercy for a folk who believe.",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Nahl",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 239)",
+          "content_type": "navigation",
+          "page_number": 120,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "He who obeys the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), has indeed obeyed Allâh, but he who turns away, then we have not sent you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) as a watcher over them.",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Nisa'",
+          "memory_agreement": false
+        },
+        {
+          "text": "So those who believe in him (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ), honour him, help him, and follow the light (the Qur'ân) which has been sent down with him, it is they who will be successful. Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"O mankind! Verily, I am sent to you all as the Messenger of Allâh ­ to Whom belongs the dominion of the heavens and the earth. Lâ ilâha illa Huwa (none has the right to be worshipped but He). It is He Who gives life and causes death. So believe in Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), the Prophet who can neither read nor write (i.e. Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), who believes in Allâh and His Words [(this Qur'ân), the Taurât (Torah) and the Injeel (Gospel) and also Allâh's Word: \"Be!\" ­ and he was, i.e. 'Isâ (Jesus) son of Maryam (Mary), ﻋﻠﻴﻬﻤﺎ ﺍﻟﺴﻼﻡ], and follow him so that you may be guided.\"",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.95,
+          "notes": "Verses from Surah Al-A'raf",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! Obey Allâh and His Messenger, and turn not away from him (i.e. Messenger Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) while you are hearing. O you who believe! Answer Allâh (by obeying Him) and (His) Messenger when he (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) calls you to that which will give you life",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.95,
+          "notes": "Verses from Surah Al-Anfal",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say: \"Obey Allâh and obey the Messenger, but if you turn away, he (Messenger Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) is only responsible for the duty placed on him (i.e. to convey Allâh's Message) and you for that placed on you. If you obey him, you shall be on the right guidance. The Messenger's duty is only to convey (the message) in a clear way (i.e. to preach in a plain way).\"",
+          "content_type": "quran_verse",
+          "page_number": 120,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al-Nur",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

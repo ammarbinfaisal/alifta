@@ -1,0 +1,925 @@
+{
+  "batch_number": 50,
+  "sections_count": 107,
+  "timestamp": "2025-06-11T10:49:59.947997",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 91,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "O you who believe! Send your Salât on (ask Allâh to bless) him (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and (you should) greet (salute) him with the Islâmic way of greeting (salutation i.e. As­Salâmu 'Alaikum ).",
+          "content_type": "quran_verse",
+          "page_number": 91,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text and transliteration"
+        },
+        {
+          "text": "Also, the Prophet (peace be upon him) said: If anyone invokes blessings on me once, Allah will bless him ten times.",
+          "content_type": "hadith",
+          "page_number": 91,
+          "confidence": 0.85,
+          "notes": "Prophetic hadith citation"
+        },
+        {
+          "text": "Sending peace and blessings on the Prophet is desirable at all times, stressed at the end of each Salah (Prayer), and even obligatory by some scholars in the second half of Tashahhud (a recitation in the sitting position in the second/ last unit of Prayer). Besides, it is a Stressed Sunnah in many situations, such as the time after Adhan (call to prayer), the time after hearing the name of the Prophet (peace be upon him), and on Friday during the day and night, as reported in many Prophetic Hadiths.",
+          "content_type": "fatwa_ruling",
+          "page_number": 91,
+          "confidence": 0.9,
+          "notes": "Religious ruling on sending blessings",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is Allah Who can guide us and all Muslims to be knowledgeable and steadfast adherents of His religion, to lead all Muslims to adhere steadfastly to the Prophetic Sunnah and to avoid all forms of Bid`ah. Allah is the Most Generous and the Most Beneficent! May Allah's Peace and Blessings be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "signature",
+          "page_number": 91,
+          "confidence": 0.85,
+          "notes": "Concluding prayer and blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Second Letter",
+        "content_type": "heading_major",
+        "page_number": 92,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 183)",
+          "content_type": "navigation",
+          "page_number": 92,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Ruling on celebrating the Night of Isra' and Mi'raj",
+          "content_type": "heading_minor",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Specific fatwa topic heading",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah and peace and blessings be upon the Messenger of Allah, and upon his family and Companions!",
+          "content_type": "signature",
+          "page_number": 92,
+          "confidence": 0.8,
+          "notes": "Opening blessing formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is no doubt that Isra' (Night Journey) and Mi'raj (Ascension to Heaven) are among Allah's Great Signs that testify to the truthfulness of His Messenger Muhammad (peace be upon him) and his great status in the Sight of Allah (Exalted be He). They are also signs of Allah's Awe­Inspiring Power and His Exaltation above all His Creation.",
+          "content_type": "paragraph",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Introductory explanation"
+        },
+        {
+          "text": "Allah (may He be Praised) says (what means): Glorified (and Exalted) be He (Allâh) [above all that (evil) they associate with Him] Who took His slave (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) for a journey by night from Al­Masjid­al­Harâm (at Makkah) to Al­Masjid­a l­Aqsâ (in Jerusalem), the neighbourhood whereof We have blessed, in order that We might show him (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) of Our Ayât (proofs, evidence, lessons, signs, etc.). Verily, He is the All­Hearer, the All­Seer.",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Isra and Mi'raj with Arabic text"
+        },
+        {
+          "text": "It was reported by Tawatur (a significant number of narrators whose agreement upon a lie is impossible) that the Messenger of Allah (peace be upon him) was taken up to the heavens and their gates were opened for him until he went beyond the Seventh Heaven. There Allah (Glorified be He) spoke to him about what He willed and enjoined the Five Daily Prayers upon him. Allah (Exalted be He) first enjoined fifty Salah (Prayers), but our Prophet Muhammad (peace be upon him) kept returning and asking Him to lighten the duty, until Allah reduced them to five in number, but fifty in reward, because a good deed earns a tenfold reward. All praise and thanks to Allah for all His Blessings!",
+          "content_type": "paragraph",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Explanation of Mi'raj event"
+        },
+        {
+          "text": "The night on which the Isra' and the Mi'raj occurred has not been reported in the Hadith Sahih (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish) as having been in the month of Rajab nor in any other specific month. All that has been reported concerning a specific date for this event is not authentically reported from the Prophet (peace be upon him), according to the Hadith scholars. There must be a great wisdom why Allah made people forget the exact night of Isra' and Mi'raj; but even if it were specified, still it would not be permissible for Muslims to perform specific acts of 'Ibadah (worship) on this night or celebrate it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 92,
+          "confidence": 0.95,
+          "notes": "Core ruling on celebrating the night"
+        },
+        {
+          "text": "This is because the Prophet (peace be upon him) and his Sahabah (Companions, may Allah be pleased with them) did not celebrate it or perform specific acts of 'Ibadah on it. If celebrating this night was prescribed in Islam, the Messenger (peace be upon him) would have made it known to the Muslim Ummah (nation based on one creed) either in words or in deeds. If anything of this was observed on this night, it would be known by all Muslims and would have been transmitted to us by the Sahabah (may Allah be pleased with them), as they transmitted",
+          "content_type": "fatwa_ruling",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Reasoning for the ruling"
+        },
+        {
+          "text": "( Part No : 1, Page No: 184)",
+          "content_type": "navigation",
+          "page_number": 92,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "from the Prophet (peace be upon him) everything that the Muslim Ummah needs, and they never neglected anything related to the Din (religion). In fact, they were the forerunners to every good act, so if celebrating the Night of Isra' and Mi'raj was lawful, they would have been the first people to do so. The Prophet (peace be upon him) was the sincerest giver of advice to people; he perfectly conveyed the Message of Islam and fulfilled the Amanah (trust). If honoring this night and celebrating it was part of the Din of Allah, he (peace be upon him) would never have concealed or neglected it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Continuation of reasoning"
+        },
+        {
+          "text": "Since nothing of this happened, it is understood that celebrating and honoring this night is not part of Islam at all. Allah (Glorified be He) has perfected the Din for the Muslim Ummah and completed His Favors upon them. Moreover, Allah (Glorified be He) condemns those who introduce into the religion things He has not ordained.",
+          "content_type": "fatwa_ruling",
+          "page_number": 92,
+          "confidence": 0.95,
+          "notes": "Conclusion of the ruling"
+        },
+        {
+          "text": "Allah (may He be Praised) saysin Surah Al­Ma'idah: This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion.",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Supporting Quranic verse"
+        },
+        {
+          "text": "Allah (Exalted be He) also saysin Surah Al­Shura: Or have they partners with Allâh (false gods) who have instituted for them a religion which Allâh has not ordained? And had it not been for a decisive Word (gone forth already), the matter would have been judged between them. And verily, for the Zâlimûn (polytheists and wrong­doers) there is a painful torment.",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Second supporting Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "It was authentically reported in Hadith Sahih that the Messenger of Allah (peace be upon him) warned against Bid'ah (innovation in religion), and clearly stated that it is a deviation from the right path, so as to caution the Ummah against the great danger of Bid'ah and to steer them away from committing it.",
+          "content_type": "paragraph",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Introduction to hadith evidence"
+        },
+        {
+          "text": "It was authentically reportedin the Two Sahih (authentic) Books of Hadith (i.e. Al­Bukhari and Muslim)on the authority of ' Aishah (may Allah be pleased with her) that the Prophet (may peace be upon him) said, \"Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected.\" According to the narration by Muslim, \"Anyone who does an action which is not in accordance with this matter of ours (Islam) will have it rejected.\"",
+          "content_type": "hadith",
+          "page_number": 92,
+          "confidence": 0.95,
+          "notes": "Hadith from Aishah with citation"
+        },
+        {
+          "text": "It was also related in \"Sahih Muslim\", on the authority of Jabir (may Allah be pleased with him) that the Prophet (may peace be upon him) would say in the Friday Khutbah (sermon): \"The best of speech is the Book of Allah, the best of guidance is the guidance of Muhammad (peace be upon him), the most evil of matters are those which are newly­invented (in religion), and every Bid' ah is a Dalalah (deviation from the right).\" Al­Nasa'iy added with a sound Sanad (chain of narration): \"...and every Dalalah will be in the Fire.\"",
+          "content_type": "hadith",
+          "page_number": 92,
+          "confidence": 0.95,
+          "notes": "Hadith from Jabir with multiple citations"
+        },
+        {
+          "text": "It is related in the Sunan (Hadith compilations classified by jurisprudential themes)on the authority of Al­' Irbad ibn Sariyah (may Allah be pleased with him) that \"The Messenger of Allah (peace be upon him) one day led us in Salah (prayer) then he faced us and gave us an earnest exhortation that",
+          "content_type": "hadith",
+          "page_number": 92,
+          "confidence": 0.9,
+          "notes": "Beginning of hadith from Al-Irbad ibn Sariyah - appears to continue on next page"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 93,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "what do you advise us with.'",
+          "content_type": "navigation",
+          "page_number": 93,
+          "confidence": 0.9,
+          "notes": "Fragment continuation from previous page",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 185)",
+          "content_type": "navigation",
+          "page_number": 93,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "He said, ' I advise you to fear Allah, and to listen and obey, even if it is an Ethiopian slave (appointed as a ruler over you). Because whosoever among you shall live after me shall see much difference. So I urge you to adhere to my Sunnah (way) and the Sunnah of the righteous, Rightly­guided Caliphs, hold fast to it and bite onto it with your molars (i.e. cling firmly to it). Beware of newly­invented matters (in religion), for every newly­invented matter is a Bid'ah, and every Bid'ah is a Dalalah (deviation from the right).\"",
+          "content_type": "hadith",
+          "page_number": 93,
+          "confidence": 0.95,
+          "notes": "Prophetic tradition with direct quotation",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Hadith with the same meaning. It was authentically reported that the Sahabah (the Prophet's Companions, may Allah pleased with them) and the righteous Salaf (righteous predecessors) after them warned against Bid'ah and scared people away from committing it, as they are additions to the Din unsanctioned by Allah (may He be Praised). It is treading the same path of the enemies of Allah from among the Jews and the Christians, in the additions and innovations they inserted into their religion that Allah has not ordained. It also implies that there is something lacking in Islam and accuses it of being imperfect; it is well­known what this involves of great corruption and evil, and stands as a denial of the Saying of Allah (Exalted be He): This day, I have perfected your religion for you It is also an open violation of the Hadith of the Messenger (peace be upon him) that warn against Bid'ah and exhort people to shun it.",
+          "content_type": "paragraph",
+          "page_number": 93,
+          "confidence": 0.9,
+          "notes": "Scholarly explanation with Quranic reference embedded",
+          "memory_agreement": true
+        },
+        {
+          "text": "I hope that the evidence we have quoted is sufficient to convince truth­seekers to refute this Bid'ah, namely the Bid'ah of celebrating the Night of Isra' and Mi'raj, and warn them against it, as it has nothing to do with the Din of Islam. As Allah has obligated Muslims to advise one another and to explain His ordained Religion, and has forbidden us from concealing knowledge, I felt it my duty to warn my Muslim brothers against this Bid'ah, which, as it has spread into many countries, some people think it is part of the Din. May Allah (Exalted be He) set right the affairs of Muslims, and grant them understanding of the Din! May Allah help us and them to adhere to Truth and be firm upon it and avoid all that opposes it, as Allah is the Patron and the One Able to do this! And peace and blessings be upon His Servant and Messenger, Muhammad, and upon his family and Companions!",
+          "content_type": "fatwa_ruling",
+          "page_number": 93,
+          "confidence": 0.9,
+          "notes": "Concluding ruling with supplication",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Third Message",
+        "content_type": "heading_major",
+        "page_number": 94,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 186)",
+          "content_type": "navigation",
+          "page_number": 94,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Celebrating the Mid­Sha'ban Night",
+          "content_type": "heading_minor",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Topic heading for the third message",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah Who has perfected the religion for us and has completed the favor upon us! Peace and blessings of Allah be upon His Prophet and Messenger Muhammad, the Prophet of repentance and mercy!",
+          "content_type": "paragraph",
+          "page_number": 94,
+          "confidence": 0.85,
+          "notes": "Opening praise and salutation",
+          "memory_agreement": false
+        },
+        {
+          "text": "To proceed: Allah (Exalted be He) says: This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion. until the end of the verse fromSurah Al­Ma'idah.",
+          "content_type": "quran_verse",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Quranic verse with surah reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "He (Exalted be He) also says: Or have they partners (with Allâh — false gods) who have instituted for them a religion which Allâh has not ordained? until the end of the verse fromSurah Al­Shurah.",
+          "content_type": "quran_verse",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Second Quranic verse with surah reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, it is reported in the two the Sahih (authentic) Books of Hadith (i.e. Al­Bukhari and Muslim)from `Aishah (may Allah be pleased with her) from the Prophet (peace and blessings of Allah be upon him) that he said: Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected.",
+          "content_type": "hadith",
+          "page_number": 94,
+          "confidence": 0.95,
+          "notes": "Hadith with chain of narration and source books",
+          "memory_agreement": false
+        },
+        {
+          "text": "Furthermore, it is reported in the Sahih of Muslim from Jabir (may Allah be pleased with him) that the Prophet (peace be upon him) used to address people in the Friday Sermon by saying: To proceed, the best of speech is the Book of Allah, the best of guidance is the guidance of Muhammad (peace and blessings of Allah be upon him), the most evil of matters are those which are newly­introduced in religion, and every Bid'ah (innovation in religion) is Dalalah (a deviation from what is right).",
+          "content_type": "hadith",
+          "page_number": 94,
+          "confidence": 0.95,
+          "notes": "Second hadith with source and narrator",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many other Qur'anic verses and Hadiths to the same effect. All these verses and Hadiths clearly indicate that Allah (Glorified and Exalted be He) has perfected for this Ummah (nation based on one creed) its religion and has completed upon it His Favor and did not cause His Prophet (peace be upon him) to die until he had conveyed the clear message, explained to the Ummah all what Allah has legislated for it of sayings and actions and he (peace be upon him) had pointed out that all what the people innovate after him and relate to the religion of Islam of sayings and actions are Bida' (innovation in religion) rejected to those who innovate it, even if done with good intention. The Companions of the Messenger of Allah (peace be upon him) and the scholars of Islam after them had realized this matter, and thus, they denied such innovations in religion and warned against them as mentioned by all the scholars who wrote about the great status of the Sunnah (supererogatory act of worship following the example of the Prophet) and the denial of Bid'ah, such as Ibn Waddah, At­Tartushy, Abu Shamah and others.",
+          "content_type": "paragraph",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Scholarly explanation with citations",
+          "memory_agreement": true
+        },
+        {
+          "text": "From the Bida' which have been introduced into the religion by people is the Bid'ah of celebrating the Mid­ Sha'ban night and fasting on its day, and there is no",
+          "content_type": "paragraph",
+          "page_number": 94,
+          "confidence": 0.8,
+          "notes": "Incomplete sentence continuing to next page",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 187)",
+          "content_type": "navigation",
+          "page_number": 94,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "reliable evidence for such actions. There are weak Hadiths reported with regard to the virtue of the Mid­ Sha'ban night, but it is not allowed to rely on them as evidence. As for what is reported regarding the virtue of praying during the Mid­Sha'ban night, they are all fabricated Hadiths as confirmed by many Muslim scholars, and we will, In sha'a­Allah (if Allah wills), mention some of their comments on that. Besides, there are some other narrations regarding the virtue of this night reported from the righteous predecessors of the people of Al­Sham (the Levant) and others. What the majority of Muslim scholars agreed upon is that the celebration of this Mid­Sha'ban night is Bid'ah and that the Hadiths reported regarding the virtue of this night are all weak Hadiths and some of them are fabricated Hadiths. From those who drew the attention to the weakness and fabrication of these Hadiths is Al­Hafiz ibn Rajab in his book entitled: (Lata'if Al­Ma'arif) and people other than him. It is to be noted that the weak Hadiths can be applied only in the types of worship, the origin of which have been established by sound and authentic evidence. As for celebrating the Mid­ Sha'ban night, there is no sound and authentic evidence supporting it to justify reliance on the weak Hadiths in this regard.",
+          "content_type": "fatwa_ruling",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Detailed ruling on Mid-Sha'ban night with scholarly citations",
+          "memory_agreement": true
+        },
+        {
+          "text": "This great rule has been mentioned by Imam: Abul­'Abbas Shaykhul­Islam Ibn Taymiyyah (may Allah have mercy upon him). Dear reader, I will convey for you some of what the people of knowledge say about this issue in order to be on clear evidence regarding it. Moreover, the majority of Muslim scholars (may Allah have mercy upon all of them) said that it is an obligation to refer the issues what the people differ over to the Book of Allah (Exalted be He) and to the Sunnah of the Messenger of Allah (peace be upon him), and thus, what both these sources or either of them approve, then it is the legislation which should be followed and what contradicts them should be set aside and what is not mentioned in these two sources of worships, then it is Bid'ah which is not allowed to be practiced, let alone inviting people to it and encouraging it.",
+          "content_type": "paragraph",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Citation of Ibn Taymiyyah and scholarly methodology",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says inSurah­Al­Nisa': O you who believe! Obey Allâh and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.",
+          "content_type": "quran_verse",
+          "page_number": 94,
+          "confidence": 0.95,
+          "notes": "Quranic verse with Arabic text and surah reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "He (Glorified be He) also says: And in whatsoever you differ, the decision thereof is with Allâh (He is the ruling Judge). until the end of the verse fromSurah Al­Shurah",
+          "content_type": "quran_verse",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Second Quranic verse with surah reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, Allah (Exalted be He) also says: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ to mankind): \"If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur'ân and the Sunnah), Allâh will love you and forgive you your sins.",
+          "content_type": "quran_verse",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Third Quranic verse with Arabic text, incomplete",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 188)",
+          "content_type": "navigation",
+          "page_number": 94,
+          "confidence": 1.0,
+          "notes": "Page reference indicator at end",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Fatwa on Mid-Sha'ban Night",
+        "content_type": "heading_minor",
+        "page_number": 95,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "until the end of the verse fromSurah Al 'Imran.He (Glorified and Exalted be He) also says: But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Quranic verse from Surah An-Nisa with Arabic honorific",
+          "memory_agreement": true
+        },
+        {
+          "text": "In addition to that, there are many Verses supporting this principle and they are clear evidence of the obligation to refer the debatable issues to the Book of Allah and to the Sunnah of His Messenger (peace be upon him) and the obligation to be pleased and satisfied with their rulings, and to know that this is the natural outcome of faith, the best for the slaves during this lifetime and in the Hereafter and the best in result: namely, the end result.",
+          "content_type": "paragraph",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Explanatory text about Quranic principles",
+          "memory_agreement": true
+        },
+        {
+          "text": "A l­Hafiz ibn Rajab (may Allah have mercy upon him) in his book entitled: \"Lata'if Al­Ma'arif\" with regard to this issue ­ after previous similar talk ­ said in wording:",
+          "content_type": "citation",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Introduction to scholarly citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Regarding the Mid­Sha'ban night, the followers from the people of Al­Sham ; such as Khalid ibn Ma'dan, Makhul, Luqman ibn 'Amir and others used to exalt it and exert their efforts therein to perform more worships and people followed them with regard to its virtue and exaltation. It is said that some Israelite narrations and traditions have reached them regarding the virtue of this night, and when this became widespread in countries, people differed regarding it, and therefore, some of them accepted it and agreed with them with regard to the magnification of this night such as a group from the worshippers of the people of Basra and others. On the other hand, this act was denied by the majority of Muslim scholars of Al­Hijaz such as: `Ata' and Ibn Abu Mulaikah, and it was transmitted by `Abdul­Rahman ibn Zayd ibn Aslam from the jurists of the people of Madinah, and it is the opinion of the disciples of Imam Malik and others. They said that all these acts are mere Bid'ah. However, the scholars of the people of Al­Sham differed regarding the way of celebrating it int two opinions:",
+          "content_type": "citation",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Extended quote from Ibn Rajab about Mid-Sha'ban night",
+          "memory_agreement": true
+        },
+        {
+          "text": "First: It is recommended to celebrate it collectively in the Masajid (Mosques). It is reported that Khalid ibn Ma`dan and Luqman ibn 'Amir and others used to put on their best clothes, apply incense and kohl (antimony powder eyeliner) and spend the entire night in the Masjid. Their act was approved by Ishaq ibn Rahawyah who said about celebrating it in congregation in the Masjid, that it is not Bid'ah. This is reported by Harb Al­Kirmany in his book titled: \"Al­Masa'il\" (Religious Issues).",
+          "content_type": "list_item",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "First opinion within the citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 189)",
+          "content_type": "navigation",
+          "page_number": 95,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Second: It is reprehensible to gather during that night in the Masjid for prayer, narrating stories and supplication, but is not reprehensible for one to pray individually during that night for himself. This is the opinion of Al­Awza`iq, who was the Imam of the people of Al­Sham, their jurist and their scholar, and this, In sha'a­Allah (if Allah wills), is the closest opinion to the truth, until he said: It is not known if Imam Ahmad said something about the Mid­Sha'ban night. There are two narrations reported from Al­Awza'iy regarding the recommendation to stay up late for prayer during the Mid­Sha'ban night relying on the two narrations reported from Imam Ahmad regarding staying up late for Prayer during the two nights of 'Eid. In one narration, he did not recommend staying up late in congregational prayer during the two nights of 'Eid because it was not reported from the Prophet (peace be upon him) or from his Companions that they did that. In another narration he recommended staying up late for Prayer during those nights following the act of `Abdul­Rahman ibn Yazid ibn Al­Aswad who was one of the Tabi`un (Followers, the generation after the Companions of the Prophet), in that. By the same token, there is no sound and authentic narration reported from the Prophet (peace be upon him) nor from his Companions regarding staying up late for Prayer during the Mid­Sha'ban night. However, it is reported from a group of the Followers from among the noble jurists of the people of Al­Sham )",
+          "content_type": "list_item",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Second opinion within the citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "This is the end of the statement of Al­Hafiz ibn Rajab (may Allah have mercy upon him), which clearly states that no sound and authentic narration was reported from the Prophet (peace be upon him) nor from his Companions (may Allah be pleased with all of them) regarding the Mid­Sha'ban ight. As for the opinion chosen by Al­Awza`iy (may Allah have mercy upon him) regarding the recommendation of staying up late individually for Prayer during the Mid­Sha'ban night and Al­Hafiz ibn Rajab's preference of this opinion, it is strange and weak, because if something has not been established by the legal evidence that it is legislation, then it is not allowed for a Muslim to introduce it into the religion of Allah, whether one does it individually or in congregation, and whether one practices it secretly or openly, due to the comprehensiveness of the Prophet's (peace and blessings of Allah be upon him) saying: Anyone who does an action which is not in accordance with this matter of ours (Islam) will have it rejected. and other evidence indicating the rejection of innovations in religion and warning against them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Scholar's analysis and ruling on Ibn Rajab's opinion",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is also reported from Imam Abu Bakr Al­Tartushy (may Allah have mercy upon him) in his book entitled: (Al­ Hawadith Wal­Bida') that he said in wording:",
+          "content_type": "citation",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Introduction to another scholarly citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( It is reported by Ibn Waddah from Zayd ibn Aslam that he said: We have not found anyone from our Shaykhs or our jurists paying attention to the Mid­Sha'ban night. Moreover, they did not pay attention to that Hadith reported by Mak­hul and they did not consider any special virtue for this night to the exclusion of other nights.) Moreover, it was said to Ibn Abi Mulaikah : Indeed, Ziyad An­Numairiy says: (Verily, the reward of the Mid­ Sha'ban night is like the reward of Laylat­ul­Qadr (the Night of Decree), then he said:",
+          "content_type": "citation",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Quote from Al-Tartushy's book",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 190)",
+          "content_type": "navigation",
+          "page_number": 95,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "(If I hear him saying that and I have a staff in my hand, I will hit him). It is noteworthy that Ziyad was a narrator of stories. End of the statement of Abu Bakr Al­Tartushy.",
+          "content_type": "citation",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Continuation and end of Al-Tartushy citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Furthermore, the erudite scholar: Al­Shawkany (may Allah bestow His mercy upon him), in his book entitled: (Al­Fawa'id Al­Majmu'ah), said in wording:",
+          "content_type": "citation",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Introduction to Al-Shawkany citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( The Hadith: O ' Aliy, whoever prays a hundred Rak'ah (a unit of the prayer) during the Mid­Sha'ban night and reads in every Rak'ah (unit of Prayer) Al­Fatihah (the Opening Chapter of the Book) and Surah Ikhlas ten times, Allah will fulfil all their needs etc., is a fabricated Hadith, and within the words of the Hadith talking about the great reward for the one who performs this Prayer there is something which does not leave any doubt for a sound­minded person to know that it is a fabricated Hadith. Moreover, its narrators are unknown and it has been reported through a second and third narrations, all of which are inserted fabrications and their narrators are unknown. It is also said in \"Al­Mukhtasar\" (The Concise Book of Hadith) that the Hadith of performing Prayer during the Mid­Sha'ban night is null. and what is reported by Ibn Hibban from the Hadith of `Aly : When the Middle Night of Sha'ban comes, observe night vigil prayer during it and fast the following day is a weak Hadith. It is said in (Al­La'ali', \"Perals\") that Praying one hundred Rak'ahs with sincerity during the Mid­Sha'ban night ten times. along with the rest of the details about its virtue, which is reported by Ad­Daylamiy and others, and this is a false Hadith, and all its narrators in the three different narrations are unknown and thier narrators are weak. He said that the Hadith: And twelve Rak'ahs in which Surah Al­Ikhlas is recited thirty times. is a fabricated Hadith, and the Hadith: and fourteen Rak'as. is also a false Hadith. It is noted that a group of jurists had been deceived by this Hadith, such as the author of the book entitled: (Al­'Ihya') and others, as well as some Exegetes of the Qur'an. Performing prayer on this night ­ namely, the Mid­Sha'ban night­ has been reported in different ways, all of which are null and fabricated narrations. This does not contradict the narration reported by Al­Tirmidhiy from the Hadith of `Aishah regarding his (peace be upon him) going to Al­Baqi` and the descending of the Lord to the nearest sky during the Mid­Sha'ban night and that He forgives for more than the number of the hairs of the sheep of Banu Kalb, since we are talking about this prayer which has been falsely established in that night. Moreover, the Hadith reported by `Aishah has weakness and its chain of transmission is interrupted and the Hadith reported by 'Aly which has been previously mentioned with regard to staying up late during that night for Prayer does not contradict the ruling that a special Prayer during that night is falsely established, in addition to the weakness in that Hadith according to the what we have mentioned. ) End of Al­Shawkany's comment.",
+          "content_type": "hadith",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Extended analysis of fabricated hadiths by Al-Shawkany",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is reported from Al­Hafiz Al­`Iraqy that he said: ( The Hadith of performing prayer during the Mid­Sha'ban night is falsely related to the Messenger of Allah (peace be upon him) and is lying about him. Moreover, it is reported by Al­Imam Al­Nawawy that he said in the book entitled: (Al­Majmu'): ( The Prayer known as Salat­ u l­Ragha'ib (Prayer for great bounties or wishes), which is twelve Rak'ahs performed between the Maghrib (Sunset) Prayer and 'Isha' (Night) Prayer during the night",
+          "content_type": "citation",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Citations from Al-Iraqi and Al-Nawawi",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 191)",
+          "content_type": "navigation",
+          "page_number": 96,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of the first Friday of the Month of Rajab and the Prayer during the Mid­Sha'ban night, which is a hundred Rak'ahs, are two evil Bid'ahs (innovations in religion) and no one should be deceived by their mentioning in the book entitled: (Qout A­Qulub), the book entitled: (Ihya' 'Ulum Ad­Din) nor by the Hadith reported regarding these two nights, since all this is void and no one should be deceived by some of the Imams who got confused about their ruling and wrote some papers regarding the recommended practices during these two nights, because they made a mistake in that ).",
+          "content_type": "fatwa_ruling",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Al-Nawawi's ruling on these prayers as innovations",
+          "memory_agreement": false
+        },
+        {
+          "text": "On the other hand, Shaykh Imam Abu Muhammad `Abdul­Rahman ibn Isma`il Al­Maqdisy wrote a very valuable book regarding the falsification of the special virtues of these two nights and he did a good job in this book. Moreover, people of knowledge talked very much about this issue, and if we trace all what has been said regarding this subject and try to convey it, then we will have a very long explanation, but we hope that what we have mentioned regarding this issue will be sufficient and convincing for the seeker of truth.",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Reference to Al-Maqdisy's work and conclusion of citations",
+          "memory_agreement": true
+        },
+        {
+          "text": "From what has been previously mentioned of verses, Hadith and the opinions of Muslim scholars, it becomes clear to the seeker of the truth that celebrating the Mid­Sha'ban night through performing Prayer and other activities and singling out the following day with Fast is an evil Bid'ah according to the opinion of the majority of Muslim scholars. It has no foundation in the purified Islamic Shar` (law), but it has been newly introduced into Islam after the epoch of the Companions (may Allah be pleased with all of them). It is sufficient for the seeker of truth, about this subject and other subjects, to read Allah's (may He be Exalted and Sublime) Saying: This day, I have perfected your religion for you and to read other Qur'anic verses confirming this meaning, as well as the Prophet's (peace be upon him) saying: Anyone who introduces anything into this matter of ours (Islam) that is not part of it will have it rejected. in addition to what has been reported of the Hadiths confirming this meaning.",
+          "content_type": "fatwa_ruling",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Final ruling on Mid-Sha'ban celebrations",
+          "memory_agreement": true
+        },
+        {
+          "text": "Moreover, it is reported inthe Sahih of Muslim from Abu Hurayrah (may Allah be pleased with him) who said that the Messenger of Allah (peace be upon him) said: Do not single out the night (preceding) Friday among the nights for prayer and do not single out Friday among days for fasting but only when anyone among you is accustomed to fast (on dates) which coincide with this day (Friday). If it is allowed to single out a certain night with a special worship, then the night of Friday will be more deserving of this special worship, because its day is the best day on which the sun rises according to the sound and authentic Hadith reported from the Messenger of Allah (peace and blessings of Allah be upon him). Since the Prophet (peace and blessings of Allah be upon him) warned against singling out this night with special Prayer to the exclusion of other nights, then it is evidence that other nights should not be singled out with a certain type",
+          "content_type": "hadith",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Hadith from Sahih Muslim about not singling out Friday night",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 192)",
+          "content_type": "navigation",
+          "page_number": 96,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of worship unless there is a sound and authentic evidence indicating such specification. Since it is ordained to stay up late for Prayer during Laylat­ul­Qadr (the Night of Decree) and during other nights of Ramadan, the Prophet (peace and blessings of Allah be upon him) drew the attention to that, encouraged the Ummah to do that and did it himself asreported in the two Two Sahih (authentic) Books of Hadith (i.e. Al­Bukhari and Muslim)from the Prophet (peace and blessings of Allah be upon him) that he",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Continuation of argument about authentic vs. unauthentic practices",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Fatwa",
+        "content_type": "heading_minor",
+        "page_number": 97,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "said: Whoever observes Optional Night Prayer during the month of Ramadan out of sincere Faith and hoping for a reward from Allah, then all his past sins will be forgiven, and whoever stands for prayers in the night of Qadr out of sincere Faith and hoping for a reward from Allah, then all his previous sins will be forgiven. Thus, if the Mid­Sha'ban night, the night of the first Friday of Rajab or the night of Isra' (Night Journey) and Mi`raj (Ascension to Heaven) were singled out with a certain type of worship, then the Prophet (peace and blessings of Allah be upon him) would guide the Ummah to it or would do it himself and if something like this had happened, the Companions (may Allah be pleased with all of them) would have transmitted it to the Ummah and would not conceal it from the following generations since they were the best people and the best in giving advice after the Prophet (peace and blessings of Allah be upon all of them) and may Allah be pleased with the Companions of the Messenger of Allah (peace and blessings of Allah be upon him) and may they be pleased by Allah.",
+          "content_type": "hadith",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Hadith about Night Prayer in Ramadan followed by scholarly explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "You have already known from the opinions of Muslim scholars that nothing has been established from the Messenger of Allah (peace and blessings of Allah be upon him) nor from his Companions (may Allah be pleased with all of them) regarding the virtue of the night of the first Friday of Rajab or of the Mid­Sha'ban night, and therefore, it becomes clear that celebrating both of them is a Bid'ah, newly introduced in the religion. By the same token, singling them out with a special worship is an evil Bid'ah. The same ruling applies to the twenty­seventh night of Rajab, which some people believe is the night of Al­Isra' and Mi'raj, that it should not be singled out with a certain worship and it is not allowed to celebrate it due to the above­mentioned evidence.",
+          "content_type": "fatwa_ruling",
+          "page_number": 97,
+          "confidence": 0.95,
+          "notes": "Clear ruling on celebrating specific nights as Bid'ah",
+          "memory_agreement": true
+        },
+        {
+          "text": "This is the ruling if we know when Al­Isra' and Mi'raj happened, how will it be if this night is unknown, according to the true view of Muslim scholars, and the saying of those who claim that it is the twenty­seventh night of Rajab is a false opinion having no basis within the sound and authentic Hadith.",
+          "content_type": "fatwa_ruling",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Additional clarification on the ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "Indeed, he is good in speech the one who says: The best affairs are those previously established on true guidance and the worst of them are the newly introduced innovations in religion",
+          "content_type": "hadith",
+          "page_number": 97,
+          "confidence": 0.85,
+          "notes": "Hadith reference with incomplete text formatting",
+          "memory_agreement": false
+        },
+        {
+          "text": "He is Allah Whom we ask to guide us and all Muslims to abide by the Sunnah, to be steadfast on it and to be cautious of what contradicts it. Indeed, He is Bounteous and Generous! May Allah send His Peace and Prayers upon His Servant and Messenger, our Prophet Muhammad, his family and all his Companions!",
+          "content_type": "signature",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Closing prayer and blessing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 1, Page No: 193)",
+        "content_type": "navigation",
+        "page_number": 98,
+        "confidence": 1.0
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Fourth Message",
+        "content_type": "heading_major",
+        "page_number": 98,
+        "confidence": 0.95
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "An important warning about the falsehood of the will attributed to Shaykh Ahmad, the servant of Al­Haram Al­Nabawy Al­Sharif",
+        "content_type": "heading_minor",
+        "page_number": 98,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "From 'Abdul­'Aziz ibn 'Abdullah ibn Baz to any Muslims who read this; may Allah protect them with Islam and protect us and them from the evil of the ignorant fabricators! Amen!",
+          "content_type": "signature",
+          "page_number": 98,
+          "confidence": 0.95,
+          "notes": "Author attribution and greeting",
+          "memory_agreement": false
+        },
+        {
+          "text": "A s­salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "arabic_text",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Arabic greeting with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "I have read the words attributed to Shaykh Ahmad, the servant of Al­Haram Al­Nabawy Al­Sharif (the Holy Sanctuary of the Prophet) entitled: \"This will is from Al­Madinah Al­Munawwarah from Shaykh Ahmad, the servant of Al­Haram Al­Nabawy Al­Sharif.\" In this will it is claimed that he said:",
+          "content_type": "paragraph",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Introduction to the fabricated will",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"I was staying up one night of Friday (i.e. Thursday night, as in the Hijri calendar the night precedes the day) reciting the Holy Qur'an and after reciting, I read the Most Beautiful Names of Allah. After finishing that I prepared to sleep, and there I saw the person with the brightest face, the Messenger of Allah (peace be upon him), who came with the Qur'anic Ayahs (verses) and noble rulings as a mercy to the worlds, our Prophet Muhammad (peace be upon him). He said to me, \"O Shaykh Ahmad!\" I replied, \"I am at your service, O Messenger of Allah, the best of all creation!\" He said to me, \"I am so ashamed of the hateful deeds performed by the people, that I can not face my Lord or the angels, because from Friday to Friday, 160,000 people died following religions other than Islam.\" He then mentioned some of the sins that the people do. He then said, \"This will is a mercy to them from the Almighty Allah.\" He then mentioned some of the Portents of the Hour until he said, \"O Shaykh Ahmad! Inform them of this will, as it is copied by the pen of destiny, from Al­Lawh­ul­Mahfuzh (the Preserved Tablet). Anyone who writes this and sends it from one country to another and from one place to another will have a palace built for them in Jannah (Paradise). Those who do not write it and spread it among the people will be deprived of my Shafa'ah (intercession) on the Day of Resurrection. If a poor person writes it, they will be made rich by Allah; if an indebted person writes it, their debt will be discharged by Allah; and if",
+          "content_type": "question",
+          "page_number": 98,
+          "confidence": 0.85,
+          "notes": "Quoted fabricated will content",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 194)",
+          "content_type": "navigation",
+          "page_number": 98,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "a sinner writes it, they will be forgiven by Allah, along with their parents due to the blessings of this will. Those Servants of Allah who do not write it, will have their faces darkened in this world and in the Hereafter. He said three times, \"By Allah! This is true and, if I am lying, take me from the world on other than Islam. Anyone who believes in this will be saved from the punishment of the Fire and anyone who denies it is a Kafir (disbeliever).\"",
+          "content_type": "question",
+          "page_number": 98,
+          "confidence": 0.85,
+          "notes": "Continuation of fabricated will content",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is a summary of the will falsely attributed to the Messenger of Allah (peace be upon him). We have heard this false will many times over many years. It is occasionally spread among people and circulated every now and then, but with different wordings. This liar says that the shaykh saw the Prophet (may peace be upon him) in his sleep and that he gave him this will. However, in this latest will that we have just mentioned to you, our dear readers, the fabricator claims that the shaykh saw the Prophet (peace be upon him) when he was preparing to sleep, so this means that he saw him (peace be upon him) while he was awake! The fabricator claims many things in this will, which are some of the most obvious lies, and most manifest fabrications, to which I will soon draw your attention in my remarks, In sha'a­Allah (if Allah wills). I have actually clarified these matters over the last few years and alerted people to these falsehoods. However, when I read the latest publication, I hesitated to write about it because of its patent falsehood. Also, I did not think that it would be circulated by those who had the least insight or sound Fitrah (natural disposition), but many brothers told me that it had been sent to many people and they were discussing it and believing it. Therefore, I felt it incumbent upon people like me to write about it, to explain the falsity and assail this fabrication that has been attributed to the Messenger of Allah (peace be upon him), so no one will be deceived by it. Anyone who considers it from among knowledgeable and faithful people or those who have pure Fitrah and sound minds will know that it is false and fabricated for many reasons.",
+          "content_type": "answer",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Scholar's response explaining the fabrication",
+          "memory_agreement": false
+        },
+        {
+          "text": "I did ask some relatives of Shaykh Ahmad, to whom this will is falsely attributed, about this will. They said that it is a lie attributed to Shaykh Ahmad, and that he never said such a thing. The Shaykh Ahmad that is being mentioned died a while ago. If we assume that the Shaykh Ahmad who is being referred to or anyone who is more knowledgeable than him claims to have seen the Prophet (may peace be upon him), in their sleep or while awake,",
+          "content_type": "paragraph",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Investigation results about the attribution",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Analysis of False Will - Continuation",
+        "content_type": "heading_minor",
+        "page_number": 99,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 195)",
+          "content_type": "navigation",
+          "page_number": 99,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and he bequeathed such a will to them, we would certainly know that they are a liar or that the person who told him that was Satan, and not the Messenger of Allah (peace be upon him)",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Continuation of previous argument",
+          "memory_agreement": false
+        },
+        {
+          "text": "for many reasons, among which are:",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Introduction to enumerated points",
+          "memory_agreement": true
+        },
+        {
+          "text": "1. the Messenger of Allah (peace be upon him) cannot be seen in wakefulness, after his death. Anyone who claims this from among ignorant Sufis or that he attends celebrations of Mawlid (birthday of the Prophet), or anything similar, has made a hideous error, confused right with wrong, has fallen into grave error and contradicted the Qur'an, the Sunnah and Ijma' (consensus of the scholars), because the dead will only be resurrected from their graves on the Day of Resurrection, not in the life of this world. Anyone who claims otherwise is manifestly lying, or made a great mistake for being led into false beliefs and do not know Al­Haqq (the Truth) that was known by the Salaf (the righteous predecessors) and acted upon by the Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who rightly follow their guidance. Allah (Exalted be He) says: After that, surely, you will die.",
+          "content_type": "list_item",
+          "page_number": 99,
+          "confidence": 0.95,
+          "notes": "First enumerated point with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "Then (again),",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.8,
+          "notes": "Continuation of Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "surely, you will be resurrected on the Day of Resurrection. The Prophet (peace be upon him) also said, \"I will be the first over whom the earth shall split open on the Day of Resurrection. I will also be the first intercessor and the first whose intercession will be accepted (by Allah).\" There are many Ayahs and Hadith on this subject.",
+          "content_type": "hadith",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Quranic verse completion and Hadith citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "2. The Messenger (peace be upon him) can never say anything that contradicts Al­Haqq (the Truth) either during his lifetime nor after his death. It is obvious that this will patently contradicts the Shari'ah (Islamic law) in many aspects, as will be shown below. It is true that the Prophet (peace be upon him) can be seen during sleep, and, if anyone sees him (peace be upon him) in their dreams in his noble form, they have actually seen him, because the Satan cannot assume the Prophet's form, as was mentioned in Hadith Sahih (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish). However, the whole matter as to whether the person who had the dream actually saw the Prophet (peace be upon him) in his real form or not depends on their Iman (Faith), honesty, fairness, accuracy, beliefs, and trustworthiness.",
+          "content_type": "list_item",
+          "page_number": 99,
+          "confidence": 0.95,
+          "notes": "Second enumerated point about prophetic dreams",
+          "memory_agreement": false
+        },
+        {
+          "text": "If a Hadith reporting something the Prophet (may peace be upon him) said during his lifetime was transmitted through narrators who were not Thiqah (trustworthy), 'Adl Dabit (narrators of Hadith with an upright character and retentive memory), the Hadith would not be relied upon or used as evidence. Moreover, if it was transmitted through narrators who were trustworthy, upright and accurate, but it contradicted another narration that had been reported by a more trustworthy narrator who had a better memorizing ability than them, and the contradiction meant that the two narrations could not be combined, one of them would be regarded as Mansukh (abrogated) and cannot be acted upon. The second narration would be regarded as the Naskh (abrogator) upon which people should act, when possible in accordance with its conditions. If it is not possible to reconcile the narrations or abrogation, it is",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Explanation of Hadith authentication principles",
+          "memory_agreement": false
+        },
+        {
+          "text": "obligatory that the narration",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.7,
+          "notes": "Continuation phrase",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 196)",
+          "content_type": "navigation",
+          "page_number": 100,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "related by the person who was ranked to be the lesser in memorizing ability and accuracy should be discarded. The ruling on it would be that it is a Hadith Shadh (a Hadith narrated by a trustworthy narrator, not in line with the narration of other trustworthy narrators in terms of wording, chain of narrators, or both) that cannot be acted upon.",
+          "content_type": "fatwa_ruling",
+          "page_number": 100,
+          "confidence": 0.85,
+          "notes": "Technical ruling on Hadith classification",
+          "memory_agreement": true
+        },
+        {
+          "text": "In the face of this fact, this anonymously written will, whose author claims to be reporting it from the Messenger of Allah (peace be upon him), whose accuracy and honesty are unknown, should, with all the more reason, be discarded. This must be the action taken even if it does not contain anything that contradicts the Shari'ah; how then when in fact it contains many things that indicate its falseness and it being a lie fabricated against the Messenger of Allah (peace be upon him), and legislates that which Allah has never permitted?",
+          "content_type": "paragraph",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Application of principles to the false will",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (may peace be upon him) said: \"Anyone who ascribes to me what I have not said let them take their place in the Fire.\" The fabricator of this will ascribes words to the Messenger (peace be upon him) which he (peace be upon him) did not say, and has forged downright grave lies against the Messenger (peace be upon him), which makes him deserving of this great punishment against which warning is given, unless he hastens and makes Tawbah (repentance to Allah) and publicly spreads that this will is a lie against the Messenger of Allah (peace be upon him). This is because the Tawbah of anyone who circulates falsehoods among the people, and falsely attributes them to the Din (religion of Islam) cannot be accepted unless they openly declare that they are falsehoods, so people will know that they have retracted the lie and blamed it on themselves. Allah (Exalted be He) says:",
+          "content_type": "hadith",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Hadith about false attribution with commentary",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, those who conceal the clear proofs, evidence and the guidance, which We have sent down, after We have made it clear for the people in the Book, they are the ones cursed by Allâh and cursed by the cursers. Except those who repent and do righteous deeds, and openly declare (the truth which they concealed). These, I will accept their repentance. And I am the One Who accepts repentance, the Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 100,
+          "confidence": 0.95,
+          "notes": "Quranic verse about concealing truth and repentance",
+          "memory_agreement": true
+        },
+        {
+          "text": "In this noble Ayah (Qur'anic verse), Allah (Glorified and Exalted be He) shows that the Tawbah of anyone who conceals the truth is not valid, unless they correct the wrong and declares the truth of what they have done. Allah (may He be Praised) perfected the Din for His Servants and completed His Favor upon them by sending His Messenger, Muhammad (peace be upon him), and the perfect",
+          "content_type": "paragraph",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Commentary on the Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "Shar' (laws) that He revealed to him. Allah (Glorified be He) did not take His Prophet to Him until the Din was completed and perfected, as Allah (Exalted be He) says: This day, I have perfected your religion for you, completed My Favour upon you",
+          "content_type": "paragraph",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Continuation with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 197)",
+          "content_type": "navigation",
+          "page_number": 100,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The fabricator of this will appeared in the fourteenth century after Hijrah (Prophet's migration to Madinah) to confuse people into following a new religion, in which anyone who acts upon his legislations will enter Jannah (Paradise) and whoever shuns his legislations will be forbidden from Jannah and end up in the Fire. He aims to make this will that he fabricated greater and better than the Qur'an, as he claims that anyone who writes it and sends it from country to another or one place to another will have a palace built for them in Paradise. Also, anyone who does not write or send it will be deprived of the Prophet's Shafa'ah (intercession) on the Day of Resurrection. This claim is one of the most hideous of all lies and the clearest evidence of the falsehood of this will, the brazenness of its fabricator, and his flagrant audacity in lying. This is because, if anyone writes the Qur'an and sends it from one country to another or one place to another, they will not receive such a reward, if they do not act upon the Qur'an. So how could someone writing this falsehood and sending it from one country to another and one place to another receive such a reward? Also, those who do not write the Qur'an or send it from one country or one place to another, will not be deprived of the Prophet's Shafa'ah, if they are believers and uphold the Shari'ah. This one lie in this will is sufficient on its own as proof of the invalidity of this will, the falsehood of its writer, his shamelessness and foolishness, as well as his lack of knowledge of the guidance with which the Messenger (peace be upon him) came.",
+          "content_type": "paragraph",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Analysis of the fabricator's claims and their refutation",
+          "memory_agreement": true
+        },
+        {
+          "text": "This will includes other matters that prove its invalidity and falsehood, even if its fabricator swears by Allah thousands of times or more that it is true, and even he invokes the greatest punishment upon himself and that the strongest example be made of him if he is a liar. I swear by Allah that this will is the one of the most hateful fabrications. We call upon Allah (Exalted be He), His Angels around us, and any Muslims who see these words, to witness that this will is a lie invented against the Messenger of Allah (peace be upon him); may Allah humiliate the one who created it with what he deserves!",
+          "content_type": "fatwa_ruling",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Strong declaration against the false will",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many other points, besides the above­mentioned, that prove the invalidity and falsity of this will, such as the following:",
+          "content_type": "paragraph",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Introduction to additional points",
+          "memory_agreement": true
+        },
+        {
+          "text": "First: In this will, he says: \"From Friday to Friday, 160,000 people died following religions other than Islam.\" This kind of knowledge belongs to the realm of the Ghayb (the Unseen) and Revelation stopped after the death of the Messenger (peace be upon him). The Prophet (may peace be upon him) did not know the Ghayb during his lifetime, so how could he know it after his death?",
+          "content_type": "list_item",
+          "page_number": 100,
+          "confidence": 0.95,
+          "notes": "First additional point about knowledge of the unseen",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 198)",
+          "content_type": "navigation",
+          "page_number": 100,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) says: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"I don't tell you that with me are the treasures of Allâh, nor (that) I know the Unseen Also, Allah (Glorified be He) says: Say: \"None in the heavens and the earth knows the Ghaib (Unseen) except Allâh\" As mentioned in a Hadith Sahih reported from the Prophet (peace be upon him), he said, \"Some men from among my Ummah will be brought and then they will be driven away towards the left (i.e., the Fire). I will say, 'O Lord, my companions!' It will be said, 'You do not know the new matters they introduced (into religion) after you (were gone).' I shall then say as the righteous Slave (i.e. 'Isa [Jesus]) said: And I was a witness over them while I dwelt amongst them, but when You took me up, You were the Watcher over them; and You are a Witness to all things. (This is a great admonition and warning to the Christians of the whole world).",
+          "content_type": "quran_verse",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses and Hadith about knowledge of the unseen",
+          "memory_agreement": false
+        },
+        {
+          "text": "Second: Further evidence on the invalidity and falsity of this will is that its author says, \"If a poor person writes it, they will be made rich by Allah; if an indebted person writes it, their debt will be discharged by Allah; and if a sinner writes it, they will be forgiven by Allah, along with their parents due to the blessings of this will, etc.\" This is one of the worst lies, and serves as clear evidence of the mendacity of this fabricator and his fearless impudence before Allah and His Servants. The three things mentioned above cannot even be realized through writing the Qur'an, so how could they be realized by writing this false will? Rather, this wicked person wants to confuse people and attract them to this invalid will, so they will write it and adhere to its claimed merit and leave the lawful ways legislated by Allah for His Servants to gain wealth, repay debts, and have sins forgiven. We seek refuge with Allah from all the ways leading to humiliation, and following desires and Satan.",
+          "content_type": "list_item",
+          "page_number": 100,
+          "confidence": 0.95,
+          "notes": "Second point about false promises in the will",
+          "memory_agreement": false
+        },
+        {
+          "text": "Third: Another fact that proves the falsehood of this will is that he says, \"Those Servants of Allah who do not write it, will have their faces darkened in this world and in the Hereafter.\" This is another of the most wicked lies and proof of the invalidity of this will and the lying of this fabricator. How could it be possible that anyone of sound mind would write this will, which came from an unknown man in the fourteenth century after Hijrah, and is a lie fabricated about the Messenger of Allah (peace be upon him) claiming that the face of anyone who does not write it will turn black in this world and in the Hereafter, and anyone who writes it will gain wealth after being poor, saved from",
+          "content_type": "list_item",
+          "page_number": 100,
+          "confidence": 0.95,
+          "notes": "Third point about threats in the will",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 199)",
+          "content_type": "navigation",
+          "page_number": 100,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1486 @@
+{
+  "batch_number": 90,
+  "sections_count": 174,
+  "timestamp": "2025-06-11T11:45:18.821324",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Second: how it should be carried out",
+        "content_type": "heading_minor",
+        "page_number": 167,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "The way and techniques of Da`wah (calling to Islam/Allah) are clarified by Allah (Glorified and Exalted be He) in the Qur'an, and some of them are mentioned in the Sunnah (whatever is reported from the Prophet).",
+          "content_type": "paragraph",
+          "page_number": 167,
+          "confidence": 0.95,
+          "notes": "Introduction to the section",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 336)",
+          "content_type": "navigation",
+          "page_number": 167,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân) and fair preaching, and argue with them in a way that is better.",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Da'wah methodology",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Glorified be He) has clarified the way that should be followed by the Da`ys (callers to Islam/Allah). First, they should begin with wisdom, which refers to the evident, convincing pieces of evidence that reveal the truth and refute falsehood. That is why some interpreters said that it is the Qur'an, as it is the greatest wisdom, and it perfectly reveals the truth. Some others said that it refers to the evidence in the Qur'an and the Sunnah (whatever is reported from the Prophet). Anyhow, wisdom is a great word that means calling to Allah (Exalted be He) on the basis of knowledge, insight and solid, convincing evidence. It is a common word that is given for many concepts, including prophethood, knowledge, understanding religion, reason, and piety. It is similar to what Al­Shawkany (may Allah be merciful with him) said, \"Wisdom is the thing that protects from foolishness.\" This means that every word that protects you from foolishness, as well as anything that keeps you away from falsehood; and every clear, true statement is considered wisdom. The Qur'an is the most worthy of the designation 'wisdom', and next comes the authentic Sunnah.",
+          "content_type": "paragraph",
+          "page_number": 167,
+          "confidence": 0.95,
+          "notes": "Explanation of wisdom in Da'wah",
+          "memory_agreement": false
+        },
+        {
+          "text": "and instruct them in the Book (this Qur'ân) and Al­Hikmah (full knowledge of the Islâmic laws and jurisprudence or wisdom or Prophethood)",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.85,
+          "notes": "Quranic reference to wisdom",
+          "memory_agreement": false
+        },
+        {
+          "text": "He grants Hikmah to whom He pleases, and he, to whom Hikmah is granted, is indeed granted abundant good.",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.85,
+          "notes": "Another Quranic verse about wisdom",
+          "memory_agreement": false
+        },
+        {
+          "text": "Wisdom is a word that prevents someone who hears it from being misled by falsehood, and calls them to adhere to the truth and abide by the limits of Allah (Glorified and Exalted be He).",
+          "content_type": "paragraph",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Further explanation of wisdom",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 337)",
+          "content_type": "navigation",
+          "page_number": 167,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A Da`y should call people with wisdom. If the invited person is reluctant, you should use fair preaching, Ayahs and Hadiths that encourage him. If he has any doubts, you should argue with him with the better preaching, be patient, use the Qur'an and the Sunnah that include temptation and intimidation. You should do your best to clarify any doubtful matter with clear evidence in a reasonable manner. You should be patient, and never be cruel. This is the best way for the invited person to accept the truth and you should always be patient in argument. When Allah (Glorified and Exalted be He) sent Harun (Aaron) and Musa (Moses) (peace be upon them) to Pharaoh, He asked them to speak to him gently, even though he was the cruelest tyrant.",
+          "content_type": "paragraph",
+          "page_number": 167,
+          "confidence": 0.95,
+          "notes": "Practical guidance for Da'wah",
+          "memory_agreement": false
+        },
+        {
+          "text": "And speak to him mildly, perhaps he may accept admonition or fear (Allâh).",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Quranic verse about speaking to Pharaoh",
+          "memory_agreement": false
+        },
+        {
+          "text": "And by the Mercy of Allâh, you dealt with them gently. And had you been severe and harsh­hearted, they would have broken away from about you",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Prophet's gentle approach",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, it is known that the wise, straight way of Da`wah is being wise, knowledgeable of its ways, and never being cruel or hasty, but rather addressing people with wisdom, which refers to the clear, truthful sayings of the Qur'an and Hadith; fair preaching and gentle argument. This is the approach that should be adopted while practicing Da`wah. On the other hand, Da`wah based on ignorance is harmful, and never be useful, as we will mention later when describing the morals of Da`ys. Practicing Da`wah while being ignorant of evidence, is just like speaking about Allah (Exalted be He) without knowledge. Approaching Da`wah by the use of violence brings more harm than benefit.",
+          "content_type": "paragraph",
+          "page_number": 167,
+          "confidence": 0.95,
+          "notes": "Summary of proper Da'wah methodology",
+          "memory_agreement": false
+        },
+        {
+          "text": "Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân)",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Repeated Quranic verse reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 338)",
+          "content_type": "navigation",
+          "page_number": 167,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "O Prophet (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ)! Strive hard against the disbelievers and the hypocrites, and be harsh against them",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Quranic verse about being harsh when necessary",
+          "memory_agreement": false
+        },
+        {
+          "text": "And argue not with the people of the Scripture (Jews and Christians), unless it be in (a way) that is better (with good words and in good manner, inviting them to Islâmic Monotheism with His Verses), except with such of them as do wrong",
+          "content_type": "quran_verse",
+          "page_number": 167,
+          "confidence": 0.9,
+          "notes": "Quranic verse about arguing with People of the Book",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Third: to what a Da`y should call",
+        "content_type": "heading_minor",
+        "page_number": 168,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "A Da`y (caller to Islam/Allah) should invite people to clarify one thing as done by all messengers (peace be upon them) ­ that is, Allah's straight path, which is Islam, the true religion of Allah. In fact, this should be the objective of Da`wah (calling to Islam).",
+          "content_type": "paragraph",
+          "page_number": 168,
+          "confidence": 0.95,
+          "notes": "Introduction to what Da'wah should call to",
+          "memory_agreement": false
+        },
+        {
+          "text": "Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭ ﺳـﻠﻢ) to the Way of your Lord (i.e. Islâm)",
+          "content_type": "quran_verse",
+          "page_number": 168,
+          "confidence": 0.9,
+          "notes": "Quranic verse about calling to Islam",
+          "memory_agreement": true
+        },
+        {
+          "text": "The way of Allah is Islam, the straight path. It is Allah's religion with which He sent His Prophet Muhammad (peace be upon him). It is the principle to which people should be called, not the ideology or thought of any one. People should be called to Allah's straight path with which He sent His Prophet Muhammad (peace be upon him) and which is indicated by the Qur'an and authentically narrated Sunnah of the Prophet (peace be upon him). The starting point thereof should be calling people to the sound `Aqidah (creed), devotedness to Allah, worshiping Him alone and believing in Him, His messengers, the Last Day and all that Allah and His Messenger told us. This is the essence of the straight path, namely, calling people to admitting Allah's Oneness, being devoted to Him and believing in Him and His messengers (peace be upon them). To this may also be added calling people to believing in all that we were told about by Allah and His Messenger, regarding past events, the Hereafter, the end of time and others. And calling people to Allah's obligations, such as performing Salah (Prayer), paying Zakah (obligatory charity), fasting Ramadan, Hajj and the like; inviting people to Jihad in the Cause of Allah, enjoining what is good, forbidding what is evil and abiding by Allah's commandments regarding Taharah (ritual purification), Salah, transactions, marriage, divorce, crimes,",
+          "content_type": "paragraph",
+          "page_number": 168,
+          "confidence": 0.95,
+          "notes": "Comprehensive explanation of what to call to",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 339)",
+          "content_type": "navigation",
+          "page_number": 168,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "expenditure, war, peace and all other affairs. This is because Allah's religion is of a comprehensive nature in that it deals with people's interests in this world as well as in the Hereafter and all that people need in religion. It also calls to proper conduct and good deeds and forbids immorality and bad deeds. It comprises worship and leadership, in the sense that a Muslim may be a worshiper and an army commander. It also comprises worship and rule, in the sense that a Muslim may be a worshiper who offers Salah (Prayer) and observes Sawm (Fast) and a ruler who puts Allah's laws and rulings into practice. It also comprises worship and Jihad, in the sense that a Muslim calls people to Allah and fights in Allah's Cause against those who forsake Allah's religion ­ that is, Qur'an and sword, in the sense that a Muslim contemplates and reflects on the Qur'an and puts its rulings into practice even by the force of sword if it is necessary. It also comprises politics and sociality, in the sense that it propagates good conduct, brotherhood and unity of Muslims.",
+          "content_type": "paragraph",
+          "page_number": 168,
+          "confidence": 0.95,
+          "notes": "Explanation of Islam's comprehensive nature",
+          "memory_agreement": false
+        },
+        {
+          "text": "And hold fast, all of you together, to the Rope of Allâh (i.e. this Qur'ân), and be not divided among yourselves",
+          "content_type": "quran_verse",
+          "page_number": 168,
+          "confidence": 0.9,
+          "notes": "Quranic verse about unity",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, Allah's religion calls people to a sagacious, sound polity that unites not separates, brings hearts closer not sows division, respects Islamic brotherhood, calls for cooperation with one another in good and piety, advises people for the sake of Allah, urges people to render back trusts, enforces Shari`ah (Islamic law), and abandons judgment with which Allah has not enacted.",
+          "content_type": "paragraph",
+          "page_number": 168,
+          "confidence": 0.95,
+          "notes": "Description of Islamic governance principles",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, Allâh commands that you should render back the trusts to those to whom they are due; and that when you judge between men, you judge with justice.",
+          "content_type": "quran_verse",
+          "page_number": 168,
+          "confidence": 0.9,
+          "notes": "Quranic verse about trusts and justice",
+          "memory_agreement": false
+        },
+        {
+          "text": "This religion is also politics and economics, policy, worship and jihad. It adopts a balanced economic system that is in a medium position between extremist ideologies. It is not cruel, unjust capitalism that does not know religious limits and admits acquisition of money by hook or by crook. It is not an atheistic communistic system that does not respect private ownership, and does not hesitate to commit injustice, atrocities and aggression against people. Rather, it is between the two extremes and follows a middle course between both false systems. Westerners highly esteemed and loved money so much",
+          "content_type": "paragraph",
+          "page_number": 168,
+          "confidence": 0.95,
+          "notes": "Discussion of Islamic economic system",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 340)",
+          "content_type": "navigation",
+          "page_number": 168,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and accumulated it by all possible means even if prohibited by Allah (Glorified and Exalted be He). However, Eastern atheist Soviet Russians and those who followed their system did not respect private ownership and confiscated people's properties forcibly, feeling no shame. On the contrary, they enslaved and prosecuted people, disbelieved in Allah, denied all religions, and said life is materialistic. Therefore, they felt unmistaken to overtake unrightfully the properties of people. They also did not feel any pricking of conscience for committing genocide and taking over wealth. They did not consider worthwhile the means of lawful earning that Allah has sanctioned, i.e. acquiring money through exploiting one's physical and mental abilities as well as all other tools granted to one by Allah. On the other hand, Islam's economic system protects private property, provides for acquisition of money by lawful means and prohibits unlawful means or acquiring money by injustice, cheating, usury and oppression. Rather, it respects and recognizes the inviolability of individual and public ownership. Islam is thus in a medium position between the two unjust economic systems, in that it declares that acquisition of money is lawful and encourages people to acquire it but in a judicious way, which may not hinder a person from his obligations to Allah and His Prophet (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 168,
+          "confidence": 0.95,
+          "notes": "Comparison of economic systems",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Eat not up your property among yourselves unjustly",
+          "content_type": "quran_verse",
+          "page_number": 168,
+          "confidence": 0.9,
+          "notes": "Quranic verse about property rights",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Muslim is inviolable for his Muslim brother, as for his blood, wealth and honor.",
+          "content_type": "hadith",
+          "page_number": 168,
+          "confidence": 0.9,
+          "notes": "Hadith about Muslim rights",
+          "memory_agreement": false
+        },
+        {
+          "text": "Your blood, your properties and your honors are as sacred to one another as the sanctity of this day of yours in this month of yours in this town of yours.",
+          "content_type": "hadith",
+          "page_number": 168,
+          "confidence": 0.9,
+          "notes": "Hadith about sanctity of Muslim rights",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is better for anyone of you to take a rope (and cut) and bring a bundle of wood (from the forest) over his back and sell it and Allah will save his face (from the Hell­Fire) because of that, rather than to ask the people who may give him or not.",
+          "content_type": "hadith",
+          "page_number": 168,
+          "confidence": 0.9,
+          "notes": "Hadith about earning through work",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Islamic Economic System and Brotherhood",
+        "content_type": "heading_minor",
+        "page_number": 169,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Asked what kind of money acquisition is good, the Prophet (peace be upon him) replied: The work of a man's own hand, and every legitimate sale. Furthermore, he (peace be upon him) said: Nobody has ever eaten a better meal than that which one has earned by working with one's own hands. The Prophet of Allah, David used to eat from the earnings of his manual labor.",
+          "content_type": "hadith",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Prophetic traditions about legitimate earning"
+        },
+        {
+          "text": "This clearly indicates that the Islamic economic system is a moderate. It lies between unjust capitalism adopted by Westerners and their followers and that of the atheistic Communists, who have declared",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Scholar's explanation of Islamic economic principles"
+        },
+        {
+          "text": "( Part No : 1, Page No: 341)",
+          "content_type": "navigation",
+          "page_number": 169,
+          "confidence": 1.0,
+          "memory_agreement": true
+        },
+        {
+          "text": "people's wealth inviolable, dishonored the real owners of wealth, enslaved and subjugated other nations violating their inviolabilities. Thus, it is permissible for you to adopt Shar`y (Islamic legal) lawful means of earning. You are better entitled to your money and earnings through means deemed lawful by Shari`ah.",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Continuation of economic system explanation"
+        },
+        {
+          "text": "Islam also preaches brotherhood based on faith, advising others for Allah's sake and mutual respect among Muslims. To have it materialized, it calls to shun grudge, malice, cheating, misappropriation and similar other vices.",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Introduction to Islamic brotherhood principles"
+        },
+        {
+          "text": "The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another",
+          "content_type": "quran_verse",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Quranic verse about believers' relationship"
+        },
+        {
+          "text": "The believers are nothing else than brothers (in Islâmic religion).",
+          "content_type": "quran_verse",
+          "page_number": 169,
+          "confidence": 0.9,
+          "memory_agreement": true
+        },
+        {
+          "text": "A Muslim is the brother of a Muslim. He neither oppresses him nor humiliates him nor looks down upon him.",
+          "content_type": "hadith",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition about Muslim brotherhood"
+        },
+        {
+          "text": "The believer is the believer's mirror.",
+          "content_type": "hadith",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about mutual reflection"
+        },
+        {
+          "text": "Dear Muslim brother, you are a mirror for your brother, and you are a brick in the structure of Islamic brotherhood. So, fear Allah regarding your obligations to your brothers. You have to realize such obligations, treat him justly, faithfully and truly.",
+          "content_type": "fatwa_ruling",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Scholar's advice on brotherhood obligations"
+        },
+        {
+          "text": "You also have to accept Islam as one package ­ take it or leave it. You should not accept only `Aqidah (creed) and neglect rulings and good deeds; nor should you only adopt rulings and good deeds and neglect `Aqidah. In short, you must adopt Islam as a whole, `Aqidah, action, worship, Jihaad, sociality, politics and economics.",
+          "content_type": "fatwa_ruling",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Ruling on comprehensive adoption of Islam"
+        },
+        {
+          "text": "O you who believe! Enter perfectly in Islâm (by obeying all the rules and regulations of the Islâmic religion) and follow not the footsteps of Shaitan (Satan). Verily! He is to you a plain enemy.",
+          "content_type": "quran_verse",
+          "page_number": 169,
+          "confidence": 0.9,
+          "memory_agreement": true
+        },
+        {
+          "text": "Some of the Salaf (righteous predecessors) explained the Ayah (Qura'nic verse) to mean that you should completely enter into the fold of Islam. The word 'Silm' in the Ayah means Islam as well as peace, because Islam is the way to safety and salvation both in this world and in the Hereafter. So, it is Islam and peace, as Islam calls for peace and prevention of bloodshed",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Explanation of Quranic verse by predecessors",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 342)",
+          "content_type": "navigation",
+          "page_number": 169,
+          "confidence": 1.0,
+          "memory_agreement": true
+        },
+        {
+          "text": "through Hudud (prescribed penalties), Qisas (just retaliation) and Shar`y jihad laid down by Allah. Actually, it is both peace and Islam, safety and faith.",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Continuation explaining Islamic peace through justice"
+        },
+        {
+          "text": "O you who believe! Enter perfectly in Islâm (by obeying all the rules and regulations of the Islâmic religion)",
+          "content_type": "quran_verse",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Repeated Quranic verse for emphasis"
+        },
+        {
+          "text": "and follow not the footsteps of Shaitan (Satan).",
+          "content_type": "quran_verse",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse"
+        },
+        {
+          "text": "This refers to acts forbidden by Allah. Satan calls to disobedience and to neglecting the teachings of Islam completely, and this is why he is the biggest enemy. Therefore, it is obligatory on a Muslim to adopt Islam as a whole, hold fast to the Rope of Allah, and be alert against all reasons of division and dispute.",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Scholar's explanation of avoiding Satan's footsteps"
+        },
+        {
+          "text": "You, thus, have to put into practice Allah's Shari`ah regarding acts of worship, transactions, marriage, divorce, maintenance of dependants, suckling, peace, war, dealing with friends and enemies, and crimes. In short, Allah's commandments have to be adopted in every aspect of life.",
+          "content_type": "fatwa_ruling",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Comprehensive ruling on implementing Shariah"
+        },
+        {
+          "text": "Avoid making friendships with someone simply because they happened to have supported you on some occasion; or showing enmity to someone else because they opposed you in an opinion or an issue. This does not go in line with the principles of objectivity.",
+          "content_type": "fatwa_ruling",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Guidance on maintaining objectivity in relationships"
+        },
+        {
+          "text": "The Companions (may Allah be pleased with them) differed among themselves on some issues, but such difference of opinion never affected their clear heartedness or cordiality of their brotherhood. (They were pleased with Allah and Allah was pleased with them).",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Historical example of proper disagreement"
+        },
+        {
+          "text": "Accordingly, a Muslim acts according to Shari`ah and sticks to truth, giving it priority over everything once substantiated. However, this does not lead him to be unfair or unjust to his brother who holds a different point of view on an issue where there may be a variety of interpretations and explanations.",
+          "content_type": "fatwa_ruling",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Ruling on handling differences of opinion"
+        },
+        {
+          "text": "The same applies to issues whose substantiating Nass (text) is open to Ta'wil (allegorical interpretation), in which case, a difference is pardonable. Your duty is only to advise such a person and to love his good action under all circumstances. This difference of opinion should never lead to division or create enmity and, thus, give enemies power over both the disagreeing parties. (There is no power or might except with Allah).",
+          "content_type": "fatwa_ruling",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Detailed guidance on scholarly differences"
+        },
+        {
+          "text": "Islam is the religion of justice, truth, goodness and equality, except in certain cases made as exceptions by Allah (Glorified and Exalted be He). It calls people to all that is good ­ virtues, good deeds, justice, equity and avoiding all immoralities.",
+          "content_type": "paragraph",
+          "page_number": 169,
+          "confidence": 0.8,
+          "notes": "Description of Islam's fundamental principles"
+        },
+        {
+          "text": "( Part No : 1, Page No: 343)",
+          "content_type": "navigation",
+          "page_number": 169,
+          "confidence": 1.0,
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, Allâh enjoins Al­'Adl (i.e. justice and worshipping none but Allâh Alone ­ Islâmic Monotheism) and Al­Ihsân [i.e. to be patient in performing your duties to Allâh, totally for Allâh's sake and in accordance with the Sunnah (legal ways) of the Prophet ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ in a perfect manner], and giving (help) to kith and kin (i.e. all that Allâh has ordered you to give them e.g., wealth, visiting, looking after them, or any other kind of help), and forbids Al­Fahshâ' (i.e all evil deeds, e.g. illegal sexual acts, disobedience of parents, polytheism, to tell lies, to give false witness, to kill a life without right), and Al­Munkar (i.e all that is prohibited by Islâmic law:",
+          "content_type": "quran_verse",
+          "page_number": 169,
+          "confidence": 0.9,
+          "notes": "Long Quranic verse about justice and righteousness"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Quranic Guidance and Da'wah Principles",
+        "content_type": "heading_minor",
+        "page_number": 170,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "polytheism of every kind, disbelief and every kind of evil deeds), and Al­Baghy (i.e. all kinds of oppression). He admonishes you, that you may take heed.",
+          "content_type": "quran_verse",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Continuation of previous Quranic verse"
+        },
+        {
+          "text": "O mankind! We have created you from a male and a female, and made you into nations and tribes, that you may know one another. Verily, the most honourable of you with Allâh is that (believer) who has At­ Taqwâ [i.e. he is one of the Muttaqûn (the pious. See V.2:2)]. Verily, Allâh is All­Knowing, All­Aware.",
+          "content_type": "quran_verse",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Quranic verse about human diversity and piety"
+        },
+        {
+          "text": "In brief, it is obligatory on a Da`y (caller to Islam) to call people to Islam as a whole, without making any distinction between people and without being partial with a certain school of jurisprudence, tribe, sheikh, chief or any other things. On the contrary, his chief aim should be proving the truth, explaining it to the people and making them stick to it regardless of whether other people hold opposite views or not.",
+          "content_type": "fatwa_ruling",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Ruling on the duties of Islamic callers"
+        },
+        {
+          "text": "When prejudice arises and when it is said that the school of jurisprudence of somebody is better, dissensions and discord takes place so strongly that some people may not offer Salah led by a person who belongs to another school of jurisprudence. Undoubtedly, such a behavior of extremists is a great calamity tantamount to following the footsteps of Satan.",
+          "content_type": "paragraph",
+          "page_number": 170,
+          "confidence": 0.8,
+          "notes": "Warning against sectarian prejudice"
+        },
+        {
+          "text": "In fact, all the Imams of the schools of jurisprudence of Islam were rightly guided. Al­Shafi`y, Malik, Ahmad, Abu Hanifah, Al­Awza`y, Is­haq ibn Rahawayh, and their likes were Imams of guidance and truthful preachers who called people to the way of Allah and guided them to the truth.",
+          "content_type": "paragraph",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Recognition of major Islamic scholars"
+        },
+        {
+          "text": "No doubt, there were differences of opinion among them on some issues due to ambiguity of evidence for some of them. Regarding their differences, they were either practicing Ijtihad (juristic effort to infer expert legal rulings) correctly and would receive two rewards, or practicing Ijtihad incorrectly and would thus receive a single reward.",
+          "content_type": "paragraph",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Explanation of scholarly differences and rewards"
+        },
+        {
+          "text": "Your duty is to know their esteem and superiority and ask Allah to be merciful with them. You should also recognize them as the preachers of guidance and Imams of Islam. This should not lead you to blind imitation and extreme fanaticism. You should not claim that a certain school of jurisprudence is more worthy of being followed or that it is beyond the scope of mistaking. This is a absolutely wrong.",
+          "content_type": "fatwa_ruling",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Guidance on proper respect for scholars without blind following"
+        },
+        {
+          "text": "Your duty is to adopt truth and follow it, when you are convinced of its authenticity, even if someone or another is against it. Actually, you should not be a fanatic that blindly follows others. Rather, you should acknowledge the excellence of all Imams,",
+          "content_type": "fatwa_ruling",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Ruling on following truth over personalities"
+        },
+        {
+          "text": "( Part No : 1, Page No: 344)",
+          "content_type": "navigation",
+          "page_number": 170,
+          "confidence": 1.0,
+          "memory_agreement": true
+        },
+        {
+          "text": "taking due precaution regarding yourself and your religion. True opinions only should be accepted, satisfied and put into practice. Fear Allah and realize that you are always being watched by Allah (Glorified and Exalted be He).",
+          "content_type": "fatwa_ruling",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Continuation of guidance on following truth"
+        },
+        {
+          "text": "Do justice to yourself through believing that there is only one truth. Believe that if a Mujtahid (a scholar qualified to exercise juristic effort to infer expert legal rulings) exercises Ijtihad correctly, he will be rewarded twice; otherwise, he will be rewarded only once. I mean the Mujtahids who belong to Ahl­ul­ Sunnah wal­Jama`ah (those adhering to the Sunnah and the Muslim main body) who are learned, faithful and rightly­guided as authentically reported from the Prophet (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Explanation of scholarly methodology and rewards"
+        },
+        {
+          "text": "As for the aims and objectives of Da`wah,",
+          "content_type": "heading_minor",
+          "page_number": 170,
+          "confidence": 0.8,
+          "memory_agreement": true
+        },
+        {
+          "text": "it is to bring forth mankind from darkness into light, and to guide them in such a way that they may adopt truth and thus be saved from Hellfire and Allah's wrath. It also aims at bringing forth disbelievers from the darkness of disbelief into the light of guidance, bringing forth the ignorant from the darkness of ignorance to the light of knowledge, and bringing forth the disobedient from the darkness of sins to the light of obedience. Such are the actual objectives of Da`wah.",
+          "content_type": "paragraph",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Definition of Da'wah objectives"
+        },
+        {
+          "text": "Allâh is the Walî (Protector or Guardian) of those who believe. He brings them out from darkness into light.",
+          "content_type": "quran_verse",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Quranic verse supporting Da'wah concept"
+        },
+        {
+          "text": "Allah's messengers were sent to bring people out from darkness into light. Likewise, a Da`y of truth practice carries out Da`wah actively in order to bring people out from darkness toward light and thus save them from Hellfire, to save them from obeying Satan and to free them from following their own selfish desires, so that they may obey Allah and His Messenger.",
+          "content_type": "paragraph",
+          "page_number": 170,
+          "confidence": 0.9,
+          "notes": "Explanation of messengers' and callers' role",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Fourth: morals and etiquettes of the Da`ys to Allah",
+        "content_type": "heading_minor",
+        "page_number": 171,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 345)",
+          "content_type": "navigation",
+          "page_number": 171,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The morals and qualities necessary for a Da`y (caller to Islam) are highlighted by Allah (Glorified and Exalted be He) in many occurrences in the Qur'an.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.85,
+          "notes": "Introductory paragraph",
+          "memory_agreement": false
+        },
+        {
+          "text": "First: devotedness. It is obligatory on a Da`y to be so devoted to Allah that he neither intends to show off, nor wants a good reputation nor praise from people. Rather, he should only call to Allah to please Him.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "First quality explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh ­ Islâmic Monotheism)",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.92,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And who is better in speech than he who [says: \"My Lord is Allâh (believes in His Oneness)",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Therefore, you have to be devoted to Allah (Glorified and Exalted be He). It is the most important virtue and the greatest quality that has to characterize your way of Da`wah (call to Islam), i.e. observing Allah and the Hereafter.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.88,
+          "notes": "Explanatory text",
+          "memory_agreement": false
+        },
+        {
+          "text": "Second: knowledge. Invite people to Allah with firm knowledge. You should not be unaware of or ignorant about what you call people to.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Second quality explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh ­ Islâmic Monotheism) with sure knowledge",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.92,
+          "notes": "Quranic verse with emphasis on knowledge",
+          "memory_agreement": false
+        },
+        {
+          "text": "Knowledge is an inevitable obligation. You should not call people while you are ignorant nor talk about a topic you are unaware of. An ignorant person destroys and never constructs, spoils and never reforms. You, servants of Allah, have to fear Allah and never say anything about Him without knowledge. Likewise, you should never preach something unless you have sure knowledge and insight into what Allah and His Messenger (peace be upon him) said about it. Sure knowledge is inevitable and essential for a seeker of knowledge or a Da`y to be fully conversant with and have a deep knowledge of all the aspects of what he calls to. He must also be sure of the proofs that substantiate his topic. Once he is sure of the truth of his point, he should then call people to it, regardless of whether it is a call to do or to abandon something, i.e. an act of obedience to Allah and His Messenger or an act forbidden by Allah and His Messenger (peace be upon him). The call should be based on sure knowledge and insight.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.85,
+          "notes": "Extended explanation on knowledge requirement",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 346)",
+          "content_type": "navigation",
+          "page_number": 171,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Third: among the qualifications necessary for a Da`y is that he should have patience, kindness and softheartedness with forbearing temperament as the prophets (peace be upon them) were. Never should a Da`y be rushing, violent or unduly strict. Rather, he has to be patient, forbearing and kind while practicing Da`wah.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Third quality explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân) and fair preaching, and argue with them in a way that is better.",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.95,
+          "notes": "Quranic verse on gentle approach",
+          "memory_agreement": false
+        },
+        {
+          "text": "And by the Mercy of Allâh, you dealt with them gently.",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.92,
+          "notes": "Quranic verse on gentleness",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"And speak to him mildly, perhaps he may accept admonition or fear (Allâh).\"",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Quranic verse from story of Musa and Harun",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Allah, who (happens to) acquire some kind of control over the affairs of my people and is kind to them, be kind to him; and who (happens to) acquire some kind of control over the affairs of my people and is hard upon them, be hard upon him.",
+          "content_type": "hadith",
+          "page_number": 171,
+          "confidence": 0.88,
+          "notes": "Hadith from Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "So, it is obligatory upon you, slaves of Allah, to be kind in your Da`wah, and not to be harsh with people. Do not make people turn away from religion because of your harshness, ignorance or violent, harmful approach. It is thus obligatory on you to be forbearer, gentle and pleasant and lenient in speech so that your words may have an effect on the heart of your brother, or that it may have an effect on one toward whom your Da`wah is directed. As such, people will receive your Da`wah better, will be affected with it and will show appreciation. On the contrary, harshness causes disaffection, distance, and division, not unity.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.85,
+          "notes": "Explanation on kindness in Da`wah",
+          "memory_agreement": false
+        },
+        {
+          "text": "Among the necessary etiquettes and attributes a Da`y should, or even must have is to act upon what he is calling people to. He should be a good example for those whom he invites to Allah ­ that is, he should not call to something which he himself does not do, or call to abandon something that he himself does. In fact, this is the condition of the losers ­ we seek Allah's refuge from this. But the winning believers call to the truth, act upon it, practicing it actively and vividly and never do what they forbid people to do.",
+          "content_type": "paragraph",
+          "page_number": 171,
+          "confidence": 0.88,
+          "notes": "Fourth quality - practicing what one preaches",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Why do you say that which you do not do? Most hateful it is with",
+          "content_type": "quran_verse",
+          "page_number": 171,
+          "confidence": 0.9,
+          "notes": "Quranic verse on hypocrisy",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allâh that you say that which you do not do.",
+          "content_type": "quran_verse",
+          "page_number": 172,
+          "confidence": 0.92,
+          "notes": "Continuation of Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 347)",
+          "content_type": "navigation",
+          "page_number": 172,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Enjoin you A l­Birr (piety and righteousness and each and every act of obedience to Allâh) on the people and you forget (to practise it) yourselves, while you recite the Scripture [the Taurât (Torah)]! Have you then no sense?",
+          "content_type": "quran_verse",
+          "page_number": 172,
+          "confidence": 0.93,
+          "notes": "Quranic verse rebuking the Jews",
+          "memory_agreement": false
+        },
+        {
+          "text": "On the Day of Resurrection, a man will be brought and thrown in Hell­Fire. His intestines will then pour forth and he will revolve around them like a donkey revolves around a millstone. The people of Hell would gather around him and say: \"O, so and so, what happened to you? Did you not use to command us to adhere to right and forbid us to do wrong?\" He will say: \"Of course, it was so; but I used to enjoin right but did not practise it myself and I used to forbid wrong but committed it.\"",
+          "content_type": "hadith",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Hadith about punishment for hypocrisy",
+          "memory_agreement": false
+        },
+        {
+          "text": "This will be the case with whoever calls to Allah, enjoins good and prohibits evil while his words are contrary to his actions ­ we seek Allah's refuge from this.",
+          "content_type": "paragraph",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Commentary on the hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "So, from among the most important and greatest attributes a Da`y has to be characterized with is to act upon that which he calls people to and not to do things that he prohibits. A Da`y should have excellent behavior, good reputation, patience, persistence, sincerity and strife in guiding people to goodness and keeping them away from falsehood. He should supplicate to Allah to guide the people whom he invites. He should say to the people he invites: May Allah guide you, grant you the ability to accept the truth. Thus, you should call and guide him, forbear his misbehavior and even supplicate to Allah to guide him.",
+          "content_type": "paragraph",
+          "page_number": 172,
+          "confidence": 0.88,
+          "notes": "Summary of Da`y attributes",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Allah, guide Daws and bring them close.",
+          "content_type": "hadith",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Prophet's supplication for tribe of Daws",
+          "memory_agreement": false
+        },
+        {
+          "text": "So, you should supplicate to Allah for those you call to be guided and accept the truth with patience and persistence and do not lose hope. Moreover, you should say only that which is good and never rebuke or say bad words that might cause people to turn away from truth. However, if someone commits aggression and injustice, they will be given different treatment.",
+          "content_type": "paragraph",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Guidance on dealing with different people",
+          "memory_agreement": false
+        },
+        {
+          "text": "And argue not with the people of the Scripture (Jews and Christians), unless it be in (a way) that is better (with good words and in good manner, inviting them to Islâmic Monotheism with His Verses), except with such of them as do wrong",
+          "content_type": "quran_verse",
+          "page_number": 172,
+          "confidence": 0.92,
+          "notes": "Quranic verse on dealing with People of the Book",
+          "memory_agreement": false
+        },
+        {
+          "text": "So, the one who commits injustice through opposing the Da`wah with evil and enmity is to be dealt with in a different manner. If possible, such a person should be imprisoned or given suchlike disciplinary punishment, which depends on the kind of injustice he commits. But as long as he causes no harm, you should be patient,",
+          "content_type": "paragraph",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Guidance on dealing with opponents",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 348)",
+          "content_type": "navigation",
+          "page_number": 172,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "seeking Allah's reward, and to argue with him in ways that are best. Anyway, if such a person causes you any personal harm, it is to be endured with patience as did Allah's messengers and those who followed them in good.",
+          "content_type": "paragraph",
+          "page_number": 172,
+          "confidence": 0.85,
+          "notes": "Continuation of guidance on patience",
+          "memory_agreement": true
+        },
+        {
+          "text": "I ask Allah (Glorified and Exalted be He) to grant us all the ability to practice Da`wah in the best manner. May He reform our hearts and actions and grant us understanding of and holding fast to the religion. May Allah also make us among those who are guided, who guide others, are righteous and teach others righteousness. Surely He (Glorified and Exalted be He) is the most Supreme, the Most Noble. May Allah's peace and blessings be upon His Slave, Messenger and Prophet Muhammad, his family, Companions and all those who followed in good till the Day of Judgment.",
+          "content_type": "signature",
+          "page_number": 172,
+          "confidence": 0.9,
+          "notes": "Closing supplication and signature",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "duties of a teacher",
+        "content_type": "heading_minor",
+        "page_number": 173,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 349)",
+          "content_type": "navigation",
+          "page_number": 173,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah, and may peace and blessings be upon the Messenger of Allah. one of the most important duties of a teacher is to make students keen for knowledge­seeking, so they will learn about the religious matters that they should not be ignorant of, such as knowledge of the sound 'Aqidah (creed), the rulings of Salah (Prayer), Zakah (obligatory Charity), Sawm (Fast), and Hajj, and the rulings on transactions for those who buy and sell commercially, and other profit­making domains. In this way they will be fully aware and guided regarding such affairs. Allah (Glorified be He) created humans and Jinn to worship Him Alone, without Shirk (associating others with Allah in His Divinity or worship). The 'Ibadah (worship) of Allah is to dedicate all forms and acts of worship to Him Alone, to obey His Commands and abstain from His prohibitions. The only way to know these issues in detail is through seeking knowledge. The more diligence and efforts a student exerts in seeking knowledge, the nearer they are to success and to achieving the sought­after goal through Allah's Help.",
+          "content_type": "paragraph",
+          "page_number": 173,
+          "confidence": 0.95,
+          "notes": "Opening paragraph about teacher duties",
+          "memory_agreement": false
+        },
+        {
+          "text": "Amongst the most important means of achieving the goal and attaining the desired knowledge of the Shari'ah (Islamic law) is sincerity to Allah in this quest and taking care not to seek it for another purpose, such as Riya' (showing­off) or such worldly purposes. The Prophet (peace be upon him) is reported to have said,",
+          "content_type": "paragraph",
+          "page_number": 173,
+          "confidence": 0.9,
+          "notes": "Introduction to hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"Anyone who acquires knowledge by which Allah's Pleasure should be sought, but acquires it only to gain some worldly advantage, will not smell the fragrance of Jannah (Paradise) on the Day of Resurrection.\"",
+          "content_type": "hadith",
+          "page_number": 173,
+          "confidence": 0.95,
+          "notes": "Related by Abu Dawud through a Hassan (good) Isnad",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"Anyone who acquires knowledge to compete with the scholars, dispute with the ignorant, or attract the attention of people to themselves, Allah will cast them into the Fire.\"",
+          "content_type": "hadith",
+          "page_number": 173,
+          "confidence": 0.95,
+          "notes": "Related by Al-Tirmidhy",
+          "memory_agreement": false
+        },
+        {
+          "text": "So whoever hopes for the Meeting with his Lord, let him work righteousness and associate none as a partner in the worship of his Lord.",
+          "content_type": "quran_verse",
+          "page_number": 173,
+          "confidence": 0.9,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him)",
+          "content_type": "quran_verse",
+          "page_number": 173,
+          "confidence": 0.9,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"I am, of all, the One Who Who stands richly above any need of partnership.",
+          "content_type": "hadith",
+          "page_number": 173,
+          "confidence": 0.9,
+          "notes": "Hadith Qudsy beginning",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 350)",
+          "content_type": "navigation",
+          "page_number": 173,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Anyone who does an act associating other partner with Me, I shall leave them to that which they associated with Me.\"",
+          "content_type": "hadith",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Continuation of Hadith Qudsy, Related by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Therefore, it is obligatory on the teacher to devote care to this issue and first be the living example of it by showing sincerity to Allah in all their deeds and maintaining a good reputation and conduct, as students follow the example of their teachers in both the good and bad. A teacher should exert utmost efforts in acquiring the knowledge inherited from the Messenger of Allah (peace be upon him) and pass onto their students that which is beneficial and helpful to them in acquiring knowledge. A teacher should always remind students of the good end of the devotees and the bad end awaiting others.",
+          "content_type": "paragraph",
+          "page_number": 174,
+          "confidence": 0.95,
+          "notes": "Teacher obligations and conduct",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever fears Allâh and keeps his duty to Him, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine.",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Taqwa",
+          "memory_agreement": false
+        },
+        {
+          "text": "and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Another Quranic verse about Taqwa",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! If you obey and fear Allâh, He will grant you Furqân [(a criterion to judge between right and wrong), or (Makhraj, i.e. a way for you to get out from every difficulty)], and will expiate for you your sins, and forgive you",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Furqan",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is only those who have knowledge among His slaves that fear Allâh.",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Quranic verse about knowledge and fear of Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily,, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Quranic verse about fearing Allah unseen",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"By Allah, I am the most fearing of Allah among you and the most devout to Him.\"",
+          "content_type": "hadith",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Prophet's saying about fearing Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 351)",
+          "content_type": "navigation",
+          "page_number": 174,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"If Allah wants to do good for a person, He makes them comprehend the Din.\"",
+          "content_type": "hadith",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Agreed upon by Al-Bukhari and Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"A Servant is deprived of Rizq (sustenance) because of the sin they commit.\"",
+          "content_type": "hadith",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Prophet's saying about sins and sustenance",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much. (See the Qur'ân Verse 35:45).",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Quranic verse with reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! If you obey and fear Allâh, He will grant you Furqân [(a criterion to judge between right and wrong), or (Makhraj, i.e. a way for you to get out from every difficulty)]",
+          "content_type": "quran_verse",
+          "page_number": 174,
+          "confidence": 0.9,
+          "notes": "Repeated Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "I complained to Waki' about my poor memory\nHe advised me to refrain from sins\nHe said: know that knowledge is a light,\nAnd Allah's Light is not granted to a sinner",
+          "content_type": "arabic_text",
+          "page_number": 174,
+          "confidence": 0.85,
+          "notes": "Al-Shafi'y's poetry about knowledge and sins",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A Comment on a lecture about the methodology of Islam",
+        "content_type": "heading_minor",
+        "page_number": 175,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 352)",
+          "content_type": "navigation",
+          "page_number": 175,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From `Abdul­`Aziz ibn `Abdullah Ibn Baz to the honorable brother (may Allah protect him and expand his knowledge and success). As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "signature",
+          "page_number": 175,
+          "confidence": 0.95,
+          "notes": "Letter opening with author attribution and greeting",
+          "memory_agreement": false
+        },
+        {
+          "text": "I have received your decent letter dated 19 December, 1973 and I was very happy with the information it contained about your actions against the destructive principles and the harm you encountered because of that. In fact, this is the way of the messengers and their followers who are often tried but finally reap the successful outcome. I recommend that you endure that patiently and rejoice. I reviewed the attached lecture entitled 'Our Position from the Methodology of Islam' and found it generally good and fruitful. However, there are some topics that look a little vague. For instance, in page 3, it is written: \"Islam deems everyone swerving from such a state and forming a new class or power centers a disbeliever in Islam...\" We advise you to give attention to clarity and avoid generalization as much as you can when you prepare a lecture. As far as your desire to work in Saudi Arabia, you know that the long part of the school year has elapsed, besides the Ministry of Education no longer needs to recruit new teachers.",
+          "content_type": "paragraph",
+          "page_number": 175,
+          "confidence": 0.9,
+          "notes": "Letter content discussing a lecture review",
+          "memory_agreement": false
+        },
+        {
+          "text": "I suggest that you work in the field of preaching and guidance in Kuwait, and there is no blame at all to receive a salary for that work as you take it for your work in teaching. Work in both fields, actually, involves Da`wah calling to Allah, educating and instructing people, enjoining good and forbidding evil. Also, there is no harm that a Muslim takes money from Bayt­ul­Mal (Muslim treasury) to help him continue his work in teaching, preaching, guidance, leading people in Salah (prayer), Adhan (call to Prayer) or any work of righteousness. Scholars differed about the ruling of receiving a fee for teaching the Qur'an or leading people in Salah from an authority other than Bayt­ul­Mal.",
+          "content_type": "fatwa_ruling",
+          "page_number": 175,
+          "confidence": 0.95,
+          "notes": "Religious ruling about receiving payment for religious work",
+          "memory_agreement": true
+        },
+        {
+          "text": "In fact, the Companions of the Messenger (peace be upon him) received money from Bayt­ul­Mal that helped them to do acts of obedience to Allah and perform Jihad (fighting in the Cause of Allah). This was done in the era of the Prophet (peace be upon him) and the era of the Rightly­Guided Caliphs, though the Companions (may Allah be pleased with them) were the most pious among people,",
+          "content_type": "paragraph",
+          "page_number": 175,
+          "confidence": 0.9,
+          "notes": "Supporting evidence for the ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 353)",
+          "content_type": "navigation",
+          "page_number": 175,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "the most conscious of Allah and the most knowledgeable about His laws after the prophets. We have an excellent example in the Companions regarding this point. May Allah guide us all to what pleases Him! May Allah grant you, us and all Muslims understanding of and steadfastness on Islam! Indeed, Allah is All­Hearer, Ever Near. As­salamu `alaykum warahmatullah wabarakatuh.",
+          "content_type": "paragraph",
+          "page_number": 175,
+          "confidence": 0.9,
+          "notes": "Letter conclusion with prayers and closing greeting",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Imam Muhammad ibn `Abdul­Wahhab His Da`wah and Biography",
+        "content_type": "heading_major",
+        "page_number": 176,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 354)",
+          "content_type": "navigation",
+          "page_number": 176,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise is due to Allah, Lord of the worlds, and peace and blessings be upon His Servant, Messenger, and chosen one amongst His creatures, our master and Imam Muhammad ibn `Abdullah, and upon his family, Companions, and all those who supported him!",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "Dear brothers and sons, this brief lecture aims at enlightening your ideas, clarifying facts, and offering sincere advice to Allah's Servants for the Sake of Allah. By this lecture, we are trying to give some of the rights due to the person whom the lecture is about. This lecture is about Shaykh Muhammad ibn `Abdul­Wahhab, His Da`wah and Biography.",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Lecture introduction and purpose",
+          "memory_agreement": false
+        },
+        {
+          "text": "Definitely, it is interesting to hear about reformers, Du`ah (callers to Islam), and revivalists and to be reminded of their conditions, good traits, and righteous deeds, and to learn about their biographies, which serve as a testimony of their sincerity and honesty in Da`wah (calling to Islam) and reform, and about their manners and deeds. This topic, which makes the hearts feel at ease, is a favorite subject of every person who takes pride in Islam and desires reform and calling to the way of Al­Haqq (the Truth). That is why I thought of talking to you about a great man, an excellent reformer, and a devout Da`y (caller to Islam), namely, the revivalist of Islam in the Arabian Peninsula during the twelfth century of Hijrah (Prophet's migration to Madinah), Imam Muhammad Ibn `Abdul­Wahhab ibn Sulayman ibn `Aly Al­Tamimy Al­Hanbaly.",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Introduction to the biographical subject",
+          "memory_agreement": false
+        },
+        {
+          "text": "This Imam acquired great fame among Muslims, particularly among scholars and influential people, both inside and outside the Arabian Peninsula. There are copious writings about him, both brief and detailed. Many people compiled his writings, even Orientalists made",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Description of the Imam's fame and scholarly attention",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 355)",
+          "content_type": "navigation",
+          "page_number": 176,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "him the theme of many of their works. Others mentioned him in their writings about reformers and history. Unbiased writers described him as a great reformer, a revivalist of Islam, a guided person, in addition to too many other descriptions to numerate.",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Continuation of scholarly recognition",
+          "memory_agreement": false
+        },
+        {
+          "text": "Among those writers was the great author Abu Bakr Al­Shaykh Husayn ibn Ghannam Al­Ahsa'y, who wrote elaborately about the Shaykh and mentioned his biography and missions, giving him his due right. He quoted many of the Shaykh's treatises and deductions from the Qur'an. Also, Shaykh `Uthman ibn Bishr wrote in a book entitled A l­Majd (The Glory) about Shaykh Ibn `Abdul­Wahhab, his Da`wah, biography, conquests, and Jihad (fighting in the Cause of Allah). Examples of other writers from outside the Arabian Peninsula were Dr. Ahmad Amin in his book Zu`ama' Al­Islah (The Leaders of Reform), who fairly wrote about Shaykh Ibn `Abdul­Wahhab; Shaykh Mas`ud Al­Nadwi who called him \"the wronged reformer\" and wrote carefully about his biography; and the outstanding Shaykh Prince Muhammad ibn Isma`il Al­San`any who was almost contemporary to the Shaykh and followed his call when he learnt about it, and praised Allah for it.",
+          "content_type": "citation",
+          "page_number": 176,
+          "confidence": 0.95,
+          "notes": "List of scholars and books that wrote about Ibn Abdul-Wahhab",
+          "memory_agreement": false
+        },
+        {
+          "text": "Also, the great knowledgeable Shaykh Muhammad ibn `Ali Al­Shawkany, the author of Nayl Al­Awtar book, wrote about Ibn `Abdul­Wahhab and elegized him, in addition to many other renowned authors. Since many people do not know the true nature of this man, his life, and Da`wah, I thought of contributing to clarifying these facts and explaining his good biography, righteous Da`wah, and sincere struggle. I also thought of explaining a little of what I know about this Imam, so that anyone who has questions or doubts about this person or his Da`wah may know the truth.",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Author's motivation for writing this biography",
+          "memory_agreement": false
+        },
+        {
+          "text": "He was born in 1115 A.H; as was known about his date of birth ­ may Allah have mercy on him. It is said that he was born in 1111 A.H, but the preponderant opinion is that he was born in 1115 A.H.",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Birth date information",
+          "memory_agreement": false
+        },
+        {
+          "text": "He was educated by his father in his homeland Al­`Uyaynah, a village",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Beginning of education details",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 356)",
+          "content_type": "navigation",
+          "page_number": 176,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "i n Al­Yamamah, Najd, northwest of Riyadh. The distance between it and Riyadh is 70 kilometers. He (may Allah be merciful with him) was brought up righteously. He learned to recite the Qur'an at a very early age and applied himself to his studies and acquired Islamic knowledge at the hands of his father, Shaykh `Abdul­ Wahhab ibn Sulayman, who was a great Faqih (Muslim jurist), an outstanding scholar, and the judge of Al­ `Uyaynah. Having attained puberty, the Shaykh traveled to Makkah where he learned from some of the scholars of the Haram (the Sacred Mosque in Makkah). He, then, headed for Madinah where he met the scholars and stayed there for some time. He was taught by two famous scholars in Madinah at the time; Shaykh `Abdullah ibn Ibrahim ibn Sayf Al­Najdy, who was born in Al­Mujamma`ah and who was the father of Shaykh Ibrahim ibn `Abdullah, the author of Al­`Adhb Al­Fa'id fi `Ilm Al­Fara'id; and revered Shaykh Muhammad Hayat Al­Sanady. Ibn `Abdul­ Wahhab was known for being a student of these two scholars in Madinah. There might have been other scholars unknown to us.",
+          "content_type": "paragraph",
+          "page_number": 176,
+          "confidence": 0.9,
+          "notes": "Detailed biography of early education and travels",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Biography of Shaykh Ibn Abdul-Wahhab - Journey and Da'wah",
+        "content_type": "heading_minor",
+        "page_number": 177,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Shaykh Ibn `Abdul­Wahhab then moved to Iraq to seek knowledge. He went to Basra and studied with its scholars as much as he could. He started his Da`wah there and called the people to follow Tawhid (belief in the Oneness of Allah) and hold fast to the Sunnah (whatever is reported from the Prophet). He announced that it was the duty of every Muslim to practice Islam strictly in accordance with the Qur'an and the Sunnah. He engaged in debates and discussions with scholars concerning this issue. One of his famous shaykhs was Shaykh Muhammad Al­Majmu`y. However, some unscrupulous scholars in Basra rebelled against him and he along with his Shaykh were harmed as a result. Consequently, he left Basra with the intention to head for the Levant (the region covering Syria, Lebanon, Jordan, and Palestine), but he was unable to go there, due to lack of finance. He, thus, left Basra to Al­Zubayr, then moved from Al­Zubayr to Al­Ahsa' where he met its scholars and discussed some of the principles of Islam. He finally moved to Huraymila' in the 1140s A.H. (Allah knows best). He chose that city because his father was the judge of Al­`Uyaynah and when a dispute arose between him and its ruler, he moved to Huraymila'",
+          "content_type": "paragraph",
+          "page_number": 177,
+          "confidence": 0.9,
+          "notes": "Biographical narrative about the Shaykh's travels and early Da'wah",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 357)",
+          "content_type": "navigation",
+          "page_number": 177,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "in 1139 A.H. Shaykh Ibn `Abdul­Wahhab, thus, went to his father in Huraymila' in 1140 AH, or shortly thereafter. He settled there and was busy with his studies, teaching and propagating until his father died in 1153 A.H. After this, he faced much suffering at the hands of some people of Huraymila' who even attempted to kill him. It was said that some of them tried to get to him by climbing the wall leading to his home, but they became frightened and escaped when some people saw them. As a result, the Shaykh (may Allah be merciful with him) moved to Al­`Uyaynah.",
+          "content_type": "paragraph",
+          "page_number": 177,
+          "confidence": 0.9,
+          "notes": "Continuation of biographical narrative",
+          "memory_agreement": true
+        },
+        {
+          "text": "The reason for the people's anger at him was his attempts to enjoin the good and forbid the evil. He even urged the rulers to inflict Ta`zir (discretionary punishment) on criminals who used to rob and harm people. When those wicked people, who were known as 'bondsmen', learned that the Shaykh was against them and their deeds and that he was urging rulers to punish them and curb their evils, they became enraged and tried to kill him, but Allah saved him. The Shaykh, thus, moved to Al­`Uyaynah which was governed at the time by `Uthman ibn Nasir ibn Ma`mar, who welcomed the Shaykh with hospitality and promised him total support and help in his Da`wah.",
+          "content_type": "paragraph",
+          "page_number": 177,
+          "confidence": 0.9,
+          "notes": "Explanation of opposition faced and move to Al-Uyaynah",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Shaykh worked in teaching, guidance, and Da`wah. He continued calling people to do good and love each other for the Sake of Allah. He, consequently, became famous in Al­`Uyaynah and attracted people from neighboring villages. One day, the Shaykh said to Prince `Uthman, \"Let us destroy the dome built on the grave of Zayd ibn Al­Khattab (may Allah be pleased with him), for it was built without guidance and Allah (Glorified and Exalted be He) is not pleased with such deeds. Also, the Messenger (peace be upon him) has forbade building domes or Masjids (mosques) on graves. This dome has been a source of Fitnah (temptation) for the people, as it has affected their `Aqidah (creed) and led them to committing Shirk (associating others with Allah in His Divinity or worship). Therefore, it must be destroyed.\" The Prince said, \"I have no objection to what you are saying.\" The Shaykh said, \"But I fear that the people of Al­Jubaylah may revolt against us.\" Al­ Jubaylah was a village near the grave. `Uthman marched with an army of 600 soldiers to destroy the dome; and the Shaykh (may Allah have mercy on him) accompanied them. As soon as they approached the dome, the people",
+          "content_type": "paragraph",
+          "page_number": 177,
+          "confidence": 0.9,
+          "notes": "Account of the dome destruction incident",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 358)",
+          "content_type": "navigation",
+          "page_number": 177,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of Al­Jubaylah went out to defend it, but when they saw Prince `Uthman with his army, they refrained. The Shaykh destroyed the dome with his hands and Allah's help. Let us briefly describe the prevailing conditions in Najd before the call of the Shaykh (may Allah be merciful with him) and about the reasons for it. The people of Najd before the call of the Shaykh lived in conditions that could not be approved of by any believer. Major Shirk (associating others with Allah in His Divinity or worship) spread widely, and the people worshiped domes, trees, rocks, caves, or those who claimed to be Awliya' (pious people) even if they were insane and mindless. Also, sorcery and soothsaying prevailed in Najd. The people used to ask practitioners of these evils for help and believed them. No one expressed any disapproval of these deeds except those whom Allah willed. The people were only preoccupied with fulfilling their worldly concerns and desires. Only a few people would observe optional night Prayers or support Islam. The same conditions prevailed in Al­Haramayn A l­Sharifayn (the Two Sacred Mosques: the Sacred Mosque in Makkah and the Prophet's Mosque in Madinah) and in Yemen where committing Shirk, building domes on the graves, and supplicating to the Awliya' and seeking their help became widespread. Thus, conditions were no different either in Yemen or in Najd where the people worshiped graves, caves, trees, and madmen. Supplicate to the jinn (creatures created from fire) became common in Najd. The people used to seek their help, offer them sacrificial animals, and place idols in their homes hoping for their help and fearing their harm. When the Shaykh saw that Shirk was dominating the people and that no one disapproved of it and was ready to call the people back to Allah, he decided to work singlehandedly and patiently in this field. He knew that nothing could be achieved without struggle, patience, and suffering. He, thus, exerted much effort in teaching, guiding, and instructing the people in Al­`Uyaynah. He wrote to many scholars requesting their support and struggled against acts of Shirk and superstitions. Many of the scholars of Najd, A l­Haramayn, Yemen and other places, responded and sent him letters of support. However, there were other scholars who disagreed with him, dispraised his call, and condemned and shunned him. Those who disagreed with him were of two types. One group consisted of the ignorant people,",
+          "content_type": "paragraph",
+          "page_number": 177,
+          "confidence": 0.9,
+          "notes": "Description of conditions in Najd before the Da'wah",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 359)",
+          "content_type": "navigation",
+          "page_number": 177,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "who knew nothing about Islam and Tawhid and followed falsehood, Shirk, Bid`ah (innovation in Islam), superstitions, etc., which their forefathers had upheld. Allah (Glorified and Exalted be He) says about them: We found our fathers following a certain way and religion, and we guide ourselves by their footsteps.",
+          "content_type": "paragraph",
+          "page_number": 177,
+          "confidence": 0.9,
+          "notes": "Contains a Quranic verse reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "We found our fathers following a certain way and religion, and we guide ourselves by their footsteps.",
+          "content_type": "quran_verse",
+          "page_number": 177,
+          "confidence": 0.8,
+          "notes": "Quranic verse about following forefathers",
+          "memory_agreement": false
+        },
+        {
+          "text": "The second group, on the other hand, were knowledgeable but responded negatively to the Shaykh due to envy and stubbornness. They were afraid that the people would question their integrity, and might ask why they remained silent without warning people against such evils until Ibn `Abdul­Wahhab appeared and manifested Al­Haqq although they were scholars and did not object to this falsehood. They, thus, envied him and were embarrassed. They were obstinate regarding Al­Haqq and preferred this world to the Hereafter, like the Jews. We ask Allah to grant us safety!",
+          "content_type": "paragraph",
+          "page_number": 178,
+          "confidence": 0.9,
+          "notes": "Analysis of the second group of opponents",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Shaykh carried on patiently and did his best in Da`wah. He received encouragement from scholars and influential persons inside and outside the Arabian Peninsula. He sought the help of his Lord (Glorified and Exalted be He). He had already started to study the Qur'an, and was skilled in Tafsir (exegesis of the meanings of the Qur'an) and deducing meanings from the Qur'an. He also worked hard in studying the Prophet's biography and that of his Sahabah (Companions of the Prophet). He embarked on his studies until he deduced what helped him stand firm in his Da`wah. He was determined to spread his Da`wah among the people and wrote to rulers and scholars requesting their help, without fearing the consequences of his actions. Allah fulfilled his good hopes, granted him success in spreading the Da`wah, made him a supporter of Al­ Haqq, and favored him with followers and helpers. Consequently, true Islam prevailed and the word of Allah became uppermost. The Shaykh persevered in his Da`wah in Al­`Uyaynah and went on teaching and guiding the people to Islam. He struggled to remove any traces of Shirk. However, when he saw that his Da`wah was not sufficiently effective, he decided to physically remove Shirk as much as he could. He told Prince `Uthman ibn Ma`mar that the dome at the grave of Zayd had to be destroyed. Zayd ibn Al­Khattab (may Allah be pleased with him) was the brother of `Umar ibn Al­Khattab, Amir Al­Mu'minin (Commander of the Believers) ­ may Allah be pleased with all of them.",
+          "content_type": "paragraph",
+          "page_number": 178,
+          "confidence": 0.9,
+          "notes": "Continuation of the Shaykh's Da'wah efforts",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 360)",
+          "content_type": "navigation",
+          "page_number": 178,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "He fell as a martyr in the fighting against Musaylimah Al­Kadhab in 12 A.H. He was buried there and people built a dome over his grave. It may be the grave of another person, but it is said that it is his grave. `Uthman agreed and the dome was destroyed. Praise is due to Allah that the dome was destroyed and none of its traces has remained up till now. Allah (Glorified and Exalted be He) ensured that it was never rebuilt because it was destroyed out of sincere intention with the objective of supporting Al­Haqq. There were other graves, one of which was said to be the grave of Dirar ibn Al­Azwar, over which there was a dome that was also destroyed. Similarly, other symbols of Shirk in addition to caves and trees, which people worshiped other than Allah, were all destroyed and people were warned against this evil practice. The Shaykh (may Allah be merciful with him) continued in his Da`wah through words and actions. One day, a woman came to him and confessed that she had committed Zina (adultery) several times. After realizing that she was sane, married, and had confessed without any external compulsion, he gave the order that she should be stoned as a punishment, as he was Judge of Al­`Uyaynah at the time. He became famous for destroying the dome of Zayd, stoning the adulterous woman, calling to Allah, and attracting people to Al­ `Uyaynah.",
+          "content_type": "paragraph",
+          "page_number": 178,
+          "confidence": 0.9,
+          "notes": "Account of dome destruction and legal ruling implementation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Meanwhile, the Prince of Al­Ahsa' and its surrounding areas ­ who belonged to the tribe of Khalid Sulayman ibn `Uray`ir Al­Khalidy ­ heard about the Shaykh and his Da`wah and about the news of destroying domes and carrying out Hudud (ordained punishments for violating Allah's Law). He became concerned, because robbery, murder, and violating sanctities were common among Bedouins, except those whom Allah had guided. He, thus, feared that the Shaykh would attain an even higher position and remove his power. He wrote to Prince `Uthman threatening him and ordering him to kill the Shaykh in Al­`Uyaynah. He wrote in the letter, \"We have heard that this person, who is living under your rule, does such and such. Either you kill him, or we will stop paying the Khiraj (tribute) which we are bound by promise to give you.\" He was to give Prince `Uthman a Khiraj of gold. `Uthman felt worried and feared that the Prince of Al­Ahsa' might not give him the Khiraj or fight him if he disobeyed his orders. He, thus, said to the Shaykh, \"This prince sent me a letter to do such and such.",
+          "content_type": "paragraph",
+          "page_number": 178,
+          "confidence": 0.9,
+          "notes": "Political opposition and threats against the Shaykh",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 361)",
+          "content_type": "navigation",
+          "page_number": 178,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "We would never wish to kill you, but we are afraid of the prince and cannot stand against him; so please leave.\" The Shaykh said, \"I am simply calling the people to Islam and to the fulfillment of the Testimony of Faith that there is no deity but Allah and that Muhammad is the Messenger of Allah. Whoever holds fast to Islam and upholds it truthfully, Allah will help him and make him the ruler of his enemies' lands. Hence, if you endure, keep righteous, and accept this good, then rejoice, for Allah will help and protect you from this prince and others. Allah will also give you power over his land and his tribe.\" The Prince said, \"O Shaykh! We cannot fight him, nor can we oppose him.\" Consequently, the Shaykh had to leave Al­`Uyaynah to Al­ Dir`iyyah on foot until he arrived at the end of the day. He left Al­`Uyaynah early in the morning on foot because `Uthman did not provide him with any means of transportation. On reaching the city, he went to the house of a person who was one of the best personalities there. His name was Muhammad ibn Swaylim Al­`Ariny. It was said that this person felt afraid when the Shaykh came to his house and the earth, vast as it is, was straitened for him. He feared the Prince of Al­Dir`iyyah, Muhammad ibn Sa`ud, but the Shaykh reassured him, saying, \"Rejoice, for I am calling to Islam and Allah will definitely make it victorious.\" Muhammad ibn Sa`ud heard about the arrival of Shaykh Ibn `Adbul­Wahhab.",
+          "content_type": "paragraph",
+          "page_number": 178,
+          "confidence": 0.9,
+          "notes": "Dialogue and the Shaykh's departure to Al-Dir'iyyah",
+          "memory_agreement": false
+        },
+        {
+          "text": "It was said that it was his wife who informed him about the Shaykh. Some pious people went to her and requested her to tell her husband about the Shaykh and persuade him to accept his Da`wah and support him. She was a righteous and kind woman, and when her husband Muhammad ibn Sa`ud, the Prince of Al­ Dir`iyyah and its surrounding villages, saw her, she said, \"Here is a great fortune sent to you by Allah; a man calling people to Islam, Qur'an, and Sunnah of the Prophet (peace be upon him). What good fortune! Rush",
+          "content_type": "paragraph",
+          "page_number": 178,
+          "confidence": 0.9,
+          "notes": "Account of how Muhammad ibn Sa'ud learned about the Shaykh",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Historical Narrative of Shaykh Muhammad ibn Abdul-Wahhab",
+        "content_type": "heading_minor",
+        "page_number": 179,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "to him and support him. Never resist him or stop him from carrying out his mission.\" The Prince accepted her advice, but was hesitant whether to go to him in person or send for him. He asked for advice, and it was said that it was his wife and a group of righteous people who advised him to go to the Shaykh and honor knowledge as well as the caller to good.",
+          "content_type": "paragraph",
+          "page_number": 179,
+          "confidence": 0.9,
+          "notes": "Continuation of historical narrative",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 362)",
+          "content_type": "navigation",
+          "page_number": 179,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "He accepted the advice because Allah predestined happiness and good for him (may Allah have mercy on him). The Prince went to the Shaykh at the house of Muhammad ibn Swaylim; he greeted him and said, \"O Shaykh Muhammad! Bear the glad tidings of support, security, and help.\" The Shaykh replied, \"Bear the glad tidings of support, strength, and a good end. This is the Din (religion) of Allah; whosoever supports it, Allah will support them and you will soon realize the results of this.\" The Prince said, \"O Shaykh! I will pledge allegiance to you to support the Din of Allah and His Messenger and Jihad. But I fear that if we support you and Allah makes you victorious over the enemies of Islam, you may leave us to other places.\" The Shaykh responded, \"I will pledge allegiance that I will not do this. Blood for blood and destruction for destruction. I will never leave your country.\" The Shaykh, thus, pledged allegiance to support the Prince, remain in his country, receive his help, and engage in Jihad with him until Islam would prevail and become victorious.",
+          "content_type": "paragraph",
+          "page_number": 179,
+          "confidence": 0.9,
+          "notes": "Historical dialogue and covenant between Prince and Shaykh",
+          "memory_agreement": false
+        },
+        {
+          "text": "People flocked to Al­Dir`iyyah from everywhere, from Al­`Uyaynah, `Arqah, Manfuhah, Riyadh and other neighboring places. Al­Dir`iyyah remained a place where people immigrated from everywhere. The people heard about the Shaykh, his lectures which he delivered in Al­Dir`iyyah, and his Da`wah. They came to him in large numbers. The Shaykh settled in Al­Dir`iyyah, where he was respected, loved, and supported. He gave lectures in Al­ Dir`iyyah on `Aqidah (creed), Qur'an, Tafsir (exegesis of the meanings of the Qur'an), Fiqh (Islamic jurisprudence), Hadith and its Mustalah (terminology), Arabic language, history, and other edifying sciences. People came to him from everywhere and many young men in Al­Dir`iyyah were educated by him. He gave arranged many classes for the commonfolk and the elite and spread knowledge in Al­Dir`iyyah. He forged ahead with his Da`wah and began engaging in Jihad. He wrote to the people, inviting them to participate in this field and to remove any signs of Shirk in their countries. He started with the people of Najd and sent letters to its rulers and scholars. He used the same method he used with the scholars of Riyadh and its Prince Diham ibn Dawwas, the scholars and rulers of Al­Kharj, and the scholars of the southern cities, Al­Qasim, Ha'il, Al­Washm,",
+          "content_type": "paragraph",
+          "page_number": 179,
+          "confidence": 0.9,
+          "notes": "Description of Shaykh's settlement and educational activities",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 363)",
+          "content_type": "navigation",
+          "page_number": 179,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Sadir, and other places. He continued his correspondence with the scholars and rulers, including the scholars of Al­Ahsa', and Al­Haramayn Al­Sharifayn as well as the scholars of Egypt, the Levant, Iraq, India, Yemen, etc. He sent letters to the people, established his arguments, and reminded them of acts of Shirk and Bid`ah which many people used to commit. This does not mean that there were no supporters of Islam. There were helpers. Allah (Glorified and Exalted be He) undoubtedly guarantees supporters for Islam. The Prophet (peace be upon him) said that a group of this Ummah (nation based on one creed) would remain upholding Al­Haqq and thus they would be victorious. However, we are now talking about Najd, where evil, corruption, Shirk, and superstitions prevailed; and although there were good scholars there, they were not active in Da`wah and did not convey it in the proper manner.",
+          "content_type": "paragraph",
+          "page_number": 179,
+          "confidence": 0.9,
+          "notes": "Description of correspondence and religious conditions",
+          "memory_agreement": true
+        },
+        {
+          "text": "Also in Yemen and other places, there were callers to Al­Haqq and supporters of it who recognized those acts of Shirk and superstitions, but Allah did not grant their Da`wah the degree of success He granted to the Da`wah of Shaykh Ibn `Abdul­Wahhab for many reasons. Some of these reasons were the absence of supporters who would help them and their inability to endure hardships and harm in the Cause of Allah. One of many other reasons was the lack of knowledge of some Du`ah, which could enable them to guide the people using appropriate means, proper discourse, wisdom, and good preaching. Because of his active correspondence and Jihad, the Shaykh became famous and his Da`wah spread. He corresponded with scholars inside and outside the Arabian Peninsula and a great number of people from India, Indonesia, Afghanistan, Africa, Morocco, Egypt, the Levant, and Iraq, were affected by his Da`wah. There were many Du`ah who had knowledge of Al­Haqq and how to call to it. When the Da`wah of the Shaykh reached them, they became more active and stronger and were known for engaging in Da`wah. The Da`wah of the Shaykh acquired fame and prevailed across the Islamic world and other places as well. During this age, the Shaykh's books and treatises were published as well as the books of his sons, grandsons, followers, and supporters who were",
+          "content_type": "paragraph",
+          "page_number": 179,
+          "confidence": 0.9,
+          "notes": "Analysis of Da'wah success and spread",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 364)",
+          "content_type": "navigation",
+          "page_number": 179,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": false
+        },
+        {
+          "text": "scholars inside and outside the Arabian Peninsula. Moreover, the books compiled on his Da`wah, biography, and the conditions of his followers were printed. These writings received wide popularity among people almost everywhere. It is a known fact that every favor has its envier and, likewise, every Da`y has enemies. Allah (Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 179,
+          "confidence": 0.9,
+          "notes": "Introduction to Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "And so We have appointed for every Prophet enemies ­ Shayâtîn (devils) among mankind and jinn, inspiring one another with adorned speech as a delusion (or by way of deception). If your Lord had so willed, they would not have done it; so leave them alone with their fabrications. (Tafsîr Qurtubi)",
+          "content_type": "quran_verse",
+          "page_number": 179,
+          "confidence": 0.95,
+          "notes": "Quranic verse with tafsir reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "When the Shaykh became famous for his Da`wah and his many valuable writings received wide popularity among the people, many envious groups emerged as opponents. He also had other enemies. His enemies and opponents were divided into two groups: one group opposed him in the name of Din and knowledge, and the other group opposed him in the name of politics and hid under the cover of knowledge and Din. They even exploited the enmity of those scholars who opposed him publicly and accused him of not following Al­Haqq. The Shaykh (may Allah have mercy on him) forged ahead with his Da`wah to remove doubts, clarify evidence, and guide the people to the facts proven by the Qur'an and the Sunnah. Sometimes, his opponents would claim that he belonged to Khawarij (separatist group that believes committing a major sin amounts to",
+          "content_type": "paragraph",
+          "page_number": 179,
+          "confidence": 0.9,
+          "notes": "Description of opposition to the Shaykh",
+          "memory_agreement": false
+        },
+        {
+          "text": "disbelief). Other times they would accuse him of not following Ijma` (consensus of scholars) and of being Mujtahid Mutlaq (expert jurist not bound by a School of Jurisprudence), who did not take the opinions of earlier scholars and Fuqaha' (Muslim jurists) into consideration. He received other accusations out of their lack of proper knowledge. Some groups imitated each other in their false beliefs, and another group feared the removal of their positions and, thus, opposed him in the name of politics while hiding under the cover of Islam and depending on the views of fabrication and falsehood seekers.",
+          "content_type": "paragraph",
+          "page_number": 180,
+          "confidence": 0.9,
+          "notes": "Continuation of accusations against the Shaykh",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

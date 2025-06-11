@@ -1,0 +1,15 @@
+{
+  "generated": "2025-06-11T07:59:24.882Z",
+  "summary": {
+    "totalVolumes": 0,
+    "successRate": "0.0%",
+    "totalProcessingTime": "0.00 hours",
+    "averageTimePerVolume": "0.0 minutes"
+  },
+  "qualityMetrics": {
+    "averageConfidence": "0.0%",
+    "totalMemoryPredictions": 0,
+    "contentTypesCovered": 0
+  },
+  "volumeDetails": []
+}

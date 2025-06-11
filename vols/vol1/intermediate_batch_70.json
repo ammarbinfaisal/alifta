@@ -1,0 +1,1168 @@
+{
+  "batch_number": 70,
+  "sections_count": 138,
+  "timestamp": "2025-06-11T11:16:37.321252",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Fatwa on Moon Landing",
+        "content_type": "heading_minor",
+        "page_number": 129,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Verily, hastening to reject knowledge is a cause of something about which you deprivation have no",
+          "content_type": "navigation",
+          "page_number": 129,
+          "confidence": 0.9,
+          "notes": "Fragmented bold text, appears to be navigation or formatting artifact",
+          "memory_agreement": true
+        },
+        {
+          "text": "More serious and dangerous than this is to practice Takfir (judging one as a disbeliever) or Tafsiq (judging one as an evil person) with no evidence from the Book of Allah or the Sunnah of His Messenger (peace be upon him) to rely on. Undoubtedly, this behavior is boldness against Allah and His religion, saying about Him without knowledge and is in contradiction with the way of the people of knowledge and faith from the righteous predecessors (may Allah be pleased with all of them) and may He make us from those who follow them in piety and righteousness.",
+          "content_type": "fatwa_ruling",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Scholar's warning about making religious judgments without evidence"
+        },
+        {
+          "text": "When a person calls their brother or sister (in Islam) a disbeliever, one of them (the caller or the called) will certainly deserve the title.",
+          "content_type": "hadith",
+          "page_number": 129,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition quoted by the scholar"
+        },
+        {
+          "text": "If somebody accuses another of disbelief or calls them the enemy of Allah, such an accusation will revert to them (the accuser) if the accused is innocent.",
+          "content_type": "hadith",
+          "page_number": 129,
+          "confidence": 0.9,
+          "notes": "Second prophetic tradition quoted"
+        },
+        {
+          "text": "Now, let us go back to the subject of this research. We have considered what is mentioned in the Noble Qur'an of verses talking about the Sun, the Moon and other planets, and we have not found in these verses what indicates the impossibility of ascending to the Moon or to other planets.",
+          "content_type": "fatwa_ruling",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Scholar's analysis returning to main topic"
+        },
+        {
+          "text": "And indeed, We have put the big stars in the heaven and We beautified it for the beholders. And We have guarded it (near heaven) from every outcast Shaitân (devil). Except him (devil) who steals the hearing then he is pursued by a clear flaming fire.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Surah Al-Hijr verse"
+        },
+        {
+          "text": "Blessed be He Who has placed in the heaven big stars, and has placed therein a great lamp (sun), and a moon giving light.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Surah Al-Furqan verse"
+        },
+        {
+          "text": "Verily We have adorned the near heaven with the stars (for beauty). And to guard against every rebellious devil. They cannot listen to the higher group (angels) for they are pelted from every side. Outcast, and theirs is a constant (or painful) torment. Except such as snatch away something by stealing, and they are pursued by a flaming fire of piercing brightness.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Surah As-Saffat verses"
+        },
+        {
+          "text": "( Part No : 1, Page No: 257)",
+          "content_type": "navigation",
+          "page_number": 129,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And indeed We have adorned the nearest heaven with lamps, and We have made such lamps (as) missiles to drive away the Shayâtîn (devils), and have prepared for them the torment of the blazing Fire.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Surah Al-Mulk verse"
+        },
+        {
+          "text": "See you not how Allâh has created the seven heavens one above another? And has made the moon a light therein, and made the sun a lamp?",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Surah Nuh verse"
+        },
+        {
+          "text": "The answer to this claim is that there is nothing in the above-mentioned verses indicating that the Sun, the Moon and other planets are inside the skies or that they are attached to them. Rather, these verses indicate that these planets are in As-Sama' (the sky) and they are adornments of it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Scholar's ruling on interpretation of verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "Do you feel secure that He, Who is over the heaven (Allâh), will not cause the earth to sink with you, and then it should quake? Or do you feel secure that He, Who is over the heaven (Allâh), will not send against you a violent whirlwind? Then you shall know how (terrible) has been My Warning.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Allah being over the heaven"
+        },
+        {
+          "text": "( Part No : 1, Page No: 258)",
+          "content_type": "navigation",
+          "page_number": 129,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is nothing like Him; and He is the All-Hearer, the All-Seer.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Verse about Allah's uniqueness"
+        },
+        {
+          "text": "And there is none co-equal or comparable unto Him.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Verse about Allah's incomparability"
+        },
+        {
+          "text": "So put not forward similitudes for Allâh (as there is nothing similar to Him, nor He resembles anything). Truly! Allâh knows and you know not.",
+          "content_type": "quran_verse",
+          "page_number": 129,
+          "confidence": 0.95,
+          "notes": "Verse forbidding comparisons to Allah"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Scholarly Analysis",
+        "content_type": "heading_minor",
+        "page_number": 130,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "O mankind! Worship your Lord (Allâh), Who created you and those who were before you so that you may become Al-Muttaqûn (the pious - See V.2:2). Who has made the earth a resting place for you, and the sky as a canopy, and sent down water (rain) from the sky and brought forth therewith fruits as a provision for you. Then do not set up rivals unto Allâh (in worship) while you know (that He Alone has the right to be worshipped).",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.95,
+          "notes": "Suratil-Baqarah verse"
+        },
+        {
+          "text": "Whoever thinks that Allâh will not help him (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) in this world and in the Hereafter, let him stretch out a rope to the ceiling",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.95,
+          "notes": "Suratil-Hajj verse"
+        },
+        {
+          "text": "See you not how Allâh sets forth a parable? A goodly word as a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (i.e. very high).",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.95,
+          "notes": "Parable verse about goodly tree"
+        },
+        {
+          "text": "( Part No : 1, Page No: 259)",
+          "content_type": "navigation",
+          "page_number": 130,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And He it is Who has created the night and the day, and the sun and the moon, each in an orbit floating.",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.95,
+          "notes": "Surah Al-Anbiya verse about celestial orbits"
+        },
+        {
+          "text": "It is not for the sun to overtake the moon, nor does the night outstrip the day. They all float, each in an orbit.",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.95,
+          "notes": "Surah Yunus verse about celestial movement"
+        },
+        {
+          "text": "If they were attached to the sky, they would not be described as floating, because floating is running in water and the like of it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Scholar's logical analysis of Quranic terminology"
+        },
+        {
+          "text": "Blessed be He Who has placed in the heaven big stars, and has placed therein a great lamp (sun), and a moon giving light.",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.95,
+          "notes": "Repeated verse for emphasis in argument"
+        },
+        {
+          "text": "( Part No : 1, Page No: 260)",
+          "content_type": "navigation",
+          "page_number": 130,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Based on this explanation of the meaning of the word Al-Falak and the above-mentioned verses, there will be no problem that ascending to the surface of the Moon or to other planets does not contradict the legal evidence from the Qur'an and the Sunnah, and this does not result in the denial of what the Qur'an denotes of the Sun and the Moon being in the sky.",
+          "content_type": "fatwa_ruling",
+          "page_number": 130,
+          "confidence": 0.95,
+          "notes": "Final ruling on moon landing compatibility with Islamic texts"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Fatwa on Celestial Bodies and Space Travel",
+        "content_type": "heading_minor",
+        "page_number": 131,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "(Glorified and Exalted be He) means that since the orbits are near them, then they are related to them as said in the Arabic language: so and so lives in Al­Madinah or in Makkah, whereas, he lives in their vicinities and surroundings. As for His (may He be Glorified and Exalted)description of the planets as the adornment of the nearest sky, it is not necessary to be attached to it and there is no evidence proving that, but it is acceptable to",
+          "content_type": "paragraph",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Continuation of scholarly explanation about celestial bodies",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 261)",
+          "content_type": "navigation",
+          "page_number": 131,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "call them adornment even though they are detached from it and there is a space between both of them. This is similar to the situation of the one who adorns his ceiling with cloth and electrical lamps and other types of adornment and it is not necessary to have these things attached to the ceiling, and in spite of that, it is said in the Arabic language that so and so adorned the ceiling of his house even though there might be a space between the adornments and the ceiling.",
+          "content_type": "paragraph",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Analogical explanation using ceiling decoration example",
+          "memory_agreement": true
+        },
+        {
+          "text": "As for His (Glorified and Exalted be He) saying inSurah Nuh: See you not how Allâh has created the seven heavens And has made the moon a light therein, and made the sun a lamp?, there is no evidence proving that one above another?",
+          "content_type": "quran_verse",
+          "page_number": 131,
+          "confidence": 0.8,
+          "notes": "Quranic verse from Surah Nuh with scholarly commentary",
+          "memory_agreement": true
+        },
+        {
+          "text": "the meaning is that the Sun and the Moon are inside the skies, but its meaning, according to the majority opinion, is that their light extends in the skies and not their bodies are in the skies. Thus, their bodies are outside the skies, but their light extends to the skies and the Earth.",
+          "content_type": "fatwa_ruling",
+          "page_number": 131,
+          "confidence": 0.85,
+          "notes": "Scholarly interpretation and ruling on celestial bodies' position",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, Ibn Jarir (may Allah be merciful with him), in his explanation of this verse, reported from `Abdullah ibn `Amr ibn Al­`As (may Allah be pleased with him and his father) what refers to this meaning. He said in his exegesis: We were told by `Abdul­A`la who said: We were told by Ibn Thawr from Ma`mar from Qatadah from `Abdullah ibn `Amr ibn Al­`As (may Allah be pleased with him and his father) that he said: (Indeed, the fronts of the Sun and the Moon are facing the skies and their backs are facing the earth) End of quotation, but there is interruption in the chain of transmission of this narration, because Qatadah did not live during the time of `Abdullah ibn `Amr.",
+          "content_type": "hadith",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Hadith citation with chain of narration and scholarly critique",
+          "memory_agreement": false
+        },
+        {
+          "text": "Even if this narration is proved as an authentic narration from him, then he might have taken it from the Children of Israel. Thus, the apparent meaning of the verse indicates that the light of the Sun and the Moon is in the skies and not their bodies. As for their fronts facing the skies and their backs facing the earth, it needs more consideration, and Allah (Glorified and Exalted be He) knows best. As for the saying of the Qur'an exegetes that this is a synecdoche in which the whole thing is mentioned and only part of it is meant, because the Moon is in the nearest sky and the Sun in the fourth sky, as frequently said: \"I saw Banu Tamim\" and he or she only saw some of them. However this it is not an acceptable opinion and there is no evidence supporting it. Furthermore, as far as we know, there is no reliable proof indicating that the Moon is inside the nearest sky and the Sun is inside the fourth sky. As for the astronauts who talked about these details, this is not evidence in this regard, because their sayings are, mostly, based on guessing and assumption, and not on legal rulings and",
+          "content_type": "fatwa_ruling",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Detailed scholarly analysis rejecting certain interpretations",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 262)",
+          "content_type": "navigation",
+          "page_number": 131,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "decisive evidence, and therefore, one should be cautious about that. This meaning is also confirmed by what Al­Hafizh ibn Kathir (may Allah be merciful with him) said in his exegesis on the Qur'an upon explaining His (Glorified and Exalted be He) saying: See you not how Allâh has created the seven heavens one above another? until the end of the verse, since Ibn Kathir said: Allah (Glorified and Exalted be He) says: See you not how Allâh has created the seven heavens one above another? means that one is above the other. Is the information about these planets known only by the means of narration, or is it one of the material things known by rotation and eclipses, since the seven rotating stars eclipse each other. The nearest of these stars is the Moon in the nearest sky and it eclipses the star above it, Mercury in the second sky, Venus in the third sky, the Sun in the fourth sky, Mars in the fifth sky, Jupiter in the sixth sky and then Saturn in the seventh sky. As for the rest of the planets which are the stable ones, they are in an eighth orbit called (the orbit of the stable stars) which some scholars say that it is the Chair, and the ninth planet is Al­ Atlas or, for them, Al­Athir whose rotation is opposite to the rotation of all other orbits, since its rotation is the starter of all other rotations and it rotates from the west to the east, while all other orbits rotate from the east to the west and it is that which rotates all planets. Nevertheless, the rotating planets have opposite rotation to their orbits, since they rotate from the west to the east and each planet rotates within its orbit at a fixed time. The Moon makes complete rotation within its orbit once a month, the Sun once a year, Saturn once every thirty years due to the distance of the orbit, although the speed of rotation of all planets is suitable for the orbit. This is the summary of what they say in this regard, despite the existence of differences among them with regard to many aspects of this matter, which we are not supposed to be mentioned here in detail. ) End of the quotation of Ibn Kathir.",
+          "content_type": "citation",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Extended quotation from Ibn Kathir's tafsir on astronomical matters",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, Al­Hafizh's (may Allah be merciful with him) saying here: despite the existence of differences among them...etc., indicates that astronauts are not in agreement on what he reported from them previously of claiming that the Moon is in the nearest sky, Mercury in the second, Venus is in the third sky, the Sun in the fourth ...etc., and other details which he transmitted from them. If they have decisive evidence supporting what they have mentioned, then they would not differ among themselves, and if we even suppose that they agreed on what has been mentioned, then their agreement is not proof because they are not infallible.",
+          "content_type": "paragraph",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Analysis of astronomical disagreements and their implications",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 263)",
+          "content_type": "navigation",
+          "page_number": 131,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The consensus of opinion which should be considered is that of Muslim scholars who have met all the requirements to practice personal discretion due to the Prophet's (peace be upon him) saying: A Group of people from my Ummah will remain victorious (and on the right path) until the end of the Hadith. Therefore, if Muslim scholars unanimously and decisively, not silently, agreed on a ruling, then undoubtedly, they are truthful in",
+          "content_type": "fatwa_ruling",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Ruling on whose consensus matters in Islamic scholarship",
+          "memory_agreement": true
+        },
+        {
+          "text": "their agreement, because the victorious group is amongst them, and the Prophet (peace be upon him) said that it will remain on the right path until Allah's Decree takes place.",
+          "content_type": "paragraph",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Continuation of explanation about scholarly consensus",
+          "memory_agreement": false
+        },
+        {
+          "text": "The apparent meaning of the previous evidence and the discussion of many people of knowledge or the majority of them, as stated by Al­Nasafy and Al­Alusiy is that all planets including the Sun and the Moon are under the skies and are not inside them, and therefore, it becomes a known fact that it is possible to have space between the planets and the nearest sky in which the spaceships can travel and they can land on the Moon or on other planets. On the other hand, it is not allowed to say that this it is impossible for this to happen unless there is legal evidence stating this impossibility. Furthermore, it is not allowed to believe those who claim that they went to the Moon or to other planets unless there is scientific evidence proving their truthfulness. Undoubtedly, people are different in their information about the space and astronauts. Thus, whoever receives information through observatories or through other means and becomes satisfied with this information, which proves to them the correctness of what has been claimed by the American astronauts or by other than them that they ascended to the Moon, then he is excused in believing such information. On the other hand, whoever does not obtain such information which proves that, then they are obligated to stop at this point and to verify the entire case until it is confirmed to them what makes them believe or disbelieve that, following the above­mentioned proofs.",
+          "content_type": "fatwa_ruling",
+          "page_number": 132,
+          "confidence": 0.95,
+          "notes": "Major ruling on space travel and moon landing claims",
+          "memory_agreement": false
+        },
+        {
+          "text": "What indicates the possibility of ascending to planets is Allah's (may He be Glorified and Exalted)saying inSurah Al­Jinnwith regard to what He said about them: 'And we have sought to reach the heaven; but found it filled with stern guards and flaming fires. 'And verily, we used to sit there in stations, to (steal) a hearing, but any who listens now will find a flaming fire watching him in ambush. If the Jinn could ascend to the sky until they touched it and they sat there in stations, then how can this be impossible for mankind to do, particularly during this age in which science has developed",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Quranic evidence from Surah Al-Jinn about ascending to heavens",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 264)",
+          "content_type": "navigation",
+          "page_number": 132,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and invention has advanced until they reached an unbelievable point even to the inventors before they innovate these things. As for the structured skies, they are guarded by their gates and guards, and thus, no devils from mankind nor from the Jinn will enter through them. Allah (Glorified and Exalted be He) says: And We have made the heaven a roof, safe and well guarded. Yet they turn away from its signs (i.e. sun, moon, winds, clouds, etc.). He (Exalted be He) also says: And We have guarded it (near heaven) from every outcast Shaitân (devil). Moreover, it is authentically reported in the sound and authentic Ahadeeth that when the Messenger of Allah (peace be upon him) was taken in ascension to the heavens with Gabriel, he did not enter the nearest sky and those after it except with permission, and thus, other creatures will be treated the same way.",
+          "content_type": "paragraph",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Explanation of heavenly guards and Prophet's ascension",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for His saying (Glorified and Exalted be He) in Surah Al­Rahman: O assembly of jinn and men! If you have power to pass beyond the zones of the heavens and the earth, then pass beyond (them)! But you will never be able to pass them, except with authority (from Allâh)! This is not clear evidence of the possibility of ascending to planets, because the apparent meaning of the verse and what precedes and follows it indicates that Allah (may He be Glorified and Exalted)wanted, by that, to point out the inability of the Jinn and Mankind to pass beyond the zones of the heavens and the Earth.",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Quranic verse from Surah Al-Rahman with interpretation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Imam Ibn Jarir (may Allah be merciful with him) and others from the Qur'an exegetes stated many opinions regarding the explanation of this verse, the best of them are two sayings: First: This verse refers to the Day of Resurrection and that Allah (Glorified and Exalted be He) talks about the inability of the Jinn and Mankind to escape from its horrors. It is to be noted that Ibn Jarir preferred this saying and said that the following verse proves his choice. The second opinion is that this verse refers to the inability of the Jinn and Mankind to escape death, because they do not have authority that enables them to escape death and they do not have authority to escape the horrors of the Day of Resurrection. Based on these two sayings, the word Sultan in the verse gives the meaning of power and strength. From what has been mentioned, it becomes clear that there is no evidence in the verse for those who claim that it refers to the possibility of ascending to the planets and that the word Sultan means knowledge. It also becomes clear that the closest meaning to the truth",
+          "content_type": "paragraph",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Analysis of different interpretations of the verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 265)",
+          "content_type": "navigation",
+          "page_number": 132,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "is the saying of the one who says: The verse refers to the Day of Resurrection and that (Glorified and Exalted be He) will say this to the Jinn and Mankind on that Day, showing their inability and stating that they will be under the control of Allah (Glorified and Exalted be He) and they will not escape from what He has planned for them. For this reason, He said after this verse: There will be sent against you both, smokeless flames of fire and (molten) brass, and you will not be able to defend yourselves. Thus, the meaning is ­ and Allah knows best: If you both try to escape on that Day, I will send against you both smokeless flames of fire and molten brass and you will not be able to defend yourselves against them. As for the situation in this life, it is not possible for one to pass beyond the zones of the structured skies, because it is protected by its guards and gates as mentioned before. Allah (Glorified and Exalted be He) knows best.",
+          "content_type": "fatwa_ruling",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Final ruling on the interpretation and its implications",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah send His prayers, peace and blessings upon His slave and Messenger Muhammad, upon his family and Companions.",
+          "content_type": "paragraph",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Closing prayer formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "'Abdul 'Aziz bin 'Abdullah ibn Baz",
+          "content_type": "signature",
+          "page_number": 132,
+          "confidence": 1.0,
+          "notes": "Author's signature",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Traveling into Outer Space",
+        "content_type": "heading_minor",
+        "page_number": 133,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 266)",
+          "content_type": "navigation",
+          "page_number": 133,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From `Abdul­Aziz ibn `Abdullah Ibn Baz to respectable Muslim brother, His Eminence Shaykh Sulayman Ibn `Abdul­Rahman Ibn Hamdan, may Allah increase him in knowledge and faith and grant him and me insight in the Prophetic Sunnah and the Holy Qur'an! Amen!",
+          "content_type": "signature",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Letter opening with author and recipient identification",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah's peace, mercy and blessings be upon you! To proceed; I have received your letter, dated 8/10/1389 A.H. ­ may Allah keep us all with those who fear and obey Him! This letter includes a comment on an article I published in some local newspapers in the month of Sha`ban of the same year, concerning the question of traveling into space.",
+          "content_type": "fatwa_ruling",
+          "page_number": 133,
+          "confidence": 0.8,
+          "notes": "Introduction to the fatwa response",
+          "memory_agreement": true
+        },
+        {
+          "text": "I reviewed what Your Eminence had mentioned, but I found nothing to make me review what I had mentioned in the article. I exerted much effort on discussing this question, reflected on the Qur'an and the Prophetic Hadiths that tackle this question, and sought the truth with regard to this topic to give Muslims advice and defend the Holy Qur'an and the Prophetic Sunnah, lest those believing what has been claimed by astronauts regarding landing on the surface of the moon should think that the Holy Qur'an and the Prophetic Sunnah had told something opposite to the reality.",
+          "content_type": "fatwa_ruling",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Scholar's reasoning and methodology",
+          "memory_agreement": true
+        },
+        {
+          "text": "There could be no doubt that the Holy Qur'an and the authentic Prophetic Sunnah can not include anything that opposes the tangible or logical reality. If there is something thought to oppose the reality, a Muslim should know that this thing is not true. Rather, a Muslim should be aware that mistakes arise from a person's belief or misunderstanding, i.e. regarding what is untrue as true, what is unreal as real, what is unauthentic Hadith as authentic, or misinterpreting the Ayahs of the Holy Qur'an and the Hadiths of the authentic Prophetic Sunnah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Core religious principle explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "How many who may criticize a true statement just out of his ill understanding",
+          "content_type": "arabic_text",
+          "page_number": 133,
+          "confidence": 0.7,
+          "notes": "Poetry quote in Arabic/translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 267)",
+          "content_type": "navigation",
+          "page_number": 133,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "As a matter of fact, there are many proofs of this question. Shaykh­ul­Islam Ibn Taymiyyah and his notable student Ibn Al­Qayyim (may Allah be pleased with both of them) stressed this point in many topics in their books. And this is known by you and many people.",
+          "content_type": "citation",
+          "page_number": 133,
+          "confidence": 0.8,
+          "notes": "Reference to classical scholars",
+          "memory_agreement": false
+        },
+        {
+          "text": "In a nutshell, the article aimed to show the truth, remove doubts, urge people to seek the truth with regard to the questions related to their religion, and not to believe, belie, or disbelieve any matter quickly unless there is solid evidence. If what I wrote is true, so all praise be to Allah; if not, this would be of my scant knowledge and Satan. Allah (may He be Exalted ) and His Prophet (peace be upon him) are innocent of it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Conclusion and scholarly humility",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "What is the religious ruling on the socialism and communism advocates?",
+        "content_type": "heading_question",
+        "page_number": 134,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 268)",
+          "content_type": "navigation",
+          "page_number": 134,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah! May peace and blessings be upon Allah's Messenger and upon his family and Companions! To proceed;",
+          "content_type": "signature",
+          "page_number": 134,
+          "confidence": 0.8,
+          "notes": "Standard Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "We have received a question from some Pakistani Muslims that can be summarized as follows:",
+          "content_type": "paragraph",
+          "page_number": 134,
+          "confidence": 0.8,
+          "notes": "Question introduction",
+          "memory_agreement": false
+        },
+        {
+          "text": "What is the ruling on whoever who calls for application of socialist and communist principles and fights the rulings of Islam? What is the ruling on a person who helps such people in their demands, scorns those who call for the application of (Shari`ah of) Islam, speaks ill of them and slanders them? Is it permissible to allow those people to be mosque Imams and preachers?",
+          "content_type": "question",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Multi-part question about socialism and communism",
+          "memory_agreement": false
+        },
+        {
+          "text": "Answer: All praise be to Allah! May peace and blessings be upon Allah's Messenger, his family, Companions and those who followed his guidance! There can be no doubt that Muslim rulers must judge according to Shari`ah (Islamic Law) in all affairs. Moreover, they have to fight any other laws that oppose Shari`ah. This is indisputable and unanimously agreed upon by all Muslim scholars.",
+          "content_type": "answer",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Beginning of scholarly answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Obey Allâh and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Second Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 269)",
+          "content_type": "navigation",
+          "page_number": 134,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And whosoever does not judge by what Allâh has revealed, such are the Kâfirûn (i.e. disbelievers of a lesser degree as they do not act on Allâh's Laws). And whosoever does not judge by that which Allâh has revealed, such are the Zâlimûn (polytheists and wrong­doers ­ of a lesser degree). And whosoever does not judge by what Allâh has revealed (then) such (people) are the Fâsiqûn [the rebellious i.e. disobedient (of a lesser degree) to Allâh].",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Multiple related Quranic verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "Muslim scholars unanimously agreed that whoever claims that the judgment of anyone other than Allah is better than the judgment of Allah or that the guidance of anyone other than the Prophet (may peace be upon him) is better than the guidance of the Prophet is a disbeliever. Similarly, they unanimously agreed that whoever claims that it is permissible for a Muslim to act upon laws other than the Shari`ah revealed to Muhammad (peace be upon him) is a misleading disbeliever.",
+          "content_type": "fatwa_ruling",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Core ruling on the matter",
+          "memory_agreement": true
+        },
+        {
+          "text": "According to this evidence from the Qur'anic and consensus of Muslim scholars, the questioner and other Muslims can realize the fact that whoever calls for socialism, communism or any other destructive ideology that opposes the laws of Islam is a misleading disbeliever that is even more misleading than the Jews and the Christians, because they are deemed as atheists who have no faith in Allah or the Day of Resurrection.",
+          "content_type": "fatwa_ruling",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Specific ruling on socialism and communism",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 270)",
+          "content_type": "navigation",
+          "page_number": 134,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "I hope what we have mentioned above is sufficient to those seeking the truth. Allah says the truth and guides to the right path. We ask Allah (Glorified be He) to settle the Muslim affairs and unite them! May Allah destroy and disunite the enemies of Islam, and protect Muslims from their evil. Allah is Able to do all things! May Allah's peace and blessings be upon His servant and prophet Muhammad and upon his family and Companions!",
+          "content_type": "signature",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Closing prayer and signature",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The ruling on judging by positive law instead of the Qur'an",
+        "content_type": "heading_minor",
+        "page_number": 136,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 271)",
+          "content_type": "navigation",
+          "page_number": 136,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: What is your opinion on Muslims who judge by positive (man­made) law when we have the Qur'an and the Sunnah?",
+          "content_type": "question",
+          "page_number": 136,
+          "confidence": 0.9,
+          "notes": "Question posed to the scholar",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: My say in this type of people who call themselves Muslims at the time they use laws other than the Laws laid down by Allah and see that Allah's Shari'ah (Islamic Law) is not sufficient or suitable to judge by in this age is the Saying of Allah (Glorified and Exalted be He):",
+          "content_type": "fatwa_ruling",
+          "page_number": 136,
+          "confidence": 0.85,
+          "notes": "Beginning of scholar's ruling response",
+          "memory_agreement": true
+        },
+        {
+          "text": "But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 136,
+          "confidence": 0.9,
+          "notes": "Quranic verse citation with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever does not judge by what Allâh has revealed, such are the Kâfirûn (i.e. disbelievers of a lesser degree as they do not act on Allâh's Laws). And whosoever does not judge by that which Allâh has revealed, such are the Zâlimûn (polytheists and wrong­doers ­ of a lesser degree). And whosoever does not judge by what Allâh has revealed (then) such (people) are the Fâsiqûn [the rebellious i.e. disobedient (of a lesser degree) to Allâh].",
+          "content_type": "quran_verse",
+          "page_number": 136,
+          "confidence": 0.9,
+          "notes": "Multiple related Quranic verses with translations",
+          "memory_agreement": false
+        },
+        {
+          "text": "Consequently, those who judge by laws other than the Shari'ah, and feel that this is permissible for them, or that it is better than judging by the Shari'ah, have undoubtedly by this stepped out of the circle of Islam. By reason of this, they are considered as Kafirs (disbelievers), wrongdoers, and Fasiqs (those who flagrantly violating Islamic law), as stated in the previous Ayahs (Qur'anic verses) and others, including Allah's Saying:",
+          "content_type": "fatwa_ruling",
+          "page_number": 136,
+          "confidence": 0.9,
+          "notes": "Scholar's detailed ruling and explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith.",
+          "content_type": "quran_verse",
+          "page_number": 136,
+          "confidence": 0.85,
+          "notes": "Additional Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah grant us success!",
+          "content_type": "signature",
+          "page_number": 136,
+          "confidence": 0.8,
+          "notes": "Closing invocation/signature",
+          "memory_agreement": false
+        },
+        {
+          "text": "***",
+          "content_type": "navigation",
+          "page_number": 136,
+          "confidence": 0.7,
+          "notes": "Section separator",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Necessity of seeking Shari`ah judgment concerning hijackers",
+        "content_type": "heading_major",
+        "page_number": 272,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 272)",
+          "content_type": "navigation",
+          "page_number": 272,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah! May Allah's peace and blessings be upon our Prophet, his family, his Companions and those who follow his guidance! To proceed;",
+          "content_type": "paragraph",
+          "page_number": 272,
+          "confidence": 0.85,
+          "notes": "Standard Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is well­known for anyone who has the least insight that hijacking planes and blowing up embassies and other buildings are some of the most wicked crimes in the world that have bad sequences, severe harms and disturbance to the innocent people.",
+          "content_type": "fatwa_ruling",
+          "page_number": 272,
+          "confidence": 0.9,
+          "notes": "Scholar's judgment on hijacking",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is clear to all that the harm and evil of such crimes do not inflict one country or one community alone, but they inflict the whole world.",
+          "content_type": "paragraph",
+          "page_number": 272,
+          "confidence": 0.85,
+          "notes": "Explanatory text supporting the ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 272,
+          "confidence": 0.95,
+          "notes": "Quranic verse about judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith.",
+          "content_type": "quran_verse",
+          "page_number": 272,
+          "confidence": 0.95,
+          "notes": "Second Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Obey Allâh and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.",
+          "content_type": "quran_verse",
+          "page_number": 272,
+          "confidence": 0.95,
+          "notes": "Third Quranic verse about obedience and judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 273)",
+          "content_type": "navigation",
+          "page_number": 273,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Muslim scholars (may Allah be merciful with them) unanimously agreed that referring a disputable matter to Allah means referring it to the Holy Qur'an and that referring a disputable matter to the Messenger means referring it to him personally during his lifetime and to his Sunnah after his death (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 273,
+          "confidence": 0.9,
+          "notes": "Scholarly consensus explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And in whatsoever you differ, the decision thereof is with Allâh (He is the ruling Judge).",
+          "content_type": "quran_verse",
+          "page_number": 273,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Allah's judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "Any country that arrests hijackers must judge among them by Allah's Shari`ah, as their wicked crime violates many rights of Allah and His servants, many harms and grave evils.",
+          "content_type": "fatwa_ruling",
+          "page_number": 273,
+          "confidence": 0.95,
+          "notes": "Direct ruling on hijacker judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "And so judge (you O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) among them by what Allâh has revealed and follow not their vain desires",
+          "content_type": "quran_verse",
+          "page_number": 273,
+          "confidence": 0.95,
+          "notes": "Quranic command to judge by revelation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And if you judge, judge with justice between them. Verily, Allâh loves those who act justly.",
+          "content_type": "quran_verse",
+          "page_number": 273,
+          "confidence": 0.95,
+          "notes": "Quranic verse about just judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 274)",
+          "content_type": "navigation",
+          "page_number": 274,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Accordingly, a country taken as a refuge by hijackers should form a committee consisting of Shari`ah scholars to consider such a case in full.",
+          "content_type": "fatwa_ruling",
+          "page_number": 274,
+          "confidence": 0.95,
+          "notes": "Specific ruling on forming scholarly committee",
+          "memory_agreement": false
+        },
+        {
+          "text": "Those scholars should judge such cases in accordance with the evidence mentioned in Allah's Holy Book and the Sunnah of His Prophet (peace be upon him). They should seek insight with the opinions of Shari`ah scholars on the Qur'anic Ayah tackling the question of banditry in Surah Al­Ma'idah. They have to obtain enlightenment through the scholars of each school of Fiqh with regard to the religious ruling on bandits.",
+          "content_type": "fatwa_ruling",
+          "page_number": 274,
+          "confidence": 0.9,
+          "notes": "Detailed instructions for scholarly judgment",
+          "memory_agreement": true
+        },
+        {
+          "text": "Have you not seen those (hypocrites) who claim that they believe in that which has been sent down to you, and that which was sent down before you, and they wish to go for judgement (in their disputes) to the Tâghût (false judges) while they have been ordered to reject them. But Shaitân (Satan) wishes to lead them far astray. And when it is said to them: \"Come to what Allâh has sent down and to the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ),\" you (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) see the hypocrites turn away from you (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) with aversion.",
+          "content_type": "quran_verse",
+          "page_number": 274,
+          "confidence": 0.95,
+          "notes": "Extended Quranic passage about hypocrites and false judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "And if you obey most of those on the earth, they will mislead you far away from Allâh's Path. They follow nothing but conjectures, and they do nothing but lie.",
+          "content_type": "quran_verse",
+          "page_number": 274,
+          "confidence": 0.95,
+          "notes": "Quranic warning about following majority",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 275)",
+          "content_type": "navigation",
+          "page_number": 275,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith.",
+          "content_type": "quran_verse",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "Repeated Quranic verse about ignorance judgment",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever does not judge by what Allâh has revealed, such are the Kâfirûn (i.e. disbelievers of a lesser degree as they do not act on Allâh's Laws).",
+          "content_type": "quran_verse",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "First of three related verses from Surah Al-Ma'idah",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever does not judge by that which Allâh has revealed, such are the Zâlimûn (polytheists and wrong­doers ­ of a lesser degree).",
+          "content_type": "quran_verse",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "Second of three related verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever does not judge by what Allâh has revealed (then) such (people) are the Fâsiqûn [the rebellious i.e. disobedient (of a lesser degree) to Allâh].",
+          "content_type": "quran_verse",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "Third of three related verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "Due to the grave danger of such a crime, I have seen that it is necessary for me to direct this message as a piece of advice to the Muslim nation so as to free myself from sin and remind all Muslims of such a great obligation and as a sort of cooperation with the officials in righteousness and piousness.",
+          "content_type": "paragraph",
+          "page_number": 275,
+          "confidence": 0.9,
+          "notes": "Author's personal statement of purpose",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 276)",
+          "content_type": "navigation",
+          "page_number": 276,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is Allah Alone Who can settle the affairs of all Muslims, guide them to the Straight Path, guide the Muslim governments to judge by the Shari`ah and to adhere to it in all their affairs, as He is the Most Generous and the Most Beneficent!",
+          "content_type": "paragraph",
+          "page_number": 276,
+          "confidence": 0.85,
+          "notes": "Concluding supplication",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah's Peace and Blessings be upon His Servant and Messenger, our Prophet Muhammad, his family and Companions!",
+          "content_type": "signature",
+          "page_number": 276,
+          "confidence": 0.9,
+          "notes": "Closing blessing formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 277)",
+          "content_type": "navigation",
+          "page_number": 277,
+          "confidence": 0.98,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q: How can we find a solution to the Palestinian cause that is worsening by the passage of time?",
+        "content_type": "heading_question",
+        "page_number": 277,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "How can we find a solution to the Palestinian cause that is worsening by the passage of time?",
+          "content_type": "question",
+          "page_number": 277,
+          "confidence": 0.95,
+          "notes": "Question about Palestinian cause",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: There can be no doubt that a Muslim feels painful and sorry for the deterioration of the Palestinian cause that is worsening with the passage of time until it has come, because of the disagreements between the surrounding countries and their refusal to unite against their enemy or judge by the Islamic Laws, a matter which Allah has made as a condition to grant Muslims victory over their enemies and dominion on earth.",
+          "content_type": "answer",
+          "page_number": 277,
+          "confidence": 0.95,
+          "notes": "Beginning of scholar's answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Palestinian cause is undoubtedly Islamic, but the enemies of Islam have exerted much effort to keep it far from the track of Islam and get across to the non­Arab Muslims that it is an Arab cause and has nothing to do with the non­Arabs. It seems that they have almost succeeded in their task. I see that no solution to this cause can be reached except after considering it an Islamic cause for which Muslims should support one another and fight the Jews until the Palestinians can restore their occupied territories and push the Jews to return to their homelands. As for the aboriginal Jews, they can settle in Palestine under the rule of Islam, not",
+          "content_type": "answer",
+          "page_number": 277,
+          "confidence": 0.9,
+          "notes": "Continuation of answer - text appears cut off",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q: What is the effective remedy for the Muslim world to get out of this predicament?",
+        "content_type": "heading_question",
+        "page_number": 139,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "the rule of communism or secularism. It is through such measures that Muslims can defeat the Jews and allow the Palestinians return to their homeland under the rule of Islam, not the rule of any other ideologies.",
+          "content_type": "paragraph",
+          "page_number": 139,
+          "confidence": 0.85,
+          "notes": "continuation of previous fatwa ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah grant us success!",
+          "content_type": "navigation",
+          "page_number": 139,
+          "confidence": 0.95,
+          "notes": "closing formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 1, Page No: 278)",
+          "content_type": "navigation",
+          "page_number": 139,
+          "confidence": 1.0,
+          "notes": "page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Nothing can lead the Muslim community out of the predicament of the different doctrinal, political, social and economic ideologies except for adherence to Islam and judging by Allah's Shari`ah in all their affairs, a matter that can bring about conciliation among Muslims and consequently their hearts will join together. It is indeed the effective remedy for the Muslim world and even the whole world to get rid of troubles, differences, worries and corruption.",
+          "content_type": "fatwa_ruling",
+          "page_number": 139,
+          "confidence": 0.95,
+          "notes": "scholar's answer to the question",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm.",
+          "content_type": "quran_verse",
+          "page_number": 139,
+          "confidence": 0.9,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, Allâh will help those who help His (Cause). Truly, Allâh is All­Strong, All­Mighty. Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat­ a s­Salât [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin A l­M a' rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al­Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur'ân as the law of their country in all the spheres of life]. And with Allâh rests the end of (all) matters (of creatures).",
+          "content_type": "quran_verse",
+          "page_number": 139,
+          "confidence": 0.9,
+          "notes": "continuation of Quranic verses with explanatory brackets",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allâh has promised those among you who believe and do righteous good deeds, that He will certainly grant them succession to (the present rulers) in the land, as He granted it to those before them, and that He will grant them the authority to practise their religion which He has chosen for them (i.e. Islâm). And He will surely give them in exchange a safe security after their fear (provided) they (believers) worship Me and do not associate anything (in worship) with Me.",
+          "content_type": "quran_verse",
+          "page_number": 139,
+          "confidence": 0.9,
+          "notes": "another Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "And hold fast, all of you together, to the Rope of Allâh (i.e. this Qur'ân), and be not divided among yourselves",
+          "content_type": "quran_verse",
+          "page_number": 139,
+          "confidence": 0.9,
+          "notes": "Quranic verse with explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Qur'anic Ayahs to this effect. As long as the Muslim leaders seek guidance from sources other than Allah's Book and the Sunnah of His Messenger (peace be upon him) and judge by positive laws made by their enemies instead of judging by Shari`ah, they will never find a way­out of their ignorance, feud, being disrespected by and their enemies, and being unable to attain their rights.",
+          "content_type": "fatwa_ruling",
+          "page_number": 139,
+          "confidence": 0.9,
+          "notes": "continuation of scholar's ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 279)",
+          "content_type": "navigation",
+          "page_number": 139,
+          "confidence": 1.0,
+          "notes": "page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allâh wronged them not, but they wronged themselves.",
+          "content_type": "quran_verse",
+          "page_number": 139,
+          "confidence": 0.85,
+          "notes": "Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "We ask Allah (may He be Praised) to guide them to the Right Path, reform their hearts and actions, and grant them the blessing of judging by His Shari`ah, adhering steadfastly to it and refraining from all that opposes it. Allah Alone has Power over all things! May Allah's Peace and Blessings be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "navigation",
+          "page_number": 139,
+          "confidence": 0.9,
+          "notes": "closing prayer and blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Criticizing Arab Nationalism According to Islam and Reality",
+        "content_type": "heading_major",
+        "page_number": 140,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 1, Page No: 280)",
+          "content_type": "navigation",
+          "page_number": 140,
+          "confidence": 1.0,
+          "notes": "page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah, peace and blessings of Allah be upon the Messenger of Allah. To proceed:",
+          "content_type": "paragraph",
+          "page_number": 140,
+          "confidence": 0.9,
+          "notes": "opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "Any Muslim having the least knowledge of the Islamic history will not doubt the merit of Arabs and Muslims and what they had achieved of carrying the banner of Islam in the last blessed centuries, delivering the message of Islam to all people, having truthfulness in inviting people to it, striving hard to spread and defend it and enduring all burdensome difficulties and hardships in that way. They succeeded in doing that until Allah made the religion prevalent at their hands and its banner flutters in most parts of the world which lived at the beginning of Islam with the perfect system and the most just ruler at the hands of those who were calling people to Islam. They found in the religion of Islam what they wanted and needed of the goodness of this life and the Hereafter and found in the religion of Islam the organization of a happy life guaranteeing them dignity, honor and freedom from the worship of creatures and the injustice of the autocratic rulers and the iniquitous governors.",
+          "content_type": "paragraph",
+          "page_number": 140,
+          "confidence": 0.9,
+          "notes": "main body text",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, they found in the religion of Islam the organization of their relation with Allah (may he be Glorified) by the means of a great worship which helps them become in contact with Allah, purifies their hearts from Shirk (associating others with Allah in His Divinity or worship), grudges and arrogance, implants in them the utmost love of Allah, the perfect humility to Him and enjoying calling upon Him, acquaints them with their Lord and themselves and reminds them of Allah and the importance of His rights whenever they become heedless of them or about to be heedless of them. They also found in the religion of Islam the organization of their relationship with the Messenger (peace be upon him) and what they should perform of his rights and following his path. Furthermore, they found in Islam the organization of the relationship between the ruler and the ruled, between a man and his wife, between a man and his relatives, between a man and his Muslim brothers and between Muslims and disbelievers with clear words and unambiguous styles. They also found with the Messenger (peace be upon him), with the Companions and those who had followed them in piety and righteousness the manifestation of all this through their good manners and righteous acts. Therefore, people loved Islam, magnified it, embraced it in crowds and found therein all kinds of goodness, tranquility, piety and reform.",
+          "content_type": "paragraph",
+          "page_number": 140,
+          "confidence": 0.9,
+          "notes": "continuation of main text",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 281)",
+          "content_type": "navigation",
+          "page_number": 140,
+          "confidence": 1.0,
+          "notes": "page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Undoubtedly, there are more details about the advantages of Islam and what it has of great rulings and good manners which reform the hearts, bring love among them and unite them with a strong bond of love for the sake of Allah (Glorified be He), striving hard to support His religion, holding fast to its teachings and advising each other with truth and patience regarding it. The main purpose behind this speech is to attract people's attention to what had been achieved at the hands of Muslims from Arabs at the beginning of Islam of striving and patience, what Allah had honored them with including carrying the banner of Islam to most parts of the world and what happened to the entire world of hope to revert to Islam and hastening to embrace it due to what it had of the just rulings and tolerant teachings and the manifestation of the reality about Allah, His Names and Attributes and the great rights He has upon His slaves and due to what its bearers and callers had of the implementation of the rulings of Islam in their sayings, actions and manners until they became the best Nation ever raised to people and they achieved the meaning of the Almighty's saying:",
+          "content_type": "paragraph",
+          "page_number": 140,
+          "confidence": 0.9,
+          "notes": "continuation leading to Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "You [true believers in Islâmic Monotheism, and real followers of Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) and his Sunnah] are the best of peoples ever raised up for mankind; you enjoin Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm has ordained) and forbid Al­Munkar (polytheism, disbelief and all that Islâm has forbidden), and you believe in Allâh.",
+          "content_type": "quran_verse",
+          "page_number": 140,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text and translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "The meaning of this verse as stated by Abu Hurayrah (may Allah be pleased with him) is that you are the best people to people. Any Muslim acquainted with what Muslims had at the beginning of Islam of the things which we have already mentioned will not harbor any doubt about these descriptions and qualities, since these things are from the recognized facts for Muslims. On the other hand, no Muslim will have any doubt about what Muslims from non­Arabs had of merit and praiseworthy striving in their help of their brothers from Arab Muslims in spreading the religion and striving hard in raising high its word and delivering it to the world's population. May Allah praise the great efforts of all and may He make us from their followers in piety and righteousness, indeed, He is Able to do all things. What should be denied nowadays and is shocking and happening by many Muslims and Arabs is their keeping away from inviting others to this great religion, with which Allah raised them high, honored them with carrying its message and made them the rulers of this worldly life and the masters of the entire world when they carried its banner,",
+          "content_type": "paragraph",
+          "page_number": 140,
+          "confidence": 0.9,
+          "notes": "explanation and continuation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 1, Page No: 282)",
+          "content_type": "navigation",
+          "page_number": 140,
+          "confidence": 1.0,
+          "notes": "page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "strove hard in its cause with sincerity and truthfulness until they spread the religion everywhere, broke Khosrau, destroyed Caesar, controlled the treasures of their two kingdoms and spent all of it in the Cause of Allah [Exalted and Sublime Be He]. It is noteworthy that they achieved all these gains at a time when they",
+          "content_type": "paragraph",
+          "page_number": 140,
+          "confidence": 0.9,
+          "notes": "continuation of text, appears to be cut off",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}
