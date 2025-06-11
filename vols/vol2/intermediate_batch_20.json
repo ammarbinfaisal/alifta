@@ -1,0 +1,2514 @@
+{
+  "batch_number": 20,
+  "sections_count": 65,
+  "timestamp": "2025-06-11T15:15:46.314176",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "An Advice to All Muslims",
+        "content_type": "heading_major",
+        "page_number": 58,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 144)",
+          "content_type": "navigation",
+          "page_number": 58,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From `Abdul `Aziz Bin `Abdullah Ibn Baz to every Muslim who may see it. May Allah guide them and me to the path of His believing Servants! May Allah save them and me from the path of those who have incurred Allah's anger and those who have gone astray, Amen! May the peace, mercy, and blessings of Allah be upon you. I wrote these words to advise and remind Muslims according to Allah's, the Exalted, statement,",
+          "content_type": "signature",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Author introduction and greeting",
+          "memory_agreement": false
+        },
+        {
+          "text": "And remind (by preaching the Qur'ân, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ), for verily, the reminding profits the believers.",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Quranic verse about reminding",
+          "memory_agreement": false
+        },
+        {
+          "text": "Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression.",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Quranic verse about cooperation",
+          "memory_agreement": false
+        },
+        {
+          "text": "By Al­'Asr (the time). Verily, man is in loss, Except those who believe (in Islâmic Monotheism) and do righteous good deeds, and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al­Ma'ruf) which Allâh has ordained, and abstain from all kinds of sins and evil deeds (Al­Munkar which Allâh has forbidden], and recommend one another to patience (for the sufferings, harms, and injuries which one may encounter in Allâh's Cause during preaching His religion of Islâmic Monotheism or Jihâd).",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Surah Al-Asr with explanatory notes",
+          "memory_agreement": true
+        },
+        {
+          "text": "Religion is based on advising one another. Upon this, we said: For whom? He replied: For Allah, His Book, His Messenger, and for the leaders and the general Muslims.",
+          "content_type": "hadith",
+          "page_number": 58,
+          "confidence": 0.9,
+          "notes": "Hadith about advice, narrated by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "These decisive Ayahs and the Noble Hadith clearly indicate that it is an Islamic obligation to remind, recommend, and advise each other to follow the right path. That is because advice benefits the Believers, directs the ignorant, guides those who are astray, awakens the negligent, reminds the forgetful, and encourages the learned",
+          "content_type": "paragraph",
+          "page_number": 58,
+          "confidence": 0.9,
+          "notes": "Explanation of the importance of advice",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 145)",
+          "content_type": "navigation",
+          "page_number": 58,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "to act according to their knowledge, and many other benefits. Allah (Glorified and Exalted be He) created the entire creation only to worship and obey Him. He sent down Messengers to remind them of this, bring them glad tidings, and warn them as Allah, the Exalted, states,",
+          "content_type": "paragraph",
+          "page_number": 58,
+          "confidence": 0.9,
+          "notes": "Continuation about purpose of creation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone).",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Verse about purpose of creation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Obey Allâh, and obey the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ); but if you turn away, then the duty of Our Messenger is only to convey (the Message) clearly.",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Verse about obedience",
+          "memory_agreement": false
+        },
+        {
+          "text": "Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allâh after the (coming of) Messengers.",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Verse about messengers' role",
+          "memory_agreement": false
+        },
+        {
+          "text": "So remind them (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) ­ you are only one who reminds.",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Verse about reminding",
+          "memory_agreement": true
+        },
+        {
+          "text": "Every knowledgeable person should remind others, advise, and invite them to follow the Cause of Allah as much as he can to fulfill the Duty of Da`wah (calling to Islam), follow the example of the Noble Prophets (peace and blessing be upon them), and avoid committing the sin of concealment which Allah has warned against in the decisive Qur'anic verses. Allah, the Exalted, states,",
+          "content_type": "paragraph",
+          "page_number": 58,
+          "confidence": 0.9,
+          "notes": "About duty of knowledgeable people",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, those who conceal the clear proofs, evidence and the guidance, which We have sent down, after We have made it clear for the people in the Book, they are the ones cursed by Allâh and cursed by the cursers.",
+          "content_type": "quran_verse",
+          "page_number": 58,
+          "confidence": 0.95,
+          "notes": "Verse about concealing knowledge",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever guides to something good, will have a reward similar to that of its doer.",
+          "content_type": "hadith",
+          "page_number": 58,
+          "confidence": 0.9,
+          "notes": "Hadith about guiding to good",
+          "memory_agreement": false
+        },
+        {
+          "text": "If anyone calls others to follow right guidance, his reward will be equivalent to those who follow him (in righteousness) without their reward being diminished in any respect. And if anyone invites others to follow error, his sin will be equivalent to that of the people who follow him (in sinfulness) without their sins being diminished in any respect.",
+          "content_type": "hadith",
+          "page_number": 58,
+          "confidence": 0.9,
+          "notes": "Hadith about calling to guidance or error, narrated by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "If you understand the above statement, I advise you and myself to have Taqwa (fearing Allah as He should be feared) secretly and in publicly, in distress and prosperity. This is truly the counsel of Allah and the counsel of",
+          "content_type": "paragraph",
+          "page_number": 58,
+          "confidence": 0.9,
+          "notes": "Beginning of advice about Taqwa",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 146)",
+          "content_type": "navigation",
+          "page_number": 58,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of advice about Taqwa",
+        "content_type": "heading_minor",
+        "page_number": 59,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "His Messenger (peace be upon him). Allah, the Exalted, states, And verily, We have recommended to the people of the Scripture before you, and to you (O Muslims) that you (all) fear Allâh The Prophet (peace be upon him), in his sermons, used to say, \"I enjoin you to fear Allah, and to hear and obey...\" Taqwa is a comprehensive word comprising all goodness. It is concisely defined as the performance of the ordinances of Allah and abstaining from His prohibitions out of loyalty to Him, eagerness, and desire to win His reward and fear of His punishment. Allah commands His Servants to fear Him, and in return He promises them to make their affairs easy for them, relieve their distresses, provide their livelihood, forgive their sins, and award them with Paradise. Allah, the Exalted, states,",
+          "content_type": "paragraph",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Definition and importance of Taqwa",
+          "memory_agreement": false
+        },
+        {
+          "text": "O mankind! Fear your Lord and be dutiful to Him! Verily, the earthquake of the Hour (of Judgement) is a terrible thing.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about fearing Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Fear Allâh and keep your duty to Him. And let every person look to what he has sent forth for the morrow, and fear Allâh. Verily, Allâh is All­Aware of what you do.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about Taqwa and preparation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever fears Allâh and keeps his duty to Him, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about benefits of Taqwa",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, for the Muttaqûn (the pious ­ See V.2:2) are Gardens of delight (Paradise) with their Lord.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about reward for the pious",
+          "memory_agreement": false
+        },
+        {
+          "text": "and whosoever fears Allâh and keeps his duty to Him, He will expiate from him his sins, and will enlarge his reward. There are many Ayahs (Qur'anic verses) comprising this meaning.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Another verse about Taqwa with concluding note",
+          "memory_agreement": true
+        },
+        {
+          "text": "O Muslims! Be mindful of Allah (in everything you do), employ Taqwa in all cases, and reproach yourselves for all your sayings, deeds, and dealings. Thus, you can do any permissible act according to Shari`ah (Islamic law) and abstain from any prohibited act according to Shari`ah even if you desire it badly, because the reward of Allah is better and will last forever. Whoever forsakes any act out of the fear of Allah,",
+          "content_type": "paragraph",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Direct advice to Muslims about Taqwa",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 147)",
+          "content_type": "navigation",
+          "page_number": 59,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah will compensate him with something better. Whenever the servants watch and fear Allah by doing what He enjoins and abstaining from what He prohibits, Allah, the Glorified, will grant them the reward of Taqwa including honor, success, abundant sustenance, a way out from distresses, happiness and survival in this life and in the Hereafter.",
+          "content_type": "paragraph",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Benefits of Taqwa",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is not hidden, for those endowed with good sense and insight, that hardheartedness and renunciation of the Hereafter, and neglect of the causes of salvation along with deep involvement in this life and assiduous pursuits to attain the worldly pleasures greedily paying no attention to the legal and the illegal ­ afflicted the Muslims. Most Muslims continue to indulge in whims and different forms of diversion and negligence that happened as a consequence of the hearts' renunciation of the Hereafter and neglect of the Remembrance of Allah, having love for Him, or pondering over His bounties and blessings, and apparent and hidden miracles. This is because Muslims are not ready to meet Allah and do not remember that they will stand before Allah (on the Day of Resurrection) and after this awesome event they will be admitted into the Paradise or the Hellfire.",
+          "content_type": "paragraph",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Criticism of current state of Muslims",
+          "memory_agreement": true
+        },
+        {
+          "text": "O Muslim people! Save yourselves, repent to your Lord, know more about your Deen, hasten to obey the ordinances of Allah, and abstain from His prohibitions to win honor, safety, guidance, and happiness in this life and in the Hereafter. Beware of being engrossed in the life of this world and preferring it to the Hereafter, for this really is an attribute of the enemies of Allah; the disbelievers and the hypocrite. It is one of the main reasons for torment in this life and in the Hereafter. Allah, the Exalted, describes His enemies stating,",
+          "content_type": "paragraph",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Call to Muslims to repent and focus on Hereafter",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, these (disbelievers) love the present life of this world, and put behind them a heavy Day (that will be hard).",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about disbelievers' focus on worldly life",
+          "memory_agreement": false
+        },
+        {
+          "text": "So let not their wealth nor their children amaze you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ); in reality Allâh's Plan is to punish them with these things in the life of this world, and that their souls shall depart (die) while they are disbelievers.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about Allah's plan for disbelievers",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 148)",
+          "content_type": "navigation",
+          "page_number": 59,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "You have not been created for the life of this world but for the Hereafter. Thus, you have been commanded to prepare for the Hereafter. This life was created for you to help you in the worship of Allah, the Creator, to facilitate your way to meet Him and earn His grace, honor, and be close to Him in the Gardens of pleasure (Paradise). It is unacceptable that a wise person abandons the worship of his Creator and Sustainer denying himself the honor that Allah has set for him. It is unacceptable to be preoccupied by the preference of one's lower desires and the greediness to attain the passing fancies of the life of this world. Allah has promised Muslims a greater status and noble reward in the life of this world and in the Hereafter. Every Muslim should beware of seduction by the majority who say, \"People follow such and such and they used to do such and such, so I will do like them.\" This is really a great disaster which has brought about the perdition of many past generations. O wise person, be mindful, reproach yourself, and cling to Al­Haqq (the Truth) even if people abandon it. Beware of every act prohibited by Allah, even if people do it. The truth should always be followed. Allah, the Exalted, says,",
+          "content_type": "paragraph",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "About purpose of life and following truth",
+          "memory_agreement": false
+        },
+        {
+          "text": "And if you obey most of those on the earth, they will mislead you far away from Allâh's Path.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about not following the majority",
+          "memory_agreement": false
+        },
+        {
+          "text": "And most of mankind will not believe even if you desire it eagerly.",
+          "content_type": "quran_verse",
+          "page_number": 59,
+          "confidence": 0.95,
+          "notes": "Verse about majority not believing",
+          "memory_agreement": false
+        },
+        {
+          "text": "I would like to conclude my admonition with five matters which comprise all goodness: First: Sincerity to Allah in all words and deeds of worship and abstinence from all types of Shirk (associating others with Allah in His Divinity or worship) whether minor or major. This is the most foremost duty",
+          "content_type": "paragraph",
+          "page_number": 59,
+          "confidence": 0.9,
+          "notes": "Beginning of five-point conclusion",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 149)",
+          "content_type": "navigation",
+          "page_number": 59,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Five Essential Matters",
+        "content_type": "heading_minor",
+        "page_number": 60,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "and the most important matter. This is the meaning of the testimony of \"La ilaha illa Allah (there is no deity but Allah).\" The words and deeds of a servant can never be true unless they are grounded in this fundamental principle. Allah, the Exalted, states, And indeed it has been revealed to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ), as it was to those (Allâh's Messengers) before you: \"If you join others in worship with Allâh, (then) surely (all) your deeds will be in vain, and you will certainly be among the losers.\"",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "First matter: Sincerity and avoiding Shirk",
+          "memory_agreement": false
+        },
+        {
+          "text": "Second: Understanding the Qur'an and the Sunnah of the Messenger of Allah (peace be upon him), holding fast to them both and consulting the scholars concerning matters of faith that require explanation. This is a duty on all Muslims that must neither be neglected, abandoned, nor followed according to one's own opinions and desires without knowledge and insight. This is the meaning of the creed, \"Muhammad Rasul Allah (Muhammad is the Messenger of Allah).'' This testimony entails that a Servant of Allah must believe that Muhammad (peace be upon him) is truly the Messenger of Allah, hold fast to everything he did, and believe in everything he said. He must worship Allah, the Glorified, alone in accordance with the ordinances set by His Messenger (peace be upon him). Allah, the Glorified, states,",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Second matter: Following Quran and Sunnah",
+          "memory_agreement": false
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ to mankind): \"If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur'ân and the Sunnah), Allâh will love you and forgive you your sins.",
+          "content_type": "quran_verse",
+          "page_number": 60,
+          "confidence": 0.95,
+          "notes": "Verse about following the Prophet",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whatsoever the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) gives you, take it; and whatsoever he forbids you, abstain (from it).",
+          "content_type": "quran_verse",
+          "page_number": 60,
+          "confidence": 0.95,
+          "notes": "Verse about obeying the Messenger",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever introduces something into this affair of ours that is not of it, it is to be rejected.",
+          "content_type": "hadith",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Hadith reported by Bukhari and Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever performs an act which is not based on our Shari'ah, it is to be rejected.",
+          "content_type": "hadith",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Hadith reported by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever abandons the Qur'an and the Sunnah is following his desires and disobeying his Lord, do he deserves punishment. Allah, the Exalted, states, But if they answer you not (i.e. do not bring the Book nor believe in your doctrine of Islâmic Monotheism), then know that they only follow their own lusts. And who is more astray than one who follows his own lusts, without guidance from Allâh?",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Warning about abandoning Quran and Sunnah with Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 150)",
+          "content_type": "navigation",
+          "page_number": 60,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah, the Exalted, describes the Kafirs (disbelievers) saying, They follow but a guess and that which they themselves desire, whereas there has surely come to them the Guidance from their Lord! Following personal desires, Allah forbid, dims the light of the heart and hinders people from the truth. Allah, the Exalted, says, \"And follow not your desire for it will mislead you from the Path of Allâh.\" You must beware of following your desires, may Allah have mercy on you! Beware of neglecting the guidance. You must adhere to the truth, call others to it, and keep away from those who oppose it in order to win the blessing of the life of this world and that of the Hereafter.",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "About following desires vs guidance",
+          "memory_agreement": true
+        },
+        {
+          "text": "Third: Performing the five obligatory prayers in congregation is the most important and greatest duty after declaring the testimony of faith. Salah is the pillar of faith, the second Rukn (pillar) of Islam, and the first thing for which a servant will be called to account on the Day of Resurrection. Whoever maintains Salah is preserving his faith and whoever abandons it, abandons Islam. How great his regret will be and how grievous will be his punishment on the Day when he will stand before Allah! You, may Allah have mercy on you, must offer Salah diligently and advise each other to do so. You must admonish those who casually offer it and abandon it, for this is truly a form of helping one another in performing righteous and pious deeds. It is authentically reported that the Prophet (peace be upon him) stated,",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Third matter: Prayer",
+          "memory_agreement": false
+        },
+        {
+          "text": "That which differentiates us from the disbelievers and hypocrites is our performance of Salah. He who abandons it becomes a disbeliever.",
+          "content_type": "hadith",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Hadith reported by Ahmad and Ahl-ul-Sunan",
+          "memory_agreement": false
+        },
+        {
+          "text": "What makes one a disbeliever and a polytheist is abandoning Salah.",
+          "content_type": "hadith",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Hadith reported by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Whoever, among you, sees something abominable should rectify it with his hand. If he does not have strength enough to do it, then he should do it with his tongue and if he does not have strength enough to do it, (even) then he should (abhor it) from his heart, and that is the least of Faith.",
+          "content_type": "hadith",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Hadith about changing wrong, reported by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 151)",
+          "content_type": "navigation",
+          "page_number": 60,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Reported by Muslim in the Sahih.",
+          "content_type": "citation",
+          "page_number": 60,
+          "confidence": 0.95,
+          "notes": "Citation for previous hadith",
+          "memory_agreement": true
+        },
+        {
+          "text": "Fourth: Giving careful attention to paying Zakah as obligated by Allah, for it is the third Rukn of Islam. Every Muslim Mukallaf (person meeting the conditions to be held legally accountable for their actions) must count his money, calculate the due amount of Zakah on a yearly basis when the money reaches the Nisab (the minimum amount on which Zakah is due). Hence, he should give it out with absolute satisfaction. He should be delighted to carry out the command of Allah, thanking Him for His blessing, and being benevolent with the Servants of Allah. Whenever a Muslim performs such an act, Allah will double his reward, give back to him what he paid, bless the rest of his money, and purify and sanctify him. Allah, the Glorified, states, Take Sadaqah (alms) from their wealth in order to purify them and sanctify them with it Whenever a Muslim withholds Zakah and neglects it, Allah will send His wrath upon him, remove the blessing from his wealth, afflict him with the means of spending money in bad matters, and torment him for this sin on the Day of Resurrection. Allah, the Exalted, states,",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Fourth matter: Zakah",
+          "memory_agreement": false
+        },
+        {
+          "text": "And those who hoard up gold and silver [Al­Kanz: the money, the Zakât of which has not been paid] and spend them not in the Way of Allâh, announce unto them a painful torment.",
+          "content_type": "quran_verse",
+          "page_number": 60,
+          "confidence": 0.95,
+          "notes": "Verse about hoarding wealth",
+          "memory_agreement": false
+        },
+        {
+          "text": "All wealth, upon which Zakah has not been paid, is considered Kanz and its owner will be tormented on the Day of Resurrection. May Allah protect you and me from this! As for Muslims who are not Mukallaf such as children and the insane, their guardians must pay the Zakah due on their money every year, for the general evidence from the Book (Qur'an) and the Sunnah indicating the obligation of paying Zakah due on Muslims' money whether he is a Mukallaf or non­Mukallaf. Fifth: Every Muslim Mukallaf, male or",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Continuation about Zakah and beginning of fifth matter",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 152)",
+          "content_type": "navigation",
+          "page_number": 60,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "female, is to obey all the commandments of Allah and His Messenger. Sawm (Fast) of Ramadan, performance of Hajj to Ka`bah if possible, and all ordinances of Allah and His Messenger. They should glorify the sanctities of Allah, ponder over the purpose of creation, and take account of him/herself continuously. If they have fulfilled the commands of Allah, they should be pleased, thank Allah, ask Allah to grant them steadfastness, and avoid false pride, arrogance, and conceit. If they neglect the obligations of Allah and commit any prohibited act, they should repent and feel regret. They must adhere to the commands of Allah, recite Dhikr (Remembrance of Allah) and Istighfar (seeking forgiveness from Allah) frequently, show humbleness to Allah, the Glorified, and ask Him to grant them repentance from their past sins and success to act righteously in word and deed. When servants of Allah are guided to achieve this, it is a sign of their happiness and security in this life and the Hereafter. On the other hand, whenever they blindly follow their desires and caprices, neglect preparation for the Hereafter, this is a sign of their perdition and evidence of their horrible loss. Search your soul, reproach it, and examine your",
+          "content_type": "paragraph",
+          "page_number": 60,
+          "confidence": 0.9,
+          "notes": "Fifth matter: Complete obedience and self-accountability",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 61,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "weaknesses, so you should feel humble, focus on your own self, leave the others, submit to Allah, and feel lowly before Him, asking Him for His pardon and forgiveness. Such self­reproach, submission and humility before Allah is the real reason for happiness, success, and honor in the life of this world and the Hereafter. Let every Muslim know that all blessings including happiness, wealth, high rank, and prosperity are from the grace and benevolence of Allah. Every trial such as diseases, misfortunes, poverty, barrenness, oppressive enemies, or any other misfortune are the result of sin and corruption. All pains and sufferings in this life and in the Hereafter are the consequence of disobedience to Allah, opposition to His command, and negligence of His due right. Allah, the Exalted, states,",
+          "content_type": "paragraph",
+          "page_number": 61,
+          "confidence": 0.9,
+          "notes": "Continuation of advice/sermon",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 153)",
+          "content_type": "navigation",
+          "page_number": 61,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much. (See the Qur'ân Verse 35:45). Allah (Exalted be He) says: Evil (sins and disobedience to Allâh) has appeared on land and sea because of what the hands of men have earned (by oppression and evil deeds), that He (Allâh) may make them taste a part of that which they have done, in order that they may return (by repenting to Allâh, and begging His Pardon).",
+          "content_type": "quran_verse",
+          "page_number": 61,
+          "confidence": 0.95,
+          "notes": "Quranic verses with references",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Servants of Allah, Fear Allah as He should be feared, glorify His ordinances and prohibitions, repent to Him from all your sins, rely on Him Alone and place your trust in Him. Verily, He is the Creator and Sustainer of all creatures and their forelocks are in His Hand (i.e. He has total mastery over His creatures). No one other than Allah has any power to cause harm, benefit, death, life, or resurrection. Give priority to the right of Allah and His Messenger over all others', may Allah have mercy on you. Advise one another to hold fast to the right, forbid the wrong, think the best of Allah, and devote much time to Dhikr and Istighfar. Help one another in virtue, righteousness, and piety but do not help one another in sin and transgression. Reproach the foolish among you, let them abide by the ordinances of Allah and forbid them from His prohibitions. Love and hate only for the Sake of Allah. Follow the Awliya' (pious people) of Allah and hold aversion against the enemies of Allah. Remain patient and exhort people to patience until you meet your Lord and achieve the ultimate happiness, honor, dignity, and high rank in the Gardens of Blessing (Paradise).",
+          "content_type": "paragraph",
+          "page_number": 61,
+          "confidence": 0.9,
+          "notes": "Continuation of religious advice",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah grant us and you success in accomplishing that which pleases Him. May Allah reconcile our hearts and fill them with His reverence, love, and fear, and enable us to call to His path and His worship. May Allah safeguard us from the evils of ourselves and our gravest sins, grant success to our rulers and all the Muslim rulers in carrying out that which pleases Him! May Allah support the Truth through them and frustrate falsehood by their hands! May Allah protect all of us from trials and tribulations, for He is the Owner of all things, Omnipotent! May peace, mercy and blessings be upon you! Peace and blessing be upon our Prophet Muhammad, his family, and Companions!",
+          "content_type": "paragraph",
+          "page_number": 61,
+          "confidence": 0.9,
+          "notes": "Concluding prayer/blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Advice and Guiding Outline",
+        "content_type": "heading_minor",
+        "page_number": 62,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 154)",
+          "content_type": "navigation",
+          "page_number": 62,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Undoubtedly, nations must have an instructor who assumes the responsibility of instructing and guiding them upon the sound path. The Islamic Ummah (nation based on one creed) is particularly concerned with propagating virtue and preventing vice. It is the duty of every Muslim, according to their ability, to lend a hand and play a serious role in advising and educating others. This is a means of working towards one's own salvation and guiding other Muslims. Allah, the Exalted, states: And remind (by preaching the Qur'ân, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), for verily, the reminding profits the believers.",
+          "content_type": "paragraph",
+          "page_number": 62,
+          "confidence": 0.9,
+          "notes": "Introduction to the topic with Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "Certainly, every Mu'min (believer) and even every human badly needs to be reminded of the Right of Allah and the right of His Servants, and to be encouraged to fulfill these rights. There is a pressing need for reciprocal advice of Al­Haqq (the Truth) and strict perseverance to it in every deed. Allah, the Glorified, in His Manifest Book, informs us ­ in many Ayahs ­ of the winners and their good deeds and the attribute as well as the losers and their bad morals.. The most comprehensive Ayahs are those of the Surah Al­`Asr in which Allah, the Glorified, says: By Al­' Asr (the time). Verily, man is in loss, Except those who believe (in Islâmic Monotheism) and do righteous good deeds, and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al­M a' ruf) which Allâh has ordained, and abstain from all kinds of sins and evil deeds (Al­Munkar which Allâh has forbidden], and recommend one another to patience (for the sufferings, harms, and injuries which one may encounter in Allâh's Cause during preaching His religion of Islâmic Monotheism or Jihâd). Allah (Glorified and Exalted be He) in this great short Surah indicates to His Servants that the means of being a winner is encompassed by four attributes:",
+          "content_type": "paragraph",
+          "page_number": 62,
+          "confidence": 0.9,
+          "notes": "Discussion of Surah Al-Asr with Quranic verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 155)",
+          "content_type": "navigation",
+          "page_number": 62,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "First: Iman (Faith). Second: Righteous deeds. Third: Enjoining one another to the Truth. Fourth: Enjoining one another to patience.",
+          "content_type": "list_item",
+          "page_number": 62,
+          "confidence": 0.95,
+          "notes": "Four attributes enumerated",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Advice and Guiding Outline",
+        "content_type": "heading_minor",
+        "page_number": 62,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Whoever possesses these four attributes will attain the greatest reward ever and will deserve to be honored by His Lord and be granted the everlasting blessing on the Day of Resurrection. Whoever deviates from these attributes and fails to cultivate them, will draw on themselves the most grievous loss and will be cast into Hellfire, the abode of disgrace. Allah, the Glorified, in His Noble Book, explained the characteristics of winners, and repeated them in many places in His Book. Thus those who seek salvation must internalize them and call others to them. Moreover, Allah has explained the characteristics of the losers in many Ayahs so that the Mu'min will be aware of them and avoid them. Whoever studies well the Book of Allah and recites it often, will know the attributes of the winners and those of the losers in detail.",
+          "content_type": "paragraph",
+          "page_number": 62,
+          "confidence": 0.9,
+          "notes": "Explanation of consequences and importance of Quranic study",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 156)",
+          "content_type": "navigation",
+          "page_number": 62,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation - Importance of Quran and Sunnah",
+        "content_type": "heading_minor",
+        "page_number": 63,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 157)",
+          "content_type": "navigation",
+          "page_number": 63,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "the morals and acts praised in the Qur'an which you should aspire to attain. You should also know the morals and acts which the Qur'an dispraised and admonished those who adopt them, so that you will avoid them and abstain from them. Advise one another to adhere to these teachings and persevere in doing so until you meet your Lord. Thus, you will be worthy of honor and salvation, happiness and dignity in this life and in the Hereafter.",
+          "content_type": "paragraph",
+          "page_number": 63,
+          "confidence": 0.9,
+          "notes": "Advice about following Quranic teachings",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 158)",
+          "content_type": "navigation",
+          "page_number": 63,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 159)",
+          "content_type": "navigation",
+          "page_number": 63,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation - Believers vs Disbelievers",
+        "content_type": "heading_minor",
+        "page_number": 64,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 160)",
+          "content_type": "navigation",
+          "page_number": 64,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and Exalted. Thus, you will earn the everlasting blessing and be spared the torment of the Hellfire. Allah, the Exalted, states, Verily, those who say: \"Our Lord is Allâh (Alone),\" and then they stand firm, on them the angels will descend (at the time of their death) (saying): \"Fear not, nor grieve! But receive the glad tidings of Paradise which you have been promised! \"We have been your friends in the life of this world and are (so) in the Hereafter. Therein you shall have (all) that your inner­selves desire, and therein you shall have (all) for which you ask. \"An entertainment from (Allâh), the Oft­Forgiving, Most Merciful.\" Allah (Glorified be He) also says: Verily, those who say: \"Our Lord is (only) Allâh,\" and thereafter stand firm and straight on the Islâmic Faith of Monotheism, on them shall be no fear, nor shall they grieve. Such shall be the dwellers of Paradise, abiding therein (forever) ­ a reward for what they used to do. May Allah make you and me amongst those people (i.e., the dwellers of Paradise) and safeguard us all from the evils of ourselves and our bad deeds. Verily, He has power over all things. May peace and blessings be upon His Servant and Messenger, our Prophet Muhammad, his family, and Companions!",
+          "content_type": "paragraph",
+          "page_number": 64,
+          "confidence": 0.9,
+          "notes": "Quranic verses about believers and concluding prayer",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "general advice to the leaders of Islamic countries and all Muslims",
+        "content_type": "heading_minor",
+        "page_number": 65,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 161)",
+          "content_type": "navigation",
+          "page_number": 65,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah, the Lord of existence, and peace and blessings be upon the most honorable Messenger, our Prophet Muhammad, and his family and all his Companions! This is a general advice to the leaders of the Islamic countries and all Muslims:",
+          "content_type": "paragraph",
+          "page_number": 65,
+          "confidence": 0.9,
+          "notes": "Opening statement and introduction",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah's Wisdom dictates that He test His Servants with good and evil, health and illness, poverty and affluence, strength and weakness, to see how they will behave. Will they obey Him in prosperity and adversity, fulfilling the Rights owed to Him at all times and under all circumstances? Allah (Exalted be He) says: and We shall make a trial of you with evil and with good. And to Us you will be returned. And He (Glorified and Exalted be He) says: Alif­Lâm­Mîm. [These letters are one of the miracles of the Qur'ân, and none but Allâh (Alone) knows their meanings.] Do people think that they will be left alone because they say: \"We believe,\" and will not be tested. And We indeed tested those who were before them. And Allâh will certainly make (it) known (the truth of) those who are true, and will certainly make (it) known (the falsehood of) those who are liars, (although Allâh knows all that before putting them to test).",
+          "content_type": "paragraph",
+          "page_number": 65,
+          "confidence": 0.9,
+          "notes": "Discussion of divine testing with Quranic verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 162)",
+          "content_type": "navigation",
+          "page_number": 65,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 163)",
+          "content_type": "navigation",
+          "page_number": 65,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of previous fatwa discussion",
+        "content_type": "heading_minor",
+        "page_number": 66,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "must exist among Muslims.",
+          "content_type": "paragraph",
+          "page_number": 66,
+          "confidence": 0.9,
+          "notes": "Continuation of hadith discussion about Muslim cooperation",
+          "memory_agreement": true
+        },
+        {
+          "text": "The scholars (may Allah be Merciful to them) are of the opinion that",
+          "content_type": "paragraph",
+          "page_number": 66,
+          "confidence": 0.9,
+          "notes": "Beginning of scholarly opinion section",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 164)",
+          "content_type": "navigation",
+          "page_number": 66,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "if a Muslim woman in the West suffered an injustice, it becomes obligatory on the Muslims in the East to help her. So how much more should be done in relation to killings, expulsions, oppression, transgressions, and detentions committed against many hundreds of Muslims, while their fellow­Muslims do not move or support them, except those whom Allah wills? It is obligatory on the rich and wealthy Islamic countries and individuals to look with compassion and mercy on their oppressed Muslim brothers. They can help them through the trustworthy ambassadors of the Islamic countries or the delegations that should be sent from time to time representing the Islamic nations to inspect the Muslims' conditions in these Islamic countries or the Muslim minorities in the non­Muslim countries. The Christian, Jewish, and communist nations and other non­Muslim nations protect the rights of all those who are associated with them, even if they are settled in other countries far away. They sometimes send protests and threats if any of them are harmed, even if they were causing problems in the country they had settled. So how can Muslims be silent about the genocide that is being committed against their Muslim brothers and all the other types of torment and torture they are suffering in many places in this world these days? All the people and nations that do not move to support their brothers in Islam must bear in mind that they may also be stricken with the same afflictions that they hear about or see cutting the veins of these Muslims, and they shall find no one to support them then or help remove the oppression and torment they are under. It is Allah Whose Help is sought and the One Able to awaken the Servants' hearts to act according His Ordinances and guide Muslim rulers and all other Muslim people to be one hand, one firmly built structure, to carry out the Commands of Allah, act upon His Book and the Sunnah of His Messenger, support the Muslims, and fight",
+          "content_type": "fatwa_ruling",
+          "page_number": 66,
+          "confidence": 0.9,
+          "notes": "Religious ruling about Muslim obligation to help oppressed Muslims",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 165)",
+          "content_type": "navigation",
+          "page_number": 66,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "the oppressive transgressors, acting in accordance with Allah's Words: Verily, Allâh will help those who help His (Cause). Truly, Allâh is All­Strong, All­Mighty.",
+          "content_type": "quran_verse",
+          "page_number": 66,
+          "confidence": 0.8,
+          "notes": "Quranic verse about Allah helping those who help His cause",
+          "memory_agreement": true
+        },
+        {
+          "text": "Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat­ a s­Salât [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin A l­M a' rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al­Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur'ân as the law of their country in all the spheres of life]. And with Allâh rests the end of (all) matters (of creatures). And His saying, Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allâh. Verily, Allâh is Severe in punishment. And He (Glorified and Exalted be He) also says: By Al­'Asr (the time).",
+          "content_type": "quran_verse",
+          "page_number": 66,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses about righteous leadership and cooperation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, man is in loss,",
+          "content_type": "quran_verse",
+          "page_number": 66,
+          "confidence": 0.9,
+          "notes": "Continuation of Surah Al-Asr",
+          "memory_agreement": true
+        },
+        {
+          "text": "Except those who believe (in Islâmic Monotheism)",
+          "content_type": "quran_verse",
+          "page_number": 66,
+          "confidence": 0.9,
+          "notes": "Continuation of Surah Al-Asr",
+          "memory_agreement": true
+        },
+        {
+          "text": "and do righteous good deeds, and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al­ M a' ruf) which Allâh has ordained, and abstain from all kinds of sins and evil deeds (Al­Munkar which Allâh has forbidden], and recommend one another to patience (for the sufferings, harms, and injuries which one may encounter in Allâh's Cause during preaching His religion of Islâmic Monotheism or Jihâd). Peace and blessings be upon our Prophet Muhammad, his family, his Companions, and those who follow him in truth.",
+          "content_type": "quran_verse",
+          "page_number": 66,
+          "confidence": 0.8,
+          "notes": "Completion of Surah Al-Asr with closing prayer",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 166)",
+          "content_type": "navigation",
+          "page_number": 66,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Speech to the Summit of the Islamic Summit Conference",
+        "content_type": "heading_major",
+        "page_number": 67,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "All praise be to Allah. May peace and blessings be upon the Messenger of Allah, his family, Companions, and those who followed his guidance!",
+          "content_type": "paragraph",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Opening praise formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "Whoever ponders on the Noble Qur'an that Allah (Exalted be He) sent down to explain all things and to be the means of guidance, mercy, and glad tidings for Muslims, will find a manifest revelation of the means to attain victory, empowerment on earth, and the defeat of enemies regardless of their strength. It is clear that these means and factors are all related to two basic factors: true faith in Allah and His Messenger and sincere Jihad (fighting) in the Cause of Allah. It is well­known that the legal Iman (faith) with which Allah (Exalted be He) has associated victory and good reward includes devotion to Allah (Exalted be He) in every act, following His ordinances, and abstaining from His prohibitions. Iman includes obligatory adherence to Shari`ah (Islamic law) as the judgment of all matters in society, enjoining the virtues, preventing the vices, and referring all disputes among the people to the Book of Allah and the Sunnah (whatever is reported from the Prophet) of His Messenger (peace be upon him). It also includes obligatory preparation of every possible means of power to defend the religion and to fight those who deviate from Al­Haqq (the Truth) until they return to it.",
+          "content_type": "paragraph",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Main thesis about factors for victory in Islam",
+          "memory_agreement": true
+        },
+        {
+          "text": "The second factor is true Jihad and it is also one of the obligatory acts of Iman. Allah (Exalted be He) has drawn our attention to it and mentioned it in many places",
+          "content_type": "paragraph",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Discussion of jihad as second factor",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 167)",
+          "content_type": "navigation",
+          "page_number": 67,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of His Book. The Messenger of Allah (peace be upon him) also enjoined and aroused interest in Jihad because of its great importance and the dire need for it. Most people can not be deterred from their falsehood by mere menace and threat, so there should be a ruling deterrent to make them abide by the",
+          "content_type": "paragraph",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Continuation about necessity of jihad",
+          "memory_agreement": true
+        },
+        {
+          "text": "Truth and prevent them from falsehood. Whenever any nation possesses these two basic factors; believing in Allah (Exalted be He) and His Messenger and Jihad in the Cause of Allah, they will be victorious and Allah (Exalted be He) will empower them on earth and grant them succession. This is Allah's Promise that can never be broken and Allah's Way (of conducting affairs) can never be changed. The early generations of this Ummah (nation) were granted honor, empowerment, and victory over their enemies, thus proving the evidence mentioned in the Noble Qur'an and the Sunnah of the honest Messenger (peace be upon him). Anyone who has an idea about Muslim history will be certain that what we have mentioned is true and can never be ignored; the only reason for that was the sincerity of the early generations in their belief in Allah (Exalted be He) and His Messenger and their defense of the Cause of Allah by word, action, and belief. Dear Muslim brothers, here are some Ayahs (Qur'anic verses) confirming this concept to be fully aware and well­informed. You can call to the Path of your Lord and draw the attention of your Muslim brothers to the factors that bring about victory and (warn them against) the causes of defeat. It is authentically narrated that the Messenger of Allah (peace be upon him) said: \"Verily, if Allah were to guide just one man through you, it would be better for you than red camels.\" Allah (Glorified be He) says, O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm. Mufassirs (exegetes of the Qur'an) unanimously decided that supporting Allah (Glorified be He) means, supporting His religion by acting upon its teachings, calling to it and fighting those who oppose it. This is evident in another Ayah from Surah Al­Hajj in which Allah (Glorified be He) says,",
+          "content_type": "paragraph",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Extended discussion with hadith and Quranic references",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 168)",
+          "content_type": "navigation",
+          "page_number": 67,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, Allâh will help those who help His (Cause). Truly, Allâh is All­Strong, All­Mighty. Those (Muslim rulers) who, if We give",
+          "content_type": "quran_verse",
+          "page_number": 67,
+          "confidence": 0.9,
+          "notes": "Quranic verse from Surah Al-Hajj",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "There is no Brotherhood between Muslims and Disbelievers and the Only True Religion is Islam",
+        "content_type": "heading_major",
+        "page_number": 70,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "All praise be to Allah Alone. May peace and blessings be upon the Last Prophet.",
+          "content_type": "paragraph",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Opening praise formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "In its issue no (3031), dated (27/1394), `Ukazh newspaper published an article regarding the observance of Jumu`ah (Friday) Prayer in the Mosque of Cordova. It mentioned that observing this event places emphasis on the relationship of brotherhood and affection between Muslims and Christians. In the same context, the Muslim World Journal dated 29/1394 A.H., published the same article in the following wording: Undoubtedly, this act is an emphasis on the tolerance of Islam and that we all have one religion, etc.",
+          "content_type": "question",
+          "page_number": 70,
+          "confidence": 0.8,
+          "notes": "Background context describing newspaper articles being addressed",
+          "memory_agreement": false
+        },
+        {
+          "text": "These words contradict the legal evidence stating that there is neither brotherhood, nor affection between Muslims and non­Muslims. Brotherhood is only among Muslims themselves. There is no unity between Islam and Christianity. Islam is the true faith that should be accepted by all people. As for Christianity, it is a distorted and deviant religion as affirmed in the Text of the Noble Qur'an. Among the proofs in support of this fact is Allah's, the Glorified, statement in Surah Al­Hujurat:",
+          "content_type": "fatwa_ruling",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Religious ruling rejecting interfaith brotherhood",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 174)",
+          "content_type": "navigation",
+          "page_number": 70,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The believers are nothing else than brothers (in Islâmic religion). So make reconciliation between your brothers and in Surah A l­Mumtahanah: Indeed there has been an excellent example for you in Ibrâhîm (Abraham) and those with him, when they said to their people: \"Verily, we are free from you and whatever you worship besides Allâh: we have rejected you, and there has started between us and you hostility and hatred for ever until you believe in Allâh Alone\" Allah also states in Surah Al­ Mujadalah: You (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) will not find any people who believe in Allâh and the Last Day, making friendship with those who oppose Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), even though they were their fathers or their sons or their brothers or their kindred (people). For such He has written Faith in their hearts, and strengthened them with Rûh (proofs, light and true guidance) from Himself. And He will admit them to Gardens (Paradise) under which rivers flow to dwell therein (forever). Allâh is pleased with them, and they with Him. They are the Party of Allâh. Verily, it is the Party of Allâh that will be the successful. in Surah At­Tawbah: The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another In Surah Al­Ma'idah, Allah (Glorified be He) says: O you who believe! Take not the Jews and the Christians as Auliyâ' (friends, protectors, helpers), they are but Auliyâ' of each other. And if any amongst you takes them (as Auliyâ'), then surely he is one of them. Verily, Allâh guides not those people who are the Zâlimûn (polytheists and wrong­doers and unjust).",
+          "content_type": "quran_verse",
+          "page_number": 70,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses about Muslim brotherhood and relations with non-Muslims",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 71,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "our Prophet Muhammad (peace be upon him) has brought about Al­Haqq (the Truth) and even more, for it is a comprehensive perfect Shari`ah for all people of the earth. Other Shari`ahs were abrogated by that of Muhammad (peace be upon him) which is the most perfect, general, and most useful Shari`ah for Servants of Allah in this life and the Hereafter. Allah, the Glorified, addressed His Prophet Muhammad (peace be upon him) stating,",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Introductory text leading to Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "And We have sent down to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) the Book (this Qur'ân) in truth, confirming the Scripture that came before it and Muhaymin (trustworthy in highness and a witness) over it (old Scriptures). So judge among them by what Allâh has revealed, and follow not their vain desires, diverging away from the truth that has come to you. To each among you, We have prescribed a law and a clear way.",
+          "content_type": "quran_verse",
+          "page_number": 71,
+          "confidence": 0.95,
+          "notes": "Quranic verse with Arabic text and translation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah has enjoined on all people of sound mind to follow Him and hold fast to His Law. After mentioning the attributes of Muhammad (peace be upon him) in Surah Al­A`raf, Allah, the Exalted, states,",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Transitional text introducing next verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "So those who believe in him (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), honour him, help him, and follow the light (the Qur'ân) which has been sent down with him, it is they who will be successful.",
+          "content_type": "quran_verse",
+          "page_number": 71,
+          "confidence": 0.95,
+          "notes": "Quranic verse from Surah Al-A'raf",
+          "memory_agreement": true
+        },
+        {
+          "text": "Then, Allah the Glorified and Exalted, states,",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Transitional phrase",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"O mankind! Verily, I am sent to you all as the Messenger of Allâh ­ to Whom belongs the dominion of the heavens and the earth. Lâ ilâha illa Huwa (none has the right to be worshipped but He). It is He Who gives life and causes death. So believe in Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), the Prophet who can neither read nor write (i.e. Muhammad ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ), who believes in Allâh and His Words [(this Qur'ân), the Taurât (Torah) and the Injeel (Gospel) and also Allâh's Word: \"Be!\" ­ and he was, i.e. 'Isâ (Jesus) son of Maryam (Mary), ﻋﻠﻴﻬﻤﺎ ﺍﻟﺴﻼﻡ], and follow him so that you may be guided.\"",
+          "content_type": "quran_verse",
+          "page_number": 71,
+          "confidence": 0.95,
+          "notes": "Long Quranic verse with Arabic text",
+          "memory_agreement": true
+        },
+        {
+          "text": "So here in this Ayah, Allah has deemed those who did not make the Prophet their judge in all disputes as having no faith. Allah, the Glorified, in Surah An­Nisa' states,",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Commentary and transition to next verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 71,
+          "confidence": 0.95,
+          "notes": "Quranic verse from Surah An-Nisa",
+          "memory_agreement": true
+        },
+        {
+          "text": "He judged the Jews and the Christians as Kafirs (disbelievers) and Mushriks (those who associate others with Allah in His Divinity or worship) for they ascribed the attribute of giving birth to Allah, the Glorified and for they made their rabbis and their monks their lords besides Allah, the Glorified and Exalted. Allah, the Exalted, in Surah At­Tawbah states,",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Commentary introducing next verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "And the Jews say: ' Uzair (Ezra) is the son of Allâh, and the Christians say: Messiah is the son of Allâh. That is their saying with their mouths, resembling the saying of those who disbelieved aforetime. Allâh's Curse be on them, how they are deluded away from the truth! They (Jews and Christians) took their rabbis and their monks to be their lords besides Allâh (by obeying them in things which they made lawful or unlawful according to their own desires without being ordered by Allâh), and (they also took as their Lord) Messiah, son of Maryam (Mary), while they (Jews and Christians) were commanded [in the Taurât (Torah) and the Injeel (Gospel)] to worship none but One Ilâh (God ­ Allâh) Lâ ilâha illa Huwa (none has the right to be worshipped but He). Praise and glory be to Him (far above is He) from having the partners they associate (with Him).\" They (the disbelievers, the Jews and the Christians) want to extinguish Allâh's Light (with which Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ has been sent ­ Islâmic Monotheism) with their mouths, but Allâh will not allow except that His Light should be perfected even though the Kâfirûn (disbelievers) hate (it). It is He Who has sent His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) with guidance and the religion of truth (Islâm), to make it superior over all religions even though the Mushrikûn (polytheists, pagans, idolaters, disbelievers in the Oneness of Allâh) hate (it).",
+          "content_type": "quran_verse",
+          "page_number": 71,
+          "confidence": 0.95,
+          "notes": "Extended Quranic passage from Surah At-Tawbah",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 177)",
+          "content_type": "navigation",
+          "page_number": 71,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "If it is said that such ceremonies are an expression of the cooperative relationship between people of the two faiths, this is good and permissible. I felt obligated to bring this matter to your attention in order to fulfill my duty of extending advice to people for the sake of Allah. Indeed, this serious matter may confuse some people. May Allah grant all Muslims and us success in establishing true brotherhood for the Sake of Allah and grant us affection in His Cause. May Allah guide humanity to accept the Deen of Allah sent down on His Prophet Muhammad (peace be upon him), adhere to it, judge by it, and abstain from all its prohibitions! Verily, this is the everlasting happiness and survival in this world and in the Hereafter. It provides a solution to every present problem and in the future, for it is extremely benevolent. May peace and blessings be upon His Servant and Messenger, Prophet Muhammad, upon his family and Companions!",
+          "content_type": "paragraph",
+          "page_number": 71,
+          "confidence": 0.9,
+          "notes": "Concluding remarks with prayer",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Opposing the Enemies among the Jews, Mushriks, and other Non­Muslims",
+        "content_type": "heading_major",
+        "page_number": 72,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 178)",
+          "content_type": "navigation",
+          "page_number": 72,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah. Peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance. Some local newspapers published a declaration of a person speaking about the situation in the Middle East after the Israeli aggression against the Arabs in which he said, \"We entertain no hostility towards the Jews and Judaism. We respect all divinely inspired faiths.\" Since this declaration about the Jews and Judaism is contrary to the Evident Text of the Noble Book (Qur'an) and the Purified Sunnah (whatever is reported from the Prophet). It also disagrees with the Islamic `Aqidah (creed). It is a declaration that can create confusion among some people. I thought it is necessary to warn people against the false statement included in it out of obedience to Allah and sincerity to His Servants. I say that it is evident in the Book, Sunnah, and all Muslim Scholars that Muslims should disapprove the disbelief of the unbelievers such as the Jews, the Christians, and all other Mushriks. They should beware of loving them or taking them friends. Allah the Glorified, in His manifest Book, to which no falsehood can come, informs us that the Jews and Mushriks are the most aggressive enemies of the believers.",
+          "content_type": "paragraph",
+          "page_number": 72,
+          "confidence": 0.9,
+          "notes": "Introduction explaining context and purpose",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) says: O you who believe! Take not My enemies and your enemies (i.e. disbelievers and polytheists) as friends, showing affection towards them, while they have disbelieved in what has come to you of the truth (i.e. Islâmic Monotheism, this Qur'ân, and Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) until the Ayah, Indeed there has been an excellent example for you in Ibrâhîm (Abraham) and those with him, when they said to their people: \"Verily, we are free from you and whatever you worship besides Allâh: we have rejected you, and there has started between us and you hostility and hatred for ever until you believe in Allâh Alone\"",
+          "content_type": "quran_verse",
+          "page_number": 72,
+          "confidence": 0.95,
+          "notes": "Quranic verses about not taking enemies as friends",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 179)",
+          "content_type": "navigation",
+          "page_number": 72,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Conclusion of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 76,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "the evidence (of his falsehood). If he repents, he is forgiven; otherwise he will be subject to capital punishment. This is in accordance with the previously mentioned Qur'anic verses and Prophet's Hadith which indicate the universality of the Message of Muhammad (peace be upon him) to all mankind. We seek help from Allah Who is Sufficient for us, and is the Best Disposer of affairs. We ask Allah, the Glorified and Exalted, to enable us to hold fast to His way, reform the affairs of all Muslims and grant His Servants the blessing of accepting His way and renouncing whatever opposes it. Verily, Allah has power over all things. May peace and blessings be upon His Servant and Messenger Muhammad, all other Prophets and Messengers, and all rightly guided people! Praise be to Allah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 76,
+          "confidence": 0.9,
+          "notes": "Concluding fatwa with dua and signature blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Islamic Solidarity",
+        "content_type": "heading_major",
+        "page_number": 77,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 190)",
+          "content_type": "navigation",
+          "page_number": 77,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise is due to Allah Alone. May peace and blessings be upon the Last Prophet.",
+          "content_type": "paragraph",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Opening blessing formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "Undoubtedly, Allah has created all creatures to worship Him Alone without associating partners with Him. Allah, the Glorified and Exalted, says, And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone). He (Exalted be He) also says, O mankind! Worship your Lord (Allâh), Who created you and those who were before you so that you may become Al­Muttaqûn (the pious ­ See V.2:2). Allah (Exalted be He) commands His Servants to hold fast to such worship. He sent the Messengers (peace be upon them) and revealed the Book (Qur'an) in order to clarify this right, explain it, and call to it. Allah (Exalted be He) says, Worship Allâh and join none with Him (in worship) He (Exalted be He) further says, And your Lord has decreed that you worship none but Him. The word \"decreed\" in this Ayah (Qur'anic verse) means \"commanded and advised strongly\". Allah (Exalted be He) says, And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him) He (may He be Praised) further says, And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): \"Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).\"",
+          "content_type": "paragraph",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Contains multiple Quranic verses within explanatory text",
+          "memory_agreement": true
+        },
+        {
+          "text": "And We did not send any Messenger before you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳـﻠﻢ) but We revealed to him (saying): Lâ ilâha illa Ana [none has the right to be worshipped but I (Allâh)], so worship Me (Alone and none else).\"",
+          "content_type": "quran_verse",
+          "page_number": 77,
+          "confidence": 0.95,
+          "notes": "Standalone Quranic verse with Arabic text",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 191)",
+          "content_type": "navigation",
+          "page_number": 77,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Exalted be He) also says, (This is) a Book, the Verses whereof are perfected (in every sphere of knowledge), and then explained in detail from One (Allâh), Who is All­Wise, Well­Acquainted (with all things). (Saying) worship none but Allâh. Verily, I (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) am unto you from Him a warner and a bringer of glad tidings. He (Exalted be He) says, This (Qur'an) is a Message for mankind (and a clear proof against them), in order that they may be warned thereby, and that they may know that He is the only One Ilâh (God ­ Allâh) ­ (none has the right to be worshipped but Allâh) ­ and that men of understanding may take heed.",
+          "content_type": "paragraph",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses within explanatory text",
+          "memory_agreement": true
+        },
+        {
+          "text": "Such Honorable Ayahs comprise the ordinance of worshipping Allah (Exalted be He) and the declaration that He has created Ath­Thaqalayn (the Jinn and mankind) for the purpose of performing such act of worship. Moreover, He sent the Messengers and revealed the Books to clarify and call for it. The true essence of such act of worship is the obedience for Allah (Exalted be He) and His Messenger (peace be upon him) by being sincere to Allah (Exalted be He) in performing all acts, submitting to His ordinances, abstinence from His prohibitions, helping one another in all these acts, putting our hearts in His hands, and asking Him for everything we need in a way that shows humbleness, submissiveness, belief, sincerity, truthfulness, Tawakkul (putting one's trust in Allah), hope, and fear. In addition, Muslims should follow all means which Allah (Exalted be He) has enjoined on His servants, ordained for them, and permitted them to take. They can righteously manage both religious and worldly matters. All servants can achieve good interests during their life and in the afterlife. Verily, there is neither goodness for Muslims, comfort for their hearts, nor tranquility for their consciences unless they devote themselves to Allah (Exalted be He), worship Him Alone, revere His sanctities, submit to His commands, abstain from His prohibitions, recommend and help each other to adhere to all these acts and preserve the Hudud (ordained punishments for violating Allah's Law) which He enjoined on His Servants.",
+          "content_type": "paragraph",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Explanatory text about worship and obligations",
+          "memory_agreement": false
+        },
+        {
+          "text": "These are the limits (set by) Allâh (or ordainments as regards laws of inheritance), and whosoever obeys Allâh and His Messenger (Muhammad ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) will be admitted to Gardens under which rivers flow (in Paradise), to abide therein, and that will be the great success. And whosoever disobeys Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and transgresses His limits, He will cast him into the Fire, to abide therein; and he shall have a disgraceful torment.",
+          "content_type": "quran_verse",
+          "page_number": 77,
+          "confidence": 0.95,
+          "notes": "Quranic verse about obedience and consequences",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 192)",
+          "content_type": "navigation",
+          "page_number": 77,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is well­known that Muslims can not manage their matters perfectly, settle their interests, unify their opinions or be feared by their enemies except with Islamic solidarity. The essence of this value is embodied in cooperation in piety and Taqwa, unity, compassion, exchange of advice, recommendation of Al­Haqq (the Truth), and persistence in acting truthfully. It is no doubt that such act is one of the most important Islamic duties and obligations of worship. The Qur'anic Ayahs and the Prophetic Hadiths mentioned that solidarity among Muslims, individuals and groups, governments and peoples, is one of the most important obligations. It is one of the duties necessary for every Muslim to attain righteousness, establish their religion, solve their problems, unify their lines and consolidate their efforts against their common enemy. There are many Nusus (Islamic texts from the Qur'an or the Sunnah) mentioned in this chapter and even if they did not mention the word 'solidarity', they did mention what indicates and refers to its meaning according to the scholars. Verily, things are measured by their essence and meanings, not by their abstract wordings. Solidarity means cooperation and supporting one another, consolidation, helping and recommending one",
+          "content_type": "paragraph",
+          "page_number": 77,
+          "confidence": 0.9,
+          "notes": "Explanation of Islamic solidarity concept",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Islamic Solidarity Discussion",
+        "content_type": "heading_minor",
+        "page_number": 78,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "another and any other word that pertains to such meaning. This meaning further comprises the propagation of virtue, prevention of vice, calling to the Way of Allah (Exalted be He) and guiding people to the means of happiness and survival. In addition, solidarity means to set right all matters of this world and the Hereafter including teaching those who are ignorant, helping the needy, supporting the oppressed, holding back the oppressors from committing unjust acts, establishing the Hudud (ordained punishments for violating Allah's Law), maintaining security,",
+          "content_type": "paragraph",
+          "page_number": 78,
+          "confidence": 0.9,
+          "notes": "Continuation from previous page about solidarity definition",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 193)",
+          "content_type": "navigation",
+          "page_number": 78,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "punishing those who are corrupt, securing the roads connecting Muslims inside and outside, and providing means of land, sea, and air transportation and means of telecommunications. This is done to achieve their common religious and worldly interests and to promote cooperation among Muslims concerning every act that may maintain Al­Haqq, establish justice, and propagate peace and security everywhere. Solidarity also includes reconciliation among Muslims, settlement of armed conflict among them, and fighting the aggressive group till it complies with the Command of Allah (Exalted be He) . This is in accordance with Allah's (Exalted be He) saying, So fear Allâh and adjust all matters of difference among you Allah (Glorified be He) also says: And if two parties or groups among the believers fall to fighting, then make peace between them both. But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the Command of Allâh. Then if it complies, then make reconciliation between them justly, and be equitable. Verily! Allâh loves those who are the equitable. The believers are nothing else than brothers (in Islâmic religion). So make reconciliation between your brothers, and fear Allâh, that you may receive mercy.",
+          "content_type": "paragraph",
+          "page_number": 78,
+          "confidence": 0.9,
+          "notes": "Contains Quranic verses about reconciliation within explanatory text",
+          "memory_agreement": false
+        },
+        {
+          "text": "In these noble Ayahs, Allah (Exalted be He) commands all Muslims to fear Him, undertake the mission of reconciling among them in general and reconciling between the two combating parties in particular, and fighting against the oppressive party until it refrains from its oppression provided that reconciliation is based on sound principles of justice and equity apart from prejudice and injustice. Moreover, those ayahs comprise a declaration that Muslims are all brothers even if they are different in their colors and tongues. This is regardless of how far their homelands are. Islam gathers, unites, and obligates them to treat each other with justice and cooperation and to abstain from transgressing against one another.",
+          "content_type": "paragraph",
+          "page_number": 78,
+          "confidence": 0.9,
+          "notes": "Commentary on the Quranic verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 194)",
+          "content_type": "navigation",
+          "page_number": 78,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 81,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Prophet's Companions and those who righteously followed them, (may Allah be pleased with them), succeeded greatly in acting on this way. Allah (Exalted be He) fulfilled His promise to them concerning honor, dignity, and victory as previously indicated and clarified at the beginning.",
+          "content_type": "paragraph",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Continuation of discussion about Prophet's Companions",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is no doubt that Allah (Exalted be He) fulfilled the previously mentioned promise for them due to their sincere faith, great Jihad (fighting/striving in the Cause of Allah), good deeds, patience, and calling others to patience, sincerity in everything they said and did, and solidarity and cooperation in such acts, not for their kinship or wealth. Allah (Exalted be He) says,",
+          "content_type": "paragraph",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Explanation of why Allah fulfilled His promise",
+          "memory_agreement": false
+        },
+        {
+          "text": "And it is not your wealth, nor your children that bring you nearer to Us (i.e. please Allâh), but only he who believes (in the Islâmic Monotheism), and does righteous deeds (will please Us); as for such, there will be twofold reward for what they did, and they will reside in the high dwellings (Paradise) in peace and security.",
+          "content_type": "quran_verse",
+          "page_number": 81,
+          "confidence": 0.95,
+          "notes": "Quranic verse about what pleases Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) also said that Allah (Exalted be He) never regards your faces nor your wealth, but He regards your hearts and deeds.This Hadith was reported by Muslim in his Sahih.",
+          "content_type": "hadith",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Hadith with citation to Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, We will indeed make victorious Our Messengers and those who believe (in the Oneness of Allâh ­ Islâmic Monotheism) in this world's life and on the Day when the witnesses will stand forth, (i.e. Day of Resurrection) ­ The Day when their excuses will be of no profit to Zâlimûn (polytheists, wrong­doers and disbelievers in the Oneness of Allâh). Theirs will be the curse, and theirs will be the evil abode (i.e. painful torment in Hell­fire).",
+          "content_type": "quran_verse",
+          "page_number": 81,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Allah's victory for believers",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 202)",
+          "content_type": "navigation",
+          "page_number": 81,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And, verily, Our Word has gone forth of old for Our slaves, the Messengers, That they verily would be made triumphant, And that Our hosts! they verily would be the victors.",
+          "content_type": "quran_verse",
+          "page_number": 81,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Allah's promise to Messengers",
+          "memory_agreement": true
+        },
+        {
+          "text": "and (as for) the believers, it was incumbent upon Us to help (them).",
+          "content_type": "quran_verse",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah, the Glorified and Exalted, unify all Muslims on the word of Truth, enable them to understand His religion, reform their rulers, and guide them all to Al­Sirat­ul­Mustaqim (the Straight Path). May Allah grant them sincerity in achieving solidarity among themselves and recommending and helping one another with goodness, safeguard them from separation, opposition, and deceitful temptations, and protect them from the enemies' schemes. Verily Allah is the Waliy (Guardian) and the Omnipotent. May peace and blessings be upon His servant and Messenger Muhammad, his Companions, and those who followed them righteously until the Day of Resurrection!",
+          "content_type": "paragraph",
+          "page_number": 81,
+          "confidence": 0.9,
+          "notes": "Concluding prayer/supplication",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Islam and Its Merits",
+        "content_type": "heading_major",
+        "page_number": 82,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 203)",
+          "content_type": "navigation",
+          "page_number": 82,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Introduction",
+          "content_type": "heading_minor",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Introduction subsection",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise is due to Allah. May peace and blessings be upon the Last Prophet. Allah, the Exalted, states, This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion. Allah (Glorified be He) also says: Truly, the religion with Allâh is Islâm. Allah (Glorified be He) also says: And whoever seeks a religion other than Islâm, it will never be accepted of him, and in the Hereafter he will be one of the losers.",
+          "content_type": "paragraph",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Opening with Quranic verses about Islam",
+          "memory_agreement": true
+        },
+        {
+          "text": "Islam is to submit to Allah by Tawhid (belief in the Oneness of Allah/monotheism), yielding to Him by obedience and leaving acts of Shirk (associating others with Allah in His Divinity or worship) and those who commit Shirk. Shirk was the belief of the Arabs before the advent of the Da`wah (calling to Islam) of Muhammad (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Definition of Islam and explanation of Shirk",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is narrated by Al­Bukhari that Abu Rajaa' Al­`Utaridi said, we used to worship a certain stone, but if we found a better stone, we would throw the first stone away and worship the other one. If we did not find any stone to worship, we would grasp a handful of dust, pour goat milk over it, then we would circumambulate it.",
+          "content_type": "hadith",
+          "page_number": 82,
+          "confidence": 0.9,
+          "notes": "Hadith describing pre-Islamic practices",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Islam and Its Merits",
+        "content_type": "heading_minor",
+        "page_number": 82,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 204)",
+          "content_type": "navigation",
+          "page_number": 82,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 205)",
+          "content_type": "navigation",
+          "page_number": 83,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 206)",
+          "content_type": "navigation",
+          "page_number": 83,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Thus, the mission of our Master Prophet Muhammad (peace be upon him) brought about Islam, the last of all faiths, not only for Arabs but for all people. The Prophet (peace be upon him) was sent at a time when all people were in dire need of someone to bring them out of darkness into light.",
+          "content_type": "paragraph",
+          "page_number": 83,
+          "confidence": 0.9,
+          "notes": "About Prophet Muhammad's universal mission",
+          "memory_agreement": false
+        },
+        {
+          "text": "This great Islamic faith is based on five basic principles, which are its pillars. They are mentioned in the Two Sahih (authentic) Books of Hadith (i.e. Al­Bukhari and Muslim) in the narration of Ibn `Umar (may Allah be pleased with them both) that the Prophet (peace be upon him) said, \"Islam was based on five pillars: testimony that there is no God but Allah and that Muhammad is the Messenger of Allah; performing Salah (prayers), giving Zakah; fasting Ramadan; and performing Hajj (pilgrimage).\"",
+          "content_type": "hadith",
+          "page_number": 83,
+          "confidence": 0.95,
+          "notes": "Famous hadith about five pillars of Islam",
+          "memory_agreement": true
+        },
+        {
+          "text": "The two Testimonies are the first and most important pillar of Islam.",
+          "content_type": "heading_minor",
+          "page_number": 83,
+          "confidence": 0.85,
+          "notes": "Beginning discussion of first pillar",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 207)",
+          "content_type": "navigation",
+          "page_number": 83,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The second pillar: performance of Salah (Prayer).",
+          "content_type": "heading_minor",
+          "page_number": 83,
+          "confidence": 0.9,
+          "notes": "Beginning discussion of second pillar",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 208)",
+          "content_type": "navigation",
+          "page_number": 83,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The third pillar: Giving Zakah (obligatory charity):",
+          "content_type": "heading_minor",
+          "page_number": 84,
+          "confidence": 0.9,
+          "notes": "Beginning discussion of third pillar",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 209)",
+          "content_type": "navigation",
+          "page_number": 84,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 210)",
+          "content_type": "navigation",
+          "page_number": 84,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The fourth pillar: Observing Sawm (Fast) during Ramadan:",
+          "content_type": "heading_minor",
+          "page_number": 84,
+          "confidence": 0.9,
+          "notes": "Beginning discussion of fourth pillar",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 211)",
+          "content_type": "navigation",
+          "page_number": 84,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The fifth pillar is Hajj (pilgrimage to Makkah) to the Sacred House (Ka'bah).",
+          "content_type": "heading_minor",
+          "page_number": 84,
+          "confidence": 0.9,
+          "notes": "Beginning discussion of fifth pillar",
+          "memory_agreement": true
+        },
+        {
+          "text": "Islam has other fundamentals that even if are not bases, they exist in the lives of Muslims and are applied to all matters. Among these principles is enjoining good and forbidding evil. Allah (Glorified be He) describes this Ummah (community sharing one belief) as the best Ummah",
+          "content_type": "paragraph",
+          "page_number": 85,
+          "confidence": 0.9,
+          "notes": "Discussion of additional Islamic principles",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 212)",
+          "content_type": "navigation",
+          "page_number": 85,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 213)",
+          "content_type": "navigation",
+          "page_number": 85,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Islam conclusion",
+        "content_type": "heading_minor",
+        "page_number": 86,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "Islam.\" This final faith has been revealed to set matters aright and guide people",
+          "content_type": "paragraph",
+          "page_number": 86,
+          "confidence": 0.9,
+          "notes": "Continuation of previous discussion about Islam",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 214)",
+          "content_type": "navigation",
+          "page_number": 86,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "to the right direction, including Tawhid (belief in the Oneness of Allah/monotheism), belief in His Prophets and Messengers, and inviting to what they called of Tawhid and submission to Allah. The religion was revealed while the Jews and the Christians were in great opposition. The Jews were known for their abuse of their prophets; they killed some of them and defamed others unjustly, so what about the infallible and the best of Allah's creatures! The Christians went to extremes in worshipping Jesus claiming that Allah, the Exalted, is one of three. Afterwards, Islam was revealed to establish Al­Haqq and nullify falsehood being just and moderate with neither exaggeration nor negligence. Allah (Glorified be He) says, Thus We have made you [true Muslims ­ real believers of Islâmic Monotheism, true followers of Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ and his Sunnah (legal ways)], a just (and the best) nation, that you be witnesses over mankind and the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) be a witness over you. Allah (Glorified and Exalted be He) prohibited and warned the People of the Book against exceeding the limits and warned this Community against following their path, stating, O people of the Scripture (Christians)! Do not exceed the limits in your religion, nor say of Allâh aught but the truth.",
+          "content_type": "paragraph",
+          "page_number": 86,
+          "confidence": 0.8,
+          "notes": "Contains Quranic verses within explanatory text",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is narrated by Al­Bukhari in his Sahih that `Umar Ibn Al­Khattab (may Allah be pleased with him) said that the Prophet (peace be upon him) said, \"Never deify me the way Christians deified `Iesa (Jesus), the son of Maryam (Mary), verily I am a servant, so call me the servant of Allah and His Messenger.\"",
+          "content_type": "hadith",
+          "page_number": 86,
+          "confidence": 0.9,
+          "notes": "Hadith from Al-Bukhari with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is authentically reported from Ibn `Abbas (may Allah be pleased with them both) that the Prophet (peace be upon him) stated, \"Do not exceed the limits in your faith for those who preceded you were destroyed due to their excessiveness in faith.\"",
+          "content_type": "hadith",
+          "page_number": 86,
+          "confidence": 0.9,
+          "notes": "Another hadith with chain of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "The merits of Islam are countless; how could they not be while Islam is the way of Allah Who knows all, has absolute wisdom, and irrefutable evidence. He is the All­Wise and the All­Knowing in every matter He ordains and legislates for His servants.",
+          "content_type": "paragraph",
+          "page_number": 86,
+          "confidence": 0.9,
+          "notes": "Explanatory text about Islam's merits",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 215)",
+          "content_type": "navigation",
+          "page_number": 86,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Our Messenger (peace be upon him) omitted nothing in calling to the good and guiding Muslims to it and left no evil except that he warned against it. It is narrated inSahih Muslim that `Abdullah Ibn `Amr Ibn Al­`As (may Allah be pleased with them both) said that the Prophet (peace be upon him) said, \"It is the duty of every Prophet whom Allah has sent to guide his followers to what he knew was good for them and warn them against what he knew was bad for them.\"",
+          "content_type": "paragraph",
+          "page_number": 86,
+          "confidence": 0.8,
+          "notes": "Contains hadith within explanatory text",
+          "memory_agreement": true
+        },
+        {
+          "text": "Similarly, it is reportedin Musnad (Hadith compilation of) of Imam Ahmad with an authentic chain of narrators that Abu Hurayrah (may Allah be pleased with him) said that the Prophet (peace be upon him) said, \"I was sent to perfect good character.\" The same Hadith was narrated by Al­Hafizh Al­Khara'ity, with a good chain of narration as follows: I was sent to perfect good morals.",
+          "content_type": "hadith",
+          "page_number": 86,
+          "confidence": 0.9,
+          "notes": "Hadith with multiple chains of narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "Finally, we notice nowadays that so many people accept Islam including Kafirs, Mushriks, and People of the Book; the Jews and the Christians. This is indeed an indication of the failure of other faiths and philosophies to bring tranquility, peace, and happiness to people. It is the duty of Muslims, especially the preachers, to expand their activities among these people in order to call them to the way of Allah. However, before doing so we must not forget to adhere to Islam through knowledge and practice. Indeed, mankind is urgently in need of people who will bring them out of darkness into light. And who is better in speech than he who [says: \"My Lord is Allâh (believes in His Oneness),\" and then stands firm (acts upon His Order), and] invites (men) to Allâh's (Islâmic Monotheism), and does righteous deeds, and says: \"I am one of the Muslims.\"",
+          "content_type": "paragraph",
+          "page_number": 86,
+          "confidence": 0.8,
+          "notes": "Contains Quranic verse within explanatory text",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah make us preachers of good, grant us the deep knowledge of our faith and success in calling to it insightfully. Verily, He is the Lord of everything and the Omnipotent. May Allah's Peace and Blessings be upon Muhammad, his family, and Companions!",
+          "content_type": "paragraph",
+          "page_number": 86,
+          "confidence": 0.9,
+          "notes": "Concluding prayer and blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Shari`ah: Merits and Man's Need for It",
+        "content_type": "heading_major",
+        "page_number": 87,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 2, Page No: 216)",
+          "content_type": "navigation",
+          "page_number": 87,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praises be to Allah. May peace and blessings be upon the Last Prophet, his family, and Companions! Since delivering scientific lectures is one of the best means of clarifying facts, presenting the merits of the subject­matter of the lecture, and expanding discussions on it, I thought that the suject of my lecture for tonight should be: \"Shari`ah: Merits and Man's Need for It\". I have chosen this subject for its great significance. It is well­known that studying the Islamic Shari`ah and relevant issues concerning its merits, benefits, and protection of servants, and every text concerning our need is indeed a great matter. In addition, our need for it is great. Understanding and paying attention to that issue is one of the most important matters. Being motivated by the importance of this subject, its significance, and our pressing need to understand it better and have more insight into it, I thought it should be the subject of my lecture. My dear brothers and sisters, my lecture has two aspects: First: Shari`ah and its merits. Second: The human need for it. I will speak about the two matters, God willing.",
+          "content_type": "paragraph",
+          "page_number": 87,
+          "confidence": 0.9,
+          "notes": "Introduction to the lecture topic",
+          "memory_agreement": false
+        },
+        {
+          "text": "First: The essence and merits of Shari`ah: It is well­known for Muslims and those who have the least knowledge about the reality of",
+          "content_type": "paragraph",
+          "page_number": 87,
+          "confidence": 0.8,
+          "notes": "Beginning of first main section",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 217)",
+          "content_type": "navigation",
+          "page_number": 87,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "the past ages that Allah (the Glorified and Exalted) sent all Messengers (peace be upon them) with Islam starting from Noah, the first Messenger, to the Last of them, Prophet Muhammad (peace and blessings be upon them). Our father Adam (peace be upon him) embraced Islam and so did all the generations that came after him until the people of Noah fell into the abyss of Shirk (associating others with Allah in His Divinity or worship). All people were all Muslims according to the narration of Ibn `Abbas (may Allah be pleased with them both) but later Shirk spread among the people of Noah through worshipping the pious people Wadd, Suwâ', Yaghûth, Ya'ûq, and Nasr. Allah (Exalted be He) sent Noah (peace be upon him) to his people when Shirk spread among them and he was the first messenger sent to people on earth as mentioned in the authentic Hadiths narrated from the Messenger of Allah (peace be upon him).",
+          "content_type": "paragraph",
+          "page_number": 87,
+          "confidence": 0.9,
+          "notes": "Historical context about messengers and Islam",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah sent all the Messengers (peace be upon them) with Islam. Allah (Glorified and Exalted be He) says: Truly, the religion with Allâh is Islâm. So Allah (Glorified be He) clarified that the religion with Him is Islam and no other religion. Afterwards, Allah (Glorified be He) assured that with another Ayah (Qur'anic verse) in which He says: And whoever seeks a religion other than Islâm, it will never be accepted of him, and in the Hereafter he will be one of the losers. So Allah (Glorified and Exalted be He) indicated that all ways are blocked except this way; Islam. He explained that Islam is the only religion whose followers will be accepted and those who embrace other religions will not be accepted. Allah (Glorified and Exalted be He) says, This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion. So He addressed this Ummah (nation based on one creed) through His Messenger Muhammad (peace be upon him) informing them that He has perfected their religion, completed His Favor upon them,",
+          "content_type": "paragraph",
+          "page_number": 87,
+          "confidence": 0.8,
+          "notes": "Contains multiple Quranic verses within explanatory text",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 218)",
+          "content_type": "navigation",
+          "page_number": 87,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and chosen for them Islam as their religion. Thus, this was an indication that Islam is the religion of Muhammad (peace be upon him) and the religion of this Ummah as well as the religion of all the past Prophets and Messengers (peace and blessings be upon them). Allah (Glorified be He) emphasized this by saying, He (Allâh) has ordained for you the same religion (Islâmic Monotheism) which He ordained for Nûh (Noah), and that which We have revealed to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ), and that which We ordained for Ibrâhîm (Abraham), Mûsâ (Moses) and ' Isâ (Jesus) saying you should establish religion (i.e. to do what it orders you to do practically), and make no divisions in it (religion) (i.e. various sects in religion). Intolerable for the Mushrikûn, is that (Islamic Monotheism) to which you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭ ﺳـﻠﻢ) call them. Allâh chooses for Himself whom He wills, and guides unto Himself who turns to Him in repentance and in obedience.",
+          "content_type": "quran_verse",
+          "page_number": 87,
+          "confidence": 0.9,
+          "notes": "Long Quranic verse with explanation",
+          "memory_agreement": true
+        },
+        {
+          "text": "So He addressed this Ummah informing them that He has ordained for them the same religion which He ordained for Noah.",
+          "content_type": "paragraph",
+          "page_number": 87,
+          "confidence": 0.9,
+          "notes": "Explanation following the Quranic verse",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Shari'ah discussion",
+        "content_type": "heading_minor",
+        "page_number": 88,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "himself? Truly, We chose him in this world and verily, in the Hereafter he will be among the righteous. When his Lord said to him,",
+          "content_type": "paragraph",
+          "page_number": 88,
+          "confidence": 0.8,
+          "notes": "Continuation from previous page",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Submit (i.e. be a Muslim)!\" He said, \"I have submitted myself (as a Muslim) to the Lord of the 'Alamîn (mankind, jinn and all that exists).\"",
+          "content_type": "paragraph",
+          "page_number": 88,
+          "confidence": 0.8,
+          "notes": "Quranic dialogue",
+          "memory_agreement": true
+        },
+        {
+          "text": "And this (submission to Allâh, Islâm) was enjoined by Ibrâhîm (Abraham) upon his sons and by Ya'qûb (Jacob) (saying), \"O my sons! Allâh has chosen for you the (true) religion, then die not except in the Faith of Islâm (as Muslims ­ Islâmic Monotheism).\"",
+          "content_type": "quran_verse",
+          "page_number": 88,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Abraham and Jacob",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 219)",
+          "content_type": "navigation",
+          "page_number": 88,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (may He be Praised) clarified that Ibrahim recommended his offspring to hold fast to Islam and so did Ya`qub (Jacob) with his children. He (Allah) mentioned the same about Noah (peace be upon him) in Surah Yunus which tells the story of Noah who told his people: and I have been commanded to be of the Muslims (i.e. those who submit to Allâh's Will). Like wise, Allah (Exalted be He) mentioned about Moses that he said, O my people! If you have believed in Allâh, then put your trust in Him if you are Muslims (those who submit to Allâh's Will). Relating the declaration of Bilqis (the queen of Sheba), Allah (Exalted be He) says, She said: \"My Lord! Verily, I have wronged myself, and I submit [in Islâm, together with Sulaimân (Solomon)] to Allâh, the Lord of the 'Alamîn (mankind, jinn and all that exists).\" From these Ayahs and their interpretation, we knew that Islam is the religion of all prophets and messengers (peace and blessings be upon them). It is verily the religion of Allah other than which there is no true religion. It is the religion that the messengers were commanded to announce and establish.",
+          "content_type": "paragraph",
+          "page_number": 88,
+          "confidence": 0.8,
+          "notes": "Contains multiple Quranic references within explanatory text",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Islamic Law and Divine Guidance",
+        "content_type": "heading_minor",
+        "page_number": 91,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Allah (Glorified and Exalted be He) stated that He put His Prophet Muhammad (peace be upon him) on the plain way of (His) commandment (i.e. legal ways and laws of the Islamic Monotheism) which means on an apparent, manifest way",
+          "content_type": "paragraph",
+          "page_number": 91,
+          "confidence": 0.9,
+          "notes": "Opening explanation of divine guidance",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 227)",
+          "content_type": "navigation",
+          "page_number": 91,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of commandment which is the true religion of Islam. Allah (Exalted be He) says, \"So follow you that (Islamic Monotheism and its laws)\" and \"follow\" here means to adhere and hold fast to it. It is a command to the Prophet (peace be upon him) and to the Ummah (nation based on one creed) as a whole, for any command directed to him is necessarily directed to us unless there is evidence that specifically confines to the Prophet (peace be upon him). Then Allah (Exalted be He) says, So follow you that (Islâmic Monotheism and its laws), and follow not the desires of those who know not. Here Allah (Glorified be He) warns against following the desires of people [who have no knowledge] and all those who oppose Shari`ah (Islamic law) have no knowledge.",
+          "content_type": "paragraph",
+          "page_number": 91,
+          "confidence": 0.9,
+          "notes": "Contains Quranic reference and explanation",
+          "memory_agreement": true
+        },
+        {
+          "text": "So follow you that (Islâmic Monotheism and its laws), and follow not the desires of those who know not.",
+          "content_type": "quran_verse",
+          "page_number": 91,
+          "confidence": 0.8,
+          "notes": "Quranic verse embedded in text",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) clarified that people can avail him nothing against Allah i.e. if he sided with them and followed their desires while Allah was protecting him from that, they can avail him nothing against Allah. All matters are in the Hand of Allah, the Glorified and Exalted, Who has power over everything, so no one can deviate His Messenger (peace be upon him) from the honor and assistance which Allah (Exalted be He) predestined for him.",
+          "content_type": "paragraph",
+          "page_number": 91,
+          "confidence": 0.9,
+          "notes": "Theological explanation",
+          "memory_agreement": true
+        },
+        {
+          "text": "And We have made from water every living thing.",
+          "content_type": "quran_verse",
+          "page_number": 91,
+          "confidence": 0.8,
+          "notes": "Quranic verse about water and life",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 228)",
+          "content_type": "navigation",
+          "page_number": 91,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "with the Prophet (peace and blessings be upon them) are apparent, plain, and manifest ways for those who ponder on them. They lead those who hold fast to and follow them in full conformity to survival, happiness and honorable prosperous life in this world and in the Hereafter.",
+          "content_type": "paragraph",
+          "page_number": 91,
+          "confidence": 0.9,
+          "notes": "Continuation about divine laws",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"I was sent with the magnanimous Hanifiyyah (The True Religion of Islam).\"",
+          "content_type": "hadith",
+          "page_number": 91,
+          "confidence": 0.8,
+          "notes": "Prophetic saying about Islam",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Religion is very easy and whoever overburdens himself in his religion will not be able to continue in that way.\"",
+          "content_type": "hadith",
+          "page_number": 91,
+          "confidence": 0.8,
+          "notes": "Hadith about ease in religion",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Ease and do not harden i.e. people's affairs, give glad tidings and do not dishearten them and be consistent and do not differ.\"",
+          "content_type": "hadith",
+          "page_number": 91,
+          "confidence": 0.8,
+          "notes": "Hadith about guidance to Muadh and Abu Musa",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 229)",
+          "content_type": "navigation",
+          "page_number": 91,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily,, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.8,
+          "notes": "Quranic verse about fearing Allah",
+          "memory_agreement": true
+        },
+        {
+          "text": "But for him who fears the standing before his Lord, there will be two Gardens (i.e. in Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.8,
+          "notes": "Quranic verse about Paradise",
+          "memory_agreement": true
+        },
+        {
+          "text": "So worship Allâh (Alone) by doing religious deeds sincerely for Allâh's sake only.",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.8,
+          "notes": "Quranic verse about sincere worship",
+          "memory_agreement": true
+        },
+        {
+          "text": "Surely the religion (i.e. the worship and the obedience) is for Allâh only.",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.8,
+          "notes": "Quranic verse about religion being for Allah alone",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 230)",
+          "content_type": "navigation",
+          "page_number": 92,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "So whoever hopes for the Meeting with his Lord, let him work righteousness and associate none as a partner in the worship of his Lord.",
+          "content_type": "quran_verse",
+          "page_number": 92,
+          "confidence": 0.8,
+          "notes": "Quranic verse about righteous deeds",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 231)",
+          "content_type": "navigation",
+          "page_number": 92,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 232)",
+          "content_type": "navigation",
+          "page_number": 92,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 233)",
+          "content_type": "navigation",
+          "page_number": 93,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "As­Sadaqât (here it means Zakât ) are only for the Fuqarâ' (poor), and Al­Masâkin (the poor) and those employed to collect (the funds), and to attract the hearts of those who have been inclined (towards Islâm), and to free the captives, and for those in debt, and for Allâh's Cause (i.e. for Mujahidûn ­ those fighting in a holy battle), and for the wayfarer (a traveller who is cut off from everything); a duty imposed by Allâh. And Allâh is All­Knower, All­Wise.",
+          "content_type": "quran_verse",
+          "page_number": 93,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Zakah distribution",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Every good deed of Adam's son is for him, the alms are rewarded for by ten multiplied to seven hundred times Allah (may He be Exalted) says: Except for fasting; it is for me and I shall reward (the fasting person) for it, he abstains from food and drink, and sexual desire for My Fake. The fasting person has two joyous occasions, one at the time of breaking his fast, and the other at the time of meeting his lord. Surely, the breath of one observing Sawm (fasting) is better smelling to Allah than the fragrance of musk.''",
+          "content_type": "hadith",
+          "page_number": 93,
+          "confidence": 0.9,
+          "notes": "Hadith about fasting rewards",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 234)",
+          "content_type": "navigation",
+          "page_number": 93,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "That they may witness things that are of benefit to them (i.e. reward of Hajj in the Hereafter, and also some worldly gain from trade), and mention the Name of Allâh on appointed days (i.e. 10th, 11th, 12th, and 13th day of Dhul­Hijjah)",
+          "content_type": "quran_verse",
+          "page_number": 93,
+          "confidence": 0.8,
+          "notes": "Quranic verse about Hajj benefits",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 235)",
+          "content_type": "navigation",
+          "page_number": 94,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Beware, there is a piece of flesh in the body; if it becomes good (reformed), the whole body becomes good but if it gets spoilt, the whole body gets spoilt. It is the heart.\"",
+          "content_type": "hadith",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Famous hadith about the heart",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Verily, Allah does not look to your faces nor your wealth but He looks to your hearts and to your deeds.\"",
+          "content_type": "hadith",
+          "page_number": 94,
+          "confidence": 0.9,
+          "notes": "Hadith about Allah looking at hearts and deeds",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 236)",
+          "content_type": "navigation",
+          "page_number": 95,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"The severer [of ties of kinship] shall not enter Paradise.\"",
+          "content_type": "hadith",
+          "page_number": 95,
+          "confidence": 0.8,
+          "notes": "Hadith about maintaining family ties",
+          "memory_agreement": true
+        },
+        {
+          "text": "Would you then, if you were given the authority, do mischief in the land, and sever your ties of kinship? Such are they whom Allâh has cursed, so that He has made them deaf and blinded their sight.",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.8,
+          "notes": "Quranic verse about severing kinship ties",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"Whoever is pleased that he be granted more wealth and that his lease of life be prolonged, should keep good relations with his kith and kin.\"",
+          "content_type": "hadith",
+          "page_number": 95,
+          "confidence": 0.8,
+          "notes": "Hadith about benefits of maintaining family ties",
+          "memory_agreement": true
+        },
+        {
+          "text": "Truly! This, your Ummah [Shari' ah or religion (Islâmic Monotheism)] is one religion, and I am your Lord, therefore worship Me (Alone). [Tafsîr Ibn Kathîr]",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.8,
+          "notes": "Quranic verse about unity of the Ummah with tafsir reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 237)",
+          "content_type": "navigation",
+          "page_number": 95,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another; they enjoin (on the people) Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden); they perform As­Salât (Iqâmat­as­Salât), and give the Zakât, and obey Allâh and His Messenger. Allâh will have His Mercy on them. Surely Allâh is All­Mighty, All­Wise.",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Quranic verse about believers supporting each other",
+          "memory_agreement": true
+        },
+        {
+          "text": "And hold fast, all of you together, to the Rope of Allâh (i.e. this Qur'ân), and be not divided among yourselves",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.8,
+          "notes": "Quranic verse about unity",
+          "memory_agreement": true
+        },
+        {
+          "text": "Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allâh. Verily, Allâh is Severe in punishment.",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Quranic verse about cooperation in righteousness",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 238)",
+          "content_type": "navigation",
+          "page_number": 95,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm.",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.8,
+          "notes": "Quranic verse about divine help",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, Allâh will help those who help His (Cause). Truly, Allâh is All­Strong, All­Mighty. Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat­as­Salât [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin Al­M a' rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al­Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur'ân as the law of their country in all the spheres of life]. And with Allâh rests the end of (all) matters (of creatures).",
+          "content_type": "quran_verse",
+          "page_number": 95,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Allah helping those who help His cause",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Islamic Shari'ah Discussion",
+        "content_type": "heading_minor",
+        "page_number": 96,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "another and wishing good for one another, enjoining Ma`ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect), forbidding Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect), helping one another in doing good deeds, and preventing one another from evil deeds. The Prophet (peace be upon him) said, \"None of you will believe until he loves for his brother what he loves for himself.\" Allah (Glorified and Exalted be He) says, The believers are nothing else than brothers (in Islâmic religion). So make reconciliation between your brothers A believer is the brother to another believer; he helps him do what is good and calls to it, forbids him from committing evil and reproaches him like when the Prophet (peace be upon him) said, \"Help your brother whether he is an oppressor or an oppressed!\" A man said, \"O Allah's Messenger of Allah, I will help him if he is oppressed but if he is an oppressor, how shall I help him?\" The Prophet (peace be upon him) said, \"By preventing him from oppressing (others), for this the manner of helping him.\" So, helping the oppressor is to prevent him from oppressing others and reproaching him.",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Contains hadith citations and Quranic references",
+          "memory_agreement": false
+        },
+        {
+          "text": "If Muslims",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Beginning of new paragraph",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 239)",
+          "content_type": "navigation",
+          "page_number": 96,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": false
+        },
+        {
+          "text": "carry out this work and cooperate, they will attain great success, honor, dignity, fear in their enemies' hearts and protection from their plots.",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Continuation of previous thought",
+          "memory_agreement": true
+        },
+        {
+          "text": "What also distinguishes the Shari`ah is that it regulates the transactions between Muslims through a precise system including equity, justice, and establishment of Al­Haqq between them without bias to a relative or friend. Everyone should be subject to justice and the Law of Allah without partiality to anyone just because he is a relative or a friend or because he has a certain job or is rich or poor. Everyone should be just in their transactions concerning justice, saying the truth and performing Amanah (the obligatory acts of worship). Allah (Glorified and Exalted be He) says, O you who believe! Stand out firmly for Allâh as just witnesses; and let not the enmity and hatred of others make you avoid justice. Be just: that is nearer to piety Allah (Glorified and Exalted be He) also says: O you who believe! Stand out firmly for justice i.e. be defenders and applicants of justice. as witnesses to Allâh, even though it be against yourselves, or your parents, or your kin, be he rich or poor, Allâh is a Better Protector to both (than you). So follow not the lusts (of your hearts), lest you avoid justice",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Contains Quranic verses about justice",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says, And whenever you give your word (i.e. judge between men or give evidence), say the truth even if a near relative is concerned, and fulfil the Covenant of Allâh Allah (Glorified and Exalted be He) ordains for all Muslims to deal with each other with justice and equity and to establish Al­Haqq between themselves justly and fairly without siding with a friend, a spouse, an old person, or a young person.",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Contains Quranic citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "One of the merits of this Shari`ah that indicates its greatness and validity for people every time and everywhere, is that Allah (Glorified and Exalted be He) has made their transactions absolutely open for all contracts,",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Beginning of discussion on Shari'ah merits",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 240)",
+          "content_type": "navigation",
+          "page_number": 96,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "sales, Ijarah (a lease for a lawful identified use or a hiring agreement), and the likes without confining these contracts to certain formulae to allow different peoples and nations to deal, each according to their habits, traditions, purposes and languages and in consideration of consequences. Allah (Glorified and Exalted be He) has made their contracts lawful and He did not specify certain terms for them but He left them absolute. Moreover, for their marriages, divorces, Nafaqah (obligatory financial support), litigations and disputes, Allah (Exalted be He) has provided a sound system that includes equity and justice. It should be taken into consideration the different habits, traditions, terminologies, environments, purposes, circumstances, ages and places within the limits of the Shari`ah as a whole, so that no one will be wronged. Allah (Glorified and Exalted be He) says, O you who believe! Fulfil (your) obligations. So, Allah (may He be Exaletd) imposed the obligations and says, whereas Allâh has permitted trading and forbidden Ribâ (usury). Allah (Glorified and Exalted be He) also says: Then if they give suck to the children for you, give them their due payment There are many Hadiths narrated by the Messenger of Allah (peace be upon him) concerning Musaqah (giving planted or unplanted trees and land to be tended for a specified share of the fruit), Muzara`ah (giving land for cultivation in return for a specified portion of the harvest), partnership, Ji`alah (payment for a permanent job, salary/wage), guarantees, Awqaf (Endowments), marriage, divorce, breastfeeding, and others in accordance with the Noble Qur'an.",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Detailed discussion of Islamic legal concepts",
+          "memory_agreement": true
+        },
+        {
+          "text": "These systems that were revealed by the Qur'an and authenticated by the Sunnah (whatever is reported from the Prophet) are clear and plain systems that regulate all the matters of the Muslim and are valid for all ages and places without debate. They have their own tradition in selling, purchasing, marriage, divorce, endowments, bequests and the like in order",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Discussion of Quranic and Sunnah systems",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 241)",
+          "content_type": "navigation",
+          "page_number": 96,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "not to associate things wrongfully. Allah (Exalted be He) stressed the same meaning, saying, but the father of the child shall bear the cost of the mother's food and clothing on a reasonable basis. In this Ayah, \"on a reasonable basis\" means \"as reasonably known\".",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Quranic interpretation",
+          "memory_agreement": true
+        },
+        {
+          "text": "In his great speech on the Farewell Hajj, the Prophet (peace be upon him) said, Their (i.e. wives) rights upon you are that you should provide them with food and clothing in a fitting manner. Allah (Glorified and Exalted be He) says, And We never punish until We have sent a Messenger (to give warning). to establish the incontrovertible evidence and give warning.",
+          "content_type": "paragraph",
+          "page_number": 96,
+          "confidence": 0.9,
+          "notes": "Contains hadith and Quranic reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says, And Allâh will never lead a people astray after He has guided them until He makes clear to them as to what they should avoid. Allah (Glorified and Exalted be He) says, And We have also sent down unto you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) the Dhikr [reminder and the advice (i.e. the Qur'ân)], that you may explain clearly to men what is sent down to them, and that they may give thought. So Allah (Glorified and Exalted be He) clarified that there should be a clarification (of the prohibitions) and that the clear evidence should be established, thus no one could be punished unless the supporting evidence is established against him.",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Contains Arabic text and Quranic verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "In his book (I`laam Al Muwaqqi`een), Ibn Al­Qayyim (may Allah be Merciful with him) discussed this point in a great chapter where he clarified that Shari`ah has guarded people's habits, intentions, traditions, and languages. So fatwas and legal rulings should be in consistency with them. A tradition of a certain town or region may be different from that of another town and region.",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Citation of Ibn Al-Qayyim's work",
+          "memory_agreement": false
+        },
+        {
+          "text": "A person may have intentions and purposes which are different from those of another person, and what is habitual for some people may not be the same for others; moreover, acts permitted in a certain age could be prohibited in another age. Da`wah (calling to Islam) at the age of the Prophet (peace be upon him) in Makkah was different (in its course) from Madinah due to the difference in time, place, strength and weakness. Indeed, this is out of Allah's great Wisdom and His attention to",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Discussion of contextual Islamic rulings",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 242)",
+          "content_type": "navigation",
+          "page_number": 97,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "His servants' circumstances. People may use some words in sale and endowment that refer to a different meaning or a different obligation for other people and the same can happen in divorce and Ijarah. Some acts are permitted in some ages but they are not permitted in another age, such as establishing Had (ordained punishment for violating Allah's Law) on the land of the enemy, in case some invaders committed violations that necessitated Had to be established on the enemy's land. Indeed, the Prophet (peace be upon him) prohibited Muslims from establishing Had on the enemy's land, because the one upon whom the Had is to be applied could become angry and motivated by the temptations of devil, he may renounce Islam and apostatize for that reason due to his being close to the enemy.",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Discussion of contextual application of Islamic punishments",
+          "memory_agreement": false
+        },
+        {
+          "text": "Another example is the year of famine; when there is a year of famine and people are distressed, thieves' hands should not be cut off if they admitted that they only committed theft out of poverty, distress, and need for anything to satisfy their hunger and fulfill their needs. That is because this case is a doubtful matter concerning the permissibility of cutting the hands and indeed Hudud are warded off by shubahat (a case where doubts and suspicions are there concerning the motives and causes of crime.)",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Example of contextual Islamic jurisprudence",
+          "memory_agreement": false
+        },
+        {
+          "text": "S o `Umar (may Allah be pleased with him and please him), during the Year of Ramadah (Famine Year), commanded the Muslims not to cut (the hand for theft) and gave this judgment because it was a doubtful matter. In this way, Muslims should take admonition from consequences as Allah (Glorified and Exalted be He) says, Then take admonition, O you with eyes (to see). Allah (Glorified and Exalted be He) also says: So be patient. Surely, the (good) end is for Al­Muttaqûn (the pious) Allah (Glorified and Exalted be He) also says: And insult not those whom they (disbelievers) worship besides Allâh, lest they insult Allâh wrongfully without knowledge. So Muslims should pay heed to the ends. Ibn Al­Qayyim (may Allah be Merciful with him) mentioned that sometimes commanding good may lead to committing an act which is more evil than the act which is meant to be prohibited. So in such a case, it is not permissible to prohibit the evil act if resisting evil could lead to a more evil and more grievous act.",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Historical example from Umar's caliphate with Quranic citations",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 243)",
+          "content_type": "navigation",
+          "page_number": 97,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "In this case, the evil act should not be permitted lest more evil should take place. This is mentioned in the chapter of considering consequences.",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Continuation of jurisprudential discussion",
+          "memory_agreement": true
+        },
+        {
+          "text": "For example, if there is a person who drinks Khamr (intoxicant), and you know that if you prohibit and prevent him from doing so, he will start killing people, abstinence from prohibiting him becomes the first priority because drinking Khamr is more tolerable than committing transgression against people by killing them. What is meant here is that Muslims should consider the consequences, habits, circumstances, conditions, purposes, intentions of people in their obligations and their behavior in dealing with one another, in establishing Hudud, in commanding good and forbidding evil. Muslims should consider gaining interests, warding off evils, gaining the greater interest by forsaking the lesser interest and avoiding the greater evil by committing the lesser evil in case of being unable to avoid both of them. These are great issues examined by our perfect Shari`ah and they are undoubtedly some of its merits. Every ruler and every person who has authority over people including a judge, a Mufty (Islamic scholar qualified to issue legal opinions), a commander and the likes should hold fast to it. All these matters are from the merits of this great Shari`ah.",
+          "content_type": "paragraph",
+          "page_number": 97,
+          "confidence": 0.9,
+          "notes": "Detailed example of Islamic jurisprudential principles",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is also of the merits of Shari`ah that it makes people free to earn their livelihood, in giving and taking, so a Muslim can freely earn, take, and give within the limits of Shari`ah. Allah (Exalted be He) says, He gets reward for that (good) which he has earned, and he is punished for that (evil) which he has earned. i.e. A Muslim will be rewarded for his good gains and will be punished for his evil gains. The Prophet (peace be upon him) said in an authentic Hadith, \"It is better for anyone of you to take a rope (and cut) and bring a bundle of wood (from the forest) over his back and sell it and Allah will save his face (from the Hell­Fire) because of that, rather than to ask the people who may give him or not.\" So the Prophet (peace be upon him) exhorted people to earn their living and clarified that it is much better than asking people (for charity).",
+          "content_type": "paragraph",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Discussion of earning livelihood with hadith citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "When the Prophet (peace be upon him) was asked about the best type of earning,",
+          "content_type": "paragraph",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Beginning of hadith narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 244)",
+          "content_type": "navigation",
+          "page_number": 98,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "he said, \"The work of a man's own hand, and every legitimate sale.\" He (Peace be upon him) also said, Nobody has ever eaten a better meal than that which he has earned by working with his own hands. The Prophet of Allah, David, used to eat from the earnings of his manual labor .",
+          "content_type": "hadith",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Prophetic traditions about earning livelihood",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Shari`ah prefers and encourages earning and working. It indicates that the one who works with his own hands is worthy of his earnings and it prohibits a Muslim from offending his brother, his wealth and his honor unless he has the right to do so. All these matters are from the merits of this great Law that protects people's wealth and honor. It protects their people and blood and commands them to earn their own living and encouraged them to. The noble Prophet (peace be upon him) said, \"Cherish that which gives you benefit (in the Hereafter) and seek help from Allah and do not lose heart, and if anything (in the form of trouble) comes to you, do not say: If I had not done that, it would not have happened so and so, but say: Allah did that what He had ordained to do and your \" if\" opens the (gate) for the Satan.\" This Hadith is reported by Muslim in his Sahih.If I were to mention everything about the greatness of the Shari`ah, its merits and care for the interests of Muslims during their life and after their death, it would take a very long time. This is just a small indication that is sufficient for a rational person to acknowledge the greatness of this Shari`ah and its care for the Muslims' circumstances and interests in the present and in the future.",
+          "content_type": "paragraph",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Contains hadith citation from Muslim",
+          "memory_agreement": true
+        },
+        {
+          "text": "Another merit of this Shari`ah is the command of Tawbah (repentance to Allah) as it reforms the past and protects (Muslims) from evil. Some people in the past used to attain repentance by killing the souls, but Allah sent His Mercy upon this Ummah (nation based on one creed) and ordained that Tawbah can be fulfilled by regret, abstinence, determination to not return to the sin, and by returning stolen rights to their owners. This is out of the Benevolence and Mercy bestowed by Allah (Exalted be He) upon the Ummah and it is really one of the merits of the Shari`ah that it granted humans the relief and expiation for their sins and evil doings through true repentance, Istighfar, resorting to Allah,",
+          "content_type": "paragraph",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Discussion of repentance in Islam",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 245)",
+          "content_type": "navigation",
+          "page_number": 98,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and righteous deeds. Whoever contemplates the Shari`ah with its resources and sources and considers its great and just rulings, its benevolence to all creatures and its care for the poor, the needy, the young, the old and others; and even animals, Shari`ah takes care of them and prohibits oppression and transgression against them, he will come to know that it is a law descended from Allah, the All­Wise, the Worthy of all praise, the All­Knowing of the circumstances of His Servants and the Well­Acquainted with what is best for them. He will also know that the Shari`ah is one of the decisive evidence for the existence of Allah (Exalted be He), His Perfect Power, Wisdom and Knowledge and the truthfulness of His Messenger (peace be upon him), for he is the Messenger of Allah. So when you ponder on the rulings of this Shari`ah and its great concern for the servants' affairs whether rich or poor, owners or workers, ruling or ruled, and individuals or groups, you can see that it pays much attention to all of them and enacted rulings based on benefit, justice, equity, benevolence, and mercy. Indeed, it is a Shari`ah full of benefits, morals, guidance and justice. If any matter deviated from justice to injustice, from benefit to harm and from mercy to its opposite, it does not belong to the Shari`ah even if it is falsely attributed to it by Ta'wil (allegorical interpretation) as stressed in meaning by the great scholar Ibn Al­Qayyim (may Allah be Merciful with him). Our Shari`ah is full of mercy, justice, and wisdom. It cares mostly for the Muslims' interests and is far removed from abuse, oppression, and hardship. Whoever ponders on that which was previously mentioned, will know what I meant in the second part of the title of this lecture which explains that humans are in great need of the Shari`ah because of its great benefits. It pays much concern to the Muslims' interests during their life and after their death and paves the way which leads to survival and happiness. Allah (Glorified and Exalted be He) indicates in His Book that His Law is a straight path; a plain path and a precious method.",
+          "content_type": "paragraph",
+          "page_number": 98,
+          "confidence": 0.9,
+          "notes": "Comprehensive discussion of Shari'ah's comprehensive nature",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 246)",
+          "content_type": "navigation",
+          "page_number": 98,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Whoever holds fast to it will survive and whoever deviates from it will perish. Whoever considers these matters as carefully as they should, will know that the Shari`ah is as the same as Nuh's (Noah's) Ark and whoever enters it survives and whoever missed it drowns. So, whoever holds fast to this great Shari`ah and persists in acting according to it will survive, but whoever deviates from it will perish. Indeed, there is neither might nor power except with Allah. It is clear for any rational Muslim that all the servants of Allah are in dire need of the Shari`ah for it introduces the solutions for their problems and includes just rulings and takes a moderate stance between corrupt Marxist, atheistic, Communism, and unfair, oppressive Capitalism. It is moderate in every thing as it has a moderate economy between the communism and materialism of the atheists and the oppressive capitalism which has no limits. So Shari`ah is intermediate between two extremes, just between these two unjust matters and moderate in all aspects; there is no extremity or exceeding of the proper limits and no extremity in aversion. This great Shari`ah is moderate in spending and abstention without extravagance or wastefulness and without abstention or niggardliness. Allah (Exalted be He) says, And let not your hand be tied (like a miser) to your neck, nor stretch it forth to its utmost reach (like a spendthrift), so that you become blameworthy and in severe poverty. Allah (Glorified be He) says concerning the attributes of the Servants of the Most Beneficent (Allah), And those who, when they spend, are neither extravagant nor niggardly, but hold a medium (way) between those (extremes). So whoever ponders on this matter and pays attention to it will know that the Shari`ah is both a religion and a state, a book and sword, an act of `Ibadah (worship) and good treatment (of others), Jihad (fighting in the Cause of Allah) and good deeds, spending money (in the way of Allah) and Ihsan (the perfection of Faith), obedience to Allah (Glorified and Exalted be He) and the Messenger of Allah (peace be upon him), repentance from past (sins) and performing good deeds for the future. It has all forms of goodness as it includes the good of the world and the Hereafter. It is not permissible to separate our religion from our worldly life",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Discussion of Shari'ah as moderate path with Quranic citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 247)",
+          "content_type": "navigation",
+          "page_number": 99,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "or to separate our worldly life from our religion, yet our religion and worldly life are closely associated with each other in this Shari`ah. Allah (Exalted be He) says, Verily! Allâh commands that you should render back the trusts to those to whom they are due; and that when you judge between men, you judge with justice. Verily, how excellent is the teaching which He (Allâh) gives you! Truly, Allâh is Ever All­Hearer, All­Seer. So it is the judge for all people, whether rulers or others and for individuals and groups, therefore, they should all adhere to its rulings and act under its authority in every matter. Whoever alleges that religion should be separated from the state and that religion is to be applied only in mosques and houses, whereas the state has the right to do whatever it likes and may judge according to whatever rulings it wants, has invented a grievous lie against Allah and His Messenger (peace be upon him) and has committed the most offensive act; it is an act of Kufr (disbelief) and deviation. We seek refuge with Allah from all these allegations, as all servants are obliged to submit to the rulings of Shari`ah and its laws, in acts of worship and other aspects of life. Certainly, the state should execute the rulings of Shari`ah and submit to its authority in all things. This is exactly the way followed by the Noble Prophet (peace be upon him), his noble Companions (may Allah be pleased with them and please them) and the Muslim Imams (rulers) after them in every aspect of life. Allah (Exalted be He) has made this Shari`ah a source of spirit, light and life for people. You may know that you are in dire need of it as are all humans, because it is the source of life, the light, and Al­Sirat­ul­Mustaqim (the Straight Path) which leads to survival. Without this light, there will be nothing but darkness, death, and misery. Allah (Glorified and Exalted be He) says in His Great Book, Is he who was dead (without Faith by ignorance and disbelief) and We gave him life (by knowledge and Faith) and set for him a light (of Belief) whereby he can walk amongst men ? like him who is in the darkness (of disbelief, polytheism and hypocrisy) from which he can never come out? Allah (Exalted be He) compares those who deviate from",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Strong statement against separation of religion and state with Quranic citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 248)",
+          "content_type": "navigation",
+          "page_number": 99,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Shari`ah to the dead and He describes those who follow its guidance with having life. Moreover, Allah (Exalted be He) associates those who refuse the Shari`ah with darkness and bestows upon those who follow it success and guidance. Allah (Glorified and Exalted be He) says, O you who believe! Answer Allâh (by obeying Him) and (His) Messenger when he (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) calls you to that which will give you life So life lies in our obedience to Allah (Exalted be He) and His Messenger (peace be upon him) and death lies in our deviation from them, so we should know that the Shari`ah is the source of life and happiness for such Ummah and that they can have neither life nor happiness without it. Allah (Glorified and Exalted be He) says, And thus We have sent to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) Ruh (a Revelation, and a Mercy) of Our Command. You knew not what is the Book, nor what is Faith? But We have made it (this Qur'ân) a light wherewith We guide whosoever of Our slaves We will. And verily, you (O Muhammad ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭ ﺳـﻠﻢ) are indeed guiding (mankind) to the Straight Path (i.e. Allâh's Religion of Islâmic Monotheism).",
+          "content_type": "quran_verse",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Contains Arabic text and extensive Quranic citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "So Allah (Glorified be He) has made the revelation sent upon Muhammad (peace be upon him) like a soul for His servants to define their life and as a light to reinforce their insight, survival, and following Al­Sirat­ul­ Mustaqim.",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Commentary on the Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Shari`ah is the soul of the Ummah by means of which it lives, rises, and gains victory. Moreover, it is the light by which the Ummah reaches the means of its survival and is guided to Al­Sirat­ul­Mustaqim. Al­ Sirat­u l­Mustaqim is the plain path which leads whoever passes over it to survival and causes whoever deviates from it to perish.",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Metaphorical description of Shari'ah",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says, Whoever works righteousness ­ whether male or female ­ while he (or she) is a true believer (of Islâmic Monotheism) verily, to him We will give a good life (in this world with respect, contentment and lawful provision), and We shall pay them certainly a reward in proportion to the best of what they used to do (i.e. Paradise in the Hereafter). Here Allah (Glorified be He) clarified that whoever acts righteously out of Iman (Faith), He will grant him a happy and good life. This is also an indication that the life led by the disbelievers who deviated from Shari`ah is not a good life but it is certainly an evil life; a life which is laden with distress, grief, sorrow, great problems and much sedition.",
+          "content_type": "paragraph",
+          "page_number": 99,
+          "confidence": 0.9,
+          "notes": "Quranic verse about righteous life with commentary",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 2, Page No: 249)",
+          "content_type": "navigation",
+          "page_number": 99,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is a life that resembles that of animals whose people have no obsession except their desires and instant luck. It is the same life led by animals but it my be worse and more astray for they did not utilize their minds by which they are distinguished from the animals. Allah (Glorified and Exalted be He) says, Or do you think that most of them hear or understand? They are only like cattle ­ nay, they are even farther astray from the Path (i.e. even worse than cattle). Allah (Glorified and Exalted be He) also says: while those who disbelieve enjoy themselves and eat as cattle eat; and the Fire will be their abode. Indeed, the life of those who deviated from Shari`ah is similar to death as they neither sense their duty nor understand the supreme aim for which they were created. Their life is similar to that of animals in the way that animals have no concern but their desires and instant luck and so does the disbeliever who abstains from the Shari`ah. Therefore, Allah has described the people of Faith and true guidance as seers and listeners and has described those who deviated from the Shari`ah with blindness and deafness. Moreover, Allah has associated those who follow the Shari`ah with life and has associated those who oppose it with death. Thus, my Muslim brothers and sisters, we know that the Shari`ah is the humans' source of life, happiness, and survival in this world and in the Hereafter and that they are in dire need to embrace it, abide by it, and hold fast to it because it is the essence of their life, victory, survival, and happiness in this world and the Hereafter. It also judges between them justly and restores the rights of the wronged from their oppressors. Therefore, this great Shari`ah is the greatest and the most perfect one and humans are in dire need to apply and abide by it. Muslims will find no solutions to their problems and will find no happiness or survival from their current state of dissociation,",
+          "content_type": "paragraph",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Comparison of believers and disbelievers with Quranic citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 2, Page No: 250)",
+          "content_type": "navigation",
+          "page_number": 100,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "difference, weakness and humbleness unless they resort and hold fast to it and abide by its teachings and rules.",
+          "content_type": "paragraph",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Conclusion about Muslim unity through Shari'ah",
+          "memory_agreement": true
+        },
+        {
+          "text": "I ask Allah (Glorified and Exalted be He) to grant us success in understanding it well and acting according to it. I ask Him to guide us and all His Servants to abide by it, follow its light, and be enlightened by its guidance. Indeed, He is Generous and Bountiful. I ask Allah (He be Glorified and Exalted) to reform all Muslim rulers and help them hold fast to this Shari`ah, act according to it, resort to it in all their disputes and take it as a judge in all matters. May Allah safeguard us and them from evil entourage and misguiding preachers. Indeed, He has power over all things. May peace and blessings be upon His Servant and Messenger Muhammad, his family, Companions, and those who follow them righteously until the Day of Resurrection. May peace, blessings, and mercy of Allah be upon you.",
+          "content_type": "signature",
+          "page_number": 100,
+          "confidence": 0.9,
+          "notes": "Concluding prayer and blessing",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

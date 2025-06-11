@@ -91,8 +91,8 @@ class IslamicContentAggregator {
       const volumeFiles = files
         .filter(file => file.name.match(/vol\d+/))
         .sort((a, b) => {
-          const aNum = parseInt(a.match(/vol(\d+)/)[1]);
-          const bNum = parseInt(b.match(/vol(\d+)/)[1]);
+          const aNum = parseInt(a.name.match(/vol(\d+)/)[1]);
+          const bNum = parseInt(b.name.match(/vol(\d+)/)[1]);
           return aNum - bNum;
         });
 

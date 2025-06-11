@@ -1,0 +1,715 @@
+{
+  "heading_patterns": {},
+  "question_patterns": {},
+  "arabic_patterns": [],
+  "scholar_names": [],
+  "classification_history": {
+    "short_text": {
+      "navigation": 374,
+      "list_item": 2,
+      "arabic_text": 1,
+      "paragraph": 158,
+      "heading_major": 2,
+      "quran_verse": 6,
+      "citation": 1,
+      "heading_minor": 4,
+      "hadith": 2,
+      "signature": 1
+    },
+    "long_text": {
+      "paragraph": 294,
+      "quran_verse": 89,
+      "fatwa_ruling": 40,
+      "hadith": 37,
+      "answer": 17,
+      "citation": 8,
+      "signature": 8,
+      "list_item": 6,
+      "question": 6,
+      "navigation": 2,
+      "arabic_text": 2
+    },
+    "islamic_keyword": {
+      "paragraph": 26,
+      "answer": 13,
+      "fatwa_ruling": 2,
+      "citation": 1,
+      "quran_verse": 5,
+      "question": 5,
+      "list_item": 1,
+      "navigation": 1
+    },
+    "contains_arabic": {
+      "quran_verse": 17,
+      "paragraph": 1
+    },
+    "question_marker": {
+      "question": 1
+    },
+    "answer_marker": {
+      "answer": 1
+    },
+    "numbered_item": {
+      "list_item": 6
+    }
+  },
+  "quran_references": {
+    "2:2": [
+      59,
+      101,
+      115,
+      156,
+      167
+    ],
+    "35:45": [
+      61
+    ],
+    "2:105": [
+      177
+    ]
+  },
+  "hadith_references": {
+    "Bukhari": [
+      24,
+      26,
+      46,
+      82,
+      83,
+      86,
+      141,
+      181
+    ],
+    "Muslim": [
+      24,
+      26,
+      46,
+      58,
+      81,
+      83,
+      108,
+      113,
+      126,
+      135,
+      141,
+      143,
+      167,
+      174,
+      181,
+      181,
+      181
+    ],
+    "Abu Dawud": [
+      33,
+      181
+    ],
+    "Ibn Majah": [
+      33
+    ],
+    "Nasa'i": [
+      112
+    ]
+  },
+  "document_structure": [
+    {
+      "page": 21,
+      "section_type": "heading_minor",
+      "heading": "Theological Discussion on Allah's Attributes and Tawhid",
+      "timestamp": "2025-06-11T14:44:57.725355"
+    },
+    {
+      "page": 26,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T14:49:21.420695"
+    },
+    {
+      "page": 27,
+      "section_type": "heading_major",
+      "heading": "Commentary on Al­`Aqidah Al­Tahawiyyah",
+      "timestamp": "2025-06-11T14:49:21.420943"
+    },
+    {
+      "page": 28,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
+      "timestamp": "2025-06-11T14:49:21.421149"
+    },
+    {
+      "page": 29,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
+      "timestamp": "2025-06-11T14:49:21.421321"
+    },
+    {
+      "page": 30,
+      "section_type": "heading_minor",
+      "heading": "Final Section of Al-Aqidah Al-Tahawiyyah Commentary",
+      "timestamp": "2025-06-11T14:49:21.421466"
+    },
+    {
+      "page": 31,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Al-'Aqidah Al-Tahawiyyah",
+      "timestamp": "2025-06-11T14:52:34.596090"
+    },
+    {
+      "page": 32,
+      "section_type": "heading_minor",
+      "heading": "The meaning of \"Al-Ma`iyyah\" and standing up in honor of another",
+      "timestamp": "2025-06-11T14:52:34.596213"
+    },
+    {
+      "page": 33,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Standing Up Ruling",
+      "timestamp": "2025-06-11T14:52:34.596391"
+    },
+    {
+      "page": 34,
+      "section_type": "heading_minor",
+      "heading": "The Sunni Creed in respect of the Divine Attribute of Istiwa' (Allah's rising over the Throne in a manner that befits Him)",
+      "timestamp": "2025-06-11T14:52:34.596502"
+    },
+    {
+      "page": 35,
+      "section_type": "heading_minor",
+      "heading": "Conclusion on Divine Attributes",
+      "timestamp": "2025-06-11T14:52:34.596728"
+    },
+    {
+      "page": 36,
+      "section_type": "heading_major",
+      "heading": "A Commentary and Explanation of an Article by Dr. Muhiy Al-Din Al-Safy entitled \"In Order to be the Most Powerful Ummah\" about Allah's Attributes",
+      "timestamp": "2025-06-11T14:53:44.380952"
+    },
+    {
+      "page": 39,
+      "section_type": "heading_major",
+      "heading": "Response to a question regarding Allah (may he be Exalted) Being Up and Above",
+      "timestamp": "2025-06-11T14:53:44.381122"
+    },
+    {
+      "page": 41,
+      "section_type": "heading_minor",
+      "heading": "Ruling on seeking help from other than Allah",
+      "timestamp": "2025-06-11T14:54:46.592107"
+    },
+    {
+      "page": 44,
+      "section_type": "heading_minor",
+      "heading": "Focusing on some matters related to swearing by other than Allah",
+      "timestamp": "2025-06-11T14:54:46.592355"
+    },
+    {
+      "page": 45,
+      "section_type": "heading_minor",
+      "heading": "The prohibition of taking oaths by anyone other than Allah",
+      "timestamp": "2025-06-11T14:54:46.592375"
+    },
+    {
+      "page": 46,
+      "section_type": "heading_minor",
+      "heading": "Ruling on visiting, consulting, and believing soothsayers and the like",
+      "timestamp": "2025-06-11T14:55:50.306351"
+    },
+    {
+      "page": 48,
+      "section_type": "heading_minor",
+      "heading": "A Legal Elaboration on Believing in Horoscopes",
+      "timestamp": "2025-06-11T14:55:50.306627"
+    },
+    {
+      "page": 50,
+      "section_type": "heading_minor",
+      "heading": "Necessity of approaching Allah with Tawbah and supplication in adversity",
+      "timestamp": "2025-06-11T14:55:50.306663"
+    },
+    {
+      "page": 51,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section",
+      "timestamp": "2025-06-11T14:56:48.654426"
+    },
+    {
+      "page": 53,
+      "section_type": "heading_minor",
+      "heading": "Sanctity of the Noble Qur'an",
+      "timestamp": "2025-06-11T14:56:48.654571"
+    },
+    {
+      "page": 54,
+      "section_type": "heading_minor",
+      "heading": "False Belief That Some Ayahs (Qur'anic verses) bring good and prevent harm",
+      "timestamp": "2025-06-11T14:56:48.654609"
+    },
+    {
+      "page": 55,
+      "section_type": "heading_minor",
+      "heading": "General Advice",
+      "timestamp": "2025-06-11T14:56:48.654626"
+    },
+    {
+      "page": 56,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section",
+      "timestamp": "2025-06-11T15:01:19.612257"
+    },
+    {
+      "page": 57,
+      "section_type": "heading_minor",
+      "heading": "Continuation of warning about judgment",
+      "timestamp": "2025-06-11T15:01:19.612647"
+    },
+    {
+      "page": 58,
+      "section_type": "heading_major",
+      "heading": "An Advice to All Muslims",
+      "timestamp": "2025-06-11T15:01:19.612670"
+    },
+    {
+      "page": 59,
+      "section_type": "heading_minor",
+      "heading": "Continuation of advice about Taqwa",
+      "timestamp": "2025-06-11T15:01:19.612878"
+    },
+    {
+      "page": 60,
+      "section_type": "heading_minor",
+      "heading": "Five Essential Matters",
+      "timestamp": "2025-06-11T15:01:19.613091"
+    },
+    {
+      "page": 61,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T15:02:52.588647"
+    },
+    {
+      "page": 62,
+      "section_type": "heading_minor",
+      "heading": "Advice and Guiding Outline",
+      "timestamp": "2025-06-11T15:02:52.588819"
+    },
+    {
+      "page": 62,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Advice and Guiding Outline",
+      "timestamp": "2025-06-11T15:02:52.588911"
+    },
+    {
+      "page": 63,
+      "section_type": "heading_minor",
+      "heading": "Continuation - Importance of Quran and Sunnah",
+      "timestamp": "2025-06-11T15:02:52.588946"
+    },
+    {
+      "page": 64,
+      "section_type": "heading_minor",
+      "heading": "Continuation - Believers vs Disbelievers",
+      "timestamp": "2025-06-11T15:02:52.589003"
+    },
+    {
+      "page": 65,
+      "section_type": "heading_minor",
+      "heading": "general advice to the leaders of Islamic countries and all Muslims",
+      "timestamp": "2025-06-11T15:02:52.589054"
+    },
+    {
+      "page": 66,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa discussion",
+      "timestamp": "2025-06-11T15:04:40.522256"
+    },
+    {
+      "page": 67,
+      "section_type": "heading_major",
+      "heading": "Speech to the Summit of the Islamic Summit Conference",
+      "timestamp": "2025-06-11T15:04:40.522417"
+    },
+    {
+      "page": 70,
+      "section_type": "heading_major",
+      "heading": "There is no Brotherhood between Muslims and Disbelievers and the Only True Religion is Islam",
+      "timestamp": "2025-06-11T15:04:40.522517"
+    },
+    {
+      "page": 71,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T15:05:52.593680"
+    },
+    {
+      "page": 72,
+      "section_type": "heading_major",
+      "heading": "Opposing the Enemies among the Jews, Mushriks, and other Non­Muslims",
+      "timestamp": "2025-06-11T15:05:52.594035"
+    },
+    {
+      "page": 76,
+      "section_type": "heading_minor",
+      "heading": "Conclusion of Previous Section",
+      "timestamp": "2025-06-11T15:07:15.248333"
+    },
+    {
+      "page": 77,
+      "section_type": "heading_major",
+      "heading": "Islamic Solidarity",
+      "timestamp": "2025-06-11T15:07:15.248386"
+    },
+    {
+      "page": 78,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Islamic Solidarity Discussion",
+      "timestamp": "2025-06-11T15:07:15.248546"
+    },
+    {
+      "page": 81,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T15:08:27.030996"
+    },
+    {
+      "page": 82,
+      "section_type": "heading_major",
+      "heading": "Islam and Its Merits",
+      "timestamp": "2025-06-11T15:08:27.031165"
+    },
+    {
+      "page": 82,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Islam and Its Merits",
+      "timestamp": "2025-06-11T15:08:27.031235"
+    },
+    {
+      "page": 86,
+      "section_type": "heading_minor",
+      "heading": "Islam conclusion",
+      "timestamp": "2025-06-11T15:10:13.523250"
+    },
+    {
+      "page": 87,
+      "section_type": "heading_major",
+      "heading": "Shari`ah: Merits and Man's Need for It",
+      "timestamp": "2025-06-11T15:10:13.523469"
+    },
+    {
+      "page": 88,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Shari'ah discussion",
+      "timestamp": "2025-06-11T15:10:13.523605"
+    },
+    {
+      "page": 91,
+      "section_type": "heading_minor",
+      "heading": "Islamic Law and Divine Guidance",
+      "timestamp": "2025-06-11T15:11:49.387450"
+    },
+    {
+      "page": 96,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Islamic Shari'ah Discussion",
+      "timestamp": "2025-06-11T15:15:45.311907"
+    },
+    {
+      "page": 101,
+      "section_type": "heading_major",
+      "heading": "true Adherence to Islam is The Cause of Victory and Salvation in The Hereafter",
+      "timestamp": "2025-06-11T15:16:43.783463"
+    },
+    {
+      "page": 102,
+      "section_type": "heading_minor",
+      "heading": "First: Not worshipping other than Allah Alone, and this is the meaning of the Shahadah (Testimony of Faith): \"La ilaha illa Allah\".",
+      "timestamp": "2025-06-11T15:16:43.783586"
+    },
+    {
+      "page": 102,
+      "section_type": "heading_minor",
+      "heading": "Second: Not worshipping Allah, except according to the Shari'ah of His Prophet Muhammad (peace be upon him).",
+      "timestamp": "2025-06-11T15:16:43.783616"
+    },
+    {
+      "page": 104,
+      "section_type": "heading_major",
+      "heading": "In the Shade of Shari`ah Security and Life are Guaranteed",
+      "timestamp": "2025-06-11T15:16:43.783641"
+    },
+    {
+      "page": 106,
+      "section_type": "heading_minor",
+      "heading": "Security and Guidance Through Islamic Law",
+      "timestamp": "2025-06-11T15:18:07.036586"
+    },
+    {
+      "page": 111,
+      "section_type": "heading_major",
+      "heading": "Islam as the true religion above all others",
+      "timestamp": "2025-06-11T15:19:04.430788"
+    },
+    {
+      "page": 114,
+      "section_type": "heading_major",
+      "heading": "Piety is the reason behind every good",
+      "timestamp": "2025-06-11T15:19:04.431015"
+    },
+    {
+      "page": 116,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Taqwa Discussion",
+      "timestamp": "2025-06-11T15:20:27.031550"
+    },
+    {
+      "page": 117,
+      "section_type": "heading_minor",
+      "heading": "Definition and Essence of Islam",
+      "timestamp": "2025-06-11T15:20:27.031648"
+    },
+    {
+      "page": 117,
+      "section_type": "heading_minor",
+      "heading": "Religion as Guidance and Gratitude",
+      "timestamp": "2025-06-11T15:20:27.031711"
+    },
+    {
+      "page": 118,
+      "section_type": "heading_minor",
+      "heading": "Conclusion and Supplication",
+      "timestamp": "2025-06-11T15:20:27.031735"
+    },
+    {
+      "page": 119,
+      "section_type": "heading_major",
+      "heading": "The knowledge of the Religious Rulings is the Most Important Obligation",
+      "timestamp": "2025-06-11T15:20:27.031781"
+    },
+    {
+      "page": 120,
+      "section_type": "heading_minor",
+      "heading": "Importance of Religious Knowledge",
+      "timestamp": "2025-06-11T15:20:27.031837"
+    },
+    {
+      "page": 121,
+      "section_type": "heading_major",
+      "heading": "Knowledge and Morals of Scholars",
+      "timestamp": "2025-06-11T15:21:26.618543"
+    },
+    {
+      "page": 126,
+      "section_type": "heading_major",
+      "heading": "In Pursuit of Knowledge",
+      "timestamp": "2025-06-11T15:22:50.279721"
+    },
+    {
+      "page": 128,
+      "section_type": "heading_major",
+      "heading": "A Piece of Advice to Seekers of Knowledge",
+      "timestamp": "2025-06-11T15:22:50.279939"
+    },
+    {
+      "page": 129,
+      "section_type": "heading_major",
+      "heading": "Ruling on learning and teaching positive law",
+      "timestamp": "2025-06-11T15:22:50.280045"
+    },
+    {
+      "page": 131,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Fatwa on Prayer Behind Different Categories of Imams",
+      "timestamp": "2025-06-11T15:26:15.694213"
+    },
+    {
+      "page": 133,
+      "section_type": "heading_major",
+      "heading": "A speech delivered at the first Conference for Da`wah and Du`ah held in Madinah in 1397 A.H.",
+      "timestamp": "2025-06-11T15:26:15.694409"
+    },
+    {
+      "page": 136,
+      "section_type": "heading_major",
+      "heading": "Da`wah to Allah",
+      "timestamp": "2025-06-11T15:29:00.871128"
+    },
+    {
+      "page": 138,
+      "section_type": "heading_major",
+      "heading": "The Impact of Da`wah on the Society",
+      "timestamp": "2025-06-11T15:29:00.871380"
+    },
+    {
+      "page": 139,
+      "section_type": "paragraph",
+      "heading": "Dear Muslim brother who seeks the truth, reflect upon the Qur'an and the Sunnah of your Prophet (peace be upon him) and learn the Islamic upright teachings,",
+      "timestamp": "2025-06-11T15:29:00.871583"
+    },
+    {
+      "page": 140,
+      "section_type": "heading_major",
+      "heading": "This is NOT the Proper way to Reform, O Hamad!",
+      "timestamp": "2025-06-11T15:29:00.871603"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa discussion",
+      "timestamp": "2025-06-11T15:30:38.253511"
+    },
+    {
+      "page": 142,
+      "section_type": "heading_minor",
+      "heading": "Da`wah to Allah is truly different from that, O Salih!",
+      "timestamp": "2025-06-11T15:30:38.253639"
+    },
+    {
+      "page": 142,
+      "section_type": "heading_minor",
+      "heading": "Ruling on Mawlid celebration",
+      "timestamp": "2025-06-11T15:30:38.253707"
+    },
+    {
+      "page": 143,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Mawlid discussion and death banquets",
+      "timestamp": "2025-06-11T15:30:38.253763"
+    },
+    {
+      "page": 143,
+      "section_type": "heading_minor",
+      "heading": "Death banquets ruling",
+      "timestamp": "2025-06-11T15:30:38.253806"
+    },
+    {
+      "page": 144,
+      "section_type": "heading_minor",
+      "heading": "Clarification on worship and Jahiliyyah matters",
+      "timestamp": "2025-06-11T15:30:38.253830"
+    },
+    {
+      "page": 145,
+      "section_type": "heading_major",
+      "heading": "Islamic Movements and the Role of Youth",
+      "timestamp": "2025-06-11T15:30:38.253862"
+    },
+    {
+      "page": 151,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section",
+      "timestamp": "2025-06-11T15:37:17.512930"
+    },
+    {
+      "page": 152,
+      "section_type": "heading_major",
+      "heading": "A Reply to the Claims of BBC",
+      "timestamp": "2025-06-11T15:37:17.513120"
+    },
+    {
+      "page": 153,
+      "section_type": "heading_major",
+      "heading": "Status of the Messenger and his knowing the Ghayb",
+      "timestamp": "2025-06-11T15:37:17.513148"
+    },
+    {
+      "page": 154,
+      "section_type": "heading_major",
+      "heading": "Answers to different questions on the amulets containing Qur'anic Ayahs and other things related to the Messenger of Allah (peace be upon him)",
+      "timestamp": "2025-06-11T15:37:17.513183"
+    },
+    {
+      "page": 156,
+      "section_type": "heading_question",
+      "heading": "Q 4 : Is it tantamount to Shirk if a person in any part of the world calls upon the Prophet (peace be upon him) saying: \"O Muhammad, the Messenger of Allah\"?",
+      "timestamp": "2025-06-11T15:38:29.704263"
+    },
+    {
+      "page": 157,
+      "section_type": "heading_question",
+      "heading": "Q 5 : If a man comes to the Prophet's tomb and invokes Allah's Peace and Blessings upon the Prophet (peace be upon him); does the Prophet hear or see him? Does believing in that entail any act of Shirk or not?",
+      "timestamp": "2025-06-11T15:38:29.704494"
+    },
+    {
+      "page": 159,
+      "section_type": "heading_minor",
+      "heading": "The Permissibility of invoking peace and blessings on the Prophet (May peace and blessings be upon him) in a complete form and the undesirability of referring to it with a letter or more",
+      "timestamp": "2025-06-11T15:38:29.704547"
+    },
+    {
+      "page": 161,
+      "section_type": "heading_major",
+      "heading": "A warning against Rashad Khalifa's rejection of the purified Sunnah",
+      "timestamp": "2025-06-11T15:40:20.297695"
+    },
+    {
+      "page": 163,
+      "section_type": "heading_major",
+      "heading": "An important warning against the extreme estimation of the Prophet (peace be upon him) and the Al­Haramayn Al­ Sharifayn (the Two Sacred Mosques: the Sacred Mosque in Makkah and the Prophet's Mosque in Madinah)",
+      "timestamp": "2025-06-11T15:40:20.298009"
+    },
+    {
+      "page": 166,
+      "section_type": "heading_major",
+      "heading": "An Important Warning Against A Poem Entitled \"The Visit\"",
+      "timestamp": "2025-06-11T15:42:13.759072"
+    },
+    {
+      "page": 168,
+      "section_type": "heading_major",
+      "heading": "A Call from the Islamic University in Al-Madinah Al-Munawwarah to All Muslims, Arab and non-Arab, everywhere",
+      "timestamp": "2025-06-11T15:42:13.759355"
+    },
+    {
+      "page": 171,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section on victory and Ma'iyyah",
+      "timestamp": "2025-06-11T15:43:09.157817"
+    },
+    {
+      "page": 174,
+      "section_type": "heading_major",
+      "heading": "The merit of Jihad (fighting/striving in the Cause of Allah) and Mujahids (those striving/fighting in the Cause of Allah)",
+      "timestamp": "2025-06-11T15:43:09.157988"
+    },
+    {
+      "page": 176,
+      "section_type": "heading_minor",
+      "heading": "Hadith on Jihad and Merit of Mujahids",
+      "timestamp": "2025-06-11T15:44:17.051472"
+    },
+    {
+      "page": 177,
+      "section_type": "heading_minor",
+      "heading": "the purpose of Jihad",
+      "timestamp": "2025-06-11T15:44:17.051615"
+    },
+    {
+      "page": 177,
+      "section_type": "heading_minor",
+      "heading": "Jihad in Islam passed through three phases:",
+      "timestamp": "2025-06-11T15:44:17.051706"
+    },
+    {
+      "page": 179,
+      "section_type": "heading_minor",
+      "heading": "Obligation of preparing against enemies",
+      "timestamp": "2025-06-11T15:44:17.051738"
+    },
+    {
+      "page": 181,
+      "section_type": "heading_major",
+      "heading": "Merit of Ribat and guarding in the Cause of Allah",
+      "timestamp": "2025-06-11T15:45:32.315502"
+    },
+    {
+      "page": 183,
+      "section_type": "heading_major",
+      "heading": "An interview by the Pakistani magazine: \"Takbir\"",
+      "timestamp": "2025-06-11T15:45:32.315758"
+    },
+    {
+      "page": 186,
+      "section_type": "heading_question",
+      "heading": "The fifth question: What are the successfully effective methods for practicing Da'wah (Call to believe in and worship Allah) in the present time?",
+      "timestamp": "2025-06-11T15:46:37.647439"
+    }
+  ],
+  "saved_at": "2025-06-11T15:46:38.649170"
+}

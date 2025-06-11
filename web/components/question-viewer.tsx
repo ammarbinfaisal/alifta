@@ -4,8 +4,7 @@ import { useState, useEffect } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { ArrowLeft, BookOpen, FileText, Hash, ChevronLeft, ChevronRight, Menu } from 'lucide-react';
-import { HeadingWithContent, getAllHeadingsWithContent } from '@/lib/client-data-fetcher';
-import { HeadingsData } from '@/lib/data-loader';
+import { HeadingWithContent, HeadingsData } from '@/lib/data-loader';
 import { HeadingsTableOfContents } from './headings-table-of-contents';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
@@ -14,34 +13,34 @@ interface QuestionViewerProps {
   questionData: HeadingWithContent;
   volumeId: number;
   volumeData?: HeadingsData;
+  allQuestions?: HeadingWithContent[];
 }
 
-export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionViewerProps) {
+export function QuestionViewer({ questionData, volumeId, volumeData, allQuestions = [] }: QuestionViewerProps) {
   const router = useRouter();
-  const [allQuestions, setAllQuestions] = useState<HeadingWithContent[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [loading, setLoading] = useState(true);
-  const [showTOC, setShowTOC] = useState<boolean>(true);
+  const [showTOC, setShowTOC] = useState<boolean>(false);
 
+  // Set initial TOC visibility based on screen size
   useEffect(() => {
-    const loadAllQuestions = async () => {
-      try {
-        const headings = await getAllHeadingsWithContent(volumeId);
-        const questionsWithContent = headings.filter(h => h.content_count > 0);
-        setAllQuestions(questionsWithContent);
-        
-        // Find current question index
-        const index = questionsWithContent.findIndex(q => q.section_id === questionData.section_id);
-        setCurrentIndex(index >= 0 ? index : 0);
-      } catch (error) {
-        console.error('Error loading questions:', error);
-      } finally {
-        setLoading(false);
-      }
+    const checkScreenSize = () => {
+      const isMobile = window.innerWidth < 768; // md breakpoint
+      setShowTOC(!isMobile);
     };
 
-    loadAllQuestions();
-  }, [volumeId, questionData.section_id]);
+    // Check on mount
+    checkScreenSize();
+
+    // Listen for resize events
+    window.addEventListener('resize', checkScreenSize);
+    return () => window.removeEventListener('resize', checkScreenSize);
+  }, []);
+
+  useEffect(() => {
+    // Find current question index
+    const index = allQuestions.findIndex(q => q.section_id === questionData.section_id);
+    setCurrentIndex(index >= 0 ? index : 0);
+  }, [allQuestions, questionData.section_id]);
 
   const getHeadingIcon = (type: string) => {
     switch (type) {
@@ -119,6 +118,21 @@ export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionV
 
   return (
     <div className="flex gap-6 max-w-7xl mx-auto px-4 py-8">
+      {/* Sticky Toggle Button */}
+      {volumeData && (
+        <div className="fixed top-4 right-4 z-50">
+          <Button 
+            variant="outline" 
+            size="sm" 
+            onClick={() => setShowTOC(!showTOC)}
+            className="shadow-lg bg-white"
+          >
+            <Menu className="w-4 h-4 mr-2" />
+            {showTOC ? 'Hide' : 'Show'} Index
+          </Button>
+        </div>
+      )}
+
       {/* Table of Contents Sidebar */}
       {showTOC && volumeData && (
         <div className="w-80 flex-shrink-0">
@@ -135,8 +149,8 @@ export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionV
       {/* Main Content */}
       <div className="flex-1 min-w-0">
         {/* Header with navigation */}
-        <div className="mb-8">
-          <div className="flex items-center justify-between mb-6">
+        <div className="mb-8 pb-4">
+          <div className="flex items-center justify-between pt-4 mb-6">
             <Link href={`/volume/${volumeId}`}>
               <Button variant="outline" size="sm" className="flex items-center gap-2">
                 <ArrowLeft className="w-4 h-4" />
@@ -145,17 +159,7 @@ export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionV
             </Link>
             
             <div className="flex items-center gap-4">
-              {volumeData && (
-                <Button 
-                  variant="outline" 
-                  size="sm" 
-                  onClick={() => setShowTOC(!showTOC)}
-                >
-                  <Menu className="w-4 h-4 mr-2" />
-                  {showTOC ? 'Hide' : 'Show'} Index
-                </Button>
-              )}
-              {!loading && (
+              {allQuestions.length > 0 && (
                 <div className="text-sm text-gray-600">
                   Question {currentIndex + 1} of {allQuestions.length}
                 </div>
@@ -164,7 +168,7 @@ export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionV
           </div>
 
           {/* Question navigation */}
-          {!loading && allQuestions.length > 1 && (
+          {allQuestions.length > 1 && (
             <div className="flex items-center justify-between mb-6">
               <Button
                 variant="outline"
@@ -253,7 +257,7 @@ export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionV
         </Card>
 
         {/* Related Questions Preview */}
-        {!loading && (previousQuestion || nextQuestion) && (
+        {(previousQuestion || nextQuestion) && (
           <div className="grid md:grid-cols-2 gap-6">
             {previousQuestion && (
               <Link href={`/volume/${volumeId}/section/${previousQuestion.section_id}`}>
@@ -264,11 +268,6 @@ export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionV
                       {previousQuestion.heading.text}
                     </CardTitle>
                   </CardHeader>
-                  <CardContent className="pt-0">
-                    <div className="text-sm text-gray-600">
-                      {previousQuestion.content_count} content items
-                    </div>
-                  </CardContent>
                 </Card>
               </Link>
             )}
@@ -282,11 +281,6 @@ export function QuestionViewer({ questionData, volumeId, volumeData }: QuestionV
                       {nextQuestion.heading.text}
                     </CardTitle>
                   </CardHeader>
-                  <CardContent className="pt-0">
-                    <div className="text-sm text-gray-600">
-                      {nextQuestion.content_count} content items
-                    </div>
-                  </CardContent>
                 </Card>
               </Link>
             )}

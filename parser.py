@@ -409,7 +409,7 @@ CRITICAL: Return ONLY the JSON response, no additional text or explanation.
         
         # Use correct model name for Claude 3.5 Sonnet
         payload = {
-            "model": "claude-3-5-sonnet-20241022",
+            "model": "claude-sonnet-4-20250514",
             "max_tokens": 30000,
             "messages": [
                 {
@@ -426,7 +426,7 @@ CRITICAL: Return ONLY the JSON response, no additional text or explanation.
             try:
                 logger.info(f"API call attempt {attempt + 1}/{max_retries}")
                 
-                async with session.post(self.base_url, headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=120)) as response:
+                async with session.post(self.base_url, headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=240)) as response:
                     if response.status == 200:
                         result = await response.json()
                         content = result["content"][0]["text"]

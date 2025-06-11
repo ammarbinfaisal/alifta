@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -116,7 +116,22 @@ function HeadingItem({ heading, volumeId }: HeadingItemProps) {
 export function IslamicContentViewer({ data, volumeId }: IslamicContentViewerProps) {
   const [expandedSections, setExpandedSections] = useState<Set<number>>(new Set());
   const [filterType, setFilterType] = useState<string>('all');
-  const [showTOC, setShowTOC] = useState<boolean>(true);
+  const [showTOC, setShowTOC] = useState<boolean>(false);
+
+  // Set initial TOC visibility based on screen size
+  useEffect(() => {
+    const checkScreenSize = () => {
+      const isMobile = window.innerWidth < 768; // md breakpoint
+      setShowTOC(!isMobile);
+    };
+
+    // Check on mount
+    checkScreenSize();
+
+    // Listen for resize events
+    window.addEventListener('resize', checkScreenSize);
+    return () => window.removeEventListener('resize', checkScreenSize);
+  }, []);
 
   const toggleSection = (sectionId: number) => {
     const newExpanded = new Set(expandedSections);
@@ -164,6 +179,19 @@ export function IslamicContentViewer({ data, volumeId }: IslamicContentViewerPro
 
   return (
     <div className="flex gap-6 max-w-7xl mx-auto px-4 py-8">
+      {/* Sticky Toggle Button */}
+      <div className="fixed top-4 right-4 z-50">
+        <Button 
+          variant="outline" 
+          size="sm" 
+          onClick={() => setShowTOC(!showTOC)}
+          className="shadow-lg bg-white"
+        >
+          <Menu className="w-4 h-4 mr-2" />
+          {showTOC ? 'Hide' : 'Show'} TOC
+        </Button>
+      </div>
+
       {/* Table of Contents Sidebar */}
       {showTOC && (
         <div className="w-80 flex-shrink-0">
@@ -179,24 +207,13 @@ export function IslamicContentViewer({ data, volumeId }: IslamicContentViewerPro
 
       {/* Main Content */}
       <div className="flex-1 min-w-0">
-        {/* Header with statistics */}
-        <div className="mb-8">
-          <div className="flex items-center justify-between mb-4">
+        {/* Header */}
+        <div className="mb-8 pb-4">
+          <div className="flex items-center justify-between pt-4">
             <h1 className="text-3xl font-bold text-gray-900">
               Volume {volumeId} - Headings & Content
             </h1>
-            <div className="flex gap-2">
-              <Button 
-                variant="outline" 
-                size="sm" 
-                onClick={() => setShowTOC(!showTOC)}
-              >
-                <Menu className="w-4 h-4 mr-2" />
-                {showTOC ? 'Hide' : 'Show'} TOC
-              </Button>
-            </div>
           </div>
-
         </div>
 
         {/* Headings list */}

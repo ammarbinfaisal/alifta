@@ -1,0 +1,472 @@
+{
+  "batch_number": 20,
+  "sections_count": 25,
+  "timestamp": "2025-06-11T18:21:43.949100",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Religious Discussion",
+        "content_type": "heading_minor",
+        "page_number": 17,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "by them. Allah (Exalted be He) abrogated them by sending His Prophet Muhammad (peace be upon him) and ordained humans and Jinn to follow him and adhere to his Shari'ah. Allah (Glorified and Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Introductory text leading to Quranic verse"
+        },
+        {
+          "text": "( Part No : 3, Page No: 44)",
+          "content_type": "navigation",
+          "page_number": 17,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and My Mercy embraces all things. That (Mercy) I shall ordain for those who are the Muttaqûn (the pious ­ See V.2:2), and give Zakât; and those who believe in Our Ayât (proofs, evidence, verses, lessons, signs and revelations, etc.) Those who follow the Messenger, the Prophet who can neither read nor write (i.e. Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) whom they find written with them in the Taurât (Torah) (Deut, xviii 15) and the Injeel (Gospel) (John xiv, 16), ­ he commands them for Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm has ordained); and forbids them from Al­Munkar (i.e. disbelief, polytheism of all kinds, and all that Islâm has forbidden); he allows them as lawful At­Tayyibât (i.e. all good and lawful as regards things, deeds, beliefs, persons, foods), and prohibits them as unlawful Al­Khabâ'ith (i.e. all evil and unlawful as regards things, deeds, beliefs, persons and foods), he releases them from their heavy burdens (of Allâh's Covenant with the children of Israel), and from the fetters (bindings) that were upon them. So those who believe in him (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), honour him, help him, and follow the light (the Qur'ân) which has been sent down with him, it is they who will be successful.",
+          "content_type": "quran_verse",
+          "page_number": 17,
+          "confidence": 0.95,
+          "notes": "Quranic verse with translation and commentary"
+        },
+        {
+          "text": "These two Ayahs exclude the Jews, Christians, Buddhists, and all Mushriks from Islam and from attaining success, as they do not possess the characteristics with which Allah describes those who will be successful. None of them supported him or followed the light (the Qur'an) which has been sent down with him; they were all hostile to him, except those whom Allah has guided from among them, who will be with the successful Muslims. Allah (Glorified and Exalted be He) says after those two Ayahs:",
+          "content_type": "paragraph",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Scholarly commentary on the verses"
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"O mankind! Verily, I am sent to you all as the Messenger of Allâh ­ to Whom belongs the dominion of the heavens and the earth. Lâ ilâha illa Huwa (none has the right to be worshipped but He). It is He Who gives life and causes death. So believe in Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), the Prophet who can neither read nor write (i.e. Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), who believes in Allâh and His Words [(this Qur'ân), the Taurât (Torah) and the Injeel (Gospel) and also Allâh's Word: \"Be!\" ­ and he was, i.e. 'Isâ (Jesus) son of Maryam (Mary), ﻋﻠﻴﻬﻤﺎ ﺍﻟﺴﻼﻡ], and follow him so that you may be guided.\"",
+          "content_type": "quran_verse",
+          "page_number": 17,
+          "confidence": 0.95,
+          "notes": "Another Quranic verse with translation"
+        },
+        {
+          "text": "In this Ayah, Allah (Exalted be He) explains that He sent His Messenger, Muhammad (peace be upon Him), to all people, Arabs and non­Arabs, men and women, Jinn and humans, rich and poor, rulers and subjects. He (Exalted be He) also clarifies that there is no guidance except for those who believe in and follow the Prophet. This shows that all the sects that do not believe in him (peace be upon him) and do not follow him are Kafirs and astray.",
+          "content_type": "paragraph",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Scholarly interpretation of the verse"
+        },
+        {
+          "text": "\"The prophet used to be sent just to his own people, but I have been sent to all people.\"",
+          "content_type": "hadith",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition"
+        },
+        {
+          "text": "(Agreed upon as Sahih [Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish] by Al­Bukhari and Muslim)",
+          "content_type": "citation",
+          "page_number": 17,
+          "confidence": 0.95,
+          "notes": "Hadith authentication and source"
+        },
+        {
+          "text": "\"By the One in Whose Hand is the soul of Muhammad, no one from this nation, whether a Jew or a Christian, hears of me and then dies not believing in that with which I have been sent, but will be one",
+          "content_type": "hadith",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Another hadith from Sahih Muslim"
+        },
+        {
+          "text": "( Part No : 3, Page No: 45)",
+          "content_type": "navigation",
+          "page_number": 17,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of the people of the Fire.\" There are many other Ayahs with this same meaning. Whatever truth the Shari'ah of the Tawrah and Injil contained, the Shari' ah of Muhammad (peace be upon him) also contains it or what is better and more perfect than it, as Allah (Glorified and Exalted be He) says:",
+          "content_type": "paragraph",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Continuation of hadith and scholarly commentary"
+        },
+        {
+          "text": "This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion.",
+          "content_type": "quran_verse",
+          "page_number": 17,
+          "confidence": 0.95,
+          "notes": "Quranic verse about perfection of Islam"
+        },
+        {
+          "text": "islam is the Din (religion) of all the Messengers; as Allah (Glorified and Exalted be He) says: Truly, the religion with Allâh is Islâm. And He (Glorified and Exalted be He) says: And whoever seeks a religion other than Islâm, it will never be accepted of him, and in the Hereafter he will be one of the losers.",
+          "content_type": "paragraph",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Contains embedded Quranic verses within commentary"
+        },
+        {
+          "text": "During the time of Nuh (Noah, peace be upon him), Islam was believing in Allah, professing Tawhid (belief in the Oneness of Allah/ monotheism), making ' Ibadah (worship) pure and sincere to Him Alone, believing in Nuh (peace be upon him), and following his Message. Likewise, during the times of Hud, Salih, Ibrahim (Abraham), and the prophets who came after them until and including Musa and ' Isa (peace be upon them all), the Din was Tawhid, being sincere to Him, believing in the Messenger whom Allah had commissioned, and following the Message he came with. When Allah sent His Prophet Muhammad (peace be upon him), the Islam that Allah accepts became the one He divinely revealed to His Prophet, Muhammad (peace be upon him), which is belief in Allah, profession of Tawhid, sincerity in 'Ibadah to Him, belief in His Messenger, Muhammad (peace be upon him) and what was revealed to him, i.e. the Qur'an and the Sunnah, and belief in those prophets and Messengers who were commissioned before him. Whoever follows him and believes in what he came with is a Muslim, and whoever deviates from that after they have heard the Da'wah (Call to Islam) is a Kafir. It is the duty of Muslims to invite people to Al­Haqq (the Truth), explain Islam and its merits, show its reality to all people in the languages they understand, in order to convey the Message of Allah and His Prophet. They must also expose and refute the suspicions that are raised by the enemies of Islam against Islam, and explain their falseness using textual and rational evidence.",
+          "content_type": "paragraph",
+          "page_number": 17,
+          "confidence": 0.9,
+          "notes": "Extended scholarly explanation about Islam through different prophetic periods"
+        },
+        {
+          "text": "( Part No : 3, Page No: 46)",
+          "content_type": "navigation",
+          "page_number": 17,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) has obligated all Muslims to support His Din and His Messenger, Muhammad (peace be upon him). He (Exalted be He) has informed that there will be no salvation or success, except for those who support and follow Al­Haqq. Accordingly, it is known that criticizing the Christianity that has been attributed to a so­called son of Allah, clarifying its falsehood and it being a Din that has been changed and distorted by the people, and later abrogated by sending Prophet Muhammad (peace be upon him) and his Shari' ah is obligatory on Muslims. Christianity is no longer a right Din for us or anyone; the true Din that should be embraced by Muslims and all people is the Islam with which Allah sent Prophet Muhammad (peace be upon him). Muslims are enjoined to invite others to their religion, defend it, and show the falsity of all religions, including Judaism and Christianity, except Islam. By doing so, they are inviting people to Al­Haqq and Jannah (Paradise), while others are inviting people to the Fire. Allah (Exalted be He) forbade our men to marry Mushrik women and our women to marry Mushrik men, saying: Those (Al­Mushrikûn) invite you to the Fire, but Allâh invites (you) to Paradise",
+          "content_type": "fatwa_ruling",
+          "page_number": 17,
+          "confidence": 0.85,
+          "notes": "Religious ruling about Muslim obligations regarding other religions"
+        },
+        {
+          "text": "Allah (Exalted be He) is inviting people to Jannah and Forgiveness, and to the good deeds that lead to winning them, and so did His Prophet (peace be upon him) and so should the Muslims who are well informed about Islam, who should call others to it using clear evidence. As to the Kafirs, they are only inviting people to Hellfire with their books, publications, and mass media. Accordingly, it becomes clear that it is totally impermissible to say, \"Islam and Christianity are two revealed religions\", as Christianity is no longer a divinely revealed religion, as it has suffered change and distortion. The truth that was left of it was then abrogated by the guidance and the religion of truth that Allah (Exalted be He) revealed to His Prophet Muhammad (peace be upon him). As for the writer's saying, \"we both believe in one God\", this is only applies to the Muslims, as they believe in, worship, and obey the one God, Allah (Glorified and Exalted be He), the Lord and Creator of the heavens, the earth, and everything. Allah (Exalted be He) says in His Truth­Clarifying Book:",
+          "content_type": "fatwa_ruling",
+          "page_number": 17,
+          "confidence": 0.85,
+          "notes": "Continuation of religious ruling with specific prohibitions"
+        },
+        {
+          "text": "And your Ilâh (God) is One Ilâh (God ­ Allâh), Lâ ilâha illa Huwa (there is none who has the right to be worshipped but He), the Most Gracious, the Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 17,
+          "confidence": 0.95,
+          "notes": "Quranic verse about monotheism",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 47)",
+          "content_type": "navigation",
+          "page_number": 17,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator"
+        },
+        {
+          "text": "And He (may He be Praised) says in His Book: Indeed your Lord is Allâh, Who created the heavens and the earth in Six Days, and then He rose over (Istawâ) the Throne (really in a manner that suits His Majesty). He brings the night as a cover over the day, seeking it rapidly, and (He created) the sun, the moon, the stars subjected to His Command. Surely, His is the Creation and Commandment.",
+          "content_type": "quran_verse",
+          "page_number": 17,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Allah's creation and dominion"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Religious Discussion",
+        "content_type": "heading_minor",
+        "page_number": 18,
+        "confidence": 0.7
+      },
+      "content_items": [
+        {
+          "text": "Blessed is Allâh, the Lord of the 'Alamîn (mankind, jinn and all that exists)! And He (may He be Praised) says: Allâh! Lâ ilâha illa Huwa (none has the right to be worshipped but He), Al­Hayyul­Qayyum (the Ever Living, the One Who sustains and protects all that exists). Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them (His creatures) in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Kursî extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. [This Verse 2:255 is called Ayat­ul­Kursî]",
+          "content_type": "quran_verse",
+          "page_number": 18,
+          "confidence": 0.95,
+          "notes": "Ayat al-Kursi with translation and reference"
+        },
+        {
+          "text": "And He (Glorified and Exalted be He) says: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"He is Allâh, (the) One.",
+          "content_type": "quran_verse",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Beginning of Surah Al-Ikhlas",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"Allâh­us­Samad (ﺍﻟﺴﻴﺪ ﺍﻟﺬﻱ ﻳﺼﻤﺪ ﺇﻟﻴﻪ ﻓﻲ ﺍﻟﺤﺎﺟﺎﺕ) [Allâh the Self­Sufficient Master, Whom all creatures need, (He neither eats nor drinks)].",
+          "content_type": "quran_verse",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Continuation of Surah Al-Ikhlas with Arabic and translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"He begets not, nor was He begotten.",
+          "content_type": "quran_verse",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Continuation of Surah Al-Ikhlas",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"And there is none co­equal or comparable unto Him.\"",
+          "content_type": "quran_verse",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Final verse of Surah Al-Ikhlas"
+        },
+        {
+          "text": "As for the Jews and Christians, they associate others with Allah in worship and do not worship one God; as Allah (Exalted be He) says: Surely, disbelievers are those who said: \"Allâh is the third of the three (in a Trinity).\" But there is no Ilâh (god) (none who has the right to be worshipped) but One Ilâh (God ­ Allâh).",
+          "content_type": "paragraph",
+          "page_number": 18,
+          "confidence": 0.85,
+          "notes": "Scholar's commentary with embedded Quranic verse"
+        },
+        {
+          "text": "And He (may He be Praised) says: And the Jews say: 'Uzair (Ezra) is the son of Allâh, and the Christians say: Messiah is the son of Allâh. That is their saying with their mouths, resembling the saying of those who disbelieved aforetime. Allâh's Curse be on them, how they are deluded away from the truth! They (Jews and Christians) took their rabbis and their monks to be their lords besides Allâh (by obeying them in things which they made lawful or unlawful according to their own desires without being ordered by Allâh), and (they also took as their Lord) Messiah, son of Maryam (Mary), while they (Jews and Christians) were commanded [in the Taurât (Torah) and the Injeel (Gospel)] to worship none but One Ilâh (God ­ Allâh) Lâ ilâha illa Huwa (none has the right to be worshipped but He). Praise and glory be to Him (far above is He) from having the partners they associate (with Him).\"",
+          "content_type": "quran_verse",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Extended Quranic verse about Jews and Christians",
+          "memory_agreement": false
+        },
+        {
+          "text": "In these Ayahs, Allah (Exalted be He) clarifies that the Jews and Christians worshipped many gods, including their rabbis and monks. The Jews also worshipped 'Uzayr whom they claimed to be the son of Allah, while the Christians worshipped 'Isa the son of Maryam whom they claimed to be the son of Allah.",
+          "content_type": "paragraph",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Scholar's explanation of the verses"
+        },
+        {
+          "text": "( Part No : 3, Page No: 48)",
+          "content_type": "navigation",
+          "page_number": 18,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All of them were ordered to worship only one God, Allah (Exalted be He), Who is the Creator and Lord of all things; Glorified and Exalted is He above all that which they associate as partners with Him. Accordingly, it is not permissible to say about Islam and Christianity as the writer said in his article. \"We should avoid all conflicts between our two religions,\" because Christianity is not a religion for us, Islam is our only religion. Christianity, as was stated previously, has become an invalid religion, and the truth that was in it is either included in the Shari'ah revealed to Muhammad (peace be upon him) or it came with what is better and more perfect than it. Muslims, therefore, accept it for being part of the Islam that Allah revealed to our Prophet Muhammad (peace be upon him) and not because it was stated in the Tawrah or Injil; rather, because our Islamic Shari'ah includes and enjoins it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Scholar's ruling on interfaith relations"
+        },
+        {
+          "text": "With these brief words, I wanted to clarify what was written by this writer and warn of the mistakes that were mentioned by him, for fear that people may have been deceived by his article. This is my discharge of the duty of sincere advising, as Allah (may He be exalted) obliges all Muslims, especially the people of knowledge, to give advice. It was reported that the Prophet (peace be upon him) said, \"The Din is sincerity.\" They said, \"To whom, O Messenger of Allah?\" He answered, \"To Allah, His Book, His Messenger, and the Imams (leaders) of Muslims and their common people.\" (Related by Muslim in his \"Sahih\")Also, it was narrated in the Two Sahih Books of Hadithon the authority of Jarir ibn 'Abdullah Al­Bajaly who said, \"I gave the oath of allegiance to the Prophet (peace be upon him) pledging to: perform Salah (Prayers), pay Zakah (obligatory charity), and be sincere towards every Muslim.\"",
+          "content_type": "paragraph",
+          "page_number": 18,
+          "confidence": 0.85,
+          "notes": "Scholar's explanation with embedded hadith citations"
+        },
+        {
+          "text": "Also, I gave it to be saved from the sin of concealing truth against which Allah (Exalted be He) warns saying: Verily, those who conceal the clear proofs, evidence and the guidance, which We have sent down, after We have made it clear for the people in the Book, they are the ones cursed by Allâh and cursed by the cursers. Except those who repent and do righteous deeds, and openly declare (the truth which they concealed). These, I will accept their repentance. And I am the One Who accepts repentance, the Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Quranic verse about concealing truth",
+          "memory_agreement": false
+        },
+        {
+          "text": "I ask Allah (Glorified and Exalted be He) to help us all, the writer of the article, and all the Muslims to understand and remain firm on His Din, and give advice to Allah's Servants. Also, we supplicate to Allah to protect us from the evils of ourselves, the wickedness of our deeds, and speaking about Him or His Prophet without knowledge. Peace and blessings be upon our Prophet Muhammad, and his family and all his Companions.",
+          "content_type": "paragraph",
+          "page_number": 18,
+          "confidence": 0.9,
+          "notes": "Concluding supplication and blessing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Conditions of saying: \"La ilaha illa­Allah\"",
+        "content_type": "heading_minor",
+        "page_number": 49,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 49)",
+          "content_type": "navigation",
+          "page_number": 49,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: What are the conditions of saying: \"La ilaha illa­Allah (there is no deity but Allah)\", and is it sufficient to say it without understanding its meaning and its consequences?",
+          "content_type": "question",
+          "page_number": 49,
+          "confidence": 0.95,
+          "notes": "Question about conditions of Islamic declaration of faith",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: It is necessary to understand and realize the word (\"La ilaha illa­Allah\"). \"La ilaha illa­Allah\" is the best of words and the basis of the Din (religion of Islam). With it the prophets (peace be upon them) started their mission of guiding their people and the first thing that the Messenger (peace be upon him) called his people to say was: \"La ilaha illa­Allah\" so that they may succeed and prosper.",
+          "content_type": "answer",
+          "page_number": 49,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's response",
+          "memory_agreement": false
+        },
+        {
+          "text": "And We did not send any Messenger before you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) but We revealed to him (saying): Lâ ilâha illa Ana [none has the right to be worshipped but I (Allâh)], so worship Me (Alone and none else).",
+          "content_type": "quran_verse",
+          "page_number": 49,
+          "confidence": 0.85,
+          "notes": "Quranic verse citation within the answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "Every Messenger said to his people: Worship Allâh! You have no other Ilâh (God) but Him.",
+          "content_type": "quran_verse",
+          "page_number": 49,
+          "confidence": 0.8,
+          "notes": "Another Quranic reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is the essence of the Din; therefore, the one saying it must understand its meaning, as it means that there is no true god to be worshipped except Allah. It has certain conditions, and they are: knowledge of its meaning, certainty and lack of doubt over its truth, sincerity to Allah Alone in this regard, faithfulness in the heart and on the tongue, love for what it indicates of sincerity to Allah and acceptance of this and submission to Him, Tawhid (belief in the Oneness of Allah/ monotheism), renunciation of Shirk (associating others with Allah in His Divinity or worship) and disavowal of the worship of any other than Allah, and belief in the falsity of such worship.",
+          "content_type": "fatwa_ruling",
+          "page_number": 49,
+          "confidence": 0.9,
+          "notes": "Main ruling explaining the conditions",
+          "memory_agreement": false
+        },
+        {
+          "text": "All these are among the conditions of saying: \"La ilaha illa­Allah\", and the validity of its meaning. The believing man and woman say it, renouncing with it the worship of any other than Allah, and declaring submission to Al­Haqq (the Truth), acceptance of it, love for Allah, belief in His Oneness and sincerity to Him, while harboring no doubt of its meaning. For some people say it without believing in it, such as the hypocrites, who say it although doubting or denying it.",
+          "content_type": "paragraph",
+          "page_number": 49,
+          "confidence": 0.85,
+          "notes": "Continuation of explanation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 3, Page No: 50)",
+          "content_type": "navigation",
+          "page_number": 50,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is necessary to have knowledge, certitude, truthfulness, sincerity, love, submission, acceptance, and repudiation. These conditions are included in the following lines of verse:",
+          "content_type": "paragraph",
+          "page_number": 50,
+          "confidence": 0.85,
+          "notes": "Introduction to poetic summary",
+          "memory_agreement": false
+        },
+        {
+          "text": "Knowledge, certainty, sincerity, love, submission, and and trustfulness with acceptance of it And an eighth is your denial of other than Allah being deified anything",
+          "content_type": "arabic_text",
+          "page_number": 50,
+          "confidence": 0.7,
+          "notes": "Poetic verse summarizing conditions - appears to be fragmented",
+          "memory_agreement": true
+        },
+        {
+          "text": "May the peace and blessings of Allah be upon our Prophet Muhammad, and his family and Companions.",
+          "content_type": "signature",
+          "page_number": 50,
+          "confidence": 0.9,
+          "notes": "Closing blessing formula",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Important Remarks on the writtings of shaykh Muhammad `Ali Al­Sabuny On the Attributes of Allah (Glorified and Exalted be He)",
+        "content_type": "heading_major",
+        "page_number": 51,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 3, Page No: 51)",
+          "content_type": "navigation",
+          "page_number": 51,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Praise be to Allah. Peace and blessings be upon Allah's Messenger, his family, Companions, and whoever follows him.",
+          "content_type": "paragraph",
+          "page_number": 51,
+          "confidence": 0.9,
+          "notes": "Traditional Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "I have looked into the interview which Al­Mujtama` (Society) Magazine made with His Eminence, shaykh Muhammad `Ali Al­Sabuny, published in issue no. 613, dated 7 Jumada Thany, 1403 A.H.). I have also looked into his six articles published in Al­Mujtama` Magazine, issues no. 627 (dated 17 Ramadan, 1403 A.H.), no. 628 (dated 24 Ramadan, 1403 A.H.), no. 629 (dated 9 Shawwal, 1403 A.H.), no. 630 (dated 16 Shawwal, 1403 A.H.), no. 631 (dated 31 Shawwal, 1403 A.H.), and no. 646 (dated 17 Safar, 1404 A.H.). They included mistakes, His Eminence, Dr. Salih ibn Fawzan Al­Fawzan criticized in his article published in Al­Da`wah Magazine, issue 15, no. 904 (dated 29 Shawwal, 1403 A.H.), and in Al­Mujtama` Magazine, issues no. 646 (dated 17 Safar, 1404 A.H.) and no. 650 (dated 24 Safar, 1404 A.H.). Dr. Salih's remarks were accurate and useful (may Allah reward him and support the truth through him). I thus deemed it necessary to comment on the mistakes of Shaykh Al­Sabuny to confirm",
+          "content_type": "paragraph",
+          "page_number": 51,
+          "confidence": 0.85,
+          "notes": "Introduction explaining the purpose of the remarks",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 52)",
+          "content_type": "navigation",
+          "page_number": 52,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "what Dr. Salih mentioned, contribute to good, propagate the truth, and redress the mistakes that were not discussed by His Eminence Dr. Salih in his two articles mentioned above. Indeed, Allah Alone is the Guide to sucess.",
+          "content_type": "paragraph",
+          "page_number": 52,
+          "confidence": 0.85,
+          "notes": "Continuation of introduction",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Imitation of the Four Imams",
+        "content_type": "heading_minor",
+        "page_number": 52,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Shaykh Al­Sabuny's saying about imitating the Four Imams that it is among the foremost obligations, is undoubtedly a mistaken generalization, since it is not obligatory to imitate any of the four Imams or anyone else, no matter how knowledgeable they may be. This is because the proper action is to follow the Qur'an and the Sunnah and not to imitate anyone people. Imitation is only tolerated in case of necessity when the person followed is known for their knowledge, virtue, and upright creed, as explained in detail by the eminent scholar Ibn Al­Qayyim (may Allah be merciful with him) in his book I`lam Al­Mawaqqi`in. The Imams (may Allah be merciful with them) would deny that any of their views be adopted other than that which was in accordance with the Qur'an and the Sunnah. Imam Malik (may Allah be merciful with him) said: The view of every one is liable to acceptance and refusal except for that of the one [entombed] in this grave (referring to the grave of the Prophet, peace be upon him). His fellow Imams also uttered sayings to the same effect. Thus, a person who manages to adopt the Qur'an and the Sunnah must not imitate anyone. Yet, in case of controversy, he should assume the saying nearest to the truth. However, a person who can not do so is entitled to ask [religious] scholars, as Allah (Glorified and Exalted be He) says,",
+          "content_type": "fatwa_ruling",
+          "page_number": 52,
+          "confidence": 0.9,
+          "notes": "Religious ruling on imitation of scholars",
+          "memory_agreement": false
+        },
+        {
+          "text": "So ask the people of the Reminder, if you do not know.",
+          "content_type": "quran_verse",
+          "page_number": 52,
+          "confidence": 0.85,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "He also said: Ibn Taymiyyah (may Allah be merciful with him) ­ in spite of his scholastic erudition ­ did not reach the rank of (being qualified to practice) Ijtihad (juristic effort to infer expert legal rulings), and that he was rather restricted in many instances to his Hanbali Madh­hab (School of Jurisprudence). A: This saying is debatable and is an apparent mistake, since the sheikh of Islam (may Allah be merciful with him) was one of the most knowledgeable scholars practicing Ijtihad and he had the requirements of Ijtihad. However, his affiliation to the Hanbali Madh­hab did not",
+          "content_type": "fatwa_ruling",
+          "page_number": 52,
+          "confidence": 0.85,
+          "notes": "Response to claim about Ibn Taymiyyah",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 3, Page No: 53)",
+          "content_type": "navigation",
+          "page_number": 53,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "rule him out of this, since what is meant by this is his agreement with Ahmad in the principles and rules of his Madh­hab, and not that he imitated him in what he said without evidence. Rather, he (Ibn Taymiyah) would choose of the opinions, the closest one to the evidence according to what appeared to him (may Allah be merciful with him).",
+          "content_type": "fatwa_ruling",
+          "page_number": 53,
+          "confidence": 0.85,
+          "notes": "Continuation of ruling about Ibn Taymiyyah",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

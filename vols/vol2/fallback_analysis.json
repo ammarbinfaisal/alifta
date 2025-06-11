@@ -1,0 +1,146 @@
+{
+  "total_fallbacks": 14,
+  "pages_affected": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    16,
+    17,
+    18,
+    19,
+    20,
+    146,
+    147,
+    149,
+    150
+  ],
+  "confidence_distribution": {
+    "min": 0.5,
+    "max": 0.7,
+    "avg": 0.5295479603087101,
+    "below_0.5": 0,
+    "below_0.6": 773
+  },
+  "fallback_types": {
+    "page_content_fallback": 14
+  },
+  "source_files": {
+    "vol2.json": 14
+  },
+  "retry_priority": [
+    {
+      "page_number": 10,
+      "section_index": 7,
+      "avg_confidence": 0.5,
+      "content_items_count": 12,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 9,
+      "section_index": 6,
+      "avg_confidence": 0.5,
+      "content_items_count": 66,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 8,
+      "section_index": 5,
+      "avg_confidence": 0.5,
+      "content_items_count": 66,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 7,
+      "section_index": 4,
+      "avg_confidence": 0.5,
+      "content_items_count": 69,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 6,
+      "section_index": 3,
+      "avg_confidence": 0.5,
+      "content_items_count": 68,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 16,
+      "section_index": 10,
+      "avg_confidence": 0.5229508196721311,
+      "content_items_count": 61,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 149,
+      "section_index": 97,
+      "avg_confidence": 0.525,
+      "content_items_count": 56,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 147,
+      "section_index": 96,
+      "avg_confidence": 0.5310344827586208,
+      "content_items_count": 58,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 150,
+      "section_index": 98,
+      "avg_confidence": 0.5328358208955224,
+      "content_items_count": 67,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 146,
+      "section_index": 95,
+      "avg_confidence": 0.5333333333333333,
+      "content_items_count": 60,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 20,
+      "section_index": 14,
+      "avg_confidence": 0.5393939393939394,
+      "content_items_count": 66,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 18,
+      "section_index": 12,
+      "avg_confidence": 0.5457142857142857,
+      "content_items_count": 70,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 19,
+      "section_index": 13,
+      "avg_confidence": 0.5511627906976744,
+      "content_items_count": 86,
+      "source": "vol2.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 17,
+      "section_index": 11,
+      "avg_confidence": 0.5764705882352941,
+      "content_items_count": 102,
+      "source": "vol2.json",
+      "needs_retry": true
+    }
+  ]
+}

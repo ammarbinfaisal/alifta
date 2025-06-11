@@ -98,7 +98,7 @@ export async function generateStaticParams() {
   const params = [];
   
   // For now, generate for volume 1 (can be extended for all volumes)
-  for (let volumeId = 1; volumeId <= 1; volumeId++) {
+  for (let volumeId = 1; volumeId <= 2; volumeId++) {
     try {
       const headings = await getAllHeadingsWithContent(volumeId);
       for (const heading of headings) {
@@ -134,6 +134,10 @@ export default async function QuestionPage({ params }: QuestionPageProps) {
     notFound();
   }
 
+  // Get all questions with content for navigation
+  const allQuestions = await getAllHeadingsWithContent(volumeId);
+  const questionsWithContent = allQuestions.filter(h => h.content_count > 0);
+
   return (
     <div className="min-h-screen bg-gray-50">
       <VolumeNavigation currentVolumeId={volumeId} />
@@ -141,6 +145,7 @@ export default async function QuestionPage({ params }: QuestionPageProps) {
         questionData={questionData}
         volumeId={volumeId}
         volumeData={volumeData}
+        allQuestions={questionsWithContent}
       />
     </div>
   );
