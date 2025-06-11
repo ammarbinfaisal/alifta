@@ -399,16 +399,17 @@ CRITICAL: Return ONLY the JSON response, no additional text or explanation.
 """
         return prompt
 
-    async def call_anthropic_api(self, session: aiohttp.ClientSession, prompt: str) -> Dict[str, Any]:
-        """Make API call to Anthropic Claude"""
+    async def call_anthropic_api(self, session: aiohttp.ClientSession, prompt: str, max_retries: int = 3) -> Dict[str, Any]:
+        """Make API call to Anthropic Claude with retry logic"""
         headers = {
             "Content-Type": "application/json",
             "x-api-key": self.api_key,
             "anthropic-version": "2023-06-01"
         }
         
+        # Use correct model name for Claude 3.5 Sonnet
         payload = {
-            "model": "claude-sonnet-4-20250514",
+            "model": "claude-3-5-sonnet-20241022",
             "max_tokens": 30000,
             "messages": [
                 {
@@ -419,39 +420,101 @@ CRITICAL: Return ONLY the JSON response, no additional text or explanation.
             "temperature": 0.1
         }
         
-        try:
-            async with session.post(self.base_url, headers=headers, json=payload) as response:
-                if response.status == 200:
-                    result = await response.json()
-                    content = result["content"][0]["text"]
-                    
-                    # Try to parse JSON from response
-                    try:
-                        parsed_result = json.loads(content)
+        last_error = None
+        
+        for attempt in range(max_retries):
+            try:
+                logger.info(f"API call attempt {attempt + 1}/{max_retries}")
+                
+                async with session.post(self.base_url, headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=120)) as response:
+                    if response.status == 200:
+                        result = await response.json()
+                        content = result["content"][0]["text"]
                         
-                        # Update memory with LLM results
-                        self.update_memory_from_llm_result(parsed_result)
-                        
-                        return parsed_result
-                    except json.JSONDecodeError:
-                        # Extract JSON if wrapped in other text
-                        start_idx = content.find('{')
-                        end_idx = content.rfind('}') + 1
-                        if start_idx != -1 and end_idx != 0:
-                            parsed_result = json.loads(content[start_idx:end_idx])
+                        # Try to parse JSON from response
+                        try:
+                            parsed_result = json.loads(content)
+                            
+                            # Update memory with LLM results
                             self.update_memory_from_llm_result(parsed_result)
+                            
+                            logger.info(f"API call successful on attempt {attempt + 1}")
                             return parsed_result
-                        else:
-                            logger.error(f"Failed to parse JSON from response: {content[:200]}...")
-                            return {"error": "JSON parsing failed", "raw_response": content}
-                else:
-                    error_text = await response.text()
-                    logger.error(f"API call failed: {response.status} - {error_text}")
-                    return {"error": f"API error: {response.status}", "details": error_text}
+                            
+                        except json.JSONDecodeError as json_error:
+                            logger.warning(f"JSON parsing failed on attempt {attempt + 1}: {json_error}")
+                            # Extract JSON if wrapped in other text
+                            start_idx = content.find('{')
+                            end_idx = content.rfind('}') + 1
+                            if start_idx != -1 and end_idx != 0:
+                                try:
+                                    parsed_result = json.loads(content[start_idx:end_idx])
+                                    self.update_memory_from_llm_result(parsed_result)
+                                    logger.info(f"JSON extraction successful on attempt {attempt + 1}")
+                                    return parsed_result
+                                except json.JSONDecodeError:
+                                    pass
+                            
+                            # If this is the last attempt, return error
+                            if attempt == max_retries - 1:
+                                logger.error(f"Failed to parse JSON from response: {content[:500]}...")
+                                return {"error": "JSON parsing failed", "raw_response": content[:1000]}
                     
-        except Exception as e:
-            logger.error(f"Exception during API call: {e}")
-            return {"error": "Exception", "details": str(e)}
+                    elif response.status == 429:  # Rate limit
+                        error_text = await response.text()
+                        wait_time = 2 ** attempt  # Exponential backoff
+                        logger.warning(f"Rate limited (429) on attempt {attempt + 1}, waiting {wait_time}s: {error_text}")
+                        last_error = f"Rate limit: {error_text}"
+                        
+                        if attempt < max_retries - 1:
+                            await asyncio.sleep(wait_time)
+                            continue
+                    
+                    elif response.status >= 500:  # Server error
+                        error_text = await response.text()
+                        wait_time = 2 ** attempt
+                        logger.warning(f"Server error ({response.status}) on attempt {attempt + 1}, waiting {wait_time}s: {error_text}")
+                        last_error = f"Server error {response.status}: {error_text}"
+                        
+                        if attempt < max_retries - 1:
+                            await asyncio.sleep(wait_time)
+                            continue
+                    
+                    else:  # Client error (4xx)
+                        error_text = await response.text()
+                        logger.error(f"Client error ({response.status}) on attempt {attempt + 1}: {error_text}")
+                        return {"error": f"API client error: {response.status}", "details": error_text}
+                        
+            except asyncio.TimeoutError as e:
+                wait_time = 2 ** attempt
+                logger.warning(f"Timeout on attempt {attempt + 1}, waiting {wait_time}s: {str(e)}")
+                last_error = f"Timeout: {str(e)}"
+                
+                if attempt < max_retries - 1:
+                    await asyncio.sleep(wait_time)
+                    continue
+                    
+            except aiohttp.ClientError as e:
+                wait_time = 2 ** attempt
+                logger.warning(f"Client error on attempt {attempt + 1}, waiting {wait_time}s: {str(e)}")
+                last_error = f"Client error: {str(e)}"
+                
+                if attempt < max_retries - 1:
+                    await asyncio.sleep(wait_time)
+                    continue
+                    
+            except Exception as e:
+                wait_time = 2 ** attempt
+                logger.error(f"Unexpected error on attempt {attempt + 1}, waiting {wait_time}s: {str(e)}")
+                last_error = f"Unexpected error: {str(e)}"
+                
+                if attempt < max_retries - 1:
+                    await asyncio.sleep(wait_time)
+                    continue
+        
+        # All retries failed
+        logger.error(f"All {max_retries} API call attempts failed. Last error: {last_error}")
+        return {"error": "All retries failed", "details": last_error or "Unknown error"}
 
     def update_memory_from_llm_result(self, result: Dict[str, Any]):
         """Update memory based on LLM classification results"""
@@ -508,15 +571,24 @@ CRITICAL: Return ONLY the JSON response, no additional text or explanation.
 
     async def process_batch_with_llm(self, batch_pages: List[Dict]) -> Dict[str, Any]:
         """Process a batch of pages with LLM analysis"""
+        page_numbers = [p["page_number"] for p in batch_pages]
+        logger.info(f"Processing batch with pages: {page_numbers}")
+        
         prompt = self.create_analysis_prompt(batch_pages)
         
-        async with aiohttp.ClientSession() as session:
+        # Add connector timeout and session configuration
+        connector = aiohttp.TCPConnector(limit=10, limit_per_host=5)
+        timeout = aiohttp.ClientTimeout(total=180, connect=30)
+        
+        async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
             result = await self.call_anthropic_api(session, prompt)
             
             if "error" in result:
-                logger.error(f"LLM analysis failed: {result}")
+                logger.error(f"LLM analysis failed for pages {page_numbers}: {result}")
+                logger.info(f"Using fallback structure for pages {page_numbers}")
                 return self.create_fallback_structure(batch_pages)
             
+            logger.info(f"Successfully processed pages {page_numbers} with LLM")
             return result
 
     def create_fallback_structure(self, batch_pages: List[Dict]) -> Dict[str, Any]:
@@ -624,27 +696,58 @@ CRITICAL: Return ONLY the JSON response, no additional text or explanation.
                 
                 if "error" not in batch_result:
                     processing_stats["successful_llm_calls"] += 1
+                    sections_added = len(batch_result.get("sections", []))
                     all_sections.extend(batch_result.get("sections", []))
+                    logger.info(f"Batch {start_page//self.batch_size + 1} successful: added {sections_added} sections")
                 else:
                     processing_stats["failed_llm_calls"] += 1
-                    logger.warning(f"Batch processing failed, using fallback")
+                    logger.warning(f"Batch {start_page//self.batch_size + 1} failed, used fallback structure")
+                    # Still add fallback sections if they exist
+                    if batch_result.get("sections"):
+                        all_sections.extend(batch_result.get("sections", []))
                 
             except Exception as e:
-                logger.error(f"Error processing batch {start_page//self.batch_size + 1}: {e}")
+                logger.error(f"Critical error processing batch {start_page//self.batch_size + 1}: {e}")
                 processing_stats["failed_llm_calls"] += 1
+                
+                # Create emergency fallback for this batch
+                try:
+                    emergency_fallback = self.create_fallback_structure(batch_pages)
+                    all_sections.extend(emergency_fallback.get("sections", []))
+                    logger.info(f"Emergency fallback created for batch {start_page//self.batch_size + 1}")
+                except Exception as fallback_error:
+                    logger.error(f"Even fallback failed for batch {start_page//self.batch_size + 1}: {fallback_error}")
             
             processing_stats["batches_processed"] += 1
+            
+            # Progress tracking
+            progress_percent = (processing_stats["batches_processed"] / ((self.total_pages + self.batch_size - 1) // self.batch_size)) * 100
+            logger.info(f"Progress: {progress_percent:.1f}% ({processing_stats['batches_processed']} batches completed)")
             
             # Save memory state periodically
             if processing_stats["batches_processed"] % 5 == 0:
                 self.save_memory()
+                logger.info(f"Memory state saved at batch {processing_stats['batches_processed']}")
             
-            # Rate limiting - be respectful to API
-            await asyncio.sleep(1)
+            # Adaptive rate limiting based on success rate
+            if processing_stats["successful_llm_calls"] + processing_stats["failed_llm_calls"] > 0:
+                success_rate = processing_stats["successful_llm_calls"] / (processing_stats["successful_llm_calls"] + processing_stats["failed_llm_calls"])
+                if success_rate < 0.5:  # If success rate is low, slow down
+                    wait_time = 3
+                    logger.info(f"Low success rate ({success_rate:.2f}), increasing wait time to {wait_time}s")
+                elif success_rate > 0.9:  # If success rate is high, speed up slightly
+                    wait_time = 0.5
+                else:
+                    wait_time = 1
+            else:
+                wait_time = 1
+            
+            await asyncio.sleep(wait_time)
             
             # Save intermediate results every 10 batches
             if processing_stats["batches_processed"] % 10 == 0:
                 await self.save_intermediate_results(all_sections, processing_stats["batches_processed"])
+                logger.info(f"Intermediate results saved at batch {processing_stats['batches_processed']}")
         
         # Final memory save
         self.save_memory()

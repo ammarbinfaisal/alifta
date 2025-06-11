@@ -5,34 +5,45 @@
   "scholar_names": [],
   "classification_history": {
     "short_text": {
-      "navigation": 66,
+      "navigation": 108,
       "list_item": 1,
       "arabic_text": 1,
-      "paragraph": 150,
+      "paragraph": 153,
       "heading_major": 2,
-      "quran_verse": 1
-    },
-    "long_text": {
-      "paragraph": 86,
-      "quran_verse": 18,
-      "fatwa_ruling": 13,
-      "hadith": 6,
-      "answer": 6,
-      "citation": 6,
-      "signature": 1,
-      "list_item": 1
-    },
-    "islamic_keyword": {
-      "paragraph": 8,
-      "answer": 3,
-      "fatwa_ruling": 1,
+      "quran_verse": 3,
       "citation": 1
     },
-    "contains_arabic": {
+    "long_text": {
+      "paragraph": 137,
+      "quran_verse": 39,
+      "fatwa_ruling": 15,
+      "hadith": 8,
+      "answer": 6,
+      "citation": 7,
+      "signature": 2,
+      "list_item": 1,
+      "question": 1
+    },
+    "islamic_keyword": {
+      "paragraph": 12,
+      "answer": 3,
+      "fatwa_ruling": 1,
+      "citation": 1,
       "quran_verse": 1
+    },
+    "contains_arabic": {
+      "quran_verse": 5,
+      "paragraph": 1
     }
   },
-  "quran_references": {},
+  "quran_references": {
+    "2:2": [
+      59
+    ],
+    "35:45": [
+      61
+    ]
+  },
   "hadith_references": {
     "Bukhari": [
       24,
@@ -42,7 +53,8 @@
     "Muslim": [
       24,
       26,
-      46
+      46,
+      58
     ],
     "Abu Dawud": [
       33
@@ -195,7 +207,127 @@
       "section_type": "heading_minor",
       "heading": "Necessity of approaching Allah with Tawbah and supplication in adversity",
       "timestamp": "2025-06-11T14:55:50.306663"
+    },
+    {
+      "page": 51,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section",
+      "timestamp": "2025-06-11T14:56:48.654426"
+    },
+    {
+      "page": 53,
+      "section_type": "heading_minor",
+      "heading": "Sanctity of the Noble Qur'an",
+      "timestamp": "2025-06-11T14:56:48.654571"
+    },
+    {
+      "page": 54,
+      "section_type": "heading_minor",
+      "heading": "False Belief That Some Ayahs (Qur'anic verses) bring good and prevent harm",
+      "timestamp": "2025-06-11T14:56:48.654609"
+    },
+    {
+      "page": 55,
+      "section_type": "heading_minor",
+      "heading": "General Advice",
+      "timestamp": "2025-06-11T14:56:48.654626"
+    },
+    {
+      "page": 56,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous section",
+      "timestamp": "2025-06-11T15:01:19.612257"
+    },
+    {
+      "page": 57,
+      "section_type": "heading_minor",
+      "heading": "Continuation of warning about judgment",
+      "timestamp": "2025-06-11T15:01:19.612647"
+    },
+    {
+      "page": 58,
+      "section_type": "heading_major",
+      "heading": "An Advice to All Muslims",
+      "timestamp": "2025-06-11T15:01:19.612670"
+    },
+    {
+      "page": 59,
+      "section_type": "heading_minor",
+      "heading": "Continuation of advice about Taqwa",
+      "timestamp": "2025-06-11T15:01:19.612878"
+    },
+    {
+      "page": 60,
+      "section_type": "heading_minor",
+      "heading": "Five Essential Matters",
+      "timestamp": "2025-06-11T15:01:19.613091"
+    },
+    {
+      "page": 61,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T15:02:52.588647"
+    },
+    {
+      "page": 62,
+      "section_type": "heading_minor",
+      "heading": "Advice and Guiding Outline",
+      "timestamp": "2025-06-11T15:02:52.588819"
+    },
+    {
+      "page": 62,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Advice and Guiding Outline",
+      "timestamp": "2025-06-11T15:02:52.588911"
+    },
+    {
+      "page": 63,
+      "section_type": "heading_minor",
+      "heading": "Continuation - Importance of Quran and Sunnah",
+      "timestamp": "2025-06-11T15:02:52.588946"
+    },
+    {
+      "page": 64,
+      "section_type": "heading_minor",
+      "heading": "Continuation - Believers vs Disbelievers",
+      "timestamp": "2025-06-11T15:02:52.589003"
+    },
+    {
+      "page": 65,
+      "section_type": "heading_minor",
+      "heading": "general advice to the leaders of Islamic countries and all Muslims",
+      "timestamp": "2025-06-11T15:02:52.589054"
+    },
+    {
+      "page": 66,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa discussion",
+      "timestamp": "2025-06-11T15:04:40.522256"
+    },
+    {
+      "page": 67,
+      "section_type": "heading_major",
+      "heading": "Speech to the Summit of the Islamic Summit Conference",
+      "timestamp": "2025-06-11T15:04:40.522417"
+    },
+    {
+      "page": 70,
+      "section_type": "heading_major",
+      "heading": "There is no Brotherhood between Muslims and Disbelievers and the Only True Religion is Islam",
+      "timestamp": "2025-06-11T15:04:40.522517"
+    },
+    {
+      "page": 71,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T15:05:52.593680"
+    },
+    {
+      "page": 72,
+      "section_type": "heading_major",
+      "heading": "Opposing the Enemies among the Jews, Mushriks, and other Non­Muslims",
+      "timestamp": "2025-06-11T15:05:52.594035"
     }
   ],
-  "saved_at": "2025-06-11T14:55:50.307042"
+  "saved_at": "2025-06-11T15:05:52.594450"
 }
