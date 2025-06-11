@@ -1,0 +1,201 @@
+{
+  "heading_patterns": {},
+  "question_patterns": {},
+  "arabic_patterns": [],
+  "scholar_names": [],
+  "classification_history": {
+    "short_text": {
+      "navigation": 66,
+      "list_item": 1,
+      "arabic_text": 1,
+      "paragraph": 150,
+      "heading_major": 2,
+      "quran_verse": 1
+    },
+    "long_text": {
+      "paragraph": 86,
+      "quran_verse": 18,
+      "fatwa_ruling": 13,
+      "hadith": 6,
+      "answer": 6,
+      "citation": 6,
+      "signature": 1,
+      "list_item": 1
+    },
+    "islamic_keyword": {
+      "paragraph": 8,
+      "answer": 3,
+      "fatwa_ruling": 1,
+      "citation": 1
+    },
+    "contains_arabic": {
+      "quran_verse": 1
+    }
+  },
+  "quran_references": {},
+  "hadith_references": {
+    "Bukhari": [
+      24,
+      26,
+      46
+    ],
+    "Muslim": [
+      24,
+      26,
+      46
+    ],
+    "Abu Dawud": [
+      33
+    ],
+    "Ibn Majah": [
+      33
+    ]
+  },
+  "document_structure": [
+    {
+      "page": 1,
+      "section_type": "heading_major",
+      "heading": "English Translations of Majmoo'al-Fatawa of late Scholar Ibn Bazz (R) Second Edition",
+      "timestamp": "2025-06-11T14:29:54.075999"
+    },
+    {
+      "page": 2,
+      "section_type": "heading_major",
+      "heading": "The Meaning of 'La ilaha illa Allah'",
+      "timestamp": "2025-06-11T14:29:54.076055"
+    },
+    {
+      "page": 4,
+      "section_type": "heading_major",
+      "heading": "Essence of Tawhid and Shirk",
+      "timestamp": "2025-06-11T14:29:54.076244"
+    },
+    {
+      "page": 11,
+      "section_type": "heading_major",
+      "heading": "Types of Tawhid Revealed to Allah's Messengers (peace be upon them)",
+      "timestamp": "2025-06-11T14:36:01.088532"
+    },
+    {
+      "page": 15,
+      "section_type": "heading_major",
+      "heading": "The Tawhid preached by the Prophets versus Kufr and Shirk",
+      "timestamp": "2025-06-11T14:36:01.088705"
+    },
+    {
+      "page": 21,
+      "section_type": "heading_minor",
+      "heading": "Theological Discussion on Allah's Attributes and Tawhid",
+      "timestamp": "2025-06-11T14:44:57.725355"
+    },
+    {
+      "page": 26,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-11T14:49:21.420695"
+    },
+    {
+      "page": 27,
+      "section_type": "heading_major",
+      "heading": "Commentary on Al­`Aqidah Al­Tahawiyyah",
+      "timestamp": "2025-06-11T14:49:21.420943"
+    },
+    {
+      "page": 28,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
+      "timestamp": "2025-06-11T14:49:21.421149"
+    },
+    {
+      "page": 29,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
+      "timestamp": "2025-06-11T14:49:21.421321"
+    },
+    {
+      "page": 30,
+      "section_type": "heading_minor",
+      "heading": "Final Section of Al-Aqidah Al-Tahawiyyah Commentary",
+      "timestamp": "2025-06-11T14:49:21.421466"
+    },
+    {
+      "page": 31,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Al-'Aqidah Al-Tahawiyyah",
+      "timestamp": "2025-06-11T14:52:34.596090"
+    },
+    {
+      "page": 32,
+      "section_type": "heading_minor",
+      "heading": "The meaning of \"Al-Ma`iyyah\" and standing up in honor of another",
+      "timestamp": "2025-06-11T14:52:34.596213"
+    },
+    {
+      "page": 33,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Standing Up Ruling",
+      "timestamp": "2025-06-11T14:52:34.596391"
+    },
+    {
+      "page": 34,
+      "section_type": "heading_minor",
+      "heading": "The Sunni Creed in respect of the Divine Attribute of Istiwa' (Allah's rising over the Throne in a manner that befits Him)",
+      "timestamp": "2025-06-11T14:52:34.596502"
+    },
+    {
+      "page": 35,
+      "section_type": "heading_minor",
+      "heading": "Conclusion on Divine Attributes",
+      "timestamp": "2025-06-11T14:52:34.596728"
+    },
+    {
+      "page": 36,
+      "section_type": "heading_major",
+      "heading": "A Commentary and Explanation of an Article by Dr. Muhiy Al-Din Al-Safy entitled \"In Order to be the Most Powerful Ummah\" about Allah's Attributes",
+      "timestamp": "2025-06-11T14:53:44.380952"
+    },
+    {
+      "page": 39,
+      "section_type": "heading_major",
+      "heading": "Response to a question regarding Allah (may he be Exalted) Being Up and Above",
+      "timestamp": "2025-06-11T14:53:44.381122"
+    },
+    {
+      "page": 41,
+      "section_type": "heading_minor",
+      "heading": "Ruling on seeking help from other than Allah",
+      "timestamp": "2025-06-11T14:54:46.592107"
+    },
+    {
+      "page": 44,
+      "section_type": "heading_minor",
+      "heading": "Focusing on some matters related to swearing by other than Allah",
+      "timestamp": "2025-06-11T14:54:46.592355"
+    },
+    {
+      "page": 45,
+      "section_type": "heading_minor",
+      "heading": "The prohibition of taking oaths by anyone other than Allah",
+      "timestamp": "2025-06-11T14:54:46.592375"
+    },
+    {
+      "page": 46,
+      "section_type": "heading_minor",
+      "heading": "Ruling on visiting, consulting, and believing soothsayers and the like",
+      "timestamp": "2025-06-11T14:55:50.306351"
+    },
+    {
+      "page": 48,
+      "section_type": "heading_minor",
+      "heading": "A Legal Elaboration on Believing in Horoscopes",
+      "timestamp": "2025-06-11T14:55:50.306627"
+    },
+    {
+      "page": 50,
+      "section_type": "heading_minor",
+      "heading": "Necessity of approaching Allah with Tawbah and supplication in adversity",
+      "timestamp": "2025-06-11T14:55:50.306663"
+    }
+  ],
+  "saved_at": "2025-06-11T14:55:50.307042"
+}
