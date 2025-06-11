@@ -197,26 +197,6 @@ export function IslamicContentViewer({ data, volumeId }: IslamicContentViewerPro
             </div>
           </div>
 
-          {/* Filter controls */}
-          <div className="flex flex-wrap gap-2 mb-6">
-            <Button
-              variant={filterType === 'all' ? 'default' : 'outline'}
-              size="sm"
-              onClick={() => setFilterType('all')}
-            >
-              All ({data.total_headings})
-            </Button>
-            {headingTypes.map(type => (
-              <Button
-                key={type}
-                variant={filterType === type ? 'default' : 'outline'}
-                size="sm"
-                onClick={() => setFilterType(type)}
-              >
-                {type.replace('_', ' ')} ({data.by_type?.[type]?.length || 0})
-              </Button>
-            ))}
-          </div>
         </div>
 
         {/* Headings list */}
