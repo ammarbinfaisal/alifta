@@ -1,0 +1,1435 @@
+{
+  "batch_number": 10,
+  "sections_count": 39,
+  "timestamp": "2025-06-12T06:06:53.345971",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 5:",
+        "content_type": "heading_question",
+        "page_number": 21,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5 , Page No: 44)",
+          "content_type": "navigation",
+          "page_number": 21,
+          "confidence": 0.98,
+          "notes": "Part and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is a woman who suffers from a psychological illness. Some people have told her that if someone is suffering from a serious illness, Surah Al­Zalzalah should be read over water, and if the person who is ill drinks it, they will either be cured or die. She asked someone to recite this for her and she drank the water they recited over. After a period of time, the woman became pregnant, so she drank some of the water and she gave birth to a healthy baby. Then, after weaning him, she became pregnant again. During the ninth month, her illness returned, so she drank some of the water again. However, on the same day, she gave birth to a stillborn baby. After another period of time, she became pregnant once again and her illness returned again, so she drank some of the same water. In the eighth month of her pregnancy, she gave birth to another stillborn baby. After a further period of time, she became pregnant again and in the seventh month, her illness returned, she drank some of the water, and the following night she gave birth to a living baby daughter. I have heard people say that reading Surah Al­Zalzalah over water and drinking it causes miscarriages, if the water contains black cumin. She did not know about this, so is she to blame for the children who died?",
+          "content_type": "question",
+          "page_number": 21,
+          "confidence": 0.92,
+          "notes": "Detailed question about religious practice and responsibility",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: First: what some people say that Surah Al­Zalzalah either cures illness or causes death, and that it causes miscarriages has no basis in the Shari'ah (Islamic law); in fact they are common false superstitions.",
+          "content_type": "fatwa_ruling",
+          "page_number": 21,
+          "confidence": 0.9,
+          "notes": "First part of the scholar's ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "Second: The woman in question should not offer Fidyah (ransom) or Kaffarah (expiation), as what she did was not the cause of the deaths.",
+          "content_type": "fatwa_ruling",
+          "page_number": 21,
+          "confidence": 0.9,
+          "notes": "Second part of the scholar's ruling",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 6:",
+        "content_type": "heading_question",
+        "page_number": 22,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "What parts of her body can a Muslim woman reveal in front of non­Muslim women, such as a Buddhist woman for example? Is it true that she is only permitted to reveal her face?",
+          "content_type": "question",
+          "page_number": 22,
+          "confidence": 0.92,
+          "notes": "Question about Islamic dress code",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: According to the soundest scholarly opinion, a woman can reveal the parts above the navel and below the knee in the presence of other women, whether they are Muslims or not. As for the part between the navel and the knee, this is 'Awrah (private parts of the body that must be covered in public) which a woman should not reveal before other women, regardless of whether the other women are Muslims or non­Muslims, relatives or strangers. This is the same as the 'Awrah of men in front of other men.",
+          "content_type": "fatwa_ruling",
+          "page_number": 22,
+          "confidence": 0.88,
+          "notes": "Scholar's ruling on women's dress code",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 45)",
+          "content_type": "navigation",
+          "page_number": 22,
+          "confidence": 0.98,
+          "notes": "Part and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Women are allowed to see the chest, head, legs, and other similar areas of another woman. The same applies to men, they are allowed to see the chest, legs, and head of another man. As for the opinion of some scholars ­ that a Muslimah should not reveal any of her body in front of a Kafirah (disbelieving woman) ­ this is an unlikely opinion according to the sounder of the two scholarly views. At the time of the Prophet (peace be upon him), the Jewish and idolatrous women used to visit the wives of the Prophet (peace be upon him), and it is not reported that they ­ who were the most pious and best women ­ veiled themselves in front of them.",
+          "content_type": "answer",
+          "page_number": 22,
+          "confidence": 0.85,
+          "notes": "Continuation of the ruling with historical context",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 7:",
+        "content_type": "heading_question",
+        "page_number": 23,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "Before whom should women cover the face?",
+          "content_type": "question",
+          "page_number": 23,
+          "confidence": 0.92,
+          "notes": "Question about face covering requirements",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: The face should be covered before any marriageable relative, who is a non­Mahram (not a spouse or unmarriageable relative) to a woman. This is according to the most correct opinion of scholars, whether this relative is a paternal or maternal cousin, one of the neighbors, or someone else, for Allah (Exalted be He) says addressing all Muslims during the lifetime of the Messenger of Allah (peace be upon him) and those who succeed them:",
+          "content_type": "fatwa_ruling",
+          "page_number": 23,
+          "confidence": 0.88,
+          "notes": "Beginning of detailed ruling on face covering",
+          "memory_agreement": false
+        },
+        {
+          "text": "And when you ask (his wives) for anything you want, ask them from behind a screen: that is purer for your hearts and for their hearts.",
+          "content_type": "quran_verse",
+          "page_number": 23,
+          "confidence": 0.9,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Prophet! Tell your wives and your daughters and the women of the believers to draw their cloaks (veils) all over their bodies (i.e. screen themselves completely except the eyes or one eye to see the way). That will be better, that they should be known (as free respectable women) so as not to be annoyed.",
+          "content_type": "quran_verse",
+          "page_number": 23,
+          "confidence": 0.9,
+          "notes": "Another Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And tell the believing women to lower their gaze (from looking at forbidden things), and protect their private parts (from illegal sexual acts) and not to show off their adornment except only that which is apparent (like both eyes for necessity to see the way, or outer palms of hands or one eye or dress like veil, gloves, head­cover, apron, etc.), and to draw their veils all over Juyûbihinna (i.e. their bodies, faces, necks and bosoms) and not to reveal their adornment except to their husbands, or their fathers, or their husband's fathers",
+          "content_type": "quran_verse",
+          "page_number": 23,
+          "confidence": 0.9,
+          "notes": "Extended Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 46)",
+          "content_type": "navigation",
+          "page_number": 23,
+          "confidence": 0.98,
+          "notes": "Part and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "When I heard the voice of Safwan ibn Mu`attal I put a khimar on my face, and he has seen me before Hijab",
+          "content_type": "hadith",
+          "page_number": 23,
+          "confidence": 0.85,
+          "notes": "Hadith from Aishah about covering face",
+          "memory_agreement": false
+        },
+        {
+          "text": "When a woman reaches the age of puberty, nothing should be seen of her but this and that; and he pointed to the face and hands",
+          "content_type": "hadith",
+          "page_number": 23,
+          "confidence": 0.85,
+          "notes": "Hadith about what can be shown, noted as weak",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 8:",
+        "content_type": "heading_question",
+        "page_number": 24,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 47)",
+          "content_type": "navigation",
+          "page_number": 24,
+          "confidence": 0.98,
+          "notes": "Part and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "What is the ruling on what was declared in a conference held in the United States where among its recommendations was a warning against some products that contain pork? These products include soap, toothpaste, cheese, etc. Please advise us with regard to these products.",
+          "content_type": "question",
+          "page_number": 24,
+          "confidence": 0.92,
+          "notes": "Question about products containing pork",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: Many questions about this conference and these products were referred to us and to the authorities concerned in the Kingdom of Saudi Arabia. I replied that nothing has reached us here. Since we do not have any proof that contradicts the response of the authorities to those who claim that some imported products contain pork or its fats, the original ruling is that it is permissible until proven otherwise.",
+          "content_type": "fatwa_ruling",
+          "page_number": 24,
+          "confidence": 0.88,
+          "notes": "Ruling on products allegedly containing pork",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe (in the Oneness of Allâh ­ Islâmic Monotheism)! Eat of the lawful things that We have provided you with, and be grateful to Allâh, if it is indeed He Whom you worship.",
+          "content_type": "quran_verse",
+          "page_number": 24,
+          "confidence": 0.9,
+          "notes": "Quranic verse supporting the ruling",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Explanation of the Saying of Allah: It is only those who have knowledge among His slaves that fear Allâh.",
+        "content_type": "heading_minor",
+        "page_number": 25,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 48)",
+          "content_type": "navigation",
+          "page_number": 25,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: Please provide the (explanation/exegesis) of the Saying of Allah (the meanings of which are translated as), It is only those who have knowledge among His slaves that fear Allâh.",
+          "content_type": "question",
+          "page_number": 25,
+          "confidence": 0.95,
+          "notes": "Question about Quranic verse explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: This lofty Ayah indicates that those who possess knowledge about Allah, His Din (Religion), His Glorious Book, and the Sunnah (whatever is reported from the Prophet) of His Prophet have the most perfect fear of Allah (Glorified be He) among mankind. Thus, the Ayah means that those who have complete fear of Allah are those who know their Lord through His Names and Attributes and His Great Right and they are aware of His Shari'ah (Divine Law) and believe in the blessings stored for those who fear Him and the punishment stored for those who forsake and disobey Him. Hence, because of their profound knowledge about Allah, they are the most fearful and reverential towards Allah; and at the head of them are the prophets and messengers (peace be upon them) and then their succeeding scholars who possess knowledge about Allah and His Din but their fear is in varying degrees. However, the Ayah does not mean that no one fears Allah except the scholars (those who possess knowledge). All Muslims and believers, male and female, fear Allah, but their fear is in varying degrees and not of the same grade. Therefore, the more the believer possesses knowledge about Allah and comprehends His Din, the greater is their fear of Allah. If their knowledge is less, so is their understanding and awareness of Allah and His Din and subsequently their fear of Allah. Thus, people are of varying degrees in this matter and so are the scholars as already stated. The more there is knowledge about Din, the greater there is fear of Allah and the less there is knowledge about Din, the less there is fear of Allah. That is why Allah (Glorified and Exalted be He) says: Verily, those who believe [in the Oneness of Allâh, and in His Messenger Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) including all obligations ordered by Islâm] and do righteous good deeds, they are the best of creatures.",
+          "content_type": "fatwa_ruling",
+          "page_number": 25,
+          "confidence": 0.95,
+          "notes": "Scholar's detailed explanation of the Quranic verse",
+          "memory_agreement": true
+        },
+        {
+          "text": "Their reward with their Lord is 'Adn (Eden) Paradise (Gardens of Eternity), underneath which rivers flow. They will abide therein forever, Allâh will be pleased with them, and they with Him. That is for him who fears his Lord. Allah (Exalted be He) also says: Verily,, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 25,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verses cited in the ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 49)",
+          "content_type": "navigation",
+          "page_number": 25,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "There are many Ayahs conveying this meaning. May Allah grant us success!",
+          "content_type": "paragraph",
+          "page_number": 25,
+          "confidence": 0.9,
+          "notes": "Concluding statement of the fatwa",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Explanation of Allah's Saying: Verily, the hypocrites will be in the lowest depth (grade) of the Fire",
+        "content_type": "heading_minor",
+        "page_number": 26,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Allah (Exalted be He) says in His Noble Book (what means): Verily, the hypocrites will be in the lowest depth (grade) of the Fire What is meant by hypocrisy and hypocrites in this Ayah (Qur'anic verse)? Please clarify their meaning.",
+          "content_type": "question",
+          "page_number": 26,
+          "confidence": 0.95,
+          "notes": "Question about the meaning of hypocrites in Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: the hypocrites are those who make a false pretense of Islam, when they are professing otherwise. They claim to be Muslims, although deep down they disbelieve in Allah and belie the Messenger (peace be upon him). These are the hypocrites who are so called because they show Islam, while hiding Kufr (disbelief).",
+          "content_type": "fatwa_ruling",
+          "page_number": 26,
+          "confidence": 0.95,
+          "notes": "Scholar's definition and explanation of hypocrites",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says: And of mankind, there are some (hypocrites) who say: \"We believe in Allâh and the Last Day\" while in fact they believe not.",
+          "content_type": "quran_verse",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Quranic verse about hypocrites",
+          "memory_agreement": false
+        },
+        {
+          "text": "They (think to) deceive Allâh and those who believe, while they only deceive themselves, and perceive (it) not!",
+          "content_type": "quran_verse",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "In their hearts is a disease (of doubt and hypocrisy) (namely doubt and suspicion) and Allâh has increased their disease. A painful torment is theirs because they used to tell lies. This theme is continued in the Ayahs following themin Surah Al­Baqarah.",
+          "content_type": "quran_verse",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Continuation with citation reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "These are the hypocrites who disbelieve in Allah and belie His Messengers (peace be upon them). Allah (Glorified and Exalted be He) says: Verily, the hypocrites seek to deceive Allâh, but it is He Who deceives them. And when they stand up for As­Salât (the prayer), they stand with laziness and to be seen of men, and they do not remember Allâh but little. (They are) swaying between this and that, belonging neither to these nor to those",
+          "content_type": "fatwa_ruling",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Continued explanation with Quranic support",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 50)",
+          "content_type": "navigation",
+          "page_number": 26,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "This means that they vacillate between the Kafirs (disbelievers) and the Muslims; at times they support the Kafirs when they prevail and achieve victory and at other times they support the believers when they prevail and achieve victory. They are not steadfast; their Din (religion) is not constant, and their Iman (Faith) is not solid. They waver between the state of Kufr and the state of Iman, and between the Kafirs and the Muslims.",
+          "content_type": "fatwa_ruling",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Detailed explanation of hypocrite behavior",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Exalted be He) has disclosed their Kufr in His Saying: And nothing prevents their contributions from being accepted from them except that they disbelieved in Allâh and in His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and that they came not to As­Salât (the prayer) except in a lazy state, and that they offer not contributions but unwillingly. So let not their wealth nor their children amaze you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ); in reality Allâh's Plan is to punish them with these things in the life of this world, and that their souls shall depart (die) while they are disbelievers. These are the hypocrites. We ask Allah to grant us safety and protection.",
+          "content_type": "quran_verse",
+          "page_number": 26,
+          "confidence": 0.9,
+          "notes": "Extended Quranic citation with concluding prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Confirming the Hand and Power of Allah",
+        "content_type": "heading_minor",
+        "page_number": 27,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 51)",
+          "content_type": "navigation",
+          "page_number": 27,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "From ' Abdul­' Aziz ibn ' Abdullah ibn Baz to the honorable brother, Shaykh A.A.M. may Allah grant you success, Amen!",
+          "content_type": "signature",
+          "page_number": 27,
+          "confidence": 0.95,
+          "notes": "Letter opening with author identification",
+          "memory_agreement": false
+        },
+        {
+          "text": "A s­salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "arabic_text",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Islamic greeting with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "I have read what you mentioned in the attached letter regarding the saying of Al­Hafizh Ibn Hajar on what was said by ' Abdullah ibn Mas' ud: \"By Him in Whose Hand my soul is...\", that the meaning of \"the Hand\" is Allah's Power and understood it. However, there is no doubt that this is incorrect and disagrees with the beliefs of Ahl­ul­Sunnah wal­Jama'ah (adherents to the Sunnah and the Muslim mainstream). The correct opinion is that all the Hadiths and Athars (narrations from the Companions) reported in this regard confirm that Allah has a Hand and has Power. In fact, they show that everything is in His Hand (Glorified be He) and that He has Absolute Power. They also show that Allah (may He be Praised) has a Hand in a manner befitting Him, without likening any of His Attributes to His Creatures.",
+          "content_type": "fatwa_ruling",
+          "page_number": 27,
+          "confidence": 0.95,
+          "notes": "Scholar's correction of theological interpretation",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is supported by the following Ayah (Qur'anic verse) inSurah Al­Ma'idah: Nay, both His Hands are widely outstretched. And the following Ayah inSurah Sad: What prevents you from prostrating yourself to one whom I have created with Both My Hands.",
+          "content_type": "quran_verse",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Quranic evidence cited",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) also said: Allah stretches His Hand out in the night, so those who committed sins during the day may repent; and He stretches His Hand out in the day, so those who committed sins during night may repent.",
+          "content_type": "hadith",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Prophetic tradition cited as evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) also said, Allah (may He be Glorified and Exalted) will fold the heavens on the Day of Resurrection then take them in His Right Hand and say, 'I am the King! Where are the tyrants! Where are the arrogant ones!' Then He will fold the earths in His Left Hand and say, 'I am the King! Where are the tyrants! Where are the arrogant ones!'",
+          "content_type": "hadith",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Another prophetic tradition cited",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Ayahs and Hadith conveying this meaning.",
+          "content_type": "paragraph",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Concluding statement about evidence",
+          "memory_agreement": false
+        },
+        {
+          "text": "Q 2:",
+          "content_type": "heading_question",
+          "page_number": 27,
+          "confidence": 0.95,
+          "notes": "Question number identifier",
+          "memory_agreement": false
+        },
+        {
+          "text": "Regarding the question about what Al­Hafizh said in reply to those who said that the letter \"ﻻ \" (La) in Allah's Saying, \" ﻻ ﺃﻗﺴﻢ \" (La Uqsim [literally: I swear not]) is superfluous, as it is only added during speech, and the response given that the whole Qur'an is one continuous speech.",
+          "content_type": "question",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Question about Arabic grammar in Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 52)",
+          "content_type": "navigation",
+          "page_number": 27,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Saying that the whole Qur'an is Allah's Speech, all of it is reverend and glorified, and all of it explains itself and proves itself is unobjectionable, but this is not the correct answer. The correct answer that must be given is that it (ﻻ ) is not superfluous when the meaning is clarified, even if it comes at the beginning of the sentence, as in the Saying of Allah (Exalted be He)at the end of Surah Al­Hadid: ِﻟِﺌَﻠﱠﺎ ﻳَﻌْﻠَﻢَ ﺃَﻫْﻞُ ﺍﻟْﻜِﺘَﺎﺏ [(meanings of which are translated as:) So that the people of the Scripture (Jews and Christians) may know And His Saying inSurah Al­An'am: ﻗُﻞْ ﺗَﻌَﺎﻟَﻮْﺍ ﺃَﺗْﻞُ ﻣَﺎ ﺣَﺮﱠﻡَ ﺭَﺑﱡﻜُﻢْ ﻋَﻠَﻴْﻜُﻢْ ﺃَﻟﱠﺎ ﺗُﺸْـﺮِﻛُﻮﺍ ﺑِـﻪِ ﺷَـﻴْﺌًﺎ [(meanings of which are translated as:) Say (O Muhammad): \"Come, I will recite what your Lord has prohibited you from: Join not anything in worship with Him] In addition to other similar Ayahs.",
+          "content_type": "fatwa_ruling",
+          "page_number": 27,
+          "confidence": 0.95,
+          "notes": "Detailed grammatical and theological explanation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Also, the Saying of Allah (Glorified be He): ِﻟَﺎ ﺃُﻗْﺴِﻢُ ﺑِﻴَﻮْﻡِ ﺍﻟْﻘِﻴَﺎﻣَﺔ [I swear by the Day of Resurrection]. And: ِﻟَﺎ ﺃُﻗْﺴِﻢُ ﺑِﻬَﺬَﺍ ﺍﻟْﺒَﻠَﺪ [I swear by this city (Makkah)] It is used in these two Ayahs and others similar to them to negate what the Mushriks (those who associate others with Allah in His Divinity or worship) said justifying their attachment to other than Allah and seeking to draw closer to their deities through different forms of 'Ibadah (worship), claiming that their deities would intercede for them with Allah. After that it is used by Allah (Glorified be He) to confirm His Oath by the Day of Resurrection and by the self­reproaching soul in the first Surah, and by the Secure City and what follows it in the second Surah, and through what He mentions later in the two Surahs. Therefore, it could be said that the letter: \"ﻻ\" (La) is used in them as an opening word that is not intended to deny or negate anything. It is like the other separated letters at the beginning of Surahs, such as: \"ﺃﻟﻢ\" (Alif Lam Mim), \"ﺃﻟﺮ\" (Alif Lam Ra), \"ﺣﻢ\" (Ha Mim) and the like. This was the intended meaning of what was stated by Imam Ibn Jarir and Al­Hafizh Ibn Kathir.",
+          "content_type": "fatwa_ruling",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Extended explanation with Arabic text and scholarly references",
+          "memory_agreement": false
+        },
+        {
+          "text": "3. As for what was reported by Al­Hafizh 'Umar ibn Shabbah in: \"The History of Madinah\", from what ' Umar (may Allah be pleased with him) had said, that he noticed on 'Abdullah ibn 'Umar a smell of wine.",
+          "content_type": "question",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Third question about historical narration",
+          "memory_agreement": false
+        },
+        {
+          "text": "The truth was that it was ' Ubaydullah and not the well­known ' Abdullah, but his name was misspelled, as was proven by",
+          "content_type": "fatwa_ruling",
+          "page_number": 27,
+          "confidence": 0.9,
+          "notes": "Correction of historical record",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 53)",
+          "content_type": "navigation",
+          "page_number": 27,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Historical Correction",
+        "content_type": "heading_minor",
+        "page_number": 28,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "other narrations that showed that he was 'Ubaydullah Al­Musaghar (i.e., the name in the diminutive form) who was a Tabi'y (Follower, the generation after the Companions of the Prophet) and not a Sahaby (Companion of the Prophet) ­ may Allah forgive everyone!",
+          "content_type": "fatwa_ruling",
+          "page_number": 28,
+          "confidence": 0.9,
+          "notes": "Completion of historical correction with prayer",
+          "memory_agreement": false
+        },
+        {
+          "text": "As­salamu 'alaykum warahmatullah wabarakatuh!",
+          "content_type": "signature",
+          "page_number": 28,
+          "confidence": 0.95,
+          "notes": "Closing Islamic greeting",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Affirmation of the act of coming and descent for Allah (Glorified and Exalted be He)",
+        "content_type": "heading_minor",
+        "page_number": 29,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 54)",
+          "content_type": "navigation",
+          "page_number": 29,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "This message is from 'Abdul­'Aziz ibn 'Abdullah ibn Baz to the honorable brother, His Eminence Shaykh S.",
+          "content_type": "signature",
+          "page_number": 29,
+          "confidence": 0.9,
+          "notes": "Letter opening with author identification",
+          "memory_agreement": false
+        },
+        {
+          "text": "K. May Allah guide him to what pleases Him. Amen!",
+          "content_type": "signature",
+          "page_number": 29,
+          "confidence": 0.85,
+          "notes": "Continuation of addressee information",
+          "memory_agreement": true
+        },
+        {
+          "text": "A s­salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "arabic_text",
+          "page_number": 29,
+          "confidence": 0.9,
+          "notes": "Islamic greeting with translation",
+          "memory_agreement": true
+        },
+        {
+          "text": "I received your letter in which you mention that while you were verifying a book entitled, \"Fada'il Al­Awqat\" (Times of Particular Merit [for worship]) by Al­Baihaqi, you read the following passage: \"I heard Abu ' Abdullah Al­Hafiz saying that he heard Abu Muhammad Ahmad ibn 'Abdullah Al­Mizzy saying: 'The Hadith of the descending of Allah was authentically reported from the Messenger of Allah (peace be upon him) through various authentic chain of narrations. There are also corroborating texts that confirm the descending of Allah, such as His statement, And your Lord comes with the angels in rows. Nevertheless, the two attributes of coming and descending in the sense of movement and transition from a position to another are negated of Allah; rather they are two of Allah's Attributes without Tashbih (comparison). May He be Glorified above whatever is said by Mu'atilah (Those who deny Allah's Attributes) and Mushabihah (Those who liken Allah's Attributes to those of His creation).'\"",
+          "content_type": "question",
+          "page_number": 29,
+          "confidence": 0.9,
+          "notes": "Question containing citation and theological discussion",
+          "memory_agreement": true
+        },
+        {
+          "text": "Undoubtedly, this claim is Batil (false) and contradicts the opinion adopted by Ahl­ul­Sunnah wal­Jama'ah (those adhering to the Sunnah and the Muslim main body). Allah (Glorified be He) has affirmed for Himself the attribute of coming. The Messenger of Allah (peace be upon him) informed of His descending, but neither Allah (Glorified be He) nor His Messenger (peace be upon him) informed us of the manner of the descending or the coming. Therefore, we should stop at what the righteous Salaf (righteous predecessors, may Allah be pleased with them) did, for they did not go beyond what is mentioned in texts.",
+          "content_type": "fatwa_ruling",
+          "page_number": 29,
+          "confidence": 0.95,
+          "notes": "Scholar's ruling on theological matter",
+          "memory_agreement": false
+        },
+        {
+          "text": "We should follow their path and adhere to their doctrine in confirming the Attributes which are stated in the Noble Qur'an and the authentic Sunnah without Takyif (describing how an Attribute is). This together with the belief that Allah is unique, having no match, peer or equal (Glorified be He). Allah (Glorified and Exalted be He) states, \"And there is none co­equal or comparable unto Him.\"",
+          "content_type": "answer",
+          "page_number": 29,
+          "confidence": 0.9,
+          "notes": "Continued scholarly response with Quranic reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 55)",
+          "content_type": "navigation",
+          "page_number": 29,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "So put not forward similitudes for Allâh (as there is nothing similar to Him, nor He resembles anything). and There is nothing like Him; and He is the All­Hearer, the All­Seer. It is known that negating the act of movement and transition involves describing how Allah's Attributes are without knowledge. We are prohibited from going into this subject as we do not know the manner of His Attributes (Glorified be He). This is because neither Allah (Glorified and Exalted be He) nor His Prophet (peace be upon him) informed us of their manner.",
+          "content_type": "answer",
+          "page_number": 29,
+          "confidence": 0.9,
+          "notes": "Continued answer with Quranic verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "May Allah guide you and us to useful knowledge and enable us to work accordingly! May He help us remain steadfast in adhering to the Truth and protect us from delusive temptation. He is All­Hearing!",
+          "content_type": "signature",
+          "page_number": 29,
+          "confidence": 0.9,
+          "notes": "Closing prayer/supplication",
+          "memory_agreement": true
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh!",
+          "content_type": "signature",
+          "page_number": 29,
+          "confidence": 0.95,
+          "notes": "Final Islamic greeting",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on commemorating the life of the Messenger on the occasion of Mawlid",
+        "content_type": "heading_minor",
+        "page_number": 30,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 56)",
+          "content_type": "navigation",
+          "page_number": 30,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Is it lawful for Muslims to hold celebrations in Masjids (mosques) to remind themselves of the Sirah (biography) of the Prophet (peace be upon him) on the twelfth night of Rabi' Al­Awwal on the occasion of the Mawlid (the Prophet's birthday), without taking a holiday on that day, as is done on 'Eid (the feasts)? We differ over this; some say that it is a good Bid'ah (innovation in religion) and others says it is not a good Bid'ah.",
+          "content_type": "question",
+          "page_number": 30,
+          "confidence": 0.95,
+          "notes": "Question about Mawlid celebrations",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: It is neither permissible for Muslims to celebrate Mawlid on the twelfth night of Rabi' Al­ Awwal or at any other time, nor may they celebrate the birth of anyone else. This is because celebrating birthdays is a new Bid'ah, as the Prophet (peace be upon him) did not celebrate his birthday during his lifetime, and he was the one who conveyed the Din (religion of Islam) and the Shari'ah (Islamic law) from His Lord (may He be Praised and Exalted). He did not order that it be celebrated. He did not do this and neither did the Rightly­Guided Caliphs, the Sahabah (Companions of the Prophet), nor the Tabi'un (Followers, the generation after the Companions of the Prophet), and they were the best and favored generations of Islam. This act is Bid'ah. The Prophet (peace be upon him) said, \"Anyone who introduces something into this matter of ours (Islam) that is not part of it, will have it rejected.\" (Agreed upon by Imams Al­Bukhari and Muslim)There is also a narration by Muslim, classed as a Hadith Mu'allaq (a Hadith missing link in the chain of narration, reported directly from the Prophet) by Al­Bukhari, which he confirmed: \"Anyone who does an action which is not in accordance with this matter of ours (Islam), will have it rejected.\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 30,
+          "confidence": 0.95,
+          "notes": "Ruling against Mawlid with hadith citations",
+          "memory_agreement": true
+        },
+        {
+          "text": "Indeed, celebrating birthdays is not authenticated by the Prophet (peace be upon him); it is an innovated act that people introduced to the Din (religion of Islam) in the later centuries, and therefore it is to be rejected. The Prophet (peace be upon him) used to say in the Friday Khutbah (Sermon): \"Ama ba'd (to proceed): The best of all matters is the Book of Allah, the best of guidance is the guidance of Muhammad (peace be upon him), the most evil of all matters are those which are newly­invented (in religion), and every Bid'ah is a Dalalah (deviation from the right).\" (Related by Muslim in his \"Sahih [compilation of authentic Hadith]\" and by Al­Nasa'y with a good Isnad (chain of transmitters), who added \"...and every Dalalah is in the Fire.\"",
+          "content_type": "answer",
+          "page_number": 30,
+          "confidence": 0.9,
+          "notes": "Continued answer with hadith citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Rather than celebrating the birth of the Prophet (peace be upon him) it is better to teach his Sirah and the history of his life during the Jahiliyyah (the pre­Islamic time of ignorance) and Islam in the schools, Masjids, and other places. And explain about the events related to his birth and death, without needing to hold celebrations that have not been permitted by Allah or His Messenger (peace be upon him) nor substantiated by a Shar'y (Islamic legal) proof. Allah is the One Whose help is sought. We ask Allah (Exalted be He) to grant all Muslims guidance and success, and help them adhere to the Sunnah and shun Bid'ah.",
+          "content_type": "answer",
+          "page_number": 30,
+          "confidence": 0.9,
+          "notes": "Alternative recommendation and closing prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Much remembrance of Allah gives tranquility of heart and peace of mind",
+        "content_type": "heading_minor",
+        "page_number": 31,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5 , Page No: 57)",
+          "content_type": "navigation",
+          "page_number": 31,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: When I was a teenager I used to commit many sins, but I did not abandon the obligations of Islam such as Salah (Prayer). Now, I am repentant to Allah of all sins, but I do not feel the sweetness of Iman (belief) and live in worry and confusion. When I repeat the Shahadah (Testimony of Faith), I feel that it does not reach my heart. I am afraid that Allah has set a seal on my heart (i.e. closed from accepting Allah's Guidance). Please, guide me. May Allah reward you well!",
+          "content_type": "question",
+          "page_number": 31,
+          "confidence": 0.95,
+          "notes": "Personal spiritual question about repentance",
+          "memory_agreement": true
+        },
+        {
+          "text": "M.A.K Riyadh",
+          "content_type": "signature",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Questioner's initials and location",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: We advise you to frequently thank Allah for having guided you to Tawbah (repentance to Allah), to do lots of good deeds, to expect good from your Lord, to fill your time with Dhikr (Remembrance of Allah), to recite the Ever­Glorious Qur'an with contemplation, to befriend the righteous and to stay away from bad company. You should be hopeful of receiving good and having a good outcome, and you will feel ­ In sha'a­Allah (if Allah wills) after doing so ­ the sweetness of Iman, the delight in saying Shahadah, and the fruits of sincere Tawbah. Allah (Glorified and Exalted be He) says: verily, in the remembrance of Allâh do hearts find rest. and: And all of you beg Allâh to forgive you all, O believers, that you may be successful The Prophet (peace be upon him) said: \"Islam wipes out all that has gone before it (previous misdeeds).\" He (peace be upon him) also said: \"The one who repents from sin is like one who has not sinned.\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 31,
+          "confidence": 0.95,
+          "notes": "Spiritual guidance with Quranic verses and hadith",
+          "memory_agreement": true
+        },
+        {
+          "text": "A Muslim who frequently makes Dhikr and sincere Tawbah will gain success, peace of mind and ease of conscience and all past misdeeds will be forgiven. May Allah hold you steadfast to guidance and grant you uprightness! He is the best One asked for help.",
+          "content_type": "answer",
+          "page_number": 31,
+          "confidence": 0.9,
+          "notes": "Concluding advice with prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Obligation of enjoining good and forbidding evil",
+        "content_type": "heading_minor",
+        "page_number": 32,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 58)",
+          "content_type": "navigation",
+          "page_number": 32,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All perfect praise be to Allah Alone; peace and blessings of Allah be upon His Messenger, his family, his Companions and those who follow his guidance.",
+          "content_type": "signature",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is one of the fundamental and best acts of worship that Muslims exchange advice, guide to goodness and enjoin one another to truth and patience. A Muslim should warn others against committing violations of Islam and what displeases Allah (may He be exalted) or distances one from His Mercy. I implore Allah (may He be glorified and exalted) to purify our hearts and set aright our deeds and that of the Muslims. I ask Him to confer on us understanding of Islam, make us steadfast on it, support it and make it reign supreme. We invoke Allah to correct the Muslim rulers, guide them to all goodness, guide their retinue and help them do what is in the interest of people and their lands. We ask Allah to endow them with understanding of Islam and enlighten their hearts to rule by His Shari'ah (Divine Law) and be firm on it. Indeed, Allah is the One Who is Capable of doing that.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Introduction with supplication",
+          "memory_agreement": true
+        },
+        {
+          "text": "O Muslims! Enjoying good and forbidding evil is a very important topic worthy of attention, because welfare and salvation of the Ummah (nation based on one creed) lie in it; whereas, neglecting it causes great danger and corruption and disappearance of virtue and the spread of vice. Allah (Glorified and Exalted be He) clarified in the Glorious Qur'an the great status of enjoining good and forbidding evil in Islam to the extent that He mentioned it prior to Iman (faith), which is the very foundation of Islam. For instance, Allah (Exalted be He) says: You [true believers in Islâmic Monotheism, and real followers of Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) and his Sunnah] are the best of peoples ever raised up for mankind; you enjoin Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm has ordained) and forbid Al­ Munkar (polytheism, disbelief and all that Islâm has forbidden), and you believe in Allâh.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Main discourse with Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 59)",
+          "content_type": "navigation",
+          "page_number": 32,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "The secret that we can grasp of this precedence in order is the greatness of this obligation and the major public interests resulting from it. Muslims, particularly at the present time, are in bad need to be active in the obligation of enjoining good and forbidding evil due to the prevalence of sins and forms of Shirk (associating others with Allah in His Divinity or worship) and Bid'ahs (innovations in religion) on earth.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Explanation of importance",
+          "memory_agreement": true
+        },
+        {
+          "text": "Muslims at the time of the Prophet (peace be upon him), his Sahabah (Companions of the Prophet) and the Salaf (righteous predecessors) respected this obligation and carried it out in the best manner. Certainly, the later generations desperately need this obligation to be fulfilled more than the first ones due to prevalence of ignorance, lack of knowledge and people's negligence of this mandatory matter.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Historical comparison",
+          "memory_agreement": true
+        },
+        {
+          "text": "Currently, the matter has become more serious and dangerous since evil, corruption and propagators of falsehood prevail to an unbelievable extent, against the scarcity of callers to goodness in most countries. Therefore, Allah (may He be Praised) ordered and urged Muslims to enjoin good and forbid evil, giving it precedence over Iman in the Ayah (Qur'anic verse) ofAl­'Imarn,which reads: You [true believers in Islâmic Monotheism, and real followers of Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭﺳـﻠﻢ) and his Sunnah] are the best of peoples ever raised up for mankind It means that the Ummah of the Prophet Muhammad (peace be upon him) is the best nation in the Sight of Allah. This fact is confirmed by a Sahih (authentic) Hadith in which the Prophet (peace be upon him) said: \"You are the final of seventy Ummahs, you are the best and most honored among them to Allah.\"",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Contemporary analysis with Quranic and hadith references",
+          "memory_agreement": false
+        },
+        {
+          "text": "The past nations enjoined good and forbade evil as Allah sent His messengers and revealed His Books to fulfill this aim.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Historical context",
+          "memory_agreement": true
+        },
+        {
+          "text": "The very essence of good is Tawhid (belief in the Oneness of Allah/ monotheism) and pure worshipping of Allah alone; whereas, the very foundation of evil is Shirk and worshipping others besides or instead of Allah.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Definition of good and evil",
+          "memory_agreement": true
+        },
+        {
+          "text": "All the Messengers of Allah were sent to call people to believe in the Oneness of Allah, which is the highest peak of good, and to forbid them from associating others with Allah, which is the worst of evil.",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Purpose of messengers",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 60)",
+          "content_type": "navigation",
+          "page_number": 32,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "When the Children of Israel abandoned this duty, Allah (Glorified and Exalted be He) said about them: Those among the Children of Israel who disbelieved were cursed by the tongue of Dâwûd (David) and 'Isâ (Jesus), son of Maryam (Mary). That was because they disobeyed (Allâh and the Messengers) and were ever transgressing beyond bounds. The nature of their disobedience is clearly explained in the following Ayah, which says: They used not",
+          "content_type": "paragraph",
+          "page_number": 32,
+          "confidence": 0.9,
+          "notes": "Example from Children of Israel with Quranic verse (incomplete)",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Discussion on Enjoining Good and Forbidding Evil",
+        "content_type": "heading_minor",
+        "page_number": 33,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "to forbid one another from Al­Munkar (wrong, evil­doing, sins, polytheism, disbelief) which they committed. Vile indeed was what they used to do. Thus, their refraining from forbidding one another from evil was regarded as their worst disobedience and transgression, as explained in the Ayah saying: That was because they disobeyed (Allâh and the Messengers) and were ever transgressing beyond bounds.",
+          "content_type": "quran_verse",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the People of the Book",
+          "memory_agreement": false
+        },
+        {
+          "text": "They used not to forbid one another from Al­ Munkar (wrong, evil­doing, sins, polytheism, disbelief) which they committed. This is because of the great danger that ensues from neglecting this obligation.",
+          "content_type": "paragraph",
+          "page_number": 33,
+          "confidence": 0.8,
+          "notes": "Explanatory text about the danger of neglecting the obligation",
+          "memory_agreement": false
+        },
+        {
+          "text": "a party of the people of the Scripture stand for the right, they recite the Verses of Allâh during the hours of the night, prostrating themselves in prayer. They believe in Allâh and the Last Day; they enjoin Al­Ma'rûf (Islâmic Monotheism, and following Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) and forbid Al­Munkar (polytheism, disbelief and opposing Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ); and they hasten in (all) good works; and they are among the righteous. And whatever good they do, nothing will be rejected of them; for Allâh knows well those who are Al­Muttaqûn (the pious ­ See V.2:2).",
+          "content_type": "quran_verse",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Quranic verse from Surah Al-Imran praising righteous People of the Book",
+          "memory_agreement": false
+        },
+        {
+          "text": "The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another; they enjoin (on the people) Al­M a' rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden); they perform As­Salât (Iqâmat­as­Salât), and give the Zakât, and obey Allâh and His Messenger. Allâh will have His Mercy on them. Surely Allâh is All­Mighty, All­Wise.",
+          "content_type": "quran_verse",
+          "page_number": 33,
+          "confidence": 0.9,
+          "notes": "Quranic verse from Surah At-Tawbah about believers' obligations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 61)",
+          "content_type": "navigation",
+          "page_number": 33,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "A man will be brought on the Day of Resurrection and thrown into the Fire; his intestines will spill forth and he will go around them as a donkey goes around the millstone. The inmates of Hell will gather around him and will say, 'O So and so, what happened to you? Did you not use to enjoin what is good and forbid what is evil?' He will say, 'Yes, but I used to enjoin good and not do it, and I used to forbid evil and do it.'",
+          "content_type": "hadith",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Hadith from Usamah ibn Zayd about hypocrites who don't practice what they preach",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 62)",
+          "content_type": "navigation",
+          "page_number": 34,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 63)",
+          "content_type": "navigation",
+          "page_number": 34,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 64)",
+          "content_type": "navigation",
+          "page_number": 34,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Anyone of you who sees something evil, let them rectify it with their hand (by taking action); if they cannot, then with their tongue (by speaking out); and if they cannot, then with their heart (by hating it and feeling that it is wrong); and that is the weakest of Iman (belief).",
+          "content_type": "hadith",
+          "page_number": 34,
+          "confidence": 0.9,
+          "notes": "Famous hadith about three levels of forbidding evil, related by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 65)",
+          "content_type": "navigation",
+          "page_number": 35,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah loves kindness in all matters.",
+          "content_type": "hadith",
+          "page_number": 35,
+          "confidence": 0.8,
+          "notes": "Short hadith about kindness",
+          "memory_agreement": false
+        },
+        {
+          "text": "Kindness never exists in a thing without adoring it, and is never taken away from a thing without marring it.",
+          "content_type": "hadith",
+          "page_number": 35,
+          "confidence": 0.8,
+          "notes": "Hadith about the virtue of kindness",
+          "memory_agreement": false
+        },
+        {
+          "text": "A group of Jews entered to the Messenger of Allah (peace be upon him) and said, \"As­Samu 'Alaykum.\" (May death be upon you) [they said As­Sam instead of As­Salam and \"As­Sam\" means death]). 'Aishah said, \"I understood them, and said, 'Wa 'alaykum as­ samu wal­l a' nah (and upon you be death and curses).' But the Messenger of Allah (peace be upon him) said, 'Wait, O 'Aishah, for Allah loves kindness in all matters.' I said, 'O Messenger of Allah, did you not hear what they said?' The Messenger of Allah (peace be upon him) said, ' I said, ' Wa ' alaykum (and also upon you).'\"",
+          "content_type": "hadith",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Hadith about the Prophet's kind treatment of Jews who insulted him",
+          "memory_agreement": false
+        },
+        {
+          "text": "Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân) and fair preaching, and argue with them in a way that is better.",
+          "content_type": "quran_verse",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Quranic verse about calling to Islam with wisdom",
+          "memory_agreement": false
+        },
+        {
+          "text": "And argue not with the people of the Scripture (Jews and Christians), unless it be in (a way) that is better (with good words and in good manner, inviting them to Islâmic Monotheism with His Verses), except with such of them as do wrong",
+          "content_type": "quran_verse",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Quranic verse about arguing with People of the Book",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 66)",
+          "content_type": "navigation",
+          "page_number": 35,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is not a prophet whom Allah sent to a nation before me who did not have disciples and companions from his nation, who follow his Sunnah (way) and obey his commands. Then they are followed by later generations who say what they do not do, and do what they are not commanded to do. Anyone who strives against them with his hand is a believer. Anyone who strives against them with his tongue is a believer. Anyone who strives against with his heart is a believer. There is no (degree of) Iman beyond (lower than) this, even to the weight of a mustard seed.",
+          "content_type": "hadith",
+          "page_number": 35,
+          "confidence": 0.9,
+          "notes": "Hadith from Abdullah ibn Mas'ud about striving against corruption",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 67)",
+          "content_type": "navigation",
+          "page_number": 35,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 68)",
+          "content_type": "navigation",
+          "page_number": 36,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Whomever Allah wills good for, He grants him understanding of the religion.",
+          "content_type": "hadith",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Hadith from Mu'awiyah about understanding religion",
+          "memory_agreement": false
+        },
+        {
+          "text": "Anyone who travels a path seeking knowledge, Allah will make easy for him a path to Paradise.",
+          "content_type": "hadith",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Hadith about seeking knowledge, related by Muslim",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 69)",
+          "content_type": "navigation",
+          "page_number": 36,
+          "confidence": 1.0,
+          "notes": "Volume and page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, this Qur'ân guides to that which is most just and right",
+          "content_type": "quran_verse",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the Quran's guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "And this is a blessed Book (the Qur'ân) which We have sent down, so follow it and fear Allâh (i.e. do not disobey His Orders), that you may receive mercy (i.e. be saved from the torment of Hell).",
+          "content_type": "quran_verse",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Quranic verse about following the Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do they not then think deeply in the Qur'ân, or are their hearts locked up (from understanding it)?",
+          "content_type": "quran_verse",
+          "page_number": 36,
+          "confidence": 0.9,
+          "notes": "Quranic verse about reflecting on the Quran",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Book Recommendations and Study Guidance",
+        "content_type": "heading_minor",
+        "page_number": 37,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Wahhab (may Allah be merciful to him), namely, Kitab Al­Tawhid and Kashf Al­Shubuhat.",
+          "content_type": "citation",
+          "page_number": 37,
+          "confidence": 0.9,
+          "notes": "Reference to books by Muhammad ibn Abdul-Wahhab",
+          "memory_agreement": false
+        },
+        {
+          "text": "The basic books related to 'Aqidah also include Al­'Aqidah Al­Wasitiyyah by Shaykh Al­Islam",
+          "content_type": "citation",
+          "page_number": 37,
+          "confidence": 0.9,
+          "notes": "Reference to Ibn Taymiyyah's work",
+          "memory_agreement": false
+        },
+        {
+          "text": "Ibn Taymiyyah.",
+          "content_type": "navigation",
+          "page_number": 37,
+          "confidence": 0.7,
+          "notes": "Author attribution",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 70)",
+          "content_type": "navigation",
+          "page_number": 37,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is an important concise book of great benefit that summarizes the creed of Ahl­ul­Sunnah wal­Jama'ah (those adhering to the Sunnah and the Muslim main body). Also, the book of Al­ Iman (Faith) by Shaykh Al­Islam Muhammad ibn ' Abdul­Wahhab, which is a very useful book that contains a collection of Hadiths relevant to Iman. Seekers of knowledge, males and females, should memorize whatever they can from these useful books along with reciting the Qur'an and committing it entirely or partially to memory. They may study in pairs and ask good teachers and scholars about matters that look ambiguous to them. A seeker of knowledge should seek guidance and support from Allah and not become weak or lazy. They should manage their time and divide it into parts: a part for reciting and reflecting upon the Qur'an; another part for seeking knowledge, understanding the religion, memorizing the Matns (texts of Hadith) and asking about things that are difficult to understand; a third for fulfilling their social needs and a fourth part for offering Salah, acts of worship and the different forms of Dhikr (Remembrance of Allah) and Du'a' (supplication).",
+          "content_type": "fatwa_ruling",
+          "page_number": 37,
+          "confidence": 0.9,
+          "notes": "Scholarly guidance on study methodology",
+          "memory_agreement": false
+        },
+        {
+          "text": "Nur 'Ala Al­Darb is a very useful program for seekers of knowledge and the common Muslims, because it presents very important questions answered by a group of scholars known for their uprightness and sound knowledge. To benefit from this program, it is broadcast twice a day ­ one time between Maghrib (sunset) and 'Isha' (night) Prayers and another time at 09:30 p.m.",
+          "content_type": "paragraph",
+          "page_number": 37,
+          "confidence": 0.8,
+          "notes": "Information about radio program",
+          "memory_agreement": false
+        },
+        {
+          "text": "at the Holy Qurvan Radio Station.",
+          "content_type": "navigation",
+          "page_number": 37,
+          "confidence": 0.8,
+          "notes": "Radio station reference",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Enjoining Good and Forbidding Evil",
+        "content_type": "heading_minor",
+        "page_number": 37,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "There are many Hadith related with regard to the issue of enjoining good and forbidding evil. For instance, the Prophet (peace be upon him) said that Allah (Glorified and Exalted be He)",
+          "content_type": "paragraph",
+          "page_number": 37,
+          "confidence": 0.8,
+          "notes": "Introduction to hadith collection",
+          "memory_agreement": false
+        },
+        {
+          "text": "says:  \"Enjoin good and forbid evil before you supplicate to Me but I will not answer you, and before you ask Me but I will not give you, and before you turn to Me for help but I will not help you.\"",
+          "content_type": "hadith",
+          "page_number": 37,
+          "confidence": 0.9,
+          "notes": "Hadith Qudsi about enjoining good and forbidding evil",
+          "memory_agreement": false
+        },
+        {
+          "text": "In another narration reported on the authority of Hudhayfah, the Prophet (peace be upon him) said:  \"By Him in Whose Hand is my soul! You will enjoin righteousness and forbid evil, or else Allah is about to send a punishment",
+          "content_type": "hadith",
+          "page_number": 37,
+          "confidence": 0.9,
+          "notes": "Hadith narrated by Hudhayfah",
+          "memory_agreement": false
+        },
+        {
+          "text": "on you from Him.",
+          "content_type": "hadith",
+          "page_number": 37,
+          "confidence": 0.8,
+          "notes": "Continuation of hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 71)",
+          "content_type": "navigation",
+          "page_number": 37,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Then, you will supplicate to Him, but He will not answer your supplication.\"  (Related by Imam Ahmad)",
+          "content_type": "hadith",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Completion of hadith with citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "The task of enjoining good and forbidding evil is pivotal, as stated above. In a Hadith narrated on the authority of Ibn Mas'ud by Ahmad, Abu Dawud and Al­Tirmithy,the Prophet (peace be upon him) said:  \"When the Children of Israel fell into sins, their religious scholars forbade them, yet they did not desist; then they (i.e., the scholars) sat with them in their assemblies, ate with them and drank with them, so Allah caused the hearts of some to be tainted by the others and cursed them: 'by the tongue of Dawud (David) and ' Isa (Jesus), son of Maryam (Mary).  That was because they disobeyed and used to transgress the bounds (in their disobedience to Allâh, i.e. commit crimes and sins).    In another narration, it reads:  \"The first failing to begin among the Children of Israel was that a man would meet another man and say, 'O so and so! Fear Allah and abstain from what you are doing. It is not lawful for you.' Then he would meet him again the next day but this (the sin he saw him doing) would not prevent him from eating, drinking and sitting with him. When they did this, Allah caused the hearts of some to be tainted by the others.\"",
+          "content_type": "hadith",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Long hadith about Children of Israel with multiple narrations",
+          "memory_agreement": false
+        },
+        {
+          "text": "Therefore, we should beware lest we suffer a fate similar to that of those people, particularly there are some Hadiths stating that neglect of the obligation of enjoining good and forbidding evil prevents answering supplications and achieving victory. Indeed, it is a great catastrophe. Part of the punishment for neglecting this obligation includes the defeat and disunity of the Muslims, their enemies' control over them and unacceptance of their supplications ­ Allah forbid.",
+          "content_type": "fatwa_ruling",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Scholar's commentary and warning",
+          "memory_agreement": false
+        },
+        {
+          "text": "Enjoining good and forbidding evil may become an individual obligation on the Muslim who sees an evil and there is nobody else to remove it. In this case, they must remove the evil on condition that they are able to. The Prophet (peace be upon him) said:  \"Anyone of you who sees something evil, let them rectify it with their hand (by taking action); if they cannot, then with their tongue (by speaking out);",
+          "content_type": "hadith",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Famous hadith about levels of changing evil",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 72)",
+          "content_type": "navigation",
+          "page_number": 38,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and if they cannot, then with their heart (by hating it and feeling that it is wrong); and that is the weakest of Iman (faith).\"  (Related by Muslim in his Sahih [Authentic Hadith Book])",
+          "content_type": "hadith",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Completion of hadith with citation to Muslim",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Collective and Individual Obligations",
+        "content_type": "heading_minor",
+        "page_number": 38,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "If they are a group of people, it becomes a collective obligation on them in the locality or village or the tribe they live in. If one of them rectify the evil, it will be enough and that person will be rewarded; but if all of them leave this duty, they will all incur sin as is the case with the rest of the collective obligations. Supposing that there is only one scholar living in a particular country or tribe, it becomes an individual obligation on him to teach people, call them to Allah, enjoin them to do good and forbid them from doing evil as much as he can, as stated in the Hadiths mentioned above and supported by Allah's saying:  So keep your duty to Allâh and fear Him as much as you can",
+          "content_type": "fatwa_ruling",
+          "page_number": 38,
+          "confidence": 0.9,
+          "notes": "Legal ruling on collective vs individual obligations",
+          "memory_agreement": false
+        },
+        {
+          "text": "Scholars, callers to Allah and those who enjoin good and forbid evil, whom Allah guided to be patient, and be hopeful for Allah's reward and be sincere to Him are the people of success and guidance through whom Allah benefits His slaves. Allah (may He be Praised) says:  And whosoever fears Allâh and keeps his duty to Him, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine.  Allah (Exalted be He) also says:  and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.  He (Glorified and Exalted be He) says:  O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm.  Allah (Exalted be He) says:  By Al­'Asr (the time). Verily,",
+          "content_type": "quran_verse",
+          "page_number": 38,
+          "confidence": 0.8,
+          "notes": "Multiple Quranic verses about taqwa and divine help",
+          "memory_agreement": false
+        },
+        {
+          "text": "man is in loss,",
+          "content_type": "quran_verse",
+          "page_number": 39,
+          "confidence": 0.9,
+          "notes": "Continuation of Surah Al-Asr",
+          "memory_agreement": false
+        },
+        {
+          "text": "Except those who believe (in Islâmic Monotheism) and do righteous good deeds, and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al­Ma'ruf) which Allâh has ordained, and abstain from all kinds of sins and evil deeds (Al­Munkar which Allâh has forbidden], and recommend one another to patience (for the sufferings, harms, and injuries which one may encounter in Allâh's Cause during preaching His religion of Islâmic Monotheism or Jihâd).",
+          "content_type": "quran_verse",
+          "page_number": 39,
+          "confidence": 0.9,
+          "notes": "Completion of Surah Al-Asr with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Therefore, the successful people in the worldly life and the Hereafter are those who have faith, do righteous deeds,",
+          "content_type": "paragraph",
+          "page_number": 39,
+          "confidence": 0.8,
+          "notes": "Scholar's commentary on the verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 73)",
+          "content_type": "navigation",
+          "page_number": 39,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "enjoin one another to truth and enjoin one another to patience.",
+          "content_type": "paragraph",
+          "page_number": 39,
+          "confidence": 0.8,
+          "notes": "Continuation of commentary",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Conclusion and Supplication",
+        "content_type": "heading_minor",
+        "page_number": 39,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "It is clear that enjoining good, forbidding evil and enjoining one another to truth and patience fall under the branches of Taqwa (fearing Allah as He should be feared), but Allah (may He be Praised) mentioned it separately to further clarify it and encourage people to do it.",
+          "content_type": "paragraph",
+          "page_number": 39,
+          "confidence": 0.8,
+          "notes": "Scholarly explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "All in all, whoever enjoins good, forbids evil and patiently calls to Allah and died in that state will have possessed the great qualities of those who attained the full reward and eternal bliss.",
+          "content_type": "paragraph",
+          "page_number": 39,
+          "confidence": 0.8,
+          "notes": "Summary statement",
+          "memory_agreement": false
+        },
+        {
+          "text": "A Muslim is encouraged to observe these good qualities, as Allah (Exalted be He) says:  Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allâh. Verily, Allâh is Severe in punishment.",
+          "content_type": "quran_verse",
+          "page_number": 39,
+          "confidence": 0.9,
+          "notes": "Quranic verse about cooperation in righteousness",
+          "memory_agreement": false
+        },
+        {
+          "text": "I implore Allah, with His Most Beautiful Names and Attributes, to guide us and all Muslims to the beneficial knowledge and righteous deeds. I ask Him to grant us deep understanding of Islam, make us firm in it and help us undertake the obligation of enjoining good and forbidding evil according to our own capacities and capabilities. We implore Allah to guide the Muslim rulers and every concerned Muslim to patiently carry this obligation in the best manner. May Allah help every Muslim fulfill His duties and advise people for His Sake. He is the Most Generous. May Allah's peace and blessings be upon our Prophet Muhammad, his family, Companions and those who followed them in the best way.",
+          "content_type": "signature",
+          "page_number": 39,
+          "confidence": 0.9,
+          "notes": "Closing supplication and blessing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 5, Page No: 74)",
+        "content_type": "navigation",
+        "page_number": 40,
+        "confidence": 1.0
+      },
+      "content_items": [
+        {
+          "text": "Important questions and answers concerning enjoining good and forbidding evil",
+          "content_type": "heading_minor",
+          "page_number": 40,
+          "confidence": 0.9,
+          "notes": "Section heading for Q&A",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 1: I heard that some scholars consider enjoining good and forbidding evil as one of the Pillars of Islam. Is this true?",
+        "content_type": "heading_question",
+        "page_number": 40,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "A: Yes, some scholars are of this view. Although, no clear text concerning this matter is stated, it constitutes one of the major obligations in Islam.",
+          "content_type": "answer",
+          "page_number": 40,
+          "confidence": 0.9,
+          "notes": "Scholar's response to question about pillars",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Pillars of Islam specified by Prophet Muhammad (peace be upon him) are five. He (peace be upon him) stated,  \"Islam is built on five (Pillars): the testimony that there is no god except Allah and that Muhammad is the Messenger of Allah; establishing Salah (prayers); paying Zakah (obligatory charity); fasting Ramadan; and Hajj (pilgrimage) to the House (the Ka'bah).\"  (Agreed upon by Al­Bukhari and Muslim)",
+          "content_type": "hadith",
+          "page_number": 40,
+          "confidence": 0.9,
+          "notes": "Hadith about the five pillars of Islam",
+          "memory_agreement": false
+        },
+        {
+          "text": "Thus, the Prophet (peace be upon him) pointed out the pillars and fundamentals of Islam. It is impermissible to add an additional pillar, unless there is valid textual evidence. However, enjoining good and forbidding evil is one of the fundamentals and obligations in Islam, but it must not be stated as the sixth pillar due to the lack of the evidence.",
+          "content_type": "fatwa_ruling",
+          "page_number": 40,
+          "confidence": 0.9,
+          "notes": "Ruling on adding to the pillars of Islam",
+          "memory_agreement": false
+        },
+        {
+          "text": "Similarly, Jihad (fighting/striving in the Cause of Allah) as well as abstention from Haram (forbidden) things are fundamentals of faith, but they must not be stated as two of the Pillars of Islam due to the lack of the evidence.",
+          "content_type": "fatwa_ruling",
+          "page_number": 40,
+          "confidence": 0.8,
+          "notes": "Extension of ruling to other obligations",
+          "memory_agreement": false
+        },
+        {
+          "text": "It should be noted that we must abide by everything that Allah has enjoined and avoid everything that Allah has forbidden.",
+          "content_type": "fatwa_ruling",
+          "page_number": 40,
+          "confidence": 0.8,
+          "notes": "General principle statement",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 2: How does one forbid Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) by the heart?",
+        "content_type": "heading_question",
+        "page_number": 40,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "A: It is to hate the Munkar and not to accompany its doers; for sitting with them without renouncement is to act like the Children of Israel, whom Allah cursed in His Statement (Glorified be He):",
+          "content_type": "answer",
+          "page_number": 40,
+          "confidence": 0.9,
+          "notes": "Answer about forbidding evil with the heart",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 75)",
+          "content_type": "navigation",
+          "page_number": 40,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Those among the Children of Israel who disbelieved were cursed by the tongue of Dâwûd (David) and 'Isâ (Jesus), son of Maryam (Mary). That was because they disobeyed (Allâh and the Messengers) and were ever transgressing beyond bounds. They used not to forbid one another from Al­Munkar (wrong, evil­doing, sins, polytheism, disbelief) which they committed. Vile indeed was what they used to do.",
+          "content_type": "quran_verse",
+          "page_number": 40,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the cursed Children of Israel",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1123 @@
+{
+  "batch_number": 40,
+  "sections_count": 164,
+  "timestamp": "2025-06-12T07:04:26.618746",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 4:",
+        "content_type": "heading_question",
+        "page_number": 145,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "According to what you have clarified, do you recommend that Muslims study these fields to occupy the positions those evil-minded people hold?",
+          "content_type": "question",
+          "page_number": 145,
+          "confidence": 0.9,
+          "notes": "Question about Muslims studying media fields",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A 4:",
+        "content_type": "heading_question",
+        "page_number": 145,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Yes, the scholars should not neglect these matters or leave them to ignorant persons. Rather, they should spread goodness and virtue in all fields. However, I do not recommend them to practice acting. Scholars are asked to illustrate the rulings of Allah (Exalted be He) and His Messenger (peace be upon him) to people.",
+          "content_type": "fatwa_ruling",
+          "page_number": 145,
+          "confidence": 0.9,
+          "notes": "Ruling on scholars studying media fields",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 272)",
+          "content_type": "navigation",
+          "page_number": 145,
+          "confidence": 1.0,
+          "notes": "Page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "Performing or acting certain characters is lying and impermissible.",
+          "content_type": "fatwa_ruling",
+          "page_number": 145,
+          "confidence": 0.85,
+          "notes": "Additional ruling on acting",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 5:",
+        "content_type": "heading_question",
+        "page_number": 145,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Ka`b Ibn Zuhayr (may Allah be pleased with him) stood in front of Allah's Messenger (peace be upon him) and recited his poem, which begins with, \"Su`ad has become so far and my heart is left broken ...\" However, he never saw Su`ad and nothing happened to him of the matters he mentioned in his poem, thus it is a kind of falsehood. Acting and poetry are kinds of arts, so what do you say about this?",
+          "content_type": "question",
+          "page_number": 145,
+          "confidence": 0.9,
+          "notes": "Question about poetry and acting as art forms",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A 5:",
+        "content_type": "heading_question",
+        "page_number": 145,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "This does not involve representation of others, but false representation is when someone of them says, \"I am Abu Bakr, I am `Umar. I am `A'ishah.\" All of this is falsehood. Allah knows best.",
+          "content_type": "fatwa_ruling",
+          "page_number": 145,
+          "confidence": 0.9,
+          "notes": "Ruling distinguishing poetry from false representation",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 6:",
+        "content_type": "heading_question",
+        "page_number": 146,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Do we consider the establishment of Islamic groups, which embrace the youth and bring them up on the teachings of Islam in some Muslim countries, as one of the positive activities of contemporary age?",
+          "content_type": "question",
+          "page_number": 146,
+          "confidence": 0.9,
+          "notes": "Question about Islamic youth groups",
+          "memory_agreement": true
+        },
+        {
+          "text": "There is no doubt that these groups benefit Muslims, but they have to exert greater effort in clarifying the Truth supported with evidence. They should not dispute with other groups. Rather, they are required to cooperate, exchange advice and promote the praised activities of one another, and avoid whatever may disturb mutual harmony. Thus, there is no harm in having (Islamic) groups as long as they call to the Qur'an and Sunnah (whatever is reported from the Prophet, peace be upon him).",
+          "content_type": "fatwa_ruling",
+          "page_number": 146,
+          "confidence": 0.95,
+          "notes": "Ruling on Islamic groups",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 7:",
+        "content_type": "heading_question",
+        "page_number": 147,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "What is your advice to the youth belonging to these (Islamic) groups?",
+          "content_type": "question",
+          "page_number": 147,
+          "confidence": 0.9,
+          "notes": "Question seeking advice for Islamic group youth",
+          "memory_agreement": false
+        },
+        {
+          "text": "I advise them to hold fast to the Right Path, to return to scholars in matters they are uncertain of and to cooperate with members of other Islamic groups in what benefits Islam based on evidence from Shari`ah (Islamic law), avoiding violence and mockery. Cooperation should be through good words and good conduct. I advise the youth to follow the example of the Salaf (righteous predecessors), hold fast to the Truth and remain upon the True `Aqidah (creed) adopted by the Messenger of Allah (peace be upon him) and the Sahabah (Companions of the Prophet, may Allah be pleased with them all).",
+          "content_type": "fatwa_ruling",
+          "page_number": 147,
+          "confidence": 0.95,
+          "notes": "Advice to Islamic group youth",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 8:",
+        "content_type": "heading_question",
+        "page_number": 148,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 273)",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 1.0,
+          "notes": "Page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "What should Da`wah (calling to Islam) priorities be; doing charitable deeds, such as building Masjids (mosques) and helping the afflicted, or calling governments to apply Shari`ah (Islamic law) and fighting against all forms of corruption?",
+          "content_type": "question",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Question about Da'wah priorities",
+          "memory_agreement": false
+        },
+        {
+          "text": "The duty of scholars is to follow the example of messengers (peace be upon them) who started their Da`wah with Kafir (disbelieving) groups and non-Muslim countries. This is through calling to Tawhid (belief in the Oneness of Allah), abandoning worship of anything apart from Allah, believing in Him, confirming His Names and Attributes in a way that most befits Him, believing in His Messenger (peace be upon him), loving him and following him. In addition, scholars should call Muslims everywhere to adhere and hold fast to Shari`ah, advise rulers and help and relieve the needy. Moreover, while continuing with their Da`wah efforts, scholars should not neglect doing charitable deeds. They can visit rulers, praise their righteous deeds and encourage them to apply Shari`ah and bind nations to apply it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 148,
+          "confidence": 0.95,
+          "notes": "Comprehensive ruling on Da'wah priorities",
+          "memory_agreement": true
+        },
+        {
+          "text": "But no, by your Lord, they can have no Faith, until they make you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.",
+          "content_type": "quran_verse",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Quranic verse supporting the ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith.",
+          "content_type": "quran_verse",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Second Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "There are many Ayahs (Qur'anic verses) to the same effect.",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.8,
+          "notes": "Commentary on verses",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 9:",
+        "content_type": "heading_question",
+        "page_number": 148,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "What is your advice to the youth who exceed the proper limits in religion?",
+          "content_type": "question",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Question about religious extremism",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is necessary for the youth and everyone else to beware of violence, extremism and exceeding the proper limits.",
+          "content_type": "fatwa_ruling",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Initial ruling against extremism",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 274)",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 1.0,
+          "notes": "Page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "O people of the Scripture (Christians)! Do not exceed the limits in your religion",
+          "content_type": "quran_verse",
+          "page_number": 148,
+          "confidence": 0.85,
+          "notes": "Quranic verse about not exceeding limits",
+          "memory_agreement": false
+        },
+        {
+          "text": "And by the Mercy of Allâh, you dealt with them gently. And had you been severe and harsh-hearted, they would have broken away from about you",
+          "content_type": "quran_verse",
+          "page_number": 148,
+          "confidence": 0.85,
+          "notes": "Verse about gentleness",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"And speak to him mildly, perhaps he may accept admonition or fear (Allâh).\"",
+          "content_type": "quran_verse",
+          "page_number": 148,
+          "confidence": 0.85,
+          "notes": "Verse about speaking mildly",
+          "memory_agreement": false
+        },
+        {
+          "text": "Ruined are Al-Mutanatti`un (those who exceed the proper limits in religion). He repeated it thrice. (Related by Muslim in his Sahih (authentic) book of Hadith).",
+          "content_type": "hadith",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Hadith about extremism with citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Beware of exceeding the limits in your religion, because those before you were destroyed due to their exceeding the limits in religion. (Related by Imam Ahmad and Ahl-ul-Sunan (authors of Hadith compilations classified by jurisprudential themes) with a good Sanad (chain of narrators))",
+          "content_type": "hadith",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Second hadith with detailed citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Consequently, I advise all Du`ah (callers to Islam) to beware of excessiveness and exceeding the proper limits. They have to be moderate and adopt the middle course set by Allah in His Book and in the Sunnah (whatever is reported from the Prophet).",
+          "content_type": "fatwa_ruling",
+          "page_number": 148,
+          "confidence": 0.95,
+          "notes": "Final advice on moderation",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 10:",
+        "content_type": "heading_question",
+        "page_number": 148,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "We witness a huge political event that shook the world, namely the Palestinian Intifada against the Jews. What is your advice to the Muslim youth in occupied Palestine?",
+          "content_type": "question",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Question about Palestinian situation",
+          "memory_agreement": false
+        },
+        {
+          "text": "I advise them to observe Taqwa (fearing Allah as He should be feared), cooperate with one another in goodness and to be sincere in their efforts, for Allah grants victory to those who support His Cause.",
+          "content_type": "fatwa_ruling",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Advice to Palestinian youth",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! If you help (in the cause of) Allâh, He will help you, and make your foothold firm.",
+          "content_type": "quran_verse",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Supporting Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allâh has promised those among you who believe and do righteous good deeds, that He will certainly grant them succession to (the present rulers) in the land, as He granted it to those before them, and that He will grant them the authority to practise their religion which He has chosen for them (i.e. Islâm). And He will surely give them in exchange a safe security after their fear (provided) they (believers) worship Me and do not associate anything (in worship) with Me.",
+          "content_type": "quran_verse",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Second supporting verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 275)",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 1.0,
+          "notes": "Page reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "I advise all Muslims to cooperate with the Palestinians and call on wealthy people and rulers to offer help to their striving brothers in Palestine to regain their land and achieve victory over the enemies of Allah, In sha'a-Allah (if Allah wills). May Allah guide them and reward them well for defending all Muslims! As for Palestinians, they have to endure and be patient, for Allah's Promise is true and He grants victory to those who support His Cause. May Allah grant them success and victory over their enemy and guide Muslims to help and stand by them until they are victorious over their enemy with the Aid of Allah, for He is the Best to grant Victory.",
+          "content_type": "fatwa_ruling",
+          "page_number": 148,
+          "confidence": 0.95,
+          "notes": "Extended advice and prayer",
+          "memory_agreement": true
+        },
+        {
+          "text": "Peace and blessings be upon our Prophet Muhammad, his family and Companions!",
+          "content_type": "signature",
+          "page_number": 148,
+          "confidence": 0.9,
+          "notes": "Closing blessing formula",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on seeking soothsayers' and other charlatans' help",
+        "content_type": "heading_minor",
+        "page_number": 150,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 276)",
+          "content_type": "navigation",
+          "page_number": 150,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: A brother, S.A.B, living in Riyadh said that there are some people in some districts in Yemen called Al­Sadah (\"the noble people, the masters, etc\"), who commit unlawful acts, such as sorcery, claiming the ability to treat incurable diseases. They pierce themselves with knives, cut their tongues and restore them without being damaged. Some of them perform Salah (Prayer) while others do not. They marry women of any sect while making it unlawful for others to marry from theirs. When they supplicate for the sick, they direct their supplications to their grandfathers.",
+          "content_type": "question",
+          "page_number": 150,
+          "confidence": 0.95,
+          "notes": "Question about specific practices in Yemen",
+          "memory_agreement": true
+        },
+        {
+          "text": "In the past, people used to honor and consider them exceptional and close to Allah, and they even call them \"the men of Allah\". Now, people hold different views on them. The youth and literate people do not accept them, while the old and illiterate people still believe in them. Please explain the truth in this regard.",
+          "content_type": "question",
+          "page_number": 150,
+          "confidence": 0.9,
+          "notes": "Continuation of the question",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: These people and their likes are no more than Sufis whose evil deeds and falsehood are known. They are also diviners about whom the Prophet (peace be upon him) stated: He who visits a diviner and asks him about anything, his prayers extending to forty nights will not be accepted. This is because of their claim of knowing Ghayb (the Unseen) and their service and worship of the Jinn. They also deceive people, using various kinds of magic.",
+          "content_type": "answer",
+          "page_number": 150,
+          "confidence": 0.95,
+          "notes": "Scholar's response with hadith citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 277)",
+          "content_type": "navigation",
+          "page_number": 150,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "He [Mûsâ (Moses)] said: \"Throw you (first).\" So when they threw, they bewitched the eyes of the people, and struck terror into them, and they displayed a great magic.",
+          "content_type": "quran_verse",
+          "page_number": 150,
+          "confidence": 0.9,
+          "notes": "Quranic verse about Moses and Pharaoh's magicians",
+          "memory_agreement": false
+        },
+        {
+          "text": "If anyone resorts to a diviner and believes in what he says, then he disbelieves in what was revealed to Muhammad (peace be upon him).",
+          "content_type": "hadith",
+          "page_number": 150,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition about diviners",
+          "memory_agreement": false
+        },
+        {
+          "text": "Their acts including supplicating and seeking help from anything other than Allah, their claims that their ancestors manage the universe, treat the sick or respond to the supplications while they are dead or absent, are regarded as disbelief and major Shirk (associating others with Allah in His Divinity or worship). It is obligatory to resist them, not to visit them or seek their help, and not to believe them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 150,
+          "confidence": 0.9,
+          "notes": "Religious ruling on these practices",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 278)",
+          "content_type": "navigation",
+          "page_number": 150,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say: \"None in the heavens and the earth knows the Ghaib (Unseen) except Allâh\"",
+          "content_type": "quran_verse",
+          "page_number": 150,
+          "confidence": 0.9,
+          "notes": "Quranic verse about knowledge of the unseen",
+          "memory_agreement": false
+        },
+        {
+          "text": "Every Muslim who is aware of their acts must condemn and resist them and explain to people that these acts are evil and forbidden. They must also report their acts to the rulers or the authorities, if they are in Islamic countries. They are to be punished according to Shari`ah (Islamic law) to end their evil and protect Muslims from their falsehood and deceit.",
+          "content_type": "fatwa_ruling",
+          "page_number": 150,
+          "confidence": 0.9,
+          "notes": "Ruling on how Muslims should respond",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah grant success!",
+          "content_type": "signature",
+          "page_number": 150,
+          "confidence": 0.8,
+          "notes": "Closing blessing",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Slaughtering cows, hoping for rain",
+        "content_type": "heading_minor",
+        "page_number": 151,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 279)",
+          "content_type": "navigation",
+          "page_number": 151,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: Before the true Islamic Call spread in the Kingdom after the reign of Al Sa`ud, some people in our village used to take cows, drive them around mountains and valleys and then slaughter one of them. They would do this as a way of asking for rain. Is this practice permissible?",
+          "content_type": "question",
+          "page_number": 151,
+          "confidence": 0.95,
+          "notes": "Question about rain-seeking ritual",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: This practice has no root in Shari`ah (Islamic law); rather, it is a rejected Bid`ah (innovation in Islam), for the Prophet (peace be upon him) and the Sahabah (Companions of the Prophet) did not do it.",
+          "content_type": "answer",
+          "page_number": 151,
+          "confidence": 0.95,
+          "notes": "Scholar's ruling on the practice",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Merciful (i.e. Allah) shows mercy to those who show mercy. Show mercy to those on Earth and the One Who is in Heaven will show mercy to you.",
+          "content_type": "hadith",
+          "page_number": 151,
+          "confidence": 0.85,
+          "notes": "Prophetic tradition about mercy",
+          "memory_agreement": false
+        },
+        {
+          "text": "And do not do mischief on the earth, after it has been set in order, and invoke Him with fear and hope. Surely, Allâh's Mercy is (ever) near unto the good­doers.",
+          "content_type": "quran_verse",
+          "page_number": 151,
+          "confidence": 0.9,
+          "notes": "Quranic verse about invoking Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 280)",
+          "content_type": "navigation",
+          "page_number": 151,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And all of you beg Allâh to forgive you all, O believers, that you may be successful",
+          "content_type": "quran_verse",
+          "page_number": 151,
+          "confidence": 0.9,
+          "notes": "Quranic verse about seeking forgiveness",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on compliments",
+        "content_type": "heading_minor",
+        "page_number": 152,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Sometimes, it is not advisable to say the truth but to pay a compliment. Is this considered lying?",
+          "content_type": "question",
+          "page_number": 152,
+          "confidence": 0.95,
+          "notes": "Question about compliments vs truth",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: The matter requires further discussion. For instance, if paying a compliment will result in denying a right or confirming falsehood, it is not permissible. However, there is no harm in paying a compliment in the form of some general nice words that do not result in any form of falsehood, nor involve giving false testimony or denying someone's right.",
+          "content_type": "answer",
+          "page_number": 152,
+          "confidence": 0.95,
+          "notes": "Scholar's nuanced response about compliments",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Teaching the deaf-mute",
+        "content_type": "heading_minor",
+        "page_number": 153,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 281)",
+          "content_type": "navigation",
+          "page_number": 153,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: I have a deaf-mute brother. He does not know anything about Salah (Prayer), Sawm (Fast), Zakah (obligatory charity), or the teachings of Islam and the Qur'an. What should be done in this case?",
+          "content_type": "question",
+          "page_number": 153,
+          "confidence": 0.95,
+          "notes": "Question about teaching Islamic practices to deaf-mute person",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: The deaf-mute should be taught by means of sign language, if they are endowed with eyesight. Indeed, they are to be taught how to pray by letting their guardian or anyone offer Salah in front of them and then ask them to do the same. Assuming the deaf-mute is of sound mind, he can be informed about the times of prayers in the way they understand best, or can be taught each prayer at its due time. Moreover, if the deaf-mute knows how to read, you can write to him about the Islamic `Aqidah (creed) and the pillars of Islam, explaining the meaning of the two Testimonies of Faith. This method of writing can be used to explain the rest of Shari`ah rulings.",
+          "content_type": "fatwa_ruling",
+          "page_number": 153,
+          "confidence": 0.95,
+          "notes": "Detailed ruling on teaching Islamic practices to deaf-mute individuals",
+          "memory_agreement": true
+        },
+        {
+          "text": "Some details related to Salah must be explained to the deaf-mute, such as the rulings on Wudu' (ablution), Ghusl (ritual bath following major impurity), times of prayer, pillars of Islam, obligations and supererogatory acts of Salah, Sunnah Ratibah (supererogatory Prayer performed on a regular basis), Salat-ul-Duha (supererogatory Prayer after sunrise), Witr (Prayer with an odd number of units) and other rulings necessary for them to know. May this technique of writing be useful!",
+          "content_type": "paragraph",
+          "page_number": 153,
+          "confidence": 0.9,
+          "notes": "Continuation of the fatwa ruling with specific details",
+          "memory_agreement": false
+        },
+        {
+          "text": "Once the deaf-mute is taught in any suitable way, and they have attained puberty, they become Mukallaf (person meeting the conditions to be held legally accountable for their actions) and they are bound by the rulings of Mukallaf. However, if the deaf-mute does not understand, there is no harm on them, as in this case they are not considered to be Mukallaf. It is confirmed in a Hadith Sahih (authentic) that the Prophet (peace be upon him) stated, There are three (persons) who are not accountable for their actions: a boy/girl till he/she reaches puberty, a mad person till they come back to reason and a sleeping person until they awake.",
+          "content_type": "fatwa_ruling",
+          "page_number": 153,
+          "confidence": 0.9,
+          "notes": "Ruling on legal accountability with supporting hadith",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Feeling sinful",
+        "content_type": "heading_minor",
+        "page_number": 154,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 282)",
+          "content_type": "navigation",
+          "page_number": 154,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: A young man says, \"I am seventeen years old. Thanks to Allah, I carefully observe the religious obligations that Allah ordains on His Slaves. I do my best to be a perfect slave of Allah but I feel that I unconsciously commit a grave sin that consigns me to Allah's Punishment and Wrath. I feel that I am like the man hit by an arrow in the battle of Khaybar. Upon seeing so, the Muslims said, \"May he enjoy Paradise!\" Then, the Prophet (peace be upon him) said, Never, by the One in Whose Hand is my self, the sheet (of cloth) which he had taken (illegally) on the day of Khaybar from the booty before the distribution of the booty, would become a flame of Fire burning him. To summarize, I commit a sin that I do not know of. What should I do regarding this feeling? I do not know whether it is a proof of righteousness and piety or anything else. Please, advise.",
+          "content_type": "question",
+          "page_number": 154,
+          "confidence": 0.95,
+          "notes": "Question about feeling guilty for unknown sins",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: In fact, this is an indication of the strong fear you have of Allah (may He be glorified) and that you glorify His Prohibitions. Thus, you are good, if Allah wills. I recommend you to get rid of this unjustified fear, for it is unhealthy and Satanic. It troubles, frustrates, and angers you. It is a satanic insinuation. When he finds you loving goodness, fearing Allah, and undertaking good deeds, he tries to interrupt you. You should disobey this insinuation and reject it. Have faith in your Lord and know that returning to Allah in repentance is sufficient even if the sin is the most grievous. Allah's Forgiveness is far above any sin, no matter how great it is! No doubt, there is no sin greater than Shirk (ascribing partners to Allah), which Allah forgives if one shows repentance of it. All you are asked for is offering repentance of the sins you have committed and after that there is nothing more. Allah (Glorified be He) said,",
+          "content_type": "fatwa_ruling",
+          "page_number": 154,
+          "confidence": 0.95,
+          "notes": "Ruling on dealing with feelings of guilt and satanic whispers",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 283)",
+          "content_type": "navigation",
+          "page_number": 154,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say to those who have disbelieved, if they cease (from disbelief), their past will be forgiven. Allah (Glorified and Exalted be He) also says: And all of you beg Allâh to forgive you all, O believers, that you may be successful In these verses Allah hinges forgiveness and success on repentance. He (may He be Exalted and Glorified) said, Say: \"O 'Ibâdî (My slaves) who have transgressed against themselves (by committing evil deeds and sins)! Despair not of the Mercy of Allâh: verily, Allâh forgives all sins. Truly He is Oft-Forgiving, Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 154,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses about forgiveness and repentance",
+          "memory_agreement": false
+        },
+        {
+          "text": "Scholars (may Allah be merciful to them) agreed that this verse was revealed concerning the penitents. You have to repent to Allah (may He be Praised) from what you know or do not know of the sins you committed by regretting your past sins, giving up disobedience, and determining sincerely not to return to it again. One should do so hoping for Allah's reward, glorifying Him, seeking His Pleasure, and avoiding His Punishment. Have glad tidings with good and good consequences, which Allah promised the penitents and always remember Allah's Saying, And verily, I am indeed forgiving to him who repents, believes (in My Oneness, and associates none in worship with Me) and does righteous good deeds, and then remains constant in doing them, (till his death).",
+          "content_type": "paragraph",
+          "page_number": 154,
+          "confidence": 0.9,
+          "notes": "Scholarly commentary and guidance on repentance",
+          "memory_agreement": false
+        },
+        {
+          "text": "There is another Ayah (Qur'anic Verse), which is more indicative of this meaning for it states that Allah replaces bad deeds with good deeds, if the sinner returns to Allah in repentance and follows it with faith and good deeds. Allah (Exalted be He) said in Surah Al-Furqan, And those who invoke not any other ilâh (god) along with Allâh, nor kill such person as Allâh has forbidden, except for just cause, nor commit illegal sexual intercourse - and whoever does this shall receive the punishment. The torment will be doubled to him on the Day of Resurrection, and he will abide therein in disgrace; Except those who repent and believe (in Islâmic Monotheism), and do righteous deeds; for those, Allâh will change their sins into good deeds, and Allâh is Oft-Forgiving, Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 154,
+          "confidence": 0.9,
+          "notes": "Quranic verse from Surah Al-Furqan about transformation of sins to good deeds",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 284)",
+          "content_type": "navigation",
+          "page_number": 154,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah states that He replaces their misdeeds with good ones owing to their sincere repentance, faith, and good deeds. As for you, your admittance of the sin which was followed by returning to Allah in repentance, continuing offering righteous deeds, having faith and believing in Allah and hoping for His reward will include you among those whom Allah replaces their wrongdoings with good ones. This is Allah's rule in the matter of sins; if a slave repents to Allah from his misdeeds and follows his wrongdoings with faith and kind acts, Allah will replace the sins with good deeds as a kind of grace and bounty from Him. Praise and Thankfulness be to Him for that.",
+          "content_type": "paragraph",
+          "page_number": 154,
+          "confidence": 0.9,
+          "notes": "Conclusion of the fatwa ruling on repentance",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Poison Pan",
+        "content_type": "heading_minor",
+        "page_number": 155,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Some people in Qadir Valley have a pan made of copper, which they call the \"poison pan.\" When someone is ill, he goes to the person who has the pan, they fill it with water and the sick drinks from it, believing that the water will cure their illness. This is especially so if the illness is related to the stomach. I noticed that pictures of scorpions, horses, cats, deer, donkeys, cobras, foxes, elephants, lions, and people are engraved on the pan. I noticed some other pictures that I did not recognize, but I saw some engraved names and inscriptions, such as the word 'martyr' and others. I would like Your Honor to advise people on this matter.",
+          "content_type": "question",
+          "page_number": 155,
+          "confidence": 0.95,
+          "notes": "Question about using a copper pan with engravings for healing",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Using the pan that the questioner described is an abominable act and the pictures on it that were described strengthen this judgment. We do not know of any pan, whether it is made of iron, copper, gold, or silver, that cures abdominal illnesses. This is just a false claim made by the owner of the pan. It appears - and Allah knows best - that he consults the Jinn (creatures created from fire) or uses charlatanry claiming that it holds a cure in order to fraudulently take money from people",
+          "content_type": "fatwa_ruling",
+          "page_number": 155,
+          "confidence": 0.95,
+          "notes": "Ruling declaring the practice forbidden and fraudulent",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 285)",
+          "content_type": "navigation",
+          "page_number": 155,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "and make them think he can cure them. This pan must be confiscated, destroyed, and the owner must be punished. It is the duty of the authorities to do this. Whoever learns of this charlatanry should refer the matter to the concerned authorities in order to take necessary procedures. We should not overlook the owner of this pan for his action is Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) and not permissible under the Shari`ah (Islamic law). It is the responsibility of the questioner and other Muslims who know about this matter to report it to the authorities. You should do this to rid your town of this abominable practice and bring this great evil to an end, In Shaa-Allah (if Allah wills).",
+          "content_type": "fatwa_ruling",
+          "page_number": 155,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling with specific actions to be taken",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on Staying at the Grave",
+        "content_type": "heading_minor",
+        "page_number": 156,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: There is a righteous man in our village; when he died, they built a shrine over his grave. We have a custom to go visit him every year, both men and women, and stay there for three days during which we praise Allah, say Tahlil (\"La ilaha illa Allah [There is no god except Allah]\") and Adhkar (supplications). We hope from the venerable shaykh to offer us guidance and direction on this issue.",
+          "content_type": "question",
+          "page_number": 156,
+          "confidence": 0.95,
+          "notes": "Question about visiting graves and staying at shrines",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: These activities are not permissible. In fact, they are Bid'ahs (rejected innovations in religion) that have been created by people. It is not permissible to build anything above the graves regardless of whether they are called shrines, domes, Masjid (mosque), or anything else. During the time of the Prophet (peace be upon him) and the Companions, the graves in Al-Baqi` were uncovered; they did not have any buildings over them. The Prophet (peace be upon him) prohibited building over graves or plastering graves. He (peace be upon him) said: \"Allah cursed the Jews and Christians; they made the graves of their prophets places of worship.\" (Agreed upon by Imams Al-Bukhari and Muslim). Jabir ibn ' Abdullah Al-Ansary (may Allah be pleased with him) said: \"The Messenger of Allah (peace be upon him) forbade plastering graves, sitting on them and building over them.\" (Reported by Imam Muslim in his Sahih).",
+          "content_type": "fatwa_ruling",
+          "page_number": 156,
+          "confidence": 0.95,
+          "notes": "Ruling forbidding building over graves with hadith evidence",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 286)",
+          "content_type": "navigation",
+          "page_number": 156,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "or decorating and screening graves is Munkar (unacceptable or disapproved of by Islamic law and Muslims of sound intellect). They are means to Shirk (associating others in worship with Allah). It is not permissible to build domes, screens, or Masjids over the graves. Likewise, visiting graves in the manner mentioned by the questioner: sitting by them, saying Tahlil, eating food, wiping the grave, supplicating, or offering Salah (Prayer) by a grave, are all Munkar; they are all Bid'ahs that are impermissible. What is lawful is to visit graves, supplicate to Allah for the dead, and leave.",
+          "content_type": "fatwa_ruling",
+          "page_number": 156,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling on proper grave visitation",
+          "memory_agreement": false
+        },
+        {
+          "text": "When visiting the graves, one should say: \"Peace be upon you, inhabitants of the abodes, believers and Muslims. If Allah wills, we will join you. We ask Allah for well-being for ourselves and for you. May Allah have mercy upon those who have gone ahead of us, and those who come later on!\" There are other similar supplications. This is what is lawful, as taught by the Prophet (peace be upon him) to his Sahabah (Companions of the Prophet).",
+          "content_type": "paragraph",
+          "page_number": 156,
+          "confidence": 0.9,
+          "notes": "Proper supplication for grave visitation",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is reported by Al-Tirmidhy on the authority of Ibn `Abbas (may Allah be pleased with them) that he said: The Prophet (peace be upon him) passed by the graves of the Madinah and said: Peace be upon you, O inhabitants of the graves! May Allah forgive us and you. You have preceded us and we are to follow.",
+          "content_type": "hadith",
+          "page_number": 156,
+          "confidence": 0.9,
+          "notes": "Hadith about proper grave visitation",
+          "memory_agreement": false
+        },
+        {
+          "text": "However, staying, eating, drinking, saying Tahlil, offering Salah, or reciting the Qur'an at the graves, all these things are Munkar that have no basis in the purified Shari`ah. As for invoking the dead, appealing to him, and seeking support from him, this is considered major Shirk (associating others in worship with Allah). It is like worshipping the idols of Al-Lat, Al-`Uzza, Manat, and other idols of Jahiliyyah (pre-Islamic time of ignorance) at the time of the Prophet (peace be upon him).",
+          "content_type": "fatwa_ruling",
+          "page_number": 156,
+          "confidence": 0.9,
+          "notes": "Strong ruling against grave worship practices",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is obligatory, therefore, to beware of these things and to warn people against doing them and enlightening them about their religion in order to avoid this abominable kind of Shirk. This is the duty of the scholars whom Allah granted comprehension of religion and knowledge of what Allah sent the messengers with. Allah (Glorified be He) says: Invite (mankind, O Muhammad ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭ ﺳـﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân) and fair preaching, and argue with them in a way that is better.",
+          "content_type": "quran_verse",
+          "page_number": 156,
+          "confidence": 0.85,
+          "notes": "Quranic verse about calling to Islam with wisdom",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) also says: And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): \"Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).\"",
+          "content_type": "quran_verse",
+          "page_number": 156,
+          "confidence": 0.9,
+          "notes": "Quranic verse about messengers calling to monotheism",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 5, Page No: 287)",
+          "content_type": "navigation",
+          "page_number": 156,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) also says: And who is better in speech than he who [says: \"My Lord is Allâh (believes in His Oneness),\" and then stands firm (acts upon His Order), and] invites (men) to Allâh's (Islâmic Monotheism), and does righteous deeds, and says: \"I am one of the Muslims.\" Allah (Glorified be He) also says: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh - Islâmic Monotheism) with sure knowledge, I and whosoever follows me (also must invite others to Allâh i.e. to the Oneness of Allâh - Islâmic Monotheism with sure knowledge). And Glorified and Exalted be Allâh (above all that they associate as partners with Him). And I am not of the Mushrikûn (polytheists, pagans, idolaters and disbelievers in the Oneness of Allâh; those who worship others along with Allâh or set up rivals or partners to Allâh).\" There are many other Ayahs (Qur'anic verses) to the same effect.",
+          "content_type": "quran_verse",
+          "page_number": 156,
+          "confidence": 0.9,
+          "notes": "Multiple Quranic verses about calling to monotheism",
+          "memory_agreement": false
+        },
+        {
+          "text": "When the Messenger of Allah (peace be upon him) sent Mu`adh to Yemen, he said to him: You will go to the people of the Book. First of all, invite them to testify that there is no deity but Allah and that Muhammad is the Messenger of Allah. According to",
+          "content_type": "hadith",
+          "page_number": 156,
+          "confidence": 0.85,
+          "notes": "Beginning of hadith about Muadh being sent to Yemen - appears incomplete",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 157,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "another narration of Al­Bukhari (may Allah be merciful with him): Invite them to worship Allah alone. If they accept this, then tell them that Allah has enjoined five prayers in every day and night upon them. If they accept this, tell them that Allah has obliged them with paying charity taken from the rich and distributed among the poor. If they obey this, then do not take for charity the fine things among their properties. Beware of injustice, for there is no barrier between the supplication of an wronged person and Allah i.e. it is definitely answered. (Agreed upon by Imams Al­Bukhari and Muslim).",
+          "content_type": "hadith",
+          "page_number": 157,
+          "confidence": 0.95,
+          "notes": "Hadith with citation to Al-Bukhari and Muslim",
+          "memory_agreement": true
+        },
+        {
+          "text": "He (peace be upon him) ordered him to first call them to Tawhid (belief in the Oneness of Allah/monotheism) and to be free of Shirk, along with believing in the Messenger (peace be upon him) and witnessing that he conveyed the Message.",
+          "content_type": "paragraph",
+          "page_number": 157,
+          "confidence": 0.9,
+          "notes": "Explanatory text about the hadith",
+          "memory_agreement": true
+        },
+        {
+          "text": "Accordingly, it is known that calling for reforming the`Aqidah (creed) is given priority over other rulings; since the `Aqidah is the basis of all rulings.",
+          "content_type": "fatwa_ruling",
+          "page_number": 157,
+          "confidence": 0.85,
+          "notes": "Religious ruling about priority of creed",
+          "memory_agreement": true
+        },
+        {
+          "text": "But if they had joined in worship others with Allâh, all that they used to do would have been of no benefit to them.",
+          "content_type": "quran_verse",
+          "page_number": 157,
+          "confidence": 0.9,
+          "notes": "Quranic verse without explicit reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "And indeed it has been revealed to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), as it was to those (Allâh's Messengers) before you: \"If you join others in worship with Allâh, (then) surely (all) your deeds will be in vain, and you will certainly be among the losers.\"",
+          "content_type": "quran_verse",
+          "page_number": 157,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text",
+          "memory_agreement": true
+        },
+        {
+          "text": "Scholars everywhere and every time should do their best",
+          "content_type": "paragraph",
+          "page_number": 157,
+          "confidence": 0.8,
+          "notes": "Beginning of concluding paragraph",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 288)",
+          "content_type": "navigation",
+          "page_number": 157,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "to enlighten people about the reality of Islam and to clarify the true `Aqidah with which Allah (Exalted be He) sent down all the messengers (peace be upon them), at the top of them their seal, Prophet Muhammad (peace be upon him). May Allah guide Muslim scholars and laypeople to whatever pleases Him. He is the best One asked for help.",
+          "content_type": "paragraph",
+          "page_number": 157,
+          "confidence": 0.9,
+          "notes": "Concluding paragraph with supplication",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Du`a' in Case of Fear and Shyness",
+        "content_type": "heading_minor",
+        "page_number": 158,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 289)",
+          "content_type": "navigation",
+          "page_number": 158,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: I am eighteen years old. I feel afraid and shy and can not sit with people. I need your guidance. Are there any kinds of Du`a' (supplication) to treat this situation that troubles me a lot?",
+          "content_type": "question",
+          "page_number": 158,
+          "confidence": 0.95,
+          "notes": "Question about fear and shyness",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: This may be from Satan, so you should seek refuge with Allah (Exalted be He) from Satan. You should feel that you are a man and that there is no cause for fear or shyness. You could say some supplications such as \"I seek refuge in the Perfect Words of Allah from the evil of what He has created,\" three times in the morning and evening. You could also say \"In the Name of Allah, with Whose Name nothing on earth or in the heaven can cause harm, and He is the All­Hearing, the All­Knowing,\" three times in the morning and evening. These supplications could be a means of saving you from every evil as stated in many authentic Hadith reported from the Messenger of Allah (peace be upon him).",
+          "content_type": "answer",
+          "page_number": 158,
+          "confidence": 0.95,
+          "notes": "Scholar's answer with specific supplications",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is also useful to recite Ayat­ul­Kursy (the Qur'anic Verse of Allah's Chair, Surah Al­Baqarah, 2:255) and the last two Qur'anic Ayahs of Surah Al­Baqarah every night, from His Saying, The Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) believes in what has been sent down to him from his Lord, and (so do) the believers. till the end of the Surah, along with reciting Surah Al­Ikhlas Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"He is Allâh, (the) One. and Al­Mu`awwidhatayn (Surahs Al­Falaq [Surah number 113] and Al­Nas [Surah number 114]) after each of the Five Obligatory Daily Prayers; once after the Zhuhr (Noon) Prayer, `Asr (Afternoon) Prayer and `Isha' (Night) Prayer and three times after the Maghrib (Sunset) Prayer and the Fajr (Dawn) Prayer. All these Du`a' will help overcome fears and help you to obtain peace of mind.",
+          "content_type": "answer",
+          "page_number": 158,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with Quranic recitation recommendations",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on shaving the hair of the cheeks and the chin",
+        "content_type": "heading_minor",
+        "page_number": 159,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 5, Page No: 290)",
+          "content_type": "navigation",
+          "page_number": 159,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Q: What is the ruling on shaving the hair of the cheeks and letting that of the chin grow?",
+          "content_type": "question",
+          "page_number": 159,
+          "confidence": 0.95,
+          "notes": "Question about beard grooming",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: According to linguists, the beard is the hair that grows on the cheeks and chin. The Muslim should not shave his cheeks. He should let them grow along with the chin.",
+          "content_type": "fatwa_ruling",
+          "page_number": 159,
+          "confidence": 0.9,
+          "notes": "Religious ruling on beard maintenance",
+          "memory_agreement": true
+        },
+        {
+          "text": "Trim closely the mustache, and let the beard grow to be contradictory to the unbelievers. (Agreed upon by Al­Bukhari and Muslim)",
+          "content_type": "hadith",
+          "page_number": 159,
+          "confidence": 0.95,
+          "notes": "Hadith with citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Trim closely the mustache, and let the beard grow to be contradictory to the unbelievers. (Related by Al­Bukhari in the Sahih)",
+          "content_type": "hadith",
+          "page_number": 159,
+          "confidence": 0.95,
+          "notes": "Similar hadith with different citation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Ordered us to trim mustaches and let the beards grow. (Agreed upon by Imams Al­Bukhari and Muslim)",
+          "content_type": "hadith",
+          "page_number": 159,
+          "confidence": 0.95,
+          "notes": "Hadith from Ibn Umar",
+          "memory_agreement": true
+        },
+        {
+          "text": "Trim closely the mustache, and grow beard, and thus act against the Magi.",
+          "content_type": "hadith",
+          "page_number": 159,
+          "confidence": 0.95,
+          "notes": "Hadith from Abu Hurayrah via Muslim",
+          "memory_agreement": true
+        },
+        {
+          "text": "The believers should let the beard grow and cut the mustache as our Prophet Muhammad (peace be upon him) ordered us. This involves great goodness besides reviving the Sunnah (whatever is reported from the Prophet) and abiding by his orders. This also entails avoiding resemblance to the unbelievers and women. The Mu'min (believer) should not be deceived by the multitude of men who shave their beards and should not imitate them for they contradict the purified Shar` (Law) and the order of the Messenger (peace be upon him) whom Allah sent as a guide, a bearer of glad tidings, and a warner.",
+          "content_type": "fatwa_ruling",
+          "page_number": 159,
+          "confidence": 0.9,
+          "notes": "Extended ruling with reasoning",
+          "memory_agreement": true
+        },
+        {
+          "text": "And whatsoever the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) gives you, take it; and whatsoever he forbids you, abstain (from it).",
+          "content_type": "quran_verse",
+          "page_number": 159,
+          "confidence": 0.9,
+          "notes": "Quranic verse supporting the ruling",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 291)",
+          "content_type": "navigation",
+          "page_number": 159,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "And let those who oppose the Messenger's (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them.",
+          "content_type": "quran_verse",
+          "page_number": 159,
+          "confidence": 0.9,
+          "notes": "Warning verse about opposing the Messenger",
+          "memory_agreement": true
+        },
+        {
+          "text": "and whosoever obeys Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) will be admitted to Gardens under which rivers flow (in Paradise), to abide therein, and that will be the great success. And whosoever disobeys Allâh and His Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), and transgresses His limits, He will cast him into the Fire, to abide therein; and he shall have a disgraceful torment.",
+          "content_type": "quran_verse",
+          "page_number": 159,
+          "confidence": 0.9,
+          "notes": "Verse about rewards and punishments for obedience/disobedience",
+          "memory_agreement": true
+        },
+        {
+          "text": "There are many other Ayahs (Qur'anic verses) that urge people to obey Allah (Glorified be He) and His Messenger (peace be upon him) and warn against disobeying Allah and His Messenger. Allah is the Grantor of success.",
+          "content_type": "paragraph",
+          "page_number": 159,
+          "confidence": 0.85,
+          "notes": "Concluding statement",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 5, Page No: 292)",
+          "content_type": "navigation",
+          "page_number": 159,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Falsehood Callers Bothering Knowledgeable and Beneficent People",
+        "content_type": "heading_minor",
+        "page_number": 160,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "Q: As Your Eminence presented and many Muslim brothers may share me this understanding; only the callers of falsehood should be prevented, not the callers of Al­Haqq (Truth) from whom people could benefit in the field of Da`wah (calling to Islam).",
+          "content_type": "question",
+          "page_number": 160,
+          "confidence": 0.9,
+          "notes": "Question about preventing false callers vs truth callers",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Undoubtedly, it is obligatory to prevent those who call to falsehood and trouble the people of goodness and righteousness to the extent that they may be denied access to Masjids (mosques) and consequently many others may be denied access as well. If the people of falsehood are deterred, the way will be wide open for the callers for Al­Haqq.",
+          "content_type": "fatwa_ruling",
+          "page_number": 160,
+          "confidence": 0.9,
+          "notes": "Ruling on preventing false callers",
+          "memory_agreement": true
+        },
+        {
+          "text": "Rulers should stand against the people of falsehood to prevent them from spreading their evil by all possible means, whether they are Communists, idolaters, Christians, innovators, or ignorant of the ruling of the purified Shar` (Law). The Muslim rulers should prevent the abovementioned people of falsehood from spreading their evil and should support the callers for Al­Haqq who call people to abide by the Book of Allah and the Sunnah (whatever is reported from the Prophet) and enlighten them about the obligations Allah set upon them and the prohibited acts out of knowledge and point out to them the Right of Allah, people and rulers and Muslim's right towards his fellow Muslims. It is the callers for Al­Haqq who should be helped. Then, whoever goes astray and calls for something against the Shar` should be deterred wherever he is.",
+          "content_type": "fatwa_ruling",
+          "page_number": 160,
+          "confidence": 0.9,
+          "notes": "Extended ruling on rulers' responsibilities",
+          "memory_agreement": true
+        }
+      ]
+    }
+  ]
+}
