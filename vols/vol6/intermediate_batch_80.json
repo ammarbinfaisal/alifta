@@ -1,0 +1,2385 @@
+{
+  "batch_number": 80,
+  "sections_count": 307,
+  "timestamp": "2025-06-12T13:28:10.443036",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q (Unnamed)",
+        "content_type": "heading_question",
+        "page_number": 303,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Q : A man wants to do a certain job, which he is able to do and can excel others in it, but he does not have the certificate that entitles him to enter the competition. Is it permissible for him to forge the certificate and enter the competition? If he succeeds, will his wages be permissible for him?",
+          "content_type": "question",
+          "page_number": 303,
+          "confidence": 0.9,
+          "notes": "Question about forging certificates for employment",
+          "memory_agreement": false
+        },
+        {
+          "text": "A : It seems to me, from the pure Shari`ah and its sublime goals, that such actions are not permissible, because this is gaining employment by means of lying and deception. These are forbidden things that may open the door wide to evil and pave the way for deceit. Undoubtedly, those who are entrusted with the task of hiring employees must seek qualified and trustworthy people as much as possible.",
+          "content_type": "fatwa_ruling",
+          "page_number": 303,
+          "confidence": 0.9,
+          "notes": "Ruling against forging certificates",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q (About enjoining good and forbidding evil)",
+        "content_type": "heading_question",
+        "page_number": 304,
+        "confidence": 0.85
+      },
+      "content_items": [
+        {
+          "text": "Q: What is the ruling on those who abstain from enjoining good and forbidding evil while having the ability to do so?",
+          "content_type": "question",
+          "page_number": 304,
+          "confidence": 0.95,
+          "notes": "Question about obligation of enjoining good",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Such people are thereby disobedient to Allah and His Messenger (peace be upon him). They have weak Iman (Faith) and are in great danger. This is one of the diseases of the heart and may result in Allah's immediate or later punishment. Allah (may He be Exalted and Glorified) stated:",
+          "content_type": "fatwa_ruling",
+          "page_number": 304,
+          "confidence": 0.9,
+          "notes": "Beginning of ruling with introduction to Quranic evidence",
+          "memory_agreement": true
+        },
+        {
+          "text": "Those among the Children of Israel who disbelieved were cursed by the tongue of Dâwûd (David) and 'Isâ (Jesus), son of Maryam (Mary). That was because they disobeyed (Allâh and the Messengers) and were ever transgressing beyond bounds. They used not to forbid one another from Al­Munkar (wrong, evil­doing, sins, polytheism, disbelief) which they committed. Vile indeed was what they used to do.",
+          "content_type": "quran_verse",
+          "page_number": 304,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Children of Israel",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 402)",
+          "content_type": "navigation",
+          "page_number": 304,
+          "confidence": 0.95,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is authentically reported that the Prophet (peace be upon him) stated: \"Whoever among you sees something abominable should change it with his hand; and if he has not the ability, then he should do so with his tongue; and if he has not the ability to do this, (even) then he should (abhor it) in his heart, and this is the least of Faith.\"",
+          "content_type": "hadith",
+          "page_number": 304,
+          "confidence": 0.95,
+          "notes": "Famous hadith about changing evil",
+          "memory_agreement": false
+        },
+        {
+          "text": "Also, He (peace be upon him) stated: If acts of disobedience are witnessed by people and they do not rectfy them, Allah will soon punish them all. Related by Imam Ahmad with a sound Isnad (chain of narration) on the authority of Abu Bakr Al­ Siddiq (may Allah be pleased with him).There are many Hadith in this regard. We implore Allah to help Muslims fulfill this great obligation in a manner that pleases Him.",
+          "content_type": "hadith",
+          "page_number": 304,
+          "confidence": 0.9,
+          "notes": "Second hadith with citation and concluding prayer",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q: If two friends applied for a job and they fulfilled the conditions for acceptance, and one of them entered the test instead of the other, is this lawful if he can do the job and is it permissible for him to take a salary for that job?",
+        "content_type": "question",
+        "page_number": 305,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "A: It is not permissible to do this, because it involves lying and fraud and it opens the door for unqualified people to get jobs in dishonest way and gain through deception something that is unlawful for them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 305,
+          "confidence": 0.95,
+          "notes": "Complete fatwa ruling on job application fraud",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "removing women's facial hair",
+        "content_type": "heading_minor",
+        "page_number": 306,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: What is the ruling on women removing their facial hair?",
+          "content_type": "question",
+          "page_number": 306,
+          "confidence": 0.95,
+          "notes": "Question about Islamic ruling on facial hair removal",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: This needs to be discussed in detail. If it is normal facial hair, it is not permissible to remove it according to the Hadith: The Messenger of Allah (peace be upon him) cursed the women who practice Nams (facial hair removal) and those on whom Nams is practiced. Nams is removal of hair from the face and the eyebrows. However, if there is excessive facial hair that defaces a woman, such as a mustache or beard, there is no harm in removing this because it deforms her face and harms her.",
+          "content_type": "fatwa_ruling",
+          "page_number": 306,
+          "confidence": 0.95,
+          "notes": "Detailed ruling with hadith reference and exceptions",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 6, Page No: 403)",
+        "content_type": "navigation",
+        "page_number": 307,
+        "confidence": 0.95
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "hitting female students for educational purposes",
+        "content_type": "heading_minor",
+        "page_number": 307,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: What is the ruling on hitting female students to make them learn, and to urge them to do their required homework and stop neglecting it?",
+          "content_type": "question",
+          "page_number": 307,
+          "confidence": 0.95,
+          "notes": "Question about disciplining female students",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: There is nothing wrong in that, because teachers and parents have the right to observe and discipline children for misconduct that deserves discipline, such as if they neglect their homework. This is to accustom them to noble manners and bring them up on ethics of commitment to good work. For this purpose, it is authentically reported that the Prophet (peace be upon him) said, \"Command your children to perform Salah (Prayer) when they are seven (years old), and hit them for (neglecting) it when they are ten (years old); and separate between them in beds.\" Just as boys may be chastised for neglecting the Salah, so can girls when they reach the age of ten, if they neglect the duty of Salah until they pray regularly. The same applies to other obligations, such as study, home duties, etc. Those who are in charge of youngsters, male and female, should pay attention to teaching them and disciplining them, but any hitting should be light and not harmful, and only to achieve the intended purpose.",
+          "content_type": "fatwa_ruling",
+          "page_number": 307,
+          "confidence": 0.95,
+          "notes": "Comprehensive ruling with hadith citation and conditions",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "fear of Riya' when giving advice",
+        "content_type": "heading_minor",
+        "page_number": 308,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: A woman says, \"I am afraid of Riya' (showing off) and I am wary of it to the extent that I cannot advise some people or forbid them from certain acts, such as Ghibah (backbiting), Namimah (tale­bearing), and such like. I am afraid that would be Riya' and that people might think that I am dissembling, so I do not give them advice about anything. Sometimes I say to myself they are educated people and are not in need of my advice. What is your advice to me?\"",
+          "content_type": "question",
+          "page_number": 308,
+          "confidence": 0.95,
+          "notes": "Detailed question about fear of showing off when giving religious advice",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: This is one of Satan's tricks with which he holds people back from Da'wah (calling to Allah) and from enjoining the good and forbidding evil. He makes people think that this is Riya' or that people might think it is. Our sister in Islam, you should not pay attention to these thoughts. In fact it is obligatory on you to give advice to your sisters and brothers in Islam if you see them neglecting their religious obligations or committing forbidden deeds, such as Ghibah, Namimah, and not wearing their veils in the presence of men. You should not be afraid that this is Riya'.",
+          "content_type": "fatwa_ruling",
+          "page_number": 308,
+          "confidence": 0.95,
+          "notes": "First part of the ruling addressing Satan's tricks",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 6, Page No: 404)",
+          "content_type": "navigation",
+          "page_number": 308,
+          "confidence": 0.95,
+          "notes": "Page reference within the fatwa",
+          "memory_agreement": true
+        },
+        {
+          "text": "You should be sincere to Allah and truthful to Him and expect good for doing good. You should ignore these whispers and tricks of Satan, as Allah knows what is in your heart, your intention, your sincerity towards Him (Exalted be He), and your honesty towards His Servants. Undoubtedly Riya' is Shirk (associating others with Allah in His Divinity or worship) and it is not permissible to behave so, but it is also not permissible for believers to refrain from doing something that Allah has enjoined, such as calling people to His Path or enjoining what is good and forbidding what is evil for fear of Riya'. They should beware of Riya', but at the same time they must discharge their obligations among men or women. Men and women are equal in this regard, as Allah (Glorified be He) states this in His Glorious Book saying: The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another; they enjoin (on the people) Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden); they perform As­Salât (Iqâmat­as­Salât), and give the Zakât, and obey Allâh and His Messenger. Allâh will have His Mercy on them. Surely Allâh is All­Mighty, All­Wise.",
+          "content_type": "fatwa_ruling",
+          "page_number": 308,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling with Quranic verse citation",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "the issue of Shiloukh (making scars on the face) to distinguish the people of different tribes",
+        "content_type": "heading_minor",
+        "page_number": 309,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: I would like your advice on the issue of Shiloukh, which is made with a straight razor on the face and is used to distinguish the people of one tribe from another. Is this Halal (lawful) or Haram (prohibited)?",
+          "content_type": "question",
+          "page_number": 309,
+          "confidence": 0.95,
+          "notes": "Question about tribal scarification practices",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: In Arabic, this is called Al­Washm (tattooing). The Prophet (peace be upon Him) forbade this and cursed those who do it. It is authentically reported in a Hadith that the Prophet (peace be upon him) cursed the taker or payer of Riba (usury/interest), and people who tattoo or get tattooed. It makes no difference whether the tattoo is on the hand, the face, or anywhere else. As regards what is past and done ignorantly, it is sufficient to make Tawbah (repentance to Allah) for it, and all praise to Allah. If it is possible to remove the tattoo without causing harm, it is obligatory that this be done. As regards the future, after a Muslim knows Allah's Ruling, it is obligatory on them to avoid what Allah forbade, and this applies to both men and women.",
+          "content_type": "fatwa_ruling",
+          "page_number": 309,
+          "confidence": 0.95,
+          "notes": "Complete ruling on tattooing/scarification",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 6, Page No: 405)",
+        "content_type": "navigation",
+        "page_number": 310,
+        "confidence": 1.0
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "joining Christians in their feasts",
+        "content_type": "heading_minor",
+        "page_number": 310,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Some Muslims join with Christians in their feasts, what is your advice?",
+          "content_type": "question",
+          "page_number": 310,
+          "confidence": 0.95,
+          "notes": "Question about participating in Christian celebrations",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: It is not permissible for Muslims to join Christians, Jews, or other Kafirs (disbelievers) in their feasts. In fact, it is obligatory on them to avoid doing so, because anyone who imitates a people is one of them. The Messenger (peace be upon him) warned us against imitating them or copying their morals. A believer should be careful of not doing so. Also it is not permissible for a believer to help the celebrants in this in any way, because their feasts conflict with our Shari'ah. So it is not permissible to join in celebrating them or even to cooperate with them or help them with anything, such as making tea, coffee, or providing them with utensils or anything else, because Allah (Exalted be He) says:",
+          "content_type": "fatwa_ruling",
+          "page_number": 310,
+          "confidence": 0.9,
+          "notes": "Ruling on participating in non-Muslim religious celebrations",
+          "memory_agreement": true
+        },
+        {
+          "text": "Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allâh. Verily, Allâh is Severe in punishment.",
+          "content_type": "quran_verse",
+          "page_number": 310,
+          "confidence": 0.95,
+          "notes": "Quranic verse about cooperation in righteousness",
+          "memory_agreement": false
+        },
+        {
+          "text": "Joining the Kafirs in their feasts is considered as cooperating with them in sin and transgression.",
+          "content_type": "fatwa_ruling",
+          "page_number": 310,
+          "confidence": 0.85,
+          "notes": "Continuation of the ruling",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Writing the Basmalah on cards is permissible",
+        "content_type": "heading_minor",
+        "page_number": 311,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Is it permissible to write the Basmalah (\"Bismillah Al­Rahman, Al­Rahim [In the Name of Allah, the Most Gracious, the Most Merciful]\") on wedding invitation cards, as people throw them in the street or in garbage bins after the weddings?",
+          "content_type": "question",
+          "page_number": 311,
+          "confidence": 0.95,
+          "notes": "Question about writing sacred text on disposable items",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: It is permissible to write the Basmalah on invitation cards and other messages, based on the Hadith in which the Prophet (peace be upon him) said, \"Any significant matter that is not started with Bismillah (in the Name of Allah) is cut off (from blessing).\" This is in addition to the fact that he (peace be upon him) used to begin his messages with the mention of Allah's Name.",
+          "content_type": "fatwa_ruling",
+          "page_number": 311,
+          "confidence": 0.9,
+          "notes": "First part of ruling with hadith reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is not, however, permissible for someone who receives a card on which Allah's Name or Ayahs (verses) of the Qur'an are written to throw it in the garbage can or put it in a disliked place. The same applies to newspapers and anything similar. It is not permissible to treat them with contempt, throw them in the garbage, spread them on tables under food, or use them to wrap things up in, because they might contain the Name of Allah (Glorified and Exalted be He). In such case, it is the person who misuses the paper that bears the sin not the person who wrote them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 311,
+          "confidence": 0.9,
+          "notes": "Second part of ruling about proper treatment of sacred text",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 6, Page No: 406)",
+        "content_type": "navigation",
+        "page_number": 312,
+        "confidence": 1.0
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "appearance of women in front of men",
+        "content_type": "heading_minor",
+        "page_number": 312,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Many men, in some families, allow their wives, daughters, or sisters to appear in front of men who are non­Mahrams (not a spouse or an unmarriageable relative), such as their friends and colleagues, and they sit with them and talk to them as if they were Mahrams (spouse or unmarriageable relative). When we advice them, they say that this is their custom and that of their families, and they claim that their hearts are pure. Some of them stubbornly resist, even though they know the ruling and some of them are ignorant of it. What is your advice to them?",
+          "content_type": "question",
+          "page_number": 312,
+          "confidence": 0.95,
+          "notes": "Question about women's interaction with non-mahram men",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: It is obligatory on Muslims not to base their actions on custom; they should refer to the Shari'ah (Islamic law). Customs should be checked against the Shari'ah and if they are approved they may be followed, otherwise they may not. People being accustomed to doing something cannot be used as evidence that it is Halal (lawful), so all customs of both people and tribes must be checked against the Book of Allah and the Sunnah of His Messenger (peace be upon him). If it is permitted by Allah and His Messenger (peace be upon him), then it is permissible; and if it is forbidden, it must be abandoned, even if it is a custom that people follow. If it is a people's customs to be lax about Khulwah (being alone with a member of the opposite sex) with an Ajnabiyyah (woman lawful for a man to marry) or a woman showing her face to a non­Mahram, these are invalid customs and it is obligatory for them to be abandoned, in the same way as habits of Zina (premarital sexual intercourse and/or adultery), sodomy, and dinking intoxicants should be. It is obligatory for these practices to be abandoned; their being local customs is not an acceptable excuse. The Shari'ah is above all that, so anyone whom Allah has guided to Islam must avoid all that Allah has declared to be Haram (prohibited), such as Khamr (intoxicants), Zina, theft, undutifulness to parents, severing the ties of kinship, and the other matters that Allah (Glorified and Exalted be He) prohibited, and they must abide by what Allah obligated them to do.",
+          "content_type": "fatwa_ruling",
+          "page_number": 312,
+          "confidence": 0.95,
+          "notes": "Extensive ruling on customs vs Islamic law",
+          "memory_agreement": true
+        },
+        {
+          "text": "The same applies to families; it is obligatory on them to respect the Orders of Allah and His Messenger and to avoid what Allah and His Messenger forbade. If it is the people's custom to allow their female relatives to appear unveiled in front of non­Mahrams or to be in Khulwah with them, it is obligatory for theses customs to be abandoned.",
+          "content_type": "fatwa_ruling",
+          "page_number": 312,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling on family customs",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is not permissible for a Muslim woman to uncover her face or any part of herself in front of her cousin or people such as her sister's husband or her husband's brothers or uncles. It is obligatory on her to cover her face, head, and all her body in presence of non­Mahrams. As regards speaking to them, there is no harm in this, such as returning or initiating the greeting of Salam (Islamic greeting of peace) with them, as long as she is wearing her Hijab (veil) and is avoiding being with them in Khulwah, as Allah (may He be Praised) says:",
+          "content_type": "fatwa_ruling",
+          "page_number": 312,
+          "confidence": 0.9,
+          "notes": "Specific ruling on women's dress and interaction",
+          "memory_agreement": false
+        },
+        {
+          "text": "And when you ask (his wives) for anything you want, ask them from behind a screen: that is purer for your hearts and for their hearts.",
+          "content_type": "quran_verse",
+          "page_number": 312,
+          "confidence": 0.95,
+          "notes": "Quranic verse about hijab",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 407)",
+          "content_type": "navigation",
+          "page_number": 312,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "O wives of the Prophet! You are not like any other women. If you keep your duty (to Allâh), then be not soft in speech, lest he in whose heart is a disease (of hypocrisy, or evil desire for adultery) should be moved with desire, but speak in an honourable manner.",
+          "content_type": "quran_verse",
+          "page_number": 312,
+          "confidence": 0.95,
+          "notes": "Quranic verse about women's speech",
+          "memory_agreement": false
+        },
+        {
+          "text": "So Allah (may He be Glorified and Praised) forbade the wives of the Prophet (peace be upon him) from speaking softly, so those whose hearts are diseased by desire will not be tempted or think ill of them. A women's speech should be moderate, neither aggressive nor submissive. Allah (may He be Praised) tells us that the Hijab is purer for everyone's hearts.",
+          "content_type": "fatwa_ruling",
+          "page_number": 312,
+          "confidence": 0.9,
+          "notes": "Explanation of the Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Prophet! Tell your wives and your daughters and the women of the believers to draw their cloaks (veils) all over their bodies (i.e. screen themselves completely except the eyes or one eye to see the way). That will be better, that they should be known (as free respectable women) so as not to be annoyed. And Allâh is Ever Oft­Forgiving, Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 312,
+          "confidence": 0.95,
+          "notes": "Quranic verse about jilbab",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Jilbab (a loose outer garment with no front opening) is worn by women over their heads and bodies. Women cast it over their heads to entirely cover their bodies, and it is worn over their clothes. Allah (Glorified and Exalted be He) says:",
+          "content_type": "fatwa_ruling",
+          "page_number": 312,
+          "confidence": 0.85,
+          "notes": "Explanation of jilbab",
+          "memory_agreement": false
+        },
+        {
+          "text": "And tell the believing women to lower their gaze (from looking at forbidden things), and protect their private parts (from illegal sexual acts) and not to show off their adornment except only that which is apparent (like both eyes for necessity to see the way, or outer palms of hands or one eye or dress like veil, gloves, head­cover, apron, etc.), and to draw their veils all over Juyûbihinna (i.e. their bodies, faces, necks and bosoms) and not to reveal their adornment except to their husbands, or their fathers, or their husband's fathers, or their sons, or their husband's sons",
+          "content_type": "quran_verse",
+          "page_number": 312,
+          "confidence": 0.95,
+          "notes": "Quranic verse about women's modesty",
+          "memory_agreement": false
+        },
+        {
+          "text": "There is nothing wrong in women showing their adornment in front of the people specified in the previous Ayah (Qur'anic verse).",
+          "content_type": "fatwa_ruling",
+          "page_number": 312,
+          "confidence": 0.85,
+          "notes": "Clarification of the verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is obligatory on all Muslim women to have Taqwa (fearing Allah as He should be feared) and beware of what Allah has declared as Haram (prohibited) for them in regard to showing their adornment in front of other than those specified by Allah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 312,
+          "confidence": 0.9,
+          "notes": "Final ruling on women's modesty",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Durrat Al­Nasiheen",
+        "content_type": "heading_minor",
+        "page_number": 314,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: In a book entitled \"Durrat Al­Nasiheen fil Wa'dh wal Irshad\" (The Pearl of Advisors on Preaching and Guidance) by a scholar of the ninth century A.H. called `Uthman Ibn Hasan Ibn Ahmad Al­Khubri, I read the following: \"It is narrated on the authority of Ja`far Ibn Muhammad from his father, from his grandfather, that he said, 'Allah (Exalted be He) gazed upon a jewel and it became red. He cast His sight upon it again and it melted and trembled in awe of the Lord. Then, He looked at it for a third time and it became water and the fourth time half of it became solid. Allah created the Throne out of one half and created water out of the other half, then He left it in that state. Hence, it trembles till the Day of Resurrection.'\" Another narration reads: \"It is reported that `Ali (may Allah be pleased with him) said, 'Those who hold the Throne are four angels. Each of them has four faces. Their feet are planted on a rock under the seventh firmament of the earth at a distance of a five hundred year journey.'\" Please enlighten me about the authenticity of what I have read!",
+          "content_type": "question",
+          "page_number": 314,
+          "confidence": 0.95,
+          "notes": "Long question about authenticity of hadith from a specific book",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 6, Page No: 408)",
+          "content_type": "navigation",
+          "page_number": 314,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: This book is untrustworthy as it contains many Mawdu' (fabricated) and Da`if (weak) Hadith, such as these two narratives that have no source in Shari'ah (Islamic law). These two Hadiths are fabricated and falsely ascribed to the Prophet (peace be upon him). Therefore, we should not trust this book or others like it, which include the good and the bad, as well as Da'if and Mawdu' Hadith. The Hadith of the Messenger (peace be upon him) have been examined by the scholars of Ahl Al­Sunnah (those adhering to the Sunnah and the Muslim community) who have distinguished the Sahih from the Da`if. Hence, a believer should possess only sound benificial books, such as the Two Sahih Books (The two Authentic Books of Hadith: Al­Bukhari and Muslim), the Four Books of Sunan (by Abu Dawud, Ibn Majah, Al­Tirmidhi and Al­Nasai'), Muntaqa Al­Akhbar (the Selected Hadiths) by Ibn Taimiyah, Riyad Al­Salihin (Gardens of the Righteous) by Al­Nawawi, Bulugh Al­Maram (Attaining the Objective) by Al­Hafizh Ibn Hajar, 'Umdat A l­Hadith (Pillar of Hadith) by Al­Hafizh `Abdul­Ghani Ibn `Abdul­Wahid Al­Maqdisi, as well as other edifying works approved by scholars",
+          "content_type": "fatwa_ruling",
+          "page_number": 314,
+          "confidence": 0.95,
+          "notes": "Scholar's ruling on the authenticity of the book and recommendations for reliable sources",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "ruling on palmistry",
+        "content_type": "heading_minor",
+        "page_number": 315,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: Some people say that the lines on the right palm are in the shape of the Arabic number 18 and those on the left are in the shape of the number 81. The total of these two numbers is 99, which they say is the number of Allah's Most Beautiful Names. Is this true?",
+          "content_type": "question",
+          "page_number": 315,
+          "confidence": 0.95,
+          "notes": "Question about palmistry and numerology claims",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: This is just a baseless supposition on the part of some people. We do not know of any religious scholar who has said this, therefore, it cannot be considered to be reliable.",
+          "content_type": "fatwa_ruling",
+          "page_number": 315,
+          "confidence": 0.95,
+          "notes": "Brief ruling rejecting palmistry claims",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "False Karamahs",
+        "content_type": "heading_minor",
+        "page_number": 316,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: It is said that there are chosen men who can perform extraordinary events such as coming to perform Hajj without using any means of transportation or attending a Funeral Prayer in Makkah while living far away from there. Is the wind made subservient to lead them wherever they want? Please, advise.",
+          "content_type": "question",
+          "page_number": 316,
+          "confidence": 0.95,
+          "notes": "Question about supernatural abilities claimed by some people",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 6, Page No: 409)",
+          "content_type": "navigation",
+          "page_number": 316,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: Such things are baseless in Shari`ah and are superstitious invented by some people. Some Sufis pretend to have Karamahs (extraordinary events performed by a pious person), rendering them able to reach Makkah without any means of transportation; but this is surely falsehood. Or, they would have contact with Jinn or worship them, so that the Jinn would carry them to Makkah or any other place, as stated by Shaykh Abu Al­'Abbas ibn Taymiyah, (may Allah be merciful with him) and other scholars. To summarize, such matters are just superstitious beliefs held by some Sufis and those like them, who falsely allege to be Awliya' (the pious worshippers of Allah or holy persons) possessing Karamahs. But, in actual fact, they are the Awliya' (votaries) of Satan, that is why the Jinn carry them from one place to another. Thus, when these Sufis worship and serve the Jinn, they receive their help in moving from one place to another in return.",
+          "content_type": "fatwa_ruling",
+          "page_number": 316,
+          "confidence": 0.95,
+          "notes": "Detailed ruling rejecting false supernatural claims and explaining their true nature",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 317 Content",
+        "content_type": "heading_minor",
+        "page_number": 317,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 6, Page No: 410)",
+          "content_type": "navigation",
+          "page_number": 317,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Da`wah to Allah and its Prescribed Method",
+          "content_type": "navigation",
+          "page_number": 317,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "In The Name of Allah, The All­Merciful, The Ever­Merciful. All Praise is due to Allah the Lord of",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "creation, and the noble end is for the righteous. Peace be upon Allah's Messenger and Servant,",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the leader of Al­Ghurr­ul­Muhajjalin (those with illuminating marks on the face and feet) and",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Imam of callers to Allah; our Prophet and Imam Muhammad Ibn `Abdullah, and upon his",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "family, companions and those who follow him in his guidance till the Day of Judgment.",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "I thank Allah (Glorified and Exalted be He) for granting me this opportunity to meet with",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Muslim brothers in this blessed place, Makkah Al­Mukarramah at Al­Bayt Al­`Ateeq [the Most Sacred Old Masjid] to",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "exchange advice and recommendation and cooperate in Da`wah (inviting) to Allah and",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "reminding of its fruits, benefits, and etiquettes. I ask Allah (Glorified be He) to bless our",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "gathering, rectify all our hearts and deeds, and grant us understanding of His Way and",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "adherence to it. I implore Him to set right the affairs of all Muslims everywhere, entrust them",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to pious rulers and grant them understanding of Islam and adherence to it. Indeed, He is the",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Most Honorable. I then express my appreciation to those in charge of Umm Al­Qurah",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "University and above all our dear brother, professor Rashid Ibn Rajih, the director of the university",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "­ for inviting me to attend this meeting. May Allah guide all to what pleases Him and bless our",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "efforts! May He make them beneficial and successful and protect us against the misleading",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "trials and unforseeable difficulties! Indeed, He is All­Hearing, Ever Near.",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "O Muslim brothers, this lecture is entitled \"Da`wah to Allah (Glorified be He): Prescribed",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Etiquettes and Ways\". Indeed, Da`wah to Allah has a great merit and among the most",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "important obligations and duties upon Muslims in general, and scholars in particular. Da`wah",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to Allah was the mission of Prophets (peace be upon them all) who were the most eminent in",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "it and it is the way of Allah's Messengers and those who followed them until the Day of",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Judgment. It is an indispensable matter and the entire Ummah (Muslim nation) is in dire need",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "of it. Muslims should be informed of the importance of learning Allah's Way, adhering to it and",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "avoiding what contradicts Islam, disagrees with its perfectness, diminishes its reward, or",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "affects one's faith is one of the most crucial matters.",
+          "content_type": "paragraph",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 6, Page No: 411)",
+          "content_type": "navigation",
+          "page_number": 317,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "It is necessary for scholars who are acquainted with the Shari`ah (law) of Allah, wherever",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "they may be, to call people to Allah because they are in a dire need of this everywhere and",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "time, especially nowadays when we are estranged from Islam, the lack of true scholars and",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the increase of ignorant, evil and corrupters. Those who have knowledge of the rights of Allah",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and His Way should make every effort in Da`wah to Allah and be patient in undertaking it",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "hoping for their reward from Allah. They should not be negligent or lazy in this regard, for",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah made it obligatory on scholars to clarify Islam for people and encourage common people",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to accept the right, take the advantage of scholars, and take their advice. Allah (Glorified be",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "He) stated:  And who is better in speech than he who [says: \"My Lord is Allâh (believes in His Oneness),\" and then stands firm",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(acts upon His Order), and] invites (men) to Allâh’s (Islâmic Monotheism), and does righteous deeds, and says: \"I am one of the",
+          "content_type": "paragraph",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Muslims.\"",
+          "content_type": "navigation",
+          "page_number": 317,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Accordingly, the best people in speech are those who call to Allah, guide people to their Lord,",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "teach them Islam and are persevering in this regard. The best people are those who call to",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah, practice what they preach and their actions do not contradict with their words. Those",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "who do so are the most righteous and beneficial to people. They are the Prophets of Allah and",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "those who followed in their footsteps from among the scholars of truth.",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "It is the duty of everyone seeking knowledge to undertake this work of Da`wah to Allah in",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "keeping with their capacity and knowledge. Da`wah may be an individual obligation, if there",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "is no one else to forbid the evil. If there are others along with them, Da`wah to the right",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "becomes societal obligation; if some undertake the act, the whole of community is absolved,",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "but if they do not, all of them will be sinful. True scholars are those who advise people for the",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "sake of Allah and call to Allah in their homes, Masjids (mosques), roads and elsewhere.",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Da`wah (call to Allah) is required wherever one may be. Whether one is aboard a plane, a car,",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "a train, a ship, etc. One must focus on one's family first for Allah (glory be to Him) stated:  O you",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "who believe! Ward off yourselves and your families against a Fire (Hell) whose fuel is men and stones  Addressing",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 6, Page No: 412)",
+          "content_type": "navigation",
+          "page_number": 317,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "His beloved Prophet Muhammad (peace be upon him), Allah (Glorified and Exalted be He) also",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "says:  And enjoin As­Salât (the prayer) on your family, and be patient in offering them [i.e. the Salât (prayers)].  Also, He",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(may He be Exalted and Glorified) revealed:  And mention in the Book (the Qur’ân) Ismâ‘îl (Ishmael). Verily he was",
+          "content_type": "heading_major",
+          "page_number": 317,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 318 Content",
+        "content_type": "heading_minor",
+        "page_number": 318,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "true to what he promised, and he was a Messenger, (and) a Prophet.",
+          "content_type": "paragraph",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "And he used to enjoin on his family and his people As­Salât",
+          "content_type": "paragraph",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(the prayers) and the Zakât and his Lord was pleased with him.  Therefore, one should concern oneself with one's",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "parents, children, siblings, etc. teach them, call them to Allah, enjoin upon them what is right,",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and forbid them what is wrong. Allah (Glorified be He) stated:  Let there arise out of you a group of people",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "inviting to all that is good (Islâm), enjoining Al­Ma‘rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do) and forbidding Al­",
+          "content_type": "paragraph",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Munkar (polytheism and disbelief and all that Islâm has forbidden).  Allah (Glorified be He) then finished the Ayah",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(Qur'anic Verse) as follows:  And it is they who are the successful.  This means that whoever has these",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "characteristics shall indeed be successful. Allah (glory be to Him) ordered Da`wah in some",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Ayahs (Qur'anic Verses) and urged people to do it. Allah, (glory be to Him) stated:  And who is",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "better in speech than he who [says: “My Lord is Allâh (believes in His Oneness)  Allah (Glorified be He) also says:  Invite",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and",
+          "content_type": "paragraph",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the Qur’ân) and fair preaching, and argue with them in a way that is better.  Allah informs us that Da`wah to Him",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "with sure knowledge is the way of the Prophet (peace be upon him) and those who followed",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "him from the people of knowledge. Allah (Exalted be He) stated:  Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "ﺳـﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh ­ Islâmic Monotheism) with sure knowledge, I and whosoever",
+          "content_type": "quran_verse",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "follows me (also must invite others to Allâh i.e. to the Oneness of Allâh ­ Islâmic Monotheism with sure knowledge).",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Therefore, it is obligatory on us all to give importance to this task, particularly scholars who",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "are expected to make it their priority when there is need for it as in our time. Indeed, we are",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "living in a time of alienation of Islam due to the absence of knowledge and scholars who are",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "versed in the Sunnah (whatever is reported from the Prophet). Now, evils and sins increased",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and various forms of disbelief, misguidance and atheism spread. Therefore, scholars should",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "exert greater effort in calling people to Allah and guiding them to what they were created for,",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "which includes Tawhid (belief in the Oneness of Allah/ monotheism), obedience to Allah,",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "fulfilling His Obligations and abandoning sins.",
+          "content_type": "navigation",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Allah (glory be to Him) states:  And I (Allâh) created not the jinn and mankind except that they should worship Me",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(Alone).",
+          "content_type": "navigation",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 6, Page No: 413)",
+          "content_type": "navigation",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Allah (Glorified be He) also says:  O mankind! Worship your Lord (Allâh), Who created you and those who were before",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "you so that you may become Al­Muttaqûn (the pious ­ See V.2:2).  Allah (Glorified and Exalted be He) also says:",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): “Worship Allâh (Alone), and avoid (or",
+          "content_type": "paragraph",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).”  This obligatory `Ibadah (worship)",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "for which we were created should be explained. Allah sent Messengers to illustrate it for",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "people and call them to it. Consequently, it must be explained to the people by scholars.",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "`Ibadah means Islam, Huda (guidance), Iman (Faith/belief), Birr (righteousness), and Taqwa",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(fearing Allah as He should be feared). The purpose for which people were created is to obey",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah and His Messenger, which is fulfilled by observing commands and prohibitions for the",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "sake of Him Alone. This obedience is included in `Ibadah when it is done by submission and",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "humility to Allah, thus `Ibadah is nothing but submission and dutifulness to Allah by observing",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "His Commands and avoiding His Prohibitions. The fundamentals of `Ibadah are Tawhid,",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "sincerity, singling out Allah as the only one worthy of our worship, and belief in His",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Messengers (peace be upon them) led by their Imam and last Prophet, Muhammad (peace be",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "upon him) and carrying out other orders and avoiding prohibitions. This is `Ibadah ,Taqwa,",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and Islam which Allah described in His statement:  Truly, the religion with Allâh is Islâm.  Also, this is",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "`Iman about which Allah stated (Glorified and Exalted be He) :  O you who believe! Believe in Allâh, and His",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ)  It is the Iman depicted by the Prophet (peace be upon him)",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "when he stated:  Faith (Belief) consists of more than seventy branches (i.e. parts)  ...  the most excellent of which is the",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "declaration that there is none worthy of worship (in truth) except Allah, and the humblest of which is the removal of what is injurious",
+          "content_type": "paragraph",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "from a path.  .",
+          "content_type": "navigation",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Iman, Huda, Islam, `Ibadah and Bir are of equivalent meaning which is obeying Allah and His",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Messenger and adhering to the way of Allah. Doing so is compliance with all these meaning.",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah stated:",
+          "content_type": "navigation",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 6, Page No: 414)",
+          "content_type": "navigation",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "whereas there has surely come to them the Guidance from their Lord!  Whoever adheres to the way of Allah is",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "observing Birr and  but Al­Birr is (the quality of) the one who believes in Allâh, the Last Day  Allah (Exalted be He)",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "also says:  but Al­Birr (is the quality of the one) who fears Allâh.  Allah (Exalted be He) also says:  Verily, the Abrâr",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(the pious believers of Islamic Monotheism) will be in Delight (Paradise);  Hence, Da`wah to Allah is a call to Birr,",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Taqwah, Iman, Islam and guidance.",
+          "content_type": "navigation",
+          "page_number": 318,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Every scholar should pay attention to this matter and clarify it to people explaining the",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "essence of their faith, which is the obedience to Allah and His Messenger. This is the `Ibadah",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "for which we were created. Allah called it Huda (guidance) in His Statment:  whereas there has surely",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "come to them the Guidance from their Lord!  Referred to it, Allah called it Birr in His Statement:  but Al­Birr (is",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the quality of the one) who fears Allâh.  ,  but Al­Birr is (the quality of) the one who believes in Allâh, the Last Day  ,  Verily, the",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Abrâr (the pious believers of Islamic Monotheism) will be in Delight (Paradise);  He named it Islam in His statemant:",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Truly, the religion with Allâh is Islâm.  Allah (Exalted be He) also says:  And whoever seeks a religion other than Islâm,",
+          "content_type": "heading_major",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "it will never be accepted of him, and in the Hereafter he will be one of the losers.",
+          "content_type": "paragraph",
+          "page_number": 318,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 319 Content",
+        "content_type": "heading_minor",
+        "page_number": 319,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "Da`wah (call) to Allah (Exalted be He) is a call to `Ibadah for which we are created, to firm",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "adherence thereto and obedience to Allah. It is a call to Islam, Birr and Iman. Calling people",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to Tawhid, sincerity and fulfilling Allah's Orders and avoiding His Prohibitions is nothing but",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the core of Islam which is synonymous with `Ibadah, Taqwah, obedience of Allah and His",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Messenger, Birr, Huda, etc. All these designations carry the same meaning.",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Callers to Allah, primarily scholars, are required to simplify this matter to people and",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "elaborate on it whether in Friday sermons, lectures, general talks, and on special occasions.",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "They should make use of these gatherings and clarify for people matters of belief,",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 6, Page No: 415)",
+          "content_type": "navigation",
+          "page_number": 319,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "because of our present condition due to the lack of knowledge and scholars, and the urgent",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "need for clarification. Also, instruction and guidance should be given using every available",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "means of communication such as correspondence, publications, radio, mass media, etc. A",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "scholars should not delay in utilizing every possible way through which he can disseminate",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "knowledge either by publications, delivering sermons, or writing small books and pamphlets",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "so that people may benefit.",
+          "content_type": "navigation",
+          "page_number": 319,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "The true scholar should fill his time with Da`wah to goodness and should not be distracted",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "from calling people and teaching them the deen Allah. They are required to obey Allah and",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "call people to Allah while showing forbearance as did the Prophet (peace be upon him). Allah",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(glory be to Him) stated:  Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "of Allâh ­ Islâmic Monotheism) with sure knowledge, I and whosoever follows me (also must invite others to Allâh i.e. to the Oneness",
+          "content_type": "paragraph",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "of Allâh ­ Islâmic Monotheism with sure knowledge).  If scholars sincerely desire to be among the true people",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "of knowledge, they must call to Allah with sure knowledge and be useful to people and to",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "themselves. In return they will earn the reward of those who abide by their Da`wah. This is a",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "great bounty for the caller to Allah as he receives a similar reward of those who follow him.",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "The Prophet (peace be upon him) stated in the authentic Hadithnarrated by Muslim:   One who",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "guides to something good has a reward similar to that of its doer.  This is a great favor and hence if one calls a",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "non­Muslim to Islam and he responds by embracing Islam, one takes a reward similar to the",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "reward of this person. Likewise, if one calls a Mubtadi` (one who introduces innovations in",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Islam), a usurer, a drunkard, a person who is undutiful to parents, backbiter and they obey",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and change their behavior, one will receive the same reward and this is a great favor from",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah. The Prophet (peace be upon him) stated,  One who guides to something good has a reward similar to that",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "of its doer.  Allah (Exalted be He) also says:  \"If anyone invites others to follow right guidance, his reward will be",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "equivalent to those who follow him (in righteousness) without their reward being diminished in the least respect; and if anyone calls",
+          "content_type": "paragraph",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "others to error, the sin, will be equivalent to that of the people who follow him (in sinfulness) without their sins being diminished in any",
+          "content_type": "paragraph",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "respect\".  This is among the most authentic Hadithsrelated by Muslim on the authority of Abu Hurayrah",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(may Allah be pleased with him).",
+          "content_type": "navigation",
+          "page_number": 319,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 6, Page No: 416)",
+          "content_type": "navigation",
+          "page_number": 319,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "O servent of Allah, when you call to a matter of goodness, you will receive a reward similar to",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "that of those who follow your call, and if you call to a matter of evil you, will receive the same",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "sin and punishment. May Allah save us from this!It is reported in the Two Sahih (authentic)",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Books of Hadith (i.e. Al­Bukhari and Muslim)on the authority of Sahl Ibn Sa`d (may Allah be",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "pleased with him) that the Prophet (peace be upon him) said to `Ali when he sent him to Khaybar:",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "By Allah, if Allah guides aright even one man through you that is better for you than possessing the most valuable of camels.  This",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "is a great benefit, for if one Jew followed `Ali and embraced Islam at his hand, this is would be",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "better for the latter than red camels. This is not exclusively for `Ali but for all people. If a",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "person goes somewhere and invites people to the way of Allah and His Messenger and then",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "one of them answers the call and is guided, this is better in reward for that caller than red",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "camels which are not what is meant in by the Hadith; but the reward of red camels refers to a",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "reward better than the whole world. In our country, there are non­Muslims who come to work",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "here, if it is possible for a scholar to go to them and invite them to Islam, this is very good. If",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "they follow him and Allah grants them guidance at his hands, he will receive a similar reward.",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "However, Da`wah to Allah has its useful and great outcome whether with non­Muslims,",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "sinners or anyone else. There may be people who are not evildoers but are lazy and negligent.",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "One's Da`wah may help such persons become inspired and do good deeds. This once again",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "carries the same reward.",
+          "content_type": "navigation",
+          "page_number": 319,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "As for the method of Da`wah, Allah related it to wisdom which includes both knowledge,",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "insight, and kind communication with people, for this is the prescribed approach to Da`wah",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "that is consistent with Shari`ah. As for those who are oppressive and transgress, they should",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "be treated accordingly; however, those who accept Da`wah and heed the caller and do not",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "refuse or transgress, one should be lenient with them. Allah (glory be to Him) states in His",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Noble Book:  Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Divine Revelation and the Qur’ân) and fair preaching, and argue with them in a way that is better.  Wisdom means",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "knowledge which is a general term that means having understanding of the Book of Allah, the",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Sunnah of the Prophet (peace be upon him), fair preaching, encouragement, warning ,and",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "explanation of the great goodness that comes with obeying Allah and embracing Islam. Then,",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "if the invitee becomes haughty and does not accept the truth, there is no blame on the caller.",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "As for arguing in a way that is best, it means calmly presenting proofs regarding a doubtful",
+          "content_type": "heading_major",
+          "page_number": 319,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 320 Content",
+        "content_type": "heading_minor",
+        "page_number": 320,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "matter requiring clarification. When engaging in debate, a true caller to Allah should argue in",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "a way that is best, displaying forbearance and dignity. Allah states in another Ayah (Verse",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "from the Qur'an):  And argue not with the people of the Scripture (Jews and Christians), unless it be in (a way) that is better",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(with good words and in good manner, inviting them to Islâmic Monotheism with His Verses), except with such of them as do wrong",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 6, Page No: 417)",
+          "content_type": "navigation",
+          "page_number": 320,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "According to the Ayah, those who do wrong and transgress should be dealt with in another",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "way. However, one should remain gentle and calm as long as the other party listens, responds,",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "or negotiates in a proper way. In either case, one should not give up forbearance, fair",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "preaching, and presenting the evidence of Shari`ah and peaceful debate. Allah (glory be to",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Him) states:  and speak good to people [i.e. enjoin righteousness and forbid evil, and say the truth about Muhammad ﺻﻠﻰ ﺍﷲ",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "ﻋﻠﻴﻪ ﻭﺳﻠﻢ]  The Prophet (peace be upon him) stated:  Righteousness is good character.",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah (Exalted be He) praised the Prophet (peace be upon him) concerning the matter of",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Da`wah. He (Glorified and Exalted be He) stated:  And by the Mercy of Allâh, you dealt with them gently. And",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "had you been severe and harsh­hearted, they would have broken away from about you  Our Prophet was the most",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "perfect person in his Da`wah and Iman. If he had been severe and harsh­hearted, people",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "would have run away from him, so what do you think of yourself? One should be patient and",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "persistent and should not react forcibly with negative responses and harshness but should be",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "gentle and patient observing what Allah revealed to Musa (Moses) and Harun (Aaron) when",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "He sent them both to Pharaoh:  \"And speak to him mildly, perhaps he may accept admonition or fear (Allâh).\"  You",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "should also do so, perhaps your invitee may accept admonition or fear Allah. It was",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "authentically reported on the authority of `Aishah (may Allah be pleased with her) that the",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Prophet (peace be upon him) said:  O Allah, whoever (happens to) assume some control over the affairs of my people",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and is kind to them, be kind to him, and whoever happens to acquire some kind of control over the affairs of my people and is hard",
+          "content_type": "paragraph",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "upon them, be hard upon him.  The Hadith includes both a pleasant promise for one who shows",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "kindness and a great warning for one who is harsh. The Prophet (peace be upon him) stated:",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "\"He who is deprived of forbearance and gentleness is, in fact, deprived of all good.''  The Prophet (may Allah's Peace",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and Blessings be upon him) also says:  Be kind, for kindness is not to be found in anything except that it adds to its",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "beauty and it is not withdrawn from anything except that it makes it defective.",
+          "content_type": "paragraph",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "It is obligatory upon the caller to Allah to show forbearance and use a kind, good approach",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "when calling Muslims and non­Muslims. The same is true when calling rulers and common",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "people, but it is most necessary with rulers as they require more gentleness and mercy.",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Perhaps they may accept the truth and promote it. Also, a Mubtadi` (one who introduces",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "innovations in Islam) who is used to Bida`ah, or a sinner who is used to wrongdoings",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 6, Page No: 418)",
+          "content_type": "navigation",
+          "page_number": 320,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "should be dealt with patiently till the Mubtadi` abandons his Bida`ah and abides by proofs and",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "a sinner recognizes the harms of sins and their bad consequences accepting the right and",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "gives up wrongdoing.",
+          "content_type": "navigation",
+          "page_number": 320,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Indeed, among the most useful method in approaching others is a good style in inviting",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "people' Conversely, an aggresive and harsh style is among the main causes of the rejection of",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "truth, stirring up troubles, causing injustice, and creating problems.",
+          "content_type": "paragraph",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "However, among the invalid ways of Da`wah are demonstrations which cause great harm to",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the callers to Allah. It is a fact that marches in streets, protests and demonstrations are not",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the proper ways of reformation and Da`wah, but the proper way is advising rulers and those",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "in authority through visits and correspondence; not through engaging in violence and",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "demonstrations. The Prophet (peace be upon him) remained in Makkah for thirteen years and",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "did not hold a demonstration or a march, nor did he threatened to destroy people's property",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "or kill them.",
+          "content_type": "navigation",
+          "page_number": 320,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "A violent approach causes nothing but harm to the Da`wah and those who undertake it. It",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "stands as an obstacle preventing its spread and circulation. Also, this causes presidents and",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "those of authority to resist Da`wah and oppose it with every possible means. Of course it is",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "right that those who engage in demonstrations and marches seek the good but the opposite",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "usually is the result. Following in the footsteps of Messengers and their followers, no matter",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "how long this takes, is better than any act that harms Da`wah, weakens it, or even destroys",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "it. My advice to every caller to Allah is to use kindness in their speech, letters, all their",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "attempts concerning Da`wah, and to observe mercy with every person unless they exceed the",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "limits. There is no better way for Da`wah than that of the Messengers for they are the best",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "model and the Imams. There was among them Nuh (Noah) who stayed among them a",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "thousand years less fifty inviting them to Allah as well as Hud, Salih, Shu`ayb and Ibrahim",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(Ibraham). Other Messengers remained steadfast and called their people to Allah and then",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah destroyed their people for their sins and saved the Prophets and their followers.",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "O caller to Allah, there is in these Prophets and above all our Prophet Muhammad (peace be",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "upon him) the best example for you to follow. Our Prophet bore the evils of disbelievers in",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Makkah and in Madinah where there were the Jews, hypocrites and those who did not embrace Islam",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "among Al­Aws and Al­Khazraj till Allah had guided them and made it easy to expell the Jews and",
+          "content_type": "heading_major",
+          "page_number": 320,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    }
+  ]
+}

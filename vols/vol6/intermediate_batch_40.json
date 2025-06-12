@@ -1,0 +1,3506 @@
+{
+  "batch_number": 40,
+  "sections_count": 85,
+  "timestamp": "2025-06-12T15:47:00.094359",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of previous fatwa on Islamic ethics",
+        "content_type": "heading_minor",
+        "page_number": 101,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "Allah anywhere and everywhere. If a Muslim fears Allah in reality, he shall never disobey Him and he shall do his best to worship Him, seek paradise, and keep away from Hell.",
+          "content_type": "fatwa_ruling",
+          "page_number": 101,
+          "confidence": 0.9,
+          "notes": "Continuation of religious guidance",
+          "memory_agreement": true
+        },
+        {
+          "text": "We have to beware of what happened in many Muslim countries such as excessive estimation of graves, supplicating at graves, and asking the deceased for help. Some ask them to heal patients, to overcome enemies, and other kinds of worship. There is no doubt that this is Shirk (Polytheism), and taking the occupiers of graves as Gods with Allah (Exalted be He).",
+          "content_type": "fatwa_ruling",
+          "page_number": 101,
+          "confidence": 0.95,
+          "notes": "Warning against polytheistic practices",
+          "memory_agreement": true
+        },
+        {
+          "text": "And they worship besides Allâh things that harm them not, nor profit them, and they say: \"These are our intercessors with Allâh.\"",
+          "content_type": "quran_verse",
+          "page_number": 101,
+          "confidence": 0.9,
+          "notes": "Quranic verse supporting the ruling",
+          "memory_agreement": false
+        },
+        {
+          "text": "So worship Allâh (Alone) by doing religious deeds sincerely for Allâh's sake only. Surely the religion (i.e. the worship and the obedience) is for Allâh only. And those who take Auliyâ' (protectors, helpers, lords, gods) besides Him (say): \"We worship them only that they may bring us near to Allâh.\" Verily Allâh will judge between them concerning that wherein they differ. Truly, Allâh guides not him who is a liar, and a disbeliever.",
+          "content_type": "quran_verse",
+          "page_number": 101,
+          "confidence": 0.9,
+          "notes": "Extended Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 199)",
+          "content_type": "navigation",
+          "page_number": 101,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "questions they may face. Muslims have to benefit from scholars and ask them about difficult question seeking to please Allah (Exalted be He) who says So ask the people of the Reminder, if you do not know.",
+          "content_type": "fatwa_ruling",
+          "page_number": 101,
+          "confidence": 0.9,
+          "notes": "Guidance on seeking knowledge",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The virtue of knowledge and the honor of scholars",
+        "content_type": "heading_major",
+        "page_number": 102,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 7, Page No: 200)",
+          "content_type": "navigation",
+          "page_number": 102,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "In the name of Allah, the Most Gracious, the Most Merciful. The good end shall be for the pious. May Peace and Blessing be upon His slave, prophet whom Allah entrusted with His revelation, our Imam and master, Muhammad bin Abdullah, the best of inviters to Allah's Path, and upon his household, companions, and whoever follows his way and guidance till the Last Day.",
+          "content_type": "paragraph",
+          "page_number": 102,
+          "confidence": 0.9,
+          "notes": "Opening invocation",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is an abstract on the merit of knowledge and the high status of scholars. Legal proofs from the Holy Book and Sunnah indicate the virtue of seeking and understanding the religious knowledge and the related great good, much reward, good remembrance, and the good end for those whom Allah (Exalted be He) made their intentions good and guided them.",
+          "content_type": "paragraph",
+          "page_number": 102,
+          "confidence": 0.9,
+          "notes": "Introduction to the topic",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allâh bears witness that Lâ ilâha illa Huwa (none has the right to be worshipped but He), and the angels, and those having knowledge (also give this witness); (He always) maintains His creation in Justice. Lâ ilâha illa Huwa (none has the right to be worshipped but He), the All­Mighty, the All­Wise.",
+          "content_type": "quran_verse",
+          "page_number": 102,
+          "confidence": 0.9,
+          "notes": "Quranic verse about scholars bearing witness",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 201)",
+          "content_type": "navigation",
+          "page_number": 102,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is only those who have knowledge among His slaves that fear Allâh.",
+          "content_type": "quran_verse",
+          "page_number": 102,
+          "confidence": 0.9,
+          "notes": "Quranic verse about scholars fearing Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"If Allah wants to do good to a person, He makes him comprehend the religion.\"",
+          "content_type": "hadith",
+          "page_number": 102,
+          "confidence": 0.9,
+          "notes": "Hadith from Bukhari and Muslim via Mu'awiyah",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 202)",
+          "content_type": "navigation",
+          "page_number": 102,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"The example of guidance and knowledge with which Allah has sent me is like a rain falling on the earth; some of which was fertile soil that absorbed rain water and brought forth vegetation and grass in abundance. Another was hard but held the rain water and Allah benefited the people with it and they used it for drinking themselves and their animals, and for irrigation. A third soil was barren that could neither hold the water nor bring forth vegetation (then that land gave no benefits). The first is the example of the person who comprehends Allah's religion and gets benefit (from the knowledge) which Allah has revealed through me (the Prophet) and learns and then teaches others. The last example is that of a person who does not care for it and does not take Allah's guidance revealed through me (He is like that barren land.)\"",
+          "content_type": "hadith",
+          "page_number": 102,
+          "confidence": 0.95,
+          "notes": "Long hadith from Bukhari and Muslim via Abu Musa about types of people and knowledge",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 203)",
+          "content_type": "navigation",
+          "page_number": 102,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of virtue of knowledge discussion",
+        "content_type": "heading_minor",
+        "page_number": 103,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "vegetation, as they kept away and did not care about attaining knowledge.",
+          "content_type": "paragraph",
+          "page_number": 103,
+          "confidence": 0.9,
+          "notes": "Continuation from previous page",
+          "memory_agreement": false
+        },
+        {
+          "text": "Scholars and students play a great role in religious knowledge. They are on the right path as Allah (Exalted be He) guided them to make their intention sincere and truthful in their request.",
+          "content_type": "paragraph",
+          "page_number": 103,
+          "confidence": 0.9,
+          "notes": "Discussion on role of scholars",
+          "memory_agreement": true
+        },
+        {
+          "text": "'Knowledge shall not be attained without exhausting one's body.'",
+          "content_type": "citation",
+          "page_number": 103,
+          "confidence": 0.9,
+          "notes": "Quote from Yahia bin Abi Kathir mentioned in Muslim's Sahih",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 204)",
+          "content_type": "navigation",
+          "page_number": 103,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "share in spreading knowledge via the mass media in order to attain great benefit and impart knowledge to whoever Allah (Exalted be He) wills all over the world. That would have great good and public benefit for Muslims in this age and in every age yet we need it specifically in this age, because of the lack of knowledge and the great number of people who invite to falsehood.",
+          "content_type": "fatwa_ruling",
+          "page_number": 103,
+          "confidence": 0.9,
+          "notes": "Guidance on spreading knowledge through media",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 205)",
+          "content_type": "navigation",
+          "page_number": 103,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 206)",
+          "content_type": "navigation",
+          "page_number": 103,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah does not take away the knowledge, by taking it away from (the hearts of) the people, but takes it away by the death of the religious learned men till when none of the (religious learned men) remains, people will take as their leaders ignorant persons who when consulted will give their verdict without knowledge. So they will go astray and will lead the people astray.",
+          "content_type": "hadith",
+          "page_number": 103,
+          "confidence": 0.95,
+          "notes": "Hadith from Bukhari and Muslim via Abdullah Ibn Amr Ibn Al-As",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Guidance for judges and scholars",
+        "content_type": "heading_minor",
+        "page_number": 104,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "lose scholars or if they resign and leave their place to others.",
+          "content_type": "paragraph",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Continuation from previous page",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 207)",
+          "content_type": "navigation",
+          "page_number": 104,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is well­known that if a scholar; a judge or others, make Ijtihad (striving and self­exertion) and come to the right conclusion, he has two rewards and if he makes mistakes, he shall only have one reward as indicated by the Prophet's (peace be upon him) authentic Hadih. So, one will be safe if he seeks truth sincerely and attains what is right. Fear and great seriousness would arise, if one undertakes judgment or Fatwa while he is ignorant or judges with injustice",
+          "content_type": "fatwa_ruling",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Ruling on scholarly judgment and ijtihad",
+          "memory_agreement": true
+        },
+        {
+          "text": "There are three types of judges; only one will go to Paradise and the other two will be consigned to Hell. The first one is a man who knows what is right and gives judgment accordingly, so he will go to Paradise. The second is a man who knows what is right but judges unjustly, and he will go to Hell. The last one judges between people ignorantly, so he will go to Hell.",
+          "content_type": "hadith",
+          "page_number": 104,
+          "confidence": 0.95,
+          "notes": "Hadith from Buraydah via Abu Dawud, Al-Tirmidhy, Al-Nasa'y, Ibn Majah, and Al-Hakim",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 208)",
+          "content_type": "navigation",
+          "page_number": 104,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "I advise all my Muslim brothers in general and scholars and knowledge seekers in particular and myself to fear Allah (Glorified and Exalted be He) in all matters and practice the knowledge out of obedience to Allah; to abide by His Commands and keep away from His prohibitions.",
+          "content_type": "fatwa_ruling",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "General advice to scholars and students",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 209)",
+          "content_type": "navigation",
+          "page_number": 104,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily, this Qur'ân guides to that which is most just and right",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the Quran's guidance",
+          "memory_agreement": true
+        },
+        {
+          "text": "And We have sent down to you the Book (the Qur'an) as an exposition of everything, a guidance, a mercy, and glad tidings for those who have submitted themselves (to Allâh as Muslims).",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the comprehensive nature of the Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "Say: \"It is for those who believe, a guide and a healing.\"",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the Quran as guidance and healing",
+          "memory_agreement": false
+        },
+        {
+          "text": "We have neglected nothing in the Book",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Quranic verse about completeness of the Book",
+          "memory_agreement": false
+        },
+        {
+          "text": "(This is) a Book (the Qur'ân) which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember.",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Quranic verse about pondering the Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "Do they not then think deeply in the Qur'ân, or are their hearts locked up (from understanding it)?",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Quranic verse about contemplating the Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 210)",
+          "content_type": "navigation",
+          "page_number": 104,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ to mankind): \"If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur'ân and the Sunnah), Allâh will love you and forgive you your sins.",
+          "content_type": "quran_verse",
+          "page_number": 104,
+          "confidence": 0.9,
+          "notes": "Quranic verse about following the Prophet with Arabic text",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Previous Section",
+        "content_type": "heading_minor",
+        "page_number": 105,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "and paying much attention to it along with Allah's Holy Book (Glorified and Exalted be He). I also advise scholars and knowledge seekers to pay much attention to Hadith books. They should read them much, teach and study them, especially the two Sahih books then the sixth books, Al­Muwatta' of Imam Malik, Musnad of Al­Imam Ahmad, and Sunan Al­Darimy and so on, (May Allah reward their compilers the best). Then, they should study the books of the scholars who are known for their right creed, abundance of religious knowledge including Sheikh Al­Islam Ibn Taymiyyah and his two knowledgeable students Ibn Al­Qayyim And Al­Hafiz Ibn Kathir (May Allah for give them all), as they excelled in this regard and spread much knowledge among Muslims and showed people the creed Ahl­ul­Sunnah wal­Jama`ah (those adhering to the Sunnah and the Muslim main body).",
+          "content_type": "paragraph",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Scholarly advice on studying religious texts",
+          "memory_agreement": true
+        },
+        {
+          "text": "The most important book compiled by Sheikh Al­Islam Ibn Taymiyyah (may Allah forgive him) is Minhaj Al­ Sunnah and Fatawa collection (Majmu' Al­Fatawa), Mutabaqat Sareeh Al­Ma`qul Li sahih Al­Mamqul, Al­ Jawab Al­sahih `ala man baddal deen al­Maseeh, and other useful books indicating the right creed and true judgments.",
+          "content_type": "paragraph",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Citation of important Islamic scholarly works",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 211)",
+          "content_type": "navigation",
+          "page_number": 105,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "These books also refute the claims of the enemies of Islam. Among the best books of Ibn Al­Qayyim (may Allah forgive him) Al­Turuq Al­Hukmiya, A`lam Al­Muwaqi`een, and Zad Al­Mi`ad. These books have great benefits, especially for judges and Muftis (Islamic scholar qualified to issue legal opinions). This is in addition to the Fatawa of the leaders of Da`wah like Al­Durar Al­Saniyah in which many useful essays and answers of Shaykh Al­Islam Muhammad Ibn `Abdul­Wahhab, his students and followers (may Allah forgive them all) were collected. Similarly, the Fatawa of our Shaykh and well­known Shaykh Muhammad Ibn Ibrahim Al Al­Shaykh (may Allah forgive him). They include great knowledge and much benefit. I advise people to read these books after Allah's book and His Prophet's Sunnah (peace be upon him). They contain great knowledge and assistance for every good like similar useful books that pay much attention to evidence such as Al­Mughni, Sharh Al­Muhazab, Al­Muhalla, and other books that pay much attention to evidences and impart the views of scholars. They are very important to scholars, knowledge seekers, judges, and others. I ask Allah with His Divine Names and Higher Attributes to guide us and all Muslims to useful knowledge and good deeds. May Allah grant us all good intention, patience, and comprehension of religion to be rewarded with the good end in this life and in the Hereafter. Allah (Glorified and Exalted be He) is Most Generous. May Allah (Glorified and Exalted be He) guide those in charge of us and all those in charge of Muslims, make their advisors good, assist them to do every thing good, use them to make the right overcome, forsake falsehood, and assist them",
+          "content_type": "paragraph",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Continued scholarly recommendations and prayer",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 212)",
+          "content_type": "navigation",
+          "page_number": 105,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "to judge with Allah's Book and His Prophet's Sunnah in every thing. May Allah keep us and all Muslims from our evil and bad deeds! Allah is All­ Hearer, Near (to all by His Knowledge). May Allah's Peace be upon Prophet Muhammad, his household, and companions!",
+          "content_type": "paragraph",
+          "page_number": 105,
+          "confidence": 0.9,
+          "notes": "Concluding prayer and blessing",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Responsibilities of the Seekers of Knowledge",
+        "content_type": "heading_major",
+        "page_number": 106,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 7, Page No: 213)",
+          "content_type": "navigation",
+          "page_number": 106,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise is due to Allah. We praise Allah, seek His Help, ask Him for forgiveness, and seek refuge with Allah from the evil of ourselves and the wickedness of our misdeeds. Whoever Allah guides, none can mislead, and whoever Allah leaves astray, none can guide. I testify that there is no deity but Allah Alone, with no partner or associate, and I testify that Muhammad is His Servant and Messenger. Peace and blessings be upon him, his family and Companions, and those who rightly follow him.",
+          "content_type": "paragraph",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Standard Islamic opening formula",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Fear Allâh (by doing all that He has ordered and by abstaining from all that He has forbidden) as He should be feared. [Obey Him, be thankful to Him, and remember Him always], and die not except in a state of Islâm [as Muslims (with complete submission to Allâh)].",
+          "content_type": "quran_verse",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Quranic verse with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "O mankind! Be dutiful to your Lord, Who created you from a single person (Adam), and from him (Adam) He created his wife [Hawwâ (Eve)], and from them both He created many men and women; and fear Allâh through Whom you demand (your mutual rights), and (do not cut the relations of) the wombs (kinship). Surely, Allâh is Ever an All­Watcher over you.",
+          "content_type": "quran_verse",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Quranic verse with translation",
+          "memory_agreement": false
+        },
+        {
+          "text": "O you who believe! Keep your duty to Allâh and fear Him, and speak (always) the truth. He will direct you to do righteous good deeds and will forgive you your sins. And whosoever obeys Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), he has indeed achieved a great achievement (i.e. he will be saved from the Hell­fire and will be admitted to Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Quranic verse with translation and Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "My brothers in Islam and honorable sons, I thank Allah (Glorified and Exalted be He) for allowing me to attend this meeting and ask Him (Glorified be He) to",
+          "content_type": "paragraph",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Beginning of main discourse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 214)",
+          "content_type": "navigation",
+          "page_number": 106,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "make it a blessed meeting, benefit us all from it, correct our deeds and hearts, and to guide us all to the Right Path. Allah's Blessings are countless and His Favor is endless, as He is the Giver of every blessing. Allah (may He be Praised) says: And whatever of blessings and good things you have, it is from Allâh. Allah (Glorified and Exalted be He) also says: and if you count the Blessings of Allâh, never will you be able to count them. We thank Allah (Glorified be He) and ask Him to bestow more of His Favor upon us, you, and all Muslims everywhere.",
+          "content_type": "paragraph",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Contains embedded Quranic quotes",
+          "memory_agreement": false
+        },
+        {
+          "text": "Dear brothers in Islam and dear sons, you have heard the title of this talk: \"The Responsibility of the Seekers of Knowledge towards Society.\" This is an important matter, as the responsibility of the seekers of knowledge is great, and it varies according to the amount of knowledge, the need of people for it, and their ability and capacity.",
+          "content_type": "paragraph",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Introduction to main topic",
+          "memory_agreement": false
+        },
+        {
+          "text": "The seekers of knowledge have a responsibility towards themselves; to prepare themselves for education, Da'wah (calling to Islam), and fulfillment of obligations. As to knowledge, they must pay attention it, comprehend the Din (religion of Islam), review the Shar'y (Islamic legal) proofs, and dedicate attention to them. Seekers of knowledge need to have a vast stock of Shar'y proofs and knowledge of the scholars' opinions, their points of difference, and the preponderant views on controversial issues, supported by evidence from Allah's Book and the Sunnah of the Messenger of Allah (peace be upon him), without Taqlid (strictly following a specific School of Jurisprudence). Taqlid is something anyone can do, it does not take scholarship. Imam Abu ' Umar ibn 'Abdul­Bar, the well­known scholar and the author of: \"Al­Tamhid\" and other books, said,",
+          "content_type": "paragraph",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Main discourse on responsibilities",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 215)",
+          "content_type": "navigation",
+          "page_number": 106,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"There is Ijma' (consensus of scholars) that those who adhere to Taqlid are not considered as being scholars.\"",
+          "content_type": "citation",
+          "page_number": 106,
+          "confidence": 0.9,
+          "notes": "Quote from Imam Abu Umar ibn Abdul-Bar",
+          "memory_agreement": false
+        },
+        {
+          "text": "Seekers of knowledge have a big supposed responsibility. They have to pay attention to the juristic proofs and struggle to learn the relevant evidence on the issues and rulings from the Qur'an and the Purified Sunnah; and be conversant with the founded principles. They should rely on clear evidence closely related to scholarly views. This knowledge of scholarly views will help them to understand the proofs, extract rulings, and distinguish between the preponderant and the unlikely opinions. They also have a responsibility to be sincere to Allah (Glorified be He) and always mindful of Him. Their sought­after goal must be to please Allah (Glorified and Exalted be He), to discharge their obligations and to benefit people without seeking worldly gain or reward. These are only the pursuits of the hypocrites and their like. Their aim should not be Riya' (showing­off) or reputation, but to benefit Allah's Servants and please Allah above all. They should be sure of the evidence on which they base their words, actions and Fatwa (legal opinion issued by a qualified Muslim scholar). It is not permissible for them to be lax, because people follow their examples in their behavior and actions. If they are teachers, their students will imitate them; if they are Muftis (Islamic scholars qualified to issue legal opinions), the people will act upon their Fatwas; if they are Du'ah (callers to Islam), the matter will be very serious; and if they are judges, the matter will be even more serious.",
+          "content_type": "fatwa_ruling",
+          "page_number": 106,
+          "confidence": 0.85,
+          "notes": "Contains ruling about permissibility and obligations",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Responsibilities Discussion",
+        "content_type": "heading_minor",
+        "page_number": 107,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "It is obligatory on seekers of knowledge to have a position that is well pleasing to their Lord; a position that is characterized by sincerity to Allah, true pursuit of His Pleasure, and unlimited care to learn the Shar'y evidence, and search after them until they find them.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Continuation of main discourse",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 216)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "In this way, the world will be open to them and they will be able to issue Fatwa, invite people to Islam, and teach people, and enjoin the good and forbid the wrong with insight. As Allah (Exalted be He) says: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh ­ Islâmic Monotheism) with sure knowledge Insight here has been interpreted as knowledge.",
+          "content_type": "fatwa_ruling",
+          "page_number": 107,
+          "confidence": 0.85,
+          "notes": "Contains Quranic quote and ruling about issuing fatwa",
+          "memory_agreement": true
+        },
+        {
+          "text": "Those who do not have insight cannot be considered among the people of knowledge and they do not benefit the people by their Da'wah or other matters related to the Din; I mean with real fruitful benefits. Although they may benefit people with the advice that they give, an issue that they have learned, or by providing a material benefit. The real benefit from the seekers of knowledge is conditional upon their truthfulness, sincerity, amount of knowledge, depth of understanding, and their patience and perseverance.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Explanation of qualifications for scholars",
+          "memory_agreement": false
+        },
+        {
+          "text": "Another important issue is the responsibility of seekers of knowledge to convey their knowledge and teach people, as the scholars are the heirs and successors of the Messengers. The Messengers enjoyed a high rank; they were the leaders who guided Ummah (nation based on one creed), and they were the reasons for its happiness and success. The scholars took over this duty after the Messengers and assumed their role in conveying the Message and teaching. The Seal of the Messengers was Muhammad (peace be upon him), and so it only remains now for the scholars to convey and explain the Shari'ah that Muhammad (peace be upon him) brought and to spread it among people. But this is only confined to those scholars whom Allah has qualified for this role. They are callers to good and leader to the people through their words, deeds, and their outward and inner behavior.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Discussion of scholars as heirs of messengers",
+          "memory_agreement": false
+        },
+        {
+          "text": "Their duty is serious and they are exposed to great danger. They are responsible for the Ummah, and",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Beginning of statement about scholars' responsibilities",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 217)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "it is in great need of receiving the Message and having it clarified by all possible ways. There are many ways available nowadays, including written, verbal, and visual media, which all have enormous effect on misguidance or guidance of people, as do the Khutbahs (sermons) on Fridays, 'Eid (feast day), occasions, seminars, various festivals. They can all have a serious effect, as can independent articles, books, and letters.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Discussion of modern methods of conveying Islamic message",
+          "memory_agreement": false
+        },
+        {
+          "text": "All praise be to Allah, there are many easy ways that can be utilized today, but the problem is that the students are weak, inactive, avoiding, and negligent; this is the great calamity. Allah (Glorified and Exalted be He) says: And who is better in speech than he who [says: \"My Lord is Allâh (believes in His Oneness),\" and then stands firm (acts upon His Order), and] invites (men) to Allâh's (Islâmic Monotheism), and does righteous deeds, and says: \"I am one of the Muslims.\" There is no one in the world whose speech is better than theirs; at their head are the noble Messengers and Prophets (peace be upon them all) and then scholars after them.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Contains embedded Quranic verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "The more they have of the knowledge, Taqwa (fearing Allah as He should be feared), awe, and sincerity to Allah (may He be Praised), the greater is the benefit, and the more perfect is their conveyance of the Message from Allah and His Messenger. The weaker is the Taqwa, knowledge, fear of Allah, or preoccupation with worldly concerns and desires, the less is the knowledge attained and the good achieved. Allah (Glorified and Exalted be He) says: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh ­ Islâmic Monotheism) with sure knowledge, I and whosoever follows me (also must invite others to Allâh i.e. to the Oneness of Allâh ­ Islâmic Monotheism with sure knowledge). Allah (may He be Praised) explains that the mission of Prophet Muhammad (peace be upon him) was Da'wah to Allah with insight and sure knowledge.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Contains Quranic quote and explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 218)",
+          "content_type": "navigation",
+          "page_number": 107,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah commanded the Prophet (peace be upon him) to inform this to the people, telling him what means: Say O Messenger to the people: This is my way i.e. the way I follow, the Shari'ah; this way of my speaking and acting is my path, my Manhaj (methodology) and way to Allah. It is obligatory on scholars to follow the way of Prophet Muhammad (peace and blessings be upon him), which is Da'wah to Allah with insight and sure knowledge, as that was his way and that of his followers. A Servant cannot be considered as a true follower of the Prophet unless they follow his way completely. If anyone invites people to Islam with sure knowledge and insight, refutes Shirk (associating others with Allah in His Divinity or worship), abides by the truth, they will be considered as a follower of the Prophet (peace be upon him). This is why Allah afterwards says: And Glorified and Exalted be Allâh (above all that they associate as partners with Him). And I am not of the Mushrikûn (polytheists, pagans, idolaters and disbelievers in the Oneness of Allâh; those who worship others along with Allâh or set up rivals or partners to Allâh).\" A Da'y (caller to Islam) who is truthful in their Da'wah is someone who follows the Messenger with insight and sure knowledge and does not lie or speak about Allah (Exalted be He) without knowledge or describe Him with qualities that do not become Him (may He be Praised). They describe Allah with His Perfect Attributes, show that He is unlike any of His Creation, and testify sincerely to Tawhid (belief in the Oneness of Allah/ monotheism), and refute Shirk and those who practice it.",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Detailed explanation of following Prophet's way",
+          "memory_agreement": false
+        },
+        {
+          "text": "It is obligatory on a Da'y to be a sincere believer in Tawhid, abide by Allah's Shari'ah, and not compare Allah",
+          "content_type": "paragraph",
+          "page_number": 107,
+          "confidence": 0.9,
+          "notes": "Beginning of statement about obligations of callers to Islam",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Da'wah Obligations",
+        "content_type": "heading_minor",
+        "page_number": 108,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "to His Creation, but to describe Him (may He be Praised) with the Attributes that He and His Prophet (peace be upon him) attributed to Him. They should declare Him to be far exalted above any imperfection or inability, and confirm the Divine Names and Lofty Attributes that He (Glorified and Exalted be He) mentioned in His Glorious Book or reported through the Sunnah of His Truth­Telling Prophet",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Continuation from previous page about describing Allah",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 219)",
+          "content_type": "navigation",
+          "page_number": 108,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "(peace be upon him) in a way that befits His Majesty, without Tamthil (likening Allah's Attributes to those of His Creation), and exalting Him far above everything without Ta'til (denial of Allah's Attributes). True Servants fully confirm all Allah's Names and Attributes, without Tamthil or Tashbih (comparison), and declare Him to be non­comparable to any of His creatures in all His Attributes without any Ta'til. They describe Allah with the Divine Names and Attributes mentioned in the Book and the authentic Sunnah, without Tahrif (distortion of the meaning), Ta'til, Takyif (questioning Allah's Attributes), Tamthil, or any addition or deletion. These are the true followers of the Messengers, not the Mubtadi' (those who introduce innovations in religion). They follow the upright Manhaj that was pursued by the Messengers and their followers in righteousness, at the head of whom was Prophet Muhammad (peace be upon him), his Sahabah (Companions, may Allah be pleased with them), and their followers in righteousness, at the head of whom were the well­known Imams (initiators of the Schools of Jurisprudence) after the Sahabah, such as Imam Malik ibn Anas, Imam Muhammad ibn Idris Al­Shafi'y, Imam Abu Hanifah Al­Nu'man ibn Thabit, Imam Ahmad ibn Muhammad ibn Hanbal, Imam Al­Awza'y, Imam Sufyan Al­Thawry, Imam Ishaq ibn Rahawyah, and other the Imams of knowledge and guidance who followed the upright course of confirming the Names and Attributes of Allah and describing Allah as being unlike His Creatures.",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Detailed theological explanation with names of major Imams",
+          "memory_agreement": false
+        },
+        {
+          "text": "Students of knowledge should be very careful not to conceal anything that they learn; they should be careful to explain the truth and answer back the opponents of Islam. They should not show laxity or seclude themselves; they should always be conspicuous in public, as much far as they can, so whenever the opponents of Islam appear, casting doubts and claims, they step forward to refute them in writing or in speaking, or by other means.",
+          "content_type": "fatwa_ruling",
+          "page_number": 108,
+          "confidence": 0.85,
+          "notes": "Ruling about obligations of students of knowledge",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 220)",
+          "content_type": "navigation",
+          "page_number": 108,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "They should not be indifferent or simply view it as other people's responsibility, but rather say, \"I am the one to do it.\" They should deal with issues themselves, even if there are other Imams, for fear that the issue would be neglected. They are always ready and do not seclude themselves. They appear at the appropriate moment to defend Al­Haqq (the Truth) and answer the opponents of Islam in writing or others means, such as through the radio, newspapers, television, or other possible ways. They should not conceal their knowledge, instead they should write, give Khutbahs and talks, and reply to the Mubtadi' and other opponents of Islam, with the strength that Allah gave them, according to their knowledge and the means that Allah provides. Allah (Exalted be He) says: Verily, those who conceal the clear proofs, evidence and the guidance, which We have sent down, after We have made it clear for the people in the Book, they are the ones cursed by Allâh and cursed by the cursers.",
+          "content_type": "fatwa_ruling",
+          "page_number": 108,
+          "confidence": 0.85,
+          "notes": "Ruling with Quranic support about not concealing knowledge",
+          "memory_agreement": true
+        },
+        {
+          "text": "Except those who repent and do righteous deeds, and openly declare (the truth which they concealed). These, I will accept their repentance. And I am the One Who accepts repentance, the Most Merciful.",
+          "content_type": "quran_verse",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Continuation of Quranic verse about repentance",
+          "memory_agreement": false
+        },
+        {
+          "text": "We should pause to contemplate these two great Ayahs (Qur'anic verses). Allah warns us against concealing knowledge, and threatens and curses anyone who does so. He then shows that there is no escape from this threat and this curse, except through Tawbah (repentance to Allah) for past negligence and sins, correction of the wrong that can be corrected in and by oneself, and declaring the knowledge they have concealed for worldly gain or as a false interpretation. When guidance is given, no Tawbah shall be accepted except by this declaration, and no deliverance secured except by this Tawbah which comprises regret for any past negligence",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Commentary on the Quranic verses",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 221)",
+          "content_type": "navigation",
+          "page_number": 108,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "or sins that were committed, and the sin to be avoided through fear of Allah (Glorified and Exalted be He) and His Punishment.",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Continuation about repentance",
+          "memory_agreement": false
+        },
+        {
+          "text": "The third condition is that there should be a true determination never to do it again. This should be declared along with correction, otherwise they may repent and people may not know that they have repented. But when they make it known to people, they will have acquitted their responsibility and their Tawbah will be valid. There is another duty on the part of the students of knowledge first before Allah (Glorified and Exalted be He), and then before their bothers, colleagues, and society; that they must be mindful and fearful of Allah in all their actions. As soon as they learn anything, they should hasten and apply it at once; they should not be lax, but must put into practice what they learn. Learning is a must and practicing what we learn is also a must. The seekers of knowledge call themselves to account for their actions all the time, and exert their best to apply Allah's Rulings to themselves. They regard the Wajib (obligatory) as obligatory for them to do and the Mustahab (desirable) as desirable for them to do, to be a living example of the knowledge they have in their morals, deeds, life, studying circles, sermons, travels, and residence, on land, sea or air; in fact everywhere. This is important not only for themselves, but to others, such as their brothers, colleagues, and students, to impart their knowledge to them through words and actions. This was the way of our Prophet's Da'wah; perfect preaching through words and actions. His life was the best of all lives, his words were the best after those of Allah (Glorified and Exalted be He), and his manners were the best of all manners. Allah (Glorified and Exalted be He) says: And Verily, you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) are on an exalted (standard of) character. His manners were those of the Qur'an, as 'Aishah (may Allah be pleased with her) described him. The Prophet (peace be upon him) complied with the Qur'anic commands and prohibitions, practiced the",
+          "content_type": "paragraph",
+          "page_number": 108,
+          "confidence": 0.9,
+          "notes": "Detailed discussion of conditions for repentance and duties of students",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Scholar's Duties",
+        "content_type": "heading_minor",
+        "page_number": 109,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "the people to the same.",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Fragment continuing from previous page",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 222)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "The scholars have to emulate Prophet Muhammad (peace be upon him) in his great morals and be faithful to Allah in their words and deeds. They have to convey Allah's Commands and Prohibitions, and enjoin the good and forbid the evil as far as they can. They should also advise the rulers and guide them. Similarly, they should also advise their families, neighbors, the rest of their society, and all people by all possible means, as far as they can. It is not permissible for them to be lax in these matters, especially in our time, due to the lack of scholars, and the spread of evil, depravity, and Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) all over the world, in Islamic countries and others.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Religious ruling about scholars' duties",
+          "memory_agreement": false
+        },
+        {
+          "text": "Every one endowed with insight can discern the great evils spread in this time through the radio, television, newspapers, and books that invite people to the Fire.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.8,
+          "notes": "Explanatory text about modern challenges",
+          "memory_agreement": false
+        },
+        {
+          "text": "These diverse armies that are inviting people to the Fire need to be resisted by equally powerful armies; in fact they need to be stronger than the armies that are driven by the enemies of Islam. All these various dangerous means are driven and spread by the enemies of Islam against Muslims and non­Muslims, to destroy and lead them to the Fire. They aim to draw them into their hateful way of life and bad morals, so that they together become the dwellers of the Fire, because this is what their leader wants. Allah (Glorified and Exalted be He) says: Surely, Shaitân (Satan) is an enemy to you, so take (treat) him as an enemy. He only invites his Hizb (followers) that they may become the dwellers of the blazing Fire.",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.8,
+          "notes": "Contains Quranic verse at the end",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 223)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "So the seekers of knowledge should not withdraw, saying, \"I refer all matters to Allah,\" no, they have duties to perform, for they must convey the Message, explain it and invite people to it. Our Lord (Exalted be He) says: Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân) and fair preaching, and argue with them in a way that is better. And Allah (Glorified and Exalted be He) says: but invite them to your Lord Allah (may He be Praised) commanded the Messenger (peace be upon him) to invite people to His Way. This command is addressed to us all, and not only to Prophet Muhammad (peace be upon him). Any command addressed to the Prophet (peace be upon him), is not only for him, but for all of us and for all the scholars, except when it is specified by evidence that it was confined to him alone.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Religious ruling with Quranic citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Servant of Allah! You should shun laziness and seclusion. You have to convey Allah's Command to His Servants. You also have to advise those that you can, anywhere you can. You should advise the leader, scholar, judge, and authorities in your village, town, tribe, and everywhere you can; you should contact people in a good manner and advise and direct them to the good in the best ways. Cooperate with them in righteousness and piety through sermons and reminders, using good words, gently and not aggressively. You should also cooperate with the leaders of the country and ministers in discharging their responsibilities, and with judges, Du'ah, and with all your brothers in Islam.",
+          "content_type": "fatwa_ruling",
+          "page_number": 109,
+          "confidence": 0.9,
+          "notes": "Direct religious guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "This is the way that the seekers of knowledge must act, according to the saying of the Prophet (peace be upon him),",
+          "content_type": "paragraph",
+          "page_number": 109,
+          "confidence": 0.8,
+          "notes": "Transition to hadith",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 224)",
+          "content_type": "navigation",
+          "page_number": 109,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "\"The Din is sincerity.\" They said, \"To whom, O Messenger of Allah?\" He (peace be upon him) answered, \"To Allah, His Book, His Messenger, and the Imams (leaders) of Muslims and their common people.\" (Related by Muslim in his \"Sahih [Book of Authentic Hadith]\")It is also reported in the Two Sahih (authentic) Books of Hadith (i.e. Al­Bukhari and Muslim)on the authority of Jarir ibn 'Abdullah Al­Bajaly (may Allah be pleased with him) who said, \"I gave the pledge of allegiance to the Messenger of Allah (peace be upon him) to perform Salah (Prayer), pay Zakah (obligatory charity), and be sincere to every Muslim.\"",
+          "content_type": "hadith",
+          "page_number": 109,
+          "confidence": 0.95,
+          "notes": "Multiple hadith citations with chain of narration",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Questions",
+        "content_type": "heading_minor",
+        "page_number": 111,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q I:",
+          "content_type": "heading_question",
+          "page_number": 111,
+          "confidence": 0.95,
+          "notes": "Question identifier",
+          "memory_agreement": false
+        },
+        {
+          "text": "One of the common sayings among students, especially in colleges and scientific institutions is: knowledge has faded and the scholars have died. Also that there is no one who studies in educational institutions except for the purpose of having certificates and worldly matters; how can we answer this? What is the ruling when a person who combines the intention of seeking worldly matters and certificates with the intention of seeking knowledge to benefit himself and his community?",
+          "content_type": "question",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Student question about knowledge and intentions",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: These sayings are not correct and such speech and the like should not be said and whoever says: No good people exist, he will be the worst of them.",
+          "content_type": "answer",
+          "page_number": 111,
+          "confidence": 0.9,
+          "notes": "Beginning of scholar's answer",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 227)",
+          "content_type": "navigation",
+          "page_number": 111,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Second question:",
+        "content_type": "heading_question",
+        "page_number": 112,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 7, Page No: 229)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "It is common saying now reiterated by youth that they say, We will not follow any of the Four Madh­habs (Hanafy, Maliky, Shafi`y, and Hanbaly) but we shall practice Ijtihad (juristic effort to infer expert legal rulings) exactly as the four Imams did and we shall do as they did without referring to their Ijtihad. What is your opinion about this and what is your advice to them?",
+          "content_type": "question",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Question about following madhabs vs independent ijtihad",
+          "memory_agreement": false
+        },
+        {
+          "text": "Answer: This speech may be strange to some people but its meaning is, indeed, true with regard to the qualified people. Therefore, it is not obligatory on people to follow a certain person and whoever says: It is obligatory to follow the Four Imams, has committed a manifest error because it is not obligatory to follow them, but their views as well as the views of other scholars can be used and their books can be surveyed and read as well as the proofs they mentioned and those who seek knowledge will surely benefit of this.",
+          "content_type": "fatwa_ruling",
+          "page_number": 112,
+          "confidence": 0.95,
+          "notes": "Religious ruling on following madhabs",
+          "memory_agreement": false
+        },
+        {
+          "text": "(And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ), if you believe in Allâh and in the Last Day.",
+          "content_type": "quran_verse",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 230)",
+          "content_type": "navigation",
+          "page_number": 112,
+          "confidence": 1.0,
+          "notes": "Page reference marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "And in whatsoever you differ, the decision thereof is with Allâh (He is the ruling Judge).",
+          "content_type": "quran_verse",
+          "page_number": 112,
+          "confidence": 0.9,
+          "notes": "Another Quranic verse citation",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "General advice for the Muslims of Pakistan and others",
+        "content_type": "heading_minor",
+        "page_number": 252,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 7, Page No: 252)",
+          "content_type": "navigation",
+          "page_number": 252,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All praise be to Allah. May Allah's Peace and Blessings be upon the Messenger of Allah, his family and Companions! To proceed,",
+          "content_type": "paragraph",
+          "page_number": 252,
+          "confidence": 0.9,
+          "notes": "Standard Islamic opening formula",
+          "memory_agreement": true
+        },
+        {
+          "text": "I would like to advise my fellow Muslims in Pakistan ­ the government and the people ­ to observe Taqwa (fearing Allah as He should be feared) in all matters, for such is the Advice of Allah (Glorified be He) and His Messenger (peace be upon him) as Allah (Glorified be He) says in the Ever­Glorious Qur'an: And verily, We have recommended to the people of the Scripture before you, and to you (O Muslims) that you (all) fear Allâh And: O mankind! Be dutiful to your Lord, Who created you from a single person (Adam)",
+          "content_type": "fatwa_ruling",
+          "page_number": 252,
+          "confidence": 0.9,
+          "notes": "Religious advice with Quranic references",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 253)",
+          "content_type": "navigation",
+          "page_number": 253,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "the one to whom Allah gives command over you.",
+          "content_type": "hadith",
+          "page_number": 253,
+          "confidence": 0.8,
+          "notes": "End of hadith quotation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 254)",
+          "content_type": "navigation",
+          "page_number": 254,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "President of the Islamic University in Al­Madinah Al­Munawwarah `Abdul­`Aziz ibn `Abdullah ibn Baz",
+          "content_type": "signature",
+          "page_number": 254,
+          "confidence": 0.95,
+          "notes": "Author signature and title",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The religious duty on Muslims to cooperate and unite against their enemies",
+        "content_type": "heading_minor",
+        "page_number": 255,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 7, Page No: 255)",
+          "content_type": "navigation",
+          "page_number": 255,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "To proceed:",
+          "content_type": "paragraph",
+          "page_number": 255,
+          "confidence": 0.9,
+          "notes": "Transitional phrase",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 256)",
+          "content_type": "navigation",
+          "page_number": 256,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Muslims' holding fast to the Rope of Allah (i.e. the Ever­Glorious Qur'an) and showing solidarity in supporting their Din are of the greatest factors leading to attaining victory over their enemy and regaining Islamic past glory.",
+          "content_type": "fatwa_ruling",
+          "page_number": 256,
+          "confidence": 0.85,
+          "notes": "Religious guidance on unity",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 257)",
+          "content_type": "navigation",
+          "page_number": 257,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "By Al­' Asr (the time). Verily, man is in loss,",
+          "content_type": "quran_verse",
+          "page_number": 257,
+          "confidence": 0.9,
+          "notes": "Surah Al-Asr verses",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 258)",
+          "content_type": "navigation",
+          "page_number": 258,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "They should seize every propitious opportunity and place to preach Allah's Shar`, guide people to the Din of Allah and encourage them to fulfill",
+          "content_type": "paragraph",
+          "page_number": 258,
+          "confidence": 0.8,
+          "notes": "Continues to next page",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 259)",
+          "content_type": "navigation",
+          "page_number": 259,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "They should recommend one another to collaborate in achieving this goal, so that Allah's Shar` will rule, Muslims consistently and truly adhere to it, and people enter into the Din of Allah (Exalted be He) in multitudes.",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.85,
+          "notes": "Religious guidance on cooperation",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 260)",
+          "content_type": "navigation",
+          "page_number": 260,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Muslims everywhere, in Egypt, Libya, Tunisia, Algeria, Morocco, America, and Europe should support one another in acts of piety and righteousness, recommend one another in following the path of Al­Haqq, seek the knowledge of Islam and benefit from their scholars in order to have a good grasp of their Din, fulfill their religious duties appropriately in a way that pleases Allah (Glorified be He) and judge by Allah's Shar` in their religious and mundane affairs.",
+          "content_type": "fatwa_ruling",
+          "page_number": 260,
+          "confidence": 0.9,
+          "notes": "Comprehensive religious guidance for global Muslims",
+          "memory_agreement": true
+        },
+        {
+          "text": "Chairman of the Constitutional Council of the Muslim World League and President of",
+          "content_type": "signature",
+          "page_number": 260,
+          "confidence": 0.9,
+          "notes": "Partial signature line at end",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "the Departments of Scholarly Research, Ifta', Daw`ah, and Guidance",
+        "content_type": "heading_minor",
+        "page_number": 129,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "`Abdul­`Aziz ibn `Abdullah ibn Baz",
+          "content_type": "signature",
+          "page_number": 129,
+          "confidence": 0.9,
+          "notes": "Author attribution",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The wisdom of Da`y and the morals of those who receive Da`wah",
+        "content_type": "heading_major",
+        "page_number": 130,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 7, Page No: 261)",
+          "content_type": "navigation",
+          "page_number": 130,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "All Praise be to Allah, the Lord of the universe, may peace and blessings be upon His servant and Messenger, His friend and trustee over His wahy (revelation), our Prophet, leader and master Muhammad bin Abdullah, and upon his family, his Sahabah (companions) and those who follow his way and are guided by his guidance until the day of judgment. To proceed:",
+          "content_type": "paragraph",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Opening praise and introduction",
+          "memory_agreement": false
+        },
+        {
+          "text": "Dhikr (remembrance) of Allah, and Da`wah (calling to Islam) to his way is the tradition of messengers (peace be upon them). Allah sent them as callers to the truth and guidance to His creation. They give glad tidings and give warnings to stop the excuses of mankind against Allah.",
+          "content_type": "paragraph",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Main content explaining Da'wah",
+          "memory_agreement": false
+        },
+        {
+          "text": "Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allâh after the (coming of) Messengers.",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.85,
+          "notes": "Quranic verse citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "O Prophet (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ)! Verily, We have sent you as witness, and a bearer of glad tidings, and a warner, And as one who invites to Allâh [Islâmic Monotheism, i.e. to worship none but Allâh (Alone)] by His Leave, and as a lamp spreading light (through your instructions from the Qur'ân and the Sunnah ­ the legal ways of the Prophet ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ).",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Quranic verse with Arabic text",
+          "memory_agreement": false
+        },
+        {
+          "text": "And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone).",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Quranic verse about purpose of creation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 262)",
+          "content_type": "navigation",
+          "page_number": 130,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Jinn (creatures created from fire) and mankind were created to worship Allah. This worship is the right of Allah on His Mukallaf (legally competent person) slaves of the jinn and mankind.",
+          "content_type": "paragraph",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Explanation of worship obligation",
+          "memory_agreement": false
+        },
+        {
+          "text": "And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): \"Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).\"",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Quranic verse about messengers",
+          "memory_agreement": false
+        },
+        {
+          "text": "(This is) a Book, the Verses whereof are perfected (in every sphere of knowledge), and then explained in detail from One (Allâh), Who is All­Wise, Well­Acquainted (with all things). (Saying) worship none but Allâh. Verily, I (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) am unto you from Him a warner and a bringer of glad tidings.",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the Book",
+          "memory_agreement": false
+        },
+        {
+          "text": "Alif­Lâm­Râ. [These letters are one of the miracles of the Qur'ân, and none but Allâh (Alone) knows their meanings]. (This is) a Book which We have revealed unto you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) in order that you might lead mankind out of darkness (of disbelief and polytheism) into light (of belief in the Oneness of Allâh and Islâmic Monotheism)",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Beginning of Surah Ibrahim",
+          "memory_agreement": false
+        },
+        {
+          "text": "And We have sent down to you the Book (the Qur'an) as an exposition of everything, a guidance, a mercy, and glad tidings for those who have submitted themselves (to Allâh as Muslims).",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al Nahl",
+          "memory_agreement": false
+        },
+        {
+          "text": "Indeed, We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Balance (justice) that mankind may keep up justice.",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Verse from Surah Al Hadid",
+          "memory_agreement": false
+        },
+        {
+          "text": "Verily, this Qur'ân guides to that which is most just and right",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Quranic verse about guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 263)",
+          "content_type": "navigation",
+          "page_number": 130,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say: \"It is for those who believe, a guide and a healing.\"",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Quranic verse about the Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "(This is) a Book (the Qur'ân) which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember.",
+          "content_type": "quran_verse",
+          "page_number": 130,
+          "confidence": 0.9,
+          "notes": "Quranic verse about pondering",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 264)",
+          "content_type": "navigation",
+          "page_number": 131,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "That is to know Tawhid (Oneness of Allah/ monotheism) of Allah, obey His commands, forbid His prohibitions. This is the worship, for which we are all created; the Tawhid of Allah (Exalted be He) through our actions in all of our worships, whether they be through sayings, actions, intentions, obeying the commands or forbidding the prohibitions.",
+          "content_type": "paragraph",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Explanation of Tawhid",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 265)",
+          "content_type": "navigation",
+          "page_number": 131,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Invite (mankind, O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳـﻠﻢ) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur'ân)",
+          "content_type": "quran_verse",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Verse about calling with wisdom",
+          "memory_agreement": true
+        },
+        {
+          "text": "Say (O Muhammad ﺻـﻠﻰ ﺍﷲ ﻋﻠﻴـﻪ ﻭ ﺳـﻠﻢ): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh ­ Islâmic Monotheism) with sure knowledge",
+          "content_type": "quran_verse",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Verse about inviting with knowledge",
+          "memory_agreement": true
+        },
+        {
+          "text": "And argue not with the people of the Scripture (Jews and Christians), unless it be in (a way) that is better (with good words and in good manner, inviting them to Islâmic Monotheism with His Verses)",
+          "content_type": "quran_verse",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Verse about arguing with People of the Book",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 266)",
+          "content_type": "navigation",
+          "page_number": 131,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And by the Mercy of Allâh, you dealt with them gently.",
+          "content_type": "quran_verse",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Verse about dealing gently",
+          "memory_agreement": false
+        },
+        {
+          "text": "And had you been severe and harsh­hearted, they would have broken away from about you",
+          "content_type": "quran_verse",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Continuation of previous verse",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"And speak to him mildly, perhaps he may accept admonition or fear (Allâh).\"",
+          "content_type": "quran_verse",
+          "page_number": 131,
+          "confidence": 0.9,
+          "notes": "Verse about speaking to Pharaoh",
+          "memory_agreement": false
+        },
+        {
+          "text": "\"He who is deprived of forbearance and gentleness is, in fact, deprived of all good.''",
+          "content_type": "hadith",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about gentleness",
+          "memory_agreement": false
+        },
+        {
+          "text": "Kindness is not to be found in anything but that it adds to its beauty and it is not withdrawn from anything but it makes it defective",
+          "content_type": "hadith",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about kindness",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 267)",
+          "content_type": "navigation",
+          "page_number": 132,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "so announce the good news to My slaves Those who listen to the Word [good advice Lâ ilâha illallâh ­ (none has the right to be worshipped but Allâh) and Islâmic Monotheism] and follow the best thereof (i.e. worship Allâh Alone, repent to Him and avoid Tâghût) those are (the ones) whom Allâh has guided and those are men of understanding.",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Verse about those who listen",
+          "memory_agreement": false
+        },
+        {
+          "text": "but if they had done what they were told, it would have been better for them, and would have strengthened their (Faith) And indeed We should then have bestowed upon them a great reward from Ourselves. And indeed We should have guided them to the Straight Way.",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Verse about following guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "But none is granted it (the above quality) except those who are patient ­ and none is granted it except the owner of the great portion (of happiness in the Hereafter i.e. Paradise and of a high moral character) in this world.",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Verse about patience",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 268)",
+          "content_type": "navigation",
+          "page_number": 132,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "And your Lord has decreed that you worship none but Him.",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Verse about worshipping Allah alone",
+          "memory_agreement": false
+        },
+        {
+          "text": "And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him)",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Verse about worship command",
+          "memory_agreement": false
+        },
+        {
+          "text": "So worship Allâh (Alone) by doing religious deeds sincerely for Allâh's sake only. Surely the religion (i.e. the worship and the obedience) is for Allâh only.",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Verse about sincere worship",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 269)",
+          "content_type": "navigation",
+          "page_number": 132,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "So, call you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ and the believers) upon (or invoke) Allâh making (your) worship pure for Him (Alone) (by worshipping none but Him and by doing religious deeds sincerely for Allâh's sake only and not to show off and not to set up rivals with Him in worship)",
+          "content_type": "quran_verse",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Verse about pure worship",
+          "memory_agreement": false
+        },
+        {
+          "text": "I have been commanded to fight against people until they testify that there is no God but Allah, and that Muhammad is the Messenger of Allah,",
+          "content_type": "hadith",
+          "page_number": 132,
+          "confidence": 0.9,
+          "notes": "Sahih hadith about testimony of faith",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Continuation of Religious Obligations Discussion",
+        "content_type": "heading_minor",
+        "page_number": 133,
+        "confidence": 0.8
+      },
+      "content_items": [
+        {
+          "text": "It is reported in the Sahih collection of Hadith from Ibn 'Umar (may Allah be pleased with him) that he said: I heard the Prophet (peace be upon him) saying: I have been commanded to fight against people until they testify that there is no God but Allah, and that Muhammad is the Messenger of Allah, perform the Prayer, and pay Zakah. If they do that, their blood and property are guaranteed protection on my behalf except when justified by law, and their affairs rest with Allah.",
+          "content_type": "hadith",
+          "page_number": 133,
+          "confidence": 0.95,
+          "notes": "Sahih hadith from Ibn Umar with complete chain and text",
+          "memory_agreement": true
+        },
+        {
+          "text": "All of the Mukallafs (persons meeting the conditions to be held legally accountable for their actions) of the Jinn and mankind are ordered to believe in the Tawhid of Allah and are ordered to be sincere to Him in their worship. They are ordered to believe the Messenger of Allah (peace be upon him) and believe in what he brought of guidance.",
+          "content_type": "fatwa_ruling",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Religious ruling about obligations of all accountable beings",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 270)",
+          "content_type": "navigation",
+          "page_number": 133,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Salah (prayer) is the pillar of Islam and the greatest obligation. It is the most important aspect after the testimonies of faith. Therefore, it is an obligation upon every Mu'min (believing) female and male to preserve the prayers, be sure to pray it at the due time, and perform each of them quietly and solemnly.",
+          "content_type": "fatwa_ruling",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Ruling on the importance and obligations of prayer",
+          "memory_agreement": true
+        },
+        {
+          "text": "Successful indeed are the believers. Those who offer their Salât (prayers) with all solemnity and full submissiveness.",
+          "content_type": "quran_verse",
+          "page_number": 133,
+          "confidence": 0.95,
+          "notes": "Quranic verse about successful believers and prayer",
+          "memory_agreement": true
+        },
+        {
+          "text": "And perform As­Salât (Iqâmat­as­Salât), and give Zakât and bow down (or submit yourselves with obedience to Allâh) along with Ar­Raki'ûn.",
+          "content_type": "quran_verse",
+          "page_number": 133,
+          "confidence": 0.95,
+          "notes": "Quranic verse commanding prayer and charity with congregation",
+          "memory_agreement": true
+        },
+        {
+          "text": "He who hears the call to pray and does not come, there is no prayer for him unless he has an excuse. It is said",
+          "content_type": "hadith",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about responding to call to prayer",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 271)",
+          "content_type": "navigation",
+          "page_number": 133,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "to Ibn Abbass: what is the excuse? He said: fear or sickness. Once a blind man said: O Messenger of Allah, I do not have a guide to guide me to the Masjid (mosque), do I have permission to pray at home? He said: do you hear the call to prayer? He said: Yes! The Prophet replied: Then you must answer it.",
+          "content_type": "hadith",
+          "page_number": 133,
+          "confidence": 0.95,
+          "notes": "Complete hadith about blind man and obligation to attend mosque",
+          "memory_agreement": true
+        },
+        {
+          "text": "This man was blind and he had no one to guide him but he was commanded to answer the call! What then is the case with others?",
+          "content_type": "fatwa_ruling",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Scholar's reasoning and ruling based on the hadith",
+          "memory_agreement": true
+        },
+        {
+          "text": "Guard strictly (five obligatory) As­Salawât (the prayers) especially the middle Salât (i.e. the best prayer – 'Asr).",
+          "content_type": "quran_verse",
+          "page_number": 133,
+          "confidence": 0.95,
+          "notes": "Quranic command to guard prayers especially Asr",
+          "memory_agreement": true
+        },
+        {
+          "text": "What makes one a disbeliever and a polytheist is abandoning prayers.",
+          "content_type": "hadith",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Sahih hadith about abandoning prayer leading to disbelief",
+          "memory_agreement": true
+        },
+        {
+          "text": "That which differentiates us from the disbelievers and hypocrites is our performance of Salah. He who abandons it becomes a disbeliever.",
+          "content_type": "hadith",
+          "page_number": 133,
+          "confidence": 0.9,
+          "notes": "Prophetic saying about prayer as distinguishing factor",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 272)",
+          "content_type": "navigation",
+          "page_number": 133,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "And Hajj (pilgrimage to Makkah) to the House (Ka'bah) is a duty that mankind owes to Allâh, those who can afford the expenses (for one's conveyance, provision and residence)",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Hajj obligation",
+          "memory_agreement": true
+        },
+        {
+          "text": "Islam is built on five (pillars)...",
+          "content_type": "hadith",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Reference to famous hadith about five pillars of Islam",
+          "memory_agreement": true
+        },
+        {
+          "text": "The believers, men and women, are Auliyâ' (helpers, supporters, friends, protectors) of one another; they enjoin (on the people) Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden); they perform As­Salât (Iqâmat­as­Salât), and give the Zakât, and obey Allâh and His Messenger. Allâh will have His Mercy on them. Surely Allâh is All­Mighty, All­Wise.",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic verse about characteristics of believing men and women",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 273)",
+          "content_type": "navigation",
+          "page_number": 134,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "You [true believers in Islâmic Monotheism, and real followers of Prophet Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) and his Sunnah] are the best of peoples ever raised up for mankind; you enjoin Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm has ordained) and forbid Al­Munkar (polytheism, disbelief and all that Islâm has forbidden), and you believe in Allâh.",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic verse about the Muslim ummah being best nation",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! Ward off yourselves and your families against a Fire (Hell) whose fuel is men and stones",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic command to protect family from hellfire",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 274)",
+          "content_type": "navigation",
+          "page_number": 134,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "And enjoin As­Salât (the prayer) on your family, and be patient in offering them [i.e. the Salât (prayers)].",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic command to enjoin prayer on family",
+          "memory_agreement": true
+        },
+        {
+          "text": "And mention in the Book (the Qur'ân) Ismâ'îl (Ishmael). Verily he was true to what he promised, and he was a Messenger, (and) a Prophet. And he used to enjoin on his family and his people As­Salât (the prayers) and the Zakât and his Lord was pleased with him.",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Prophet Ishmael enjoining prayer and charity",
+          "memory_agreement": true
+        },
+        {
+          "text": "Command your children to pray when they are seven years old and beat them for (neglecting) it when they are ten years old; and arrange their beds (to sleep) separately.",
+          "content_type": "hadith",
+          "page_number": 134,
+          "confidence": 0.9,
+          "notes": "Prophetic guidance on teaching children prayer",
+          "memory_agreement": true
+        },
+        {
+          "text": "So keep your duty to Allâh and fear Him as much as you can",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic command about fearing Allah",
+          "memory_agreement": true
+        },
+        {
+          "text": "Whoever, among you, sees something abominable should rectify it with his hand; and if he has not strength enough to do it, then he should do it with his tongue; and if he has not strength enough to do it, (even) then he should (abhor it) from his heart, and that is the weakest of Faith.",
+          "content_type": "hadith",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Famous sahih hadith about changing evil with hand, tongue, or heart",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 275)",
+          "content_type": "navigation",
+          "page_number": 134,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "So whosoever does good equal to the weight of an atom (or a small ant) shall see it. And whosoever does evil equal to the weight of an atom (or a small ant) shall see it.",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic verse about accountability for smallest deeds",
+          "memory_agreement": true
+        },
+        {
+          "text": "And who is better in speech than he who [says: \"My Lord is Allâh (believes in His Oneness),\" and then stands firm (acts upon His Order), and] invites (men) to Allâh's (Islâmic Monotheism), and does righteous deeds, and says: \"I am one of the Muslims.\"",
+          "content_type": "quran_verse",
+          "page_number": 134,
+          "confidence": 0.95,
+          "notes": "Quranic verse about best speech being invitation to Allah",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 276)",
+          "content_type": "navigation",
+          "page_number": 135,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Let there arise out of you a group of people inviting to all that is good (Islâm), enjoining Al­Ma'rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do) and forbidding Al­Munkar (polytheism and disbelief and all that Islâm has forbidden). And it is they who are the successful.",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic command about group calling to good",
+          "memory_agreement": true
+        },
+        {
+          "text": "Then for him who transgressed all bounds, (in disbelief, oppression and evil deeds of disobedience to Allâh). And preferred the life of this world (by following his evil desires and lusts), Verily, his abode will be Hell­fire; But as for him who feared standing before his Lord, and restrained himself from impure evil desires and lusts. Verily, Paradise will be his abode.",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic verses contrasting fate of transgressor vs God-fearing person",
+          "memory_agreement": true
+        },
+        {
+          "text": "and follow not your desire — for it will mislead you from the Path of Allâh.",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic warning against following desires",
+          "memory_agreement": true
+        },
+        {
+          "text": "But if they answer you not (i.e. do not bring the Book nor believe in your doctrine of Islâmic Monotheism), then know that they only follow their own lusts. And who is more astray than one who follows his own lusts, without guidance from Allâh?",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic verse about those who follow desires instead of guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah, the Exalted, made it clear that there are two ways: either responding to Allah and His Messenger or following ones desires.",
+          "content_type": "fatwa_ruling",
+          "page_number": 135,
+          "confidence": 0.9,
+          "notes": "Scholar's explanation of the two paths mentioned in Quran",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 7, Page No: 277)",
+          "content_type": "navigation",
+          "page_number": 135,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! Answer Allâh (by obeying Him) and (His) Messenger when he (ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) calls you to that which will give you life",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic command to respond to Allah and Messenger",
+          "memory_agreement": false
+        },
+        {
+          "text": "Is he who was dead (without Faith by ignorance and disbelief) and We gave him life (by knowledge and Faith) and set for him a light (of Belief) whereby he can walk amongst men ? like him who is in the darkness (of disbelief, polytheism and hypocrisy) from which he can never come out?",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic comparison between believer with light and disbeliever in darkness",
+          "memory_agreement": true
+        },
+        {
+          "text": "And thus We have sent to you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭ ﺳﻠﻢ) Ruh (a Revelation, and a Mercy) of Our Command. You knew not what is the Book, nor what is Faith? But We have made it (this Qur'ân) a light wherewith We guide whosoever of Our slaves We will.",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic verse about Quran being revelation and light",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 278)",
+          "content_type": "navigation",
+          "page_number": 135,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "But those who disbelieve turn away from that whereof they are warned.",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic verse about disbelievers turning away from warnings",
+          "memory_agreement": true
+        },
+        {
+          "text": "And who does more wrong than he who is reminded of the Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) of his Lord, but turns away from them, forgetting what (deeds) his hands have sent forth.",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic verse about wrongdoing of turning away from Allah's signs",
+          "memory_agreement": true
+        },
+        {
+          "text": "And surely, We have created many of the jinn and mankind for Hell. They have hearts wherewith they understand not, and they have eyes wherewith they see not, and they have ears wherewith they hear not (the truth). They are like cattle, nay even more astray; those! They are the heedless ones.",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic verse comparing heedless people to cattle",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 279)",
+          "content_type": "navigation",
+          "page_number": 135,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "Or do you think that most of them hear or understand? They are only like cattle ­ nay, they are even farther astray from the Path (i.e. even worse than cattle).",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Another Quranic verse comparing heedless to cattle",
+          "memory_agreement": true
+        },
+        {
+          "text": "He who is afraid of the pillage of the enemy sets out in the early part of the night; and he who sets out early, reaches his destination. Be on your guard that the commodity of Allah is precious. Verily the commodity of Allah is Jannah i.e. Paradise",
+          "content_type": "hadith",
+          "page_number": 135,
+          "confidence": 0.9,
+          "notes": "Hadith reported by Al-Tirmidhy about striving early for Paradise",
+          "memory_agreement": true
+        },
+        {
+          "text": "But for him who fears the standing before his Lord, there will be two Gardens (i.e. in Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 135,
+          "confidence": 0.95,
+          "notes": "Quranic promise of two gardens for God-fearing",
+          "memory_agreement": true
+        },
+        {
+          "text": "Verily,, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise).",
+          "content_type": "quran_verse",
+          "page_number": 136,
+          "confidence": 0.95,
+          "notes": "Quranic verse about reward for fearing Allah unseen",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 280)",
+          "content_type": "navigation",
+          "page_number": 136,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "When Allah wants to do good to a person, He will make him understand the religion",
+          "content_type": "hadith",
+          "page_number": 136,
+          "confidence": 0.9,
+          "notes": "Sahih hadith about Allah wanting good through religious understanding",
+          "memory_agreement": true
+        },
+        {
+          "text": "You, o servant of Allah, should be diligent to accept the truth with your heart when advised and reminded. Your main concern and intention should be to understand the ruling of Allah, know what Allah has asked, and implement it, as well as knowing that which displeases Allah in order to abandon it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 136,
+          "confidence": 0.9,
+          "notes": "Scholar's advice about accepting truth and understanding Allah's rulings",
+          "memory_agreement": false
+        },
+        {
+          "text": "And whosoever fears Allâh and keeps his duty to Him, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine.",
+          "content_type": "quran_verse",
+          "page_number": 136,
+          "confidence": 0.95,
+          "notes": "Quranic promise for those who fear Allah",
+          "memory_agreement": true
+        },
+        {
+          "text": "and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.",
+          "content_type": "quran_verse",
+          "page_number": 136,
+          "confidence": 0.95,
+          "notes": "Quranic promise of ease for God-fearing",
+          "memory_agreement": true
+        },
+        {
+          "text": "O you who believe! If you obey and fear Allâh, He will grant you Furqân [(a criterion to judge between right and wrong), or (Makhraj, i.e. a way for you to get out from every difficulty)], and will expiate for you your sins",
+          "content_type": "quran_verse",
+          "page_number": 136,
+          "confidence": 0.95,
+          "notes": "Quranic promise of criterion and forgiveness for believers",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 7, Page No: 281)",
+          "content_type": "navigation",
+          "page_number": 136,
+          "confidence": 1.0,
+          "notes": "Page navigation marker",
+          "memory_agreement": true
+        },
+        {
+          "text": "I ask Allah with His Names and Attributes to grant us and you success to have the beneficial knowledge and good deeds and to protect us and you from the evils of ourselves, and the sins of our deeds. I ask Allah to guide us all to His Straight Path, make us and you of those who strive to do good, and those who move away from all evil. I ask Him to make His Religion victorious and His Word supreme, help our leaders to all that is good, make His Religion victorious through them, make their entourage good, help them do all that is good and move them away from all that is evil, make all those responsible successful in doing that which pleases Allah and improves the welfare of mankind and countries. I also ask Allah, the Exalted, to improve the affairs of the Muslims all over the World, to make the best among them their leaders, and improve their leaders, and grant them knowledge of the religion and keep them steadfast on it, for He is the All­Hearer, All­Near. May Allah's Peace and Blessings be upon our Prophet Muhammad, and on his family, companions and those who follow him with good.",
+          "content_type": "signature",
+          "page_number": 136,
+          "confidence": 0.95,
+          "notes": "Concluding supplication and blessing from the scholar",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 145 Content",
+        "content_type": "heading_minor",
+        "page_number": 145,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "hurt and that the invitation to Allah would not be delayed. Inviting to Allah (Exalted be He)",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "should be in a way",
+          "content_type": "navigation",
+          "page_number": 145,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 7, Page No: 300)",
+          "content_type": "navigation",
+          "page_number": 145,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "that is good and to cooperate to do the good and piety as the way to remove the evil or",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "reduce it. Inviting people to resort to Shari`ah for judgment is the most necessary matter in",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "this regard. This is the only way to strive for good treatment and reform even if only some",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "aims are attained. Some good may happen and the government that they blame may",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "cooperate and reduce evil and make the good abundant.",
+          "content_type": "paragraph",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "So wisdom is necessary in inviting with knowledge. Knowledge invites people to be gentle and",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to give priority to the best and the most important and then to what is next to it.",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "If inviting people to remove evil would result in worse evil, it must not be done. It should also",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "not do anything that would lead to another worse thing. One must seek to do more good and",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "reduce evil, keep away from worse and dangerous evils that may lead to major Shirk",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(associating others with Allah in His Divinity or worship) in your country or others, with",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "presidents and rulers, princes or others. It is a must to cooperate with them in removing the",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "evil, reducing it and removing what is against the Shari`ah as much as possible. We have to",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "work according Allah's Book and to His Prophet's Sunnah, to be guided by them and to consult",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "one another. If we find any thing difficult, we have to discuss it collectively and report it to",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "those in higher ranks to remove the evil and help the good prevail.",
+          "content_type": "paragraph",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Advising one another and cooperation only result in the good. Hastiness leads only to more",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "mistakes. We, knowledge seekers, inviters to Allah, and those who enjoin the good and forbid",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the evil, have to find the best means to reach the good and choose the best ways in our",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "enjoining the right, forbidding the wrong, inviting to Allah, and in all our conduct to please",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah and come closer to Him to attain what is required to",
+          "content_type": "paragraph",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 7, Page No: 301)",
+          "content_type": "navigation",
+          "page_number": 145,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "please Allah, remove the evil, and attain the good. We have to be keen on doing that,",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "cooperate in doing it, and compete in this regard. If there is a necessity for power, the matter",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "must be reported to those in charge to remove this matter and follow it till it disappears.",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "I advise my brothers in this country and everywhere to follow the way of the Prophet (peace",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and blessings be upon him) and his companions in word and deed and to be good example in",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "their words and deeds, to start as good examples in every good and to forbid every evil so",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "that they would be a practical example in their deeds, conditions, ethics, gentility, mercy, and",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "benevolence. They have to pay attention to this matter. They should be gentle, for it is better",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to mistakenly let people escape punishment than to punish them unjustly.",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "May Allah guide everyone to useful knowledge, good deeds, and make hearts and deeds good!",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "May Allah guide all preachers and scholars everywhere to the best, provide them with more",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "faith and knowledge, and guide their leaders to all that pleases Allah, make their advisors",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "good, keep them away from any evil, make them guided, guide them to judge by Islamic law,",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "remove whoever hates or refuses that, and replace them with better than them! Allah is",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(Glorified and Exalted be He) the All­Generous, All­Gracious. May peace and blessings be upon",
+          "content_type": "heading_major",
+          "page_number": 145,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Muhammad, his family, and companions!",
+          "content_type": "navigation",
+          "page_number": 145,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 146 Content",
+        "content_type": "heading_minor",
+        "page_number": 146,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 7, Page No: 302)",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Giving advice is not slander",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "All praise be to Allah, and peace and blessings be upon His Messenger, his family, his Companions, and",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "those who follow his guidance.",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "To proceed:",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "I thank Allah (Glorified and Exalted be He) for this gathering with brothers in Islam who advise, help and",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommend one another to righteousness, Taqwa (fear/wary of offending Allah) and Al­Haqq (the Truth)",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and abide by it. It is known that Allah (Glorified and Exalted be He) did not create anything in vain or",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "without purpose, but He created all creatures to worship and glorify Him and to abide by His Purified Shar`",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(Law). He promised them that if they comply with His Purified Shar` (Law), He would, in this worldly life,",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "support them with His Victory, forgive them, and grant them safety in their homelands and guidance to",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "goodness. He also promised to give them great Thawab (reward from Allah) and blessings in the Hereafter.",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah (Glorified be He) says:  And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone).",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "seek not any provision from them (i.e. provision for themselves or for My creatures) nor do I ask that they should feed Me (i.e. feed",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Verily, Allâh is the All­Provider, Owner of Power, the Most Strong.",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "themselves or My creatures).",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) created all his Creatures for `Ibadah (worship) which means full",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "obedience to Him and to His Messenger (peace be upon him). The head of `Ibadah is Tawhid (belief in the",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Oneness of Allah), compliance with His Shari`ah (Islamic law)",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 7, Page No: 303)",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "and refraining from what He prohibits of Shirk (associating others with Allah in His Divinity or worship).",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah named obedience and Tawhid to Him '`Ibadah' because it means humbling oneself, submission, and",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "following orders.",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "That is why Arabs use the phrase 'tareeq mu`abbad' to describe a smooth path. `Ibadah is obeying Allah",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and His Messenger with all due humbleness, submission and yielding through which the worshipper hopes",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "for Allah's Mercy and fears His Torment.",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "As said earlier, the head and essential pillar of `Ibadah is Tawhid to Allah and being sincere to Him Alone in",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "all acts of `Ibadah such as when making Du`a' (supplication) to Him, fearing Him and hoping for His Mercy,",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "fasting, praying, slaughtering, vowing and the like. Allah (Exalted be He) says:  And your Lord has decreed that you",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "worship none but Him.  He (Glorified be He) also says:  You (Alone) we worship, and You (Alone) we ask for help (for each",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and everything).  He (Glorified be He) also says:  And they were commanded not, but that they should worship Allâh, and",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "worship none but Him Alone (abstaining from ascribing partners to Him).  This is the meaning of 'La ilaha illa Allah' (there",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "is no deity but Allah); this statement indicates that none is worthy of `Ibadah but Allah.",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "It denies that anyone other than Allah has the right to be worshipped and affirms that this is the right of",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah Alone. Therefore, whatever is worshiped apart from Allah such as idols, stones, graves, angels,",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "prophets, etc., is Batil (null and void) because none is worthy of `Ibadah but Allah (Glorified and Exalted be",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "He). Allah (Glorified and Exalted be He) says:  That is because Allâh — He is the Truth (the only True God of all that exists,",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood).  This is the",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "denotation of 'La ilaha illa Allah' that means Tawhid to Allah, absolute sincerity to Him Alone and believing",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "that `Ibadah is the right of Allah (Glorified and Exalted be He) Alone and He has no partner in it.",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 7, Page No: 304)",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "This is in addition to testifying that Muhammad is the Slave of Allah and His Messenger and he is the Last",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and the best of the prophets along with believing in all what Allah and His Messenger informed us of:",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "believing in all prophets and in all the issues related to resurrection, Jannah (Paradise), hellfire, reckoning,",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recompense and reward. All this falls under belief in Allah.",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Therefore, each Mukallaf (person meeting the conditions to be held legally accountable for their actions) has",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to believe in Allah and His Messenger, abide by Allah's Shar`, be sincere to Him Alone in all acts of `Ibadah",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and refrain from what He prohibits of sayings, deeds or beliefs. This is the Din (religion) of Islam that Allah",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "accepts.",
+          "content_type": "navigation",
+          "page_number": 146,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Allah (Exalted be He) says:  This day, I have perfected your religion for you, completed My Favor upon you, and have chosen for",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "you Islâm as your religion.  Islam entails submission and devotion to Allah, compliance with His Shar` and",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "abandoning what He prohibits. The head of this is Tawhid to Allah and being sincere to Him Alone just as",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "what He (Exalted be He) says about His righteous worshippers from among Imams (pious people) and the",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "chosen good people:  Verily, they used to hasten on to do good deeds, and they used to call on Us with hope and fear.",
+          "content_type": "paragraph",
+          "page_number": 146,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 147 Content",
+        "content_type": "heading_minor",
+        "page_number": 147,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "So each Mukallaf of mankind and jinn should worship Allah truly and sincerely, submit to His Shar`,",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommend one another to Al­Haqq and abiding by it and give advice to one another because religion is",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "sincerity of advice for all. Mukallafs have to help one another to reach righteousness and Taqwa according to",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "what Allah (Exalted be He) says:  Help you one another in Al­Birr and At­Taqwâ (virtue, righteousness and piety).  He",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(Glorified and Exalted be He) also says:",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 7, Page No: 305)",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "By Al­‘ Asr (the time).",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Verily, man is in loss,",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Except those who believe (in Islâmic Monotheism) and do righteous good deeds,",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al­Ma‘ruf) which Allâh has",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "ordained, and abstain from all kinds of sins and evil deeds (Al­Munkar) which Allâh has forbidden], and recommend one another to",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "patience (for the sufferings, harms, and injuries which one may encounter in Allâh’s Cause during preaching His religion of Islâmic",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Monotheism or Jihâd).",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "These are the righteous and the blessed while the rest are the losers. No worshipper from among the jinn or",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "mankind can attain safety or happiness except by abiding by the Din of Allah (Exalted be He), doing good",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "deeds, performing the Faridahs (obligatory acts) ordained by Allah, abandoning what He prohibits,",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommending one another to Al­Haqq, helping one another in righteousness and Taqwa and",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommending one another to patience and to performing Ma`ruf (that which is judged as good, beneficial,",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "or fitting by Islamic law and Muslims of sound intellect) and abstaining from Munkar (that which is",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "unacceptable or disapproved of by Islamic law and Muslims of sound intellect) for this falls under",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommending one another to Al­Haqq. Mankind should know the value of this blessing they are created for;",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "it is the blessing of Islam, the greatest blessing ever bestowed.",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Since Allah has guided a worshipper to Islam, they have obtained the greatest blessing that Allah ever",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "bestowed on them. They have to know the value of such a blessing and thank Allah for it just as He (Exalted",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "be He) says:  Say: “In the Bounty of Allâh, and in His Mercy (i.e. Islâm and the Qur’ân); ­ therein let them rejoice.” That is better",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "than what (the wealth) they amass.  Allah's Bounty is Islam and His Mercy is guiding a person to it. Moreover, it is",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "by Allah's Grace and Mercy that He has given the charge of this country to an Islamic government that",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "attends to the religious and worldly affairs, ensures safety, observes enjoining Ma`ruf, forbidding Munkar,",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "rules according to His Shari`ah (Islamic law) and prohibits what He and His Messenger (peace be upon him)",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "prohibit.",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Surely this is one of Allah's greatest blessings. All praise be to Allah, these have been the principles always",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "held by this country, its ancestors and Muslim scholars since the time of Shaykh Muhammad ibn `Abdul­Wahhab",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 7, Page No: 306)",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "(may Allah be merciful to him) and the time of Imam Muhammad ibn Saud (may Allah be merciful to him).",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Da`wah (calling) to Allah, Tawhid, recommending to Al­Haqq and abidance by it, have been the Manhaj",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(methodology) of this country, its ancestors and its scholars in good times and bad and under all",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "circumstances. Therefore, it is Wajib to thank Allah for such blessings and recommend one another to",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "observe them, call to them among scholars, rulers, the rich, the public and the elite.",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "All these are blessings that we should advise one another to thank Allah for in addition to abiding by and",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "calling to them. We should help one another in righteousness and Taqwa, recommend one another to Al­",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Haqq and abiding by it, enjoin Ma`ruf, forbid Munkar and call to the Way of Allah (Glorified be He) Who",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "orders us to:  Invite (mankind, O Muhammad peace be upon him) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Divine Revelation and the Qur’ân) and fair preaching, and argue with them in a way that is better.",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "However, giving advice should be in a good manner, useful writing and helpful speeches not by exposing",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "people's defects, slandering them or criticizing the state on the Minbar (pulpit) and the like. It should be",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "done by making every effort to put an end to evil and maintain good in wise ways and by the means that are",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "pleasing to Allah (Glorified and Exalted be He). We truly enjoy great blessings: that of Islam, safety and",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "sound health in addition to the great blessing that Allah bestowed upon us during the second Gulf War following",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the attack of Allah's enemy, Saddam and his soldiers when they invaded Kuwait. Allah helped our country to",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "play a vital role in this regard and exert great efforts to end injustice. It sought His support then the support",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "of multi­national troops, which helped put an end to such injustice.",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 7, Page No: 307)",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "All this was by the success and guidance granted by Allah (Glorified be He) that He made people gather to",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "fight against injustice and aggression until Allah put an end to the oppressor and helped the oppressed",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "return to their homeland; this is one of the greatest blessings of Allah.",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Therefore, we have to thank Allah for His numerous Blessings, acquire religious knowledge, help one",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "another in righteousness and Taqwa, advise each other about the Din of Allah, recommend one another to",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Al­Haqq and abiding by it and praise Allah for all His Blessings.",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Moreover, the state, scholars and the public should thank Allah and fulfill their duties towards Him,",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommend one another to His Obedience, abide by His Orders and work on refining themselves. We should",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "maintain and observe whatever is pleasing to Allah and refrain from and warn people against whatever",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "angers Him (Glorified and Exalted be He).",
+          "content_type": "navigation",
+          "page_number": 147,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "The duty of the state is to abandon what Allah prohibits, fulfill what He enjoins and abides by His Shari`ah.",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "The duty of scholars and rulers is to adopt Da`wah, clarify religious matters, make people hope for Allah's",
+          "content_type": "paragraph",
+          "page_number": 147,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 148 Content",
+        "content_type": "heading_minor",
+        "page_number": 148,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "Mercy and fear Him. All stakeholders, whether they are rich, chiefs, corporates or the public have to adopt",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Da`wah through good advice, reflect on their deeds and struggle against their inner desires until each of",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "them becomes a good example in obeying Allah and His Messenger. This applies to all people and not only",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to the state. The duty of the state is to fear Allah, truly fulfill its duties towards Him, refrain from what He",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "prohibits, keep to the Straight Way, and deter the oppressors from oppressing through Shar`y means.",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Each person should always consider their deeds, fear Allah and observe Amanah (honesty, trust, and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "obedience).",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 7, Page No: 308)",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "They should avoid injustice and aggression, do their best in truly obeying Allah and His Messenger, and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommend one another to Al­Haqq and abiding by it. This is Wajib upon all Muslims, the rich, the poor,",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "rulers and scholars. Each of them has to fulfill their own duties. Allah (Glorified be He) says:  So keep your duty",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to Allâh and fear Him as much as you can.",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "This is Wajib upon all Mu'mins (believers), men and women. Allah (Glorified and Exalted be He) says:  The",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "believers, men and women, are Auliyâ’  (helpers, supporters, friends, protectors) of one another.  They all are Waliys",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(guardians) of one another. They should not commit Ghibah (backbiting), bear false witness against, do",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "wrong to or claim false allegations against one another. They will be shirking their duties if they do not",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommend and help one another in righteousness and Taqwa, adhere to the Din of Allah in words and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "deeds and maintain Tawbah (repentance) to Allah (Glorified be He).",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah (Glorified be He) says:  enjoining Al­Ma‘rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do) and forbidding",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "A l­Munkar (polytheism and disbelief and all that Islâm has forbidden).  This means to support one another by giving",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "advice, guidance, enjoining Ma`ruf and keeping away from the causes of disagreement and enmity, from",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Ghibah and Namimah (tale­bearing) and from whatever Allah prohibits in the Noble Qur`an and Sunnah",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(acts, sayings or approvals of the Prophet).",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Enjoining Ma`ruf and forbidding Munkar are among the most important duties and the greatest of Islam's",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Wajibs. They are not confined to a certain group of people; rather it is Wajib upon all Mu'mins according to",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "what Allah (Glorified and Exalted be He) says:  The believers, men and women, are Auliyâ’ (helpers, supporters, friends,",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "protectors) of one another; they enjoin (on the people) Al­Ma‘rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "forbid (people) from Al­Munkar (i.e. polytheism and disbelief of all kinds, and all that Islâm has forbidden); they perform As­Salât",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(Iqâmat­a s­Salât) and give the Zakât, and obey Allâh and His Messenger (peace be upon him). Allâh will have His Mercy on them.",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Surely Allâh is All­Mighty, All­Wise.",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 7, Page No: 309)",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Allah (Glorified be He) clarifies in this Ayah (Qur'anic verse) that all Mu'mins, men and women, are Waliys of",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "one another; there is no difference between a ruler, manager, scholar, etc., or between a male Mu'min and a",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "female one. Each of them has their own Wajib to be fulfilled in proportion to their knowledge and abilities.",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah (Glorified and Exalted be He) says:  O you who believe! Ward off yourselves and your families against a Fire (Hell)",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "whose fuel is men and stones.  They have to thank Allah (Glorified and Exalted be He) because they live in a",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "secure country under the rule of an Islamic state that guides people to Allah, His Book (Qur'an) and His",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Messenger's teachings, enjoins Ma`ruf, forbids Munkar and rules according to Allah's Shari`ah and where",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "every individual can freely perform their Faridahs towards Allah, abstain from His prohibitions and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "recommend one another to Al­Haqq and abide by it in safety and soundness.",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "I ask Allah (Glorified be He) to improve our conditions, refine our leaders and guide all Muslim rulers to rule",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "according to His Shari`ah, abide by and recommend one another to it. I also ask Allah to grant guidance to",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "our rulers, and the Custodian of the Two Holy Mosques in particular. I also ask Him (Glorified be He) to",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "guide them all to what is pleasing to Him, help them thank and remember Him, refine their retinues, guide",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "them to what is good, keep them away from evil and make them from among those who are guided and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "who can guide.",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 7, Page No: 310)",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "We ask Allah to grant all Muslim rulers success and guidance, help them in every goodness, guide them to",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "what is pleasing to Him and help them in abandoning what He (Glorified and Exalted be He) and His",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Messenger (peace be upon him) prohibit, in supporting the callers to Al­Haqq and deterring the upholders of",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "falsehood.",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "I ask Allah with His Magnificent Names and Sublime Attributes to guide us all to beneficial knowledge and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "good deeds and save us from the evil of our souls and from our sinful deeds. I also ask Allah to improve",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Muslims' conditions everywhere, refine their leaders and guide Muslim rulers to rule according to His",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Shari`ah and abide by and recommend one another to this matter. I seek refuge with Allah from Satan and",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "his insinuations and I ask Him to help us in doing all forms of goodness for He is Generous and Bountiful.",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "May Allah send His Peace and Blessings upon His Servant and Messenger, our Prophet Muhammad and upon",
+          "content_type": "paragraph",
+          "page_number": 148,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "all of his family and Companions.",
+          "content_type": "navigation",
+          "page_number": 148,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        }
+      ]
+    }
+  ]
+}

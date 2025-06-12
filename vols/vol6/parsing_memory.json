@@ -1,0 +1,908 @@
+{
+  "heading_patterns": {},
+  "question_patterns": {},
+  "arabic_patterns": [],
+  "scholar_names": [],
+  "classification_history": {
+    "short_text": {
+      "navigation": 1676,
+      "quran_verse": 31,
+      "paragraph": 31,
+      "question": 5,
+      "heading_question": 28,
+      "signature": 50,
+      "hadith": 9,
+      "list_item": 6,
+      "fatwa_ruling": 9,
+      "heading_minor": 14
+    },
+    "long_text": {
+      "paragraph": 571,
+      "quran_verse": 391,
+      "fatwa_ruling": 918,
+      "hadith": 228,
+      "question": 197,
+      "answer": 132,
+      "signature": 42,
+      "list_item": 25,
+      "heading_question": 1,
+      "citation": 55,
+      "arabic_text": 3
+    },
+    "islamic_keyword": {
+      "question": 100,
+      "fatwa_ruling": 174,
+      "hadith": 9,
+      "paragraph": 11,
+      "answer": 6,
+      "quran_verse": 10
+    },
+    "answer_marker": {
+      "answer": 43,
+      "fatwa_ruling": 291,
+      "hadith": 3,
+      "signature": 2
+    },
+    "question_marker": {
+      "question": 165
+    },
+    "all_caps": {
+      "heading_question": 14,
+      "signature": 2
+    },
+    "contains_arabic": {
+      "fatwa_ruling": 5,
+      "paragraph": 2,
+      "quran_verse": 51
+    },
+    "numbered_item": {
+      "question": 1
+    }
+  },
+  "quran_references": {
+    "2:2": [
+      2,
+      33,
+      77,
+      96,
+      97,
+      207,
+      207,
+      226,
+      2,
+      21,
+      67,
+      84,
+      84,
+      84,
+      140,
+      2,
+      7,
+      21,
+      21,
+      21,
+      21,
+      21,
+      21,
+      45,
+      79,
+      171
+    ],
+    "2:105": [
+      69
+    ],
+    "35:45": [
+      53,
+      88,
+      7
+    ],
+    "2:112": [
+      3
+    ],
+    "3:187": [
+      18
+    ]
+  },
+  "hadith_references": {
+    "Muslim": [
+      3,
+      5,
+      18,
+      38,
+      38,
+      40,
+      47,
+      48,
+      49,
+      51,
+      51,
+      51,
+      51,
+      52,
+      52,
+      54,
+      57,
+      70,
+      70,
+      99,
+      106,
+      106,
+      120,
+      120,
+      129,
+      148,
+      157,
+      159,
+      159,
+      165,
+      165,
+      168,
+      173,
+      179,
+      181,
+      184,
+      193,
+      193,
+      203,
+      222,
+      230,
+      239,
+      239,
+      240,
+      245,
+      245,
+      246,
+      248,
+      265,
+      9,
+      9,
+      9,
+      24,
+      29,
+      30,
+      30,
+      33,
+      33,
+      33,
+      47,
+      57,
+      63,
+      71,
+      75,
+      76,
+      77,
+      78,
+      78,
+      83,
+      83,
+      83,
+      93,
+      93,
+      93,
+      97,
+      106,
+      122,
+      122,
+      122,
+      122,
+      122,
+      122,
+      195,
+      167,
+      170,
+      170,
+      173,
+      193,
+      211,
+      222,
+      239,
+      239,
+      239,
+      246,
+      257,
+      304,
+      6,
+      8,
+      10,
+      10,
+      12,
+      18,
+      18,
+      22,
+      22,
+      22,
+      51,
+      51,
+      85,
+      85,
+      85,
+      98,
+      98,
+      109,
+      169,
+      169,
+      175,
+      176
+    ],
+    "Abu Dawud": [
+      5,
+      38,
+      240,
+      63,
+      157,
+      159,
+      239,
+      240,
+      239,
+      240,
+      239,
+      239,
+      240
+    ],
+    "Bukhari": [
+      40,
+      48,
+      51,
+      51,
+      51,
+      57,
+      64,
+      70,
+      70,
+      106,
+      129,
+      157,
+      159,
+      159,
+      159,
+      165,
+      165,
+      173,
+      179,
+      209,
+      230,
+      245,
+      7,
+      9,
+      9,
+      9,
+      24,
+      30,
+      57,
+      63,
+      83,
+      83,
+      83,
+      122,
+      122,
+      122,
+      195,
+      170,
+      173,
+      197,
+      198,
+      197,
+      197,
+      198,
+      211,
+      6,
+      10,
+      12,
+      18,
+      22,
+      22,
+      22,
+      109,
+      169,
+      175
+    ],
+    "Ibn Majah": [
+      17,
+      63,
+      239
+    ]
+  },
+  "document_structure": [
+    {
+      "page": 75,
+      "section_type": "heading_minor",
+      "heading": "Islamic Morals",
+      "timestamp": "2025-06-12T14:27:42.010602"
+    },
+    {
+      "page": 76,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Islamic Morals",
+      "timestamp": "2025-06-12T14:27:42.010699"
+    },
+    {
+      "page": 77,
+      "section_type": "heading_minor",
+      "heading": "Commentary on Al-Fatihah and Worship",
+      "timestamp": "2025-06-12T14:29:06.696254"
+    },
+    {
+      "page": 81,
+      "section_type": "heading_minor",
+      "heading": "Quranic Verses on Believers' Characteristics",
+      "timestamp": "2025-06-12T14:30:22.883110"
+    },
+    {
+      "page": 82,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Believers' Characteristics",
+      "timestamp": "2025-06-12T14:30:22.883223"
+    },
+    {
+      "page": 83,
+      "section_type": "heading_minor",
+      "heading": "Moral Guidance and Victory",
+      "timestamp": "2025-06-12T14:30:22.883273"
+    },
+    {
+      "page": 81,
+      "section_type": "heading_minor",
+      "heading": "Quranic Verses on Believers' Characteristics",
+      "timestamp": "2025-06-12T14:31:42.756927"
+    },
+    {
+      "page": 82,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Commentary on Believers' Characteristics",
+      "timestamp": "2025-06-12T14:31:42.757037"
+    },
+    {
+      "page": 83,
+      "section_type": "heading_minor",
+      "heading": "Further Quranic Verses and Commentary",
+      "timestamp": "2025-06-12T14:31:42.757153"
+    },
+    {
+      "page": 84,
+      "section_type": "heading_minor",
+      "heading": "Final Commentary and Advice",
+      "timestamp": "2025-06-12T14:31:42.757291"
+    },
+    {
+      "page": 85,
+      "section_type": "heading_minor",
+      "heading": "Questions on the lecture entitled: Islamic Manners",
+      "timestamp": "2025-06-12T14:33:17.074927"
+    },
+    {
+      "page": 86,
+      "section_type": "heading_minor",
+      "heading": "The ruling on joining religious parties",
+      "timestamp": "2025-06-12T14:33:17.075112"
+    },
+    {
+      "page": 85,
+      "section_type": "heading_minor",
+      "heading": "Questions on the lecture entitled: Islamic Manners",
+      "timestamp": "2025-06-12T14:34:50.688264"
+    },
+    {
+      "page": 86,
+      "section_type": "heading_minor",
+      "heading": "The ruling on joining religious parties",
+      "timestamp": "2025-06-12T14:34:50.688379"
+    },
+    {
+      "page": 85,
+      "section_type": "heading_minor",
+      "heading": "Questions on the lecture entitled: Islamic Manners",
+      "timestamp": "2025-06-12T14:36:26.839495"
+    },
+    {
+      "page": 86,
+      "section_type": "heading_minor",
+      "heading": "The ruling on joining religious parties",
+      "timestamp": "2025-06-12T14:36:26.839579"
+    },
+    {
+      "page": 89,
+      "section_type": "heading_question",
+      "heading": "Fourth question:",
+      "timestamp": "2025-06-12T14:37:44.977452"
+    },
+    {
+      "page": 89,
+      "section_type": "heading_question",
+      "heading": "Fourth question:",
+      "timestamp": "2025-06-12T14:39:06.596675"
+    },
+    {
+      "page": 89,
+      "section_type": "heading_question",
+      "heading": "Fourth question:",
+      "timestamp": "2025-06-12T14:40:20.436700"
+    },
+    {
+      "page": 93,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T14:41:39.284263"
+    },
+    {
+      "page": 93,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T14:42:58.341133"
+    },
+    {
+      "page": 93,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T14:44:21.084704"
+    },
+    {
+      "page": 97,
+      "section_type": "heading_major",
+      "heading": "The morals of the believing men and women",
+      "timestamp": "2025-06-12T14:45:34.815752"
+    },
+    {
+      "page": 100,
+      "section_type": "heading_major",
+      "heading": "Islamic Ethics",
+      "timestamp": "2025-06-12T14:45:34.815986"
+    },
+    {
+      "page": 101,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa on Islamic ethics",
+      "timestamp": "2025-06-12T14:47:07.705044"
+    },
+    {
+      "page": 102,
+      "section_type": "heading_major",
+      "heading": "The virtue of knowledge and the honor of scholars",
+      "timestamp": "2025-06-12T14:47:07.705166"
+    },
+    {
+      "page": 103,
+      "section_type": "heading_minor",
+      "heading": "Continuation of virtue of knowledge discussion",
+      "timestamp": "2025-06-12T14:47:07.705287"
+    },
+    {
+      "page": 104,
+      "section_type": "heading_minor",
+      "heading": "Guidance for judges and scholars",
+      "timestamp": "2025-06-12T14:47:07.705360"
+    },
+    {
+      "page": 105,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Previous Section",
+      "timestamp": "2025-06-12T14:50:21.957219"
+    },
+    {
+      "page": 106,
+      "section_type": "heading_major",
+      "heading": "Responsibilities of the Seekers of Knowledge",
+      "timestamp": "2025-06-12T14:50:21.957364"
+    },
+    {
+      "page": 107,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Responsibilities Discussion",
+      "timestamp": "2025-06-12T14:50:21.957581"
+    },
+    {
+      "page": 108,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Da'wah Obligations",
+      "timestamp": "2025-06-12T14:50:21.957800"
+    },
+    {
+      "page": 109,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Scholar's Duties",
+      "timestamp": "2025-06-12T14:51:29.953671"
+    },
+    {
+      "page": 111,
+      "section_type": "heading_minor",
+      "heading": "Questions",
+      "timestamp": "2025-06-12T14:51:29.953914"
+    },
+    {
+      "page": 112,
+      "section_type": "heading_question",
+      "heading": "Second question:",
+      "timestamp": "2025-06-12T14:51:29.953951"
+    },
+    {
+      "page": 113,
+      "section_type": "heading_question",
+      "heading": "Q 3:",
+      "timestamp": "2025-06-12T14:52:50.443003"
+    },
+    {
+      "page": 113,
+      "section_type": "heading_question",
+      "heading": "Q 3:",
+      "timestamp": "2025-06-12T14:54:10.007439"
+    },
+    {
+      "page": 113,
+      "section_type": "heading_question",
+      "heading": "Q 3:",
+      "timestamp": "2025-06-12T14:55:28.256359"
+    },
+    {
+      "page": 117,
+      "section_type": "heading_question",
+      "heading": "Q 6:",
+      "timestamp": "2025-06-12T14:56:24.773463"
+    },
+    {
+      "page": 119,
+      "section_type": "heading_question",
+      "heading": "The seventh question:",
+      "timestamp": "2025-06-12T14:56:24.773597"
+    },
+    {
+      "page": 120,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T14:56:24.773635"
+    },
+    {
+      "page": 117,
+      "section_type": "heading_question",
+      "heading": "Q 6:",
+      "timestamp": "2025-06-12T14:57:07.065978"
+    },
+    {
+      "page": 119,
+      "section_type": "heading_question",
+      "heading": "The seventh question:",
+      "timestamp": "2025-06-12T14:57:07.066111"
+    },
+    {
+      "page": 120,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T14:57:07.066134"
+    },
+    {
+      "page": 117,
+      "section_type": "heading_question",
+      "heading": "Q 6:",
+      "timestamp": "2025-06-12T14:57:51.304679"
+    },
+    {
+      "page": 119,
+      "section_type": "heading_question",
+      "heading": "The seventh question:",
+      "timestamp": "2025-06-12T14:57:51.304784"
+    },
+    {
+      "page": 120,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T14:57:51.304805"
+    },
+    {
+      "page": 121,
+      "section_type": "heading_question",
+      "heading": "Q 9:",
+      "timestamp": "2025-06-12T14:58:49.878780"
+    },
+    {
+      "page": 121,
+      "section_type": "heading_question",
+      "heading": "Q 9:",
+      "timestamp": "2025-06-12T15:00:05.455902"
+    },
+    {
+      "page": 121,
+      "section_type": "heading_question",
+      "heading": "Q 9:",
+      "timestamp": "2025-06-12T15:01:26.453436"
+    },
+    {
+      "page": 252,
+      "section_type": "heading_minor",
+      "heading": "General advice for the Muslims of Pakistan and others",
+      "timestamp": "2025-06-12T15:02:06.390839"
+    },
+    {
+      "page": 255,
+      "section_type": "heading_minor",
+      "heading": "The religious duty on Muslims to cooperate and unite against their enemies",
+      "timestamp": "2025-06-12T15:02:06.390926"
+    },
+    {
+      "page": 129,
+      "section_type": "heading_minor",
+      "heading": "the Departments of Scholarly Research, Ifta', Daw`ah, and Guidance",
+      "timestamp": "2025-06-12T15:03:39.167628"
+    },
+    {
+      "page": 130,
+      "section_type": "heading_major",
+      "heading": "The wisdom of Da`y and the morals of those who receive Da`wah",
+      "timestamp": "2025-06-12T15:03:39.167666"
+    },
+    {
+      "page": 133,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Religious Obligations Discussion",
+      "timestamp": "2025-06-12T15:05:52.701977"
+    },
+    {
+      "page": 137,
+      "section_type": "heading_minor",
+      "heading": "Answers to some questions posed after lecture",
+      "timestamp": "2025-06-12T15:09:01.732246"
+    },
+    {
+      "page": 137,
+      "section_type": "heading_question",
+      "heading": "Q 1:",
+      "timestamp": "2025-06-12T15:09:01.732281"
+    },
+    {
+      "page": 137,
+      "section_type": "heading_minor",
+      "heading": "Answers to some questions posed after lecture",
+      "timestamp": "2025-06-12T15:12:09.400854"
+    },
+    {
+      "page": 137,
+      "section_type": "heading_question",
+      "heading": "Q 1:",
+      "timestamp": "2025-06-12T15:12:09.400886"
+    },
+    {
+      "page": 137,
+      "section_type": "navigation",
+      "heading": "( Part No : 7, Page No: 282)",
+      "timestamp": "2025-06-12T15:15:25.488209"
+    },
+    {
+      "page": 137,
+      "section_type": "heading_question",
+      "heading": "Q 1:",
+      "timestamp": "2025-06-12T15:15:25.488241"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa ruling",
+      "timestamp": "2025-06-12T15:17:55.190952"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T15:17:55.191003"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa ruling",
+      "timestamp": "2025-06-12T15:20:23.976973"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T15:20:23.977023"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa ruling",
+      "timestamp": "2025-06-12T15:22:54.399031"
+    },
+    {
+      "page": 141,
+      "section_type": "heading_question",
+      "heading": "Q 8:",
+      "timestamp": "2025-06-12T15:22:54.399100"
+    },
+    {
+      "page": 145,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Da'wah guidance",
+      "timestamp": "2025-06-12T15:26:09.676311"
+    },
+    {
+      "page": 145,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Da'wah guidance",
+      "timestamp": "2025-06-12T15:27:35.089395"
+    },
+    {
+      "page": 145,
+      "section_type": "heading_minor",
+      "heading": "Continuation of Da'wah guidance",
+      "timestamp": "2025-06-12T15:28:59.146990"
+    },
+    {
+      "page": 149,
+      "section_type": "heading_minor",
+      "heading": "commenting on criticism among Du`ah",
+      "timestamp": "2025-06-12T15:31:05.406151"
+    },
+    {
+      "page": 150,
+      "section_type": "heading_question",
+      "heading": "First question:",
+      "timestamp": "2025-06-12T15:31:05.406359"
+    },
+    {
+      "page": 149,
+      "section_type": "heading_minor",
+      "heading": "commenting on criticism among Du`ah",
+      "timestamp": "2025-06-12T15:33:30.098445"
+    },
+    {
+      "page": 150,
+      "section_type": "heading_question",
+      "heading": "First question:",
+      "timestamp": "2025-06-12T15:33:30.098718"
+    },
+    {
+      "page": 149,
+      "section_type": "heading_minor",
+      "heading": "commenting on criticism among Du`ah",
+      "timestamp": "2025-06-12T15:35:54.381186"
+    },
+    {
+      "page": 150,
+      "section_type": "heading_question",
+      "heading": "First question:",
+      "timestamp": "2025-06-12T15:35:54.381462"
+    },
+    {
+      "page": 153,
+      "section_type": "heading_minor",
+      "heading": "Questions and Answers on the invitation to Allah",
+      "timestamp": "2025-06-12T15:37:23.264726"
+    },
+    {
+      "page": 154,
+      "section_type": "heading_minor",
+      "heading": "The Culture of a Muslim caller",
+      "timestamp": "2025-06-12T15:37:23.264811"
+    },
+    {
+      "page": 153,
+      "section_type": "heading_minor",
+      "heading": "Questions and Answers on the invitation to Allah",
+      "timestamp": "2025-06-12T15:38:51.840937"
+    },
+    {
+      "page": 154,
+      "section_type": "heading_minor",
+      "heading": "The Culture of a Muslim caller",
+      "timestamp": "2025-06-12T15:38:51.840999"
+    },
+    {
+      "page": 153,
+      "section_type": "heading_minor",
+      "heading": "Questions and Answers on the invitation to Allah",
+      "timestamp": "2025-06-12T15:40:23.900456"
+    },
+    {
+      "page": 154,
+      "section_type": "heading_minor",
+      "heading": "The Culture of a Muslim caller",
+      "timestamp": "2025-06-12T15:40:23.900510"
+    },
+    {
+      "page": 157,
+      "section_type": "heading_minor",
+      "heading": "The manner of calling those who are influenced by a certain culture",
+      "timestamp": "2025-06-12T15:42:34.774848"
+    },
+    {
+      "page": 157,
+      "section_type": "heading_minor",
+      "heading": "The manner of calling those who are influenced by a certain culture",
+      "timestamp": "2025-06-12T15:44:48.515267"
+    },
+    {
+      "page": 157,
+      "section_type": "heading_minor",
+      "heading": "The manner of calling those who are influenced by a certain culture",
+      "timestamp": "2025-06-12T15:46:59.092472"
+    },
+    {
+      "page": 161,
+      "section_type": "heading_minor",
+      "heading": "The ruling on saying: \"By your Zhimma i.e. pledge, Salah\" or \"I am embarrassed if I do such and such.''",
+      "timestamp": "2025-06-12T15:48:13.117793"
+    },
+    {
+      "page": 161,
+      "section_type": "heading_minor",
+      "heading": "The ruling on saying: \"By your Zhimma i.e. pledge, Salah\" or \"I am embarrassed if I do such and such.''",
+      "timestamp": "2025-06-12T15:49:26.951433"
+    },
+    {
+      "page": 161,
+      "section_type": "heading_minor",
+      "heading": "The ruling on saying: \"By your Zhimma i.e. pledge, Salah\" or \"I am embarrassed if I do such and such.''",
+      "timestamp": "2025-06-12T15:50:39.861662"
+    },
+    {
+      "page": 165,
+      "section_type": "heading_minor",
+      "heading": "Jihad is a collective obligation",
+      "timestamp": "2025-06-12T15:51:54.820317"
+    },
+    {
+      "page": 165,
+      "section_type": "heading_minor",
+      "heading": "Jihad is a collective obligation",
+      "timestamp": "2025-06-12T15:53:11.549852"
+    },
+    {
+      "page": 165,
+      "section_type": "heading_minor",
+      "heading": "Jihad is a collective obligation",
+      "timestamp": "2025-06-12T15:54:29.034673"
+    },
+    {
+      "page": 169,
+      "section_type": "heading_minor",
+      "heading": "Continuation of previous fatwa",
+      "timestamp": "2025-06-12T15:55:37.444831"
+    },
+    {
+      "page": 170,
+      "section_type": "heading_minor",
+      "heading": "An appeal to the Afghan Mujahid leaders",
+      "timestamp": "2025-06-12T15:55:37.445006"
+    },
+    {
+      "page": 171,
+      "section_type": "heading_minor",
+      "heading": "A special message to the Afghan Mujahids",
+      "timestamp": "2025-06-12T15:55:37.445077"
+    },
+    {
+      "page": 172,
+      "section_type": "heading_minor",
+      "heading": "The attack on the Babri Masjid in India and demolishing it is a serious crime",
+      "timestamp": "2025-06-12T15:55:37.445143"
+    },
+    {
+      "page": 173,
+      "section_type": "heading_minor",
+      "heading": "Obligation of care for all Muslims; individuals and groups",
+      "timestamp": "2025-06-12T15:58:22.515747"
+    },
+    {
+      "page": 174,
+      "section_type": "heading_minor",
+      "heading": "Continued advice on charity organization",
+      "timestamp": "2025-06-12T15:58:22.516044"
+    },
+    {
+      "page": 175,
+      "section_type": "heading_minor",
+      "heading": "General appeal to Muslim governments and peoples for helping Muslims in Bosnia and Herzegovina",
+      "timestamp": "2025-06-12T15:58:22.516167"
+    },
+    {
+      "page": 176,
+      "section_type": "heading_minor",
+      "heading": "Elaborating of the Hadiths on the Trials of the End of Time",
+      "timestamp": "2025-06-12T15:58:22.516363"
+    },
+    {
+      "page": 177,
+      "section_type": "heading_minor",
+      "heading": "Conference Documentation and Closing",
+      "timestamp": "2025-06-12T16:00:49.361375"
+    }
+  ],
+  "saved_at": "2025-06-12T16:01:20.286898"
+}

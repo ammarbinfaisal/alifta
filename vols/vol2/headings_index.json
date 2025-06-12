@@ -1,6 +1,6 @@
 {
-  "total_headings": 125,
-  "total_sections": 125,
+  "total_headings": 98,
+  "total_sections": 98,
   "headings": [
     {
       "section_id": 0,
@@ -39,591 +39,456 @@
     },
     {
       "section_id": 7,
-      "text": "Shirk Discussion Continuation",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 8,
       "text": "Types of Tawhid Revealed to Allah's Messengers (peace be upon them)",
       "type": "heading_major"
     },
     {
-      "section_id": 9,
+      "section_id": 8,
       "text": "The Tawhid preached by the Prophets versus Kufr and Shirk",
       "type": "heading_major"
     },
     {
-      "section_id": 10,
+      "section_id": 9,
       "text": "Tawhid and the Meaning of La ilaha illa Allah",
       "type": "heading_minor"
     },
     {
-      "section_id": 11,
+      "section_id": 10,
       "text": "( Part No : 2, Page No: 49)",
       "type": "navigation"
     },
     {
-      "section_id": 12,
+      "section_id": 11,
       "text": "Analysis of Quranic Verses on Worship and Idolatry",
       "type": "heading_minor"
     },
     {
-      "section_id": 13,
+      "section_id": 12,
       "text": "Divine Attributes and Messengers' Da'wah",
       "type": "heading_minor"
     },
     {
-      "section_id": 14,
+      "section_id": 13,
       "text": "Divine Attributes and Messengers' Teachings",
       "type": "heading_minor"
     },
     {
-      "section_id": 15,
+      "section_id": 14,
       "text": "( Part No : 2, Page No: 48)",
       "type": "navigation"
     },
     {
-      "section_id": 16,
+      "section_id": 15,
       "text": "( Part No : 2, Page No: 47)",
       "type": "navigation"
     },
     {
-      "section_id": 17,
+      "section_id": 16,
       "text": "Theological Discussion on Allah's Attributes and Tawhid",
       "type": "heading_minor"
     },
     {
-      "section_id": 18,
-      "text": "Continuation of Previous Section",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 19,
+      "section_id": 17,
       "text": "Commentary on Al­`Aqidah Al­Tahawiyyah",
       "type": "heading_major"
     },
     {
-      "section_id": 20,
-      "text": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 21,
-      "text": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 22,
+      "section_id": 18,
       "text": "Final Section of Al-Aqidah Al-Tahawiyyah Commentary",
       "type": "heading_minor"
     },
     {
-      "section_id": 23,
-      "text": "Continuation of Al-'Aqidah Al-Tahawiyyah",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 24,
+      "section_id": 19,
       "text": "The meaning of \"Al-Ma`iyyah\" and standing up in honor of another",
       "type": "heading_minor"
     },
     {
-      "section_id": 25,
-      "text": "Continuation of Standing Up Ruling",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 26,
+      "section_id": 20,
       "text": "The Sunni Creed in respect of the Divine Attribute of Istiwa' (Allah's rising over the Throne in a manner that befits Him)",
       "type": "heading_minor"
     },
     {
-      "section_id": 27,
+      "section_id": 21,
       "text": "Conclusion on Divine Attributes",
       "type": "heading_minor"
     },
     {
-      "section_id": 28,
+      "section_id": 22,
       "text": "A Commentary and Explanation of an Article by Dr. Muhiy Al-Din Al-Safy entitled \"In Order to be the Most Powerful Ummah\" about Allah's Attributes",
       "type": "heading_major"
     },
     {
-      "section_id": 29,
+      "section_id": 23,
       "text": "Response to a question regarding Allah (may he be Exalted) Being Up and Above",
       "type": "heading_major"
     },
     {
-      "section_id": 30,
+      "section_id": 24,
       "text": "Ruling on seeking help from other than Allah",
       "type": "heading_minor"
     },
     {
-      "section_id": 31,
+      "section_id": 25,
       "text": "Focusing on some matters related to swearing by other than Allah",
       "type": "heading_minor"
     },
     {
-      "section_id": 32,
+      "section_id": 26,
       "text": "The prohibition of taking oaths by anyone other than Allah",
       "type": "heading_minor"
     },
     {
-      "section_id": 33,
+      "section_id": 27,
       "text": "Ruling on visiting, consulting, and believing soothsayers and the like",
       "type": "heading_minor"
     },
     {
-      "section_id": 34,
+      "section_id": 28,
       "text": "A Legal Elaboration on Believing in Horoscopes",
       "type": "heading_minor"
     },
     {
-      "section_id": 35,
+      "section_id": 29,
       "text": "Necessity of approaching Allah with Tawbah and supplication in adversity",
       "type": "heading_minor"
     },
     {
-      "section_id": 36,
-      "text": "Continuation of previous section",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 37,
+      "section_id": 30,
       "text": "Sanctity of the Noble Qur'an",
       "type": "heading_minor"
     },
     {
-      "section_id": 38,
+      "section_id": 31,
       "text": "False Belief That Some Ayahs (Qur'anic verses) bring good and prevent harm",
       "type": "heading_minor"
     },
     {
-      "section_id": 39,
+      "section_id": 32,
       "text": "General Advice",
       "type": "heading_minor"
     },
     {
-      "section_id": 40,
-      "text": "Continuation of previous section",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 41,
-      "text": "Continuation of warning about judgment",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 42,
+      "section_id": 33,
       "text": "An Advice to All Muslims",
       "type": "heading_major"
     },
     {
-      "section_id": 43,
-      "text": "Continuation of advice about Taqwa",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 44,
+      "section_id": 34,
       "text": "Five Essential Matters",
       "type": "heading_minor"
     },
     {
-      "section_id": 45,
-      "text": "Continuation of Previous Section",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 46,
+      "section_id": 35,
       "text": "Advice and Guiding Outline",
       "type": "heading_minor"
     },
     {
-      "section_id": 47,
-      "text": "Continuation of Advice and Guiding Outline",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 48,
-      "text": "Continuation - Importance of Quran and Sunnah",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 49,
-      "text": "Continuation - Believers vs Disbelievers",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 50,
+      "section_id": 36,
       "text": "general advice to the leaders of Islamic countries and all Muslims",
       "type": "heading_minor"
     },
     {
-      "section_id": 51,
-      "text": "Continuation of previous fatwa discussion",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 52,
+      "section_id": 37,
       "text": "Speech to the Summit of the Islamic Summit Conference",
       "type": "heading_major"
     },
     {
-      "section_id": 53,
+      "section_id": 38,
       "text": "There is no Brotherhood between Muslims and Disbelievers and the Only True Religion is Islam",
       "type": "heading_major"
     },
     {
-      "section_id": 54,
-      "text": "Continuation of Previous Section",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 55,
+      "section_id": 39,
       "text": "Opposing the Enemies among the Jews, Mushriks, and other Non­Muslims",
       "type": "heading_major"
     },
     {
-      "section_id": 56,
+      "section_id": 40,
       "text": "Conclusion of Previous Section",
       "type": "heading_minor"
     },
     {
-      "section_id": 57,
+      "section_id": 41,
       "text": "Islamic Solidarity",
       "type": "heading_major"
     },
     {
-      "section_id": 58,
-      "text": "Continuation of Islamic Solidarity Discussion",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 59,
-      "text": "Continuation of Previous Section",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 60,
+      "section_id": 42,
       "text": "Islam and Its Merits",
       "type": "heading_major"
     },
     {
-      "section_id": 61,
-      "text": "Continuation of Islam and Its Merits",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 62,
+      "section_id": 43,
       "text": "Islam conclusion",
       "type": "heading_minor"
     },
     {
-      "section_id": 63,
+      "section_id": 44,
       "text": "Shari`ah: Merits and Man's Need for It",
       "type": "heading_major"
     },
     {
-      "section_id": 64,
-      "text": "Continuation of Shari'ah discussion",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 65,
+      "section_id": 45,
       "text": "Islamic Law and Divine Guidance",
       "type": "heading_minor"
     },
     {
-      "section_id": 66,
-      "text": "Continuation of Islamic Shari'ah Discussion",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 67,
+      "section_id": 46,
       "text": "true Adherence to Islam is The Cause of Victory and Salvation in The Hereafter",
       "type": "heading_major"
     },
     {
-      "section_id": 68,
+      "section_id": 47,
       "text": "First: Not worshipping other than Allah Alone, and this is the meaning of the Shahadah (Testimony of Faith): \"La ilaha illa Allah\".",
       "type": "heading_minor"
     },
     {
-      "section_id": 69,
+      "section_id": 48,
       "text": "Second: Not worshipping Allah, except according to the Shari'ah of His Prophet Muhammad (peace be upon him).",
       "type": "heading_minor"
     },
     {
-      "section_id": 70,
+      "section_id": 49,
       "text": "In the Shade of Shari`ah Security and Life are Guaranteed",
       "type": "heading_major"
     },
     {
-      "section_id": 71,
+      "section_id": 50,
       "text": "Security and Guidance Through Islamic Law",
       "type": "heading_minor"
     },
     {
-      "section_id": 72,
+      "section_id": 51,
       "text": "Islam as the true religion above all others",
       "type": "heading_major"
     },
     {
-      "section_id": 73,
+      "section_id": 52,
       "text": "Piety is the reason behind every good",
       "type": "heading_major"
     },
     {
-      "section_id": 74,
-      "text": "Continuation of Taqwa Discussion",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 75,
+      "section_id": 53,
       "text": "Definition and Essence of Islam",
       "type": "heading_minor"
     },
     {
-      "section_id": 76,
+      "section_id": 54,
       "text": "Religion as Guidance and Gratitude",
       "type": "heading_minor"
     },
     {
-      "section_id": 77,
+      "section_id": 55,
       "text": "Conclusion and Supplication",
       "type": "heading_minor"
     },
     {
-      "section_id": 78,
+      "section_id": 56,
       "text": "The knowledge of the Religious Rulings is the Most Important Obligation",
       "type": "heading_major"
     },
     {
-      "section_id": 79,
+      "section_id": 57,
       "text": "Importance of Religious Knowledge",
       "type": "heading_minor"
     },
     {
-      "section_id": 80,
+      "section_id": 58,
       "text": "Knowledge and Morals of Scholars",
       "type": "heading_major"
     },
     {
-      "section_id": 81,
+      "section_id": 59,
       "text": "In Pursuit of Knowledge",
       "type": "heading_major"
     },
     {
-      "section_id": 82,
+      "section_id": 60,
       "text": "A Piece of Advice to Seekers of Knowledge",
       "type": "heading_major"
     },
     {
-      "section_id": 83,
+      "section_id": 61,
       "text": "Ruling on learning and teaching positive law",
       "type": "heading_major"
     },
     {
-      "section_id": 84,
-      "text": "Continuation of Fatwa on Prayer Behind Different Categories of Imams",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 85,
+      "section_id": 62,
       "text": "A speech delivered at the first Conference for Da`wah and Du`ah held in Madinah in 1397 A.H.",
       "type": "heading_major"
     },
     {
-      "section_id": 86,
+      "section_id": 63,
       "text": "Da`wah to Allah",
       "type": "heading_major"
     },
     {
-      "section_id": 87,
+      "section_id": 64,
       "text": "The Impact of Da`wah on the Society",
       "type": "heading_major"
     },
     {
-      "section_id": 88,
+      "section_id": 65,
       "text": "Dear Muslim brother who seeks the truth, reflect upon the Qur'an and the Sunnah of your Prophet (peace be upon him) and learn the Islamic upright teachings,",
       "type": "paragraph"
     },
     {
-      "section_id": 89,
+      "section_id": 66,
       "text": "This is NOT the Proper way to Reform, O Hamad!",
       "type": "heading_major"
     },
     {
-      "section_id": 90,
-      "text": "Continuation of previous fatwa discussion",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 91,
+      "section_id": 67,
       "text": "Da`wah to Allah is truly different from that, O Salih!",
       "type": "heading_minor"
     },
     {
-      "section_id": 92,
+      "section_id": 68,
       "text": "Ruling on Mawlid celebration",
       "type": "heading_minor"
     },
     {
-      "section_id": 93,
-      "text": "Continuation of Mawlid discussion and death banquets",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 94,
+      "section_id": 69,
       "text": "Death banquets ruling",
       "type": "heading_minor"
     },
     {
-      "section_id": 95,
+      "section_id": 70,
       "text": "Islamic Youth Movements and Their Role",
       "type": "heading_minor"
     },
     {
-      "section_id": 96,
+      "section_id": 71,
       "text": "Role of Youth in Islamic Movements",
       "type": "heading_minor"
     },
     {
-      "section_id": 97,
+      "section_id": 72,
       "text": "muslim minorities: Their conditions and hopes",
       "type": "heading_major"
     },
     {
-      "section_id": 98,
+      "section_id": 73,
       "text": "Global Da'wah Activities",
       "type": "heading_minor"
     },
     {
-      "section_id": 99,
+      "section_id": 74,
       "text": "Financial and Educational Support for Muslim Minorities",
       "type": "heading_minor"
     },
     {
-      "section_id": 100,
+      "section_id": 75,
       "text": "Muslim Minorities and Political Support",
       "type": "heading_minor"
     },
     {
-      "section_id": 101,
+      "section_id": 76,
       "text": "Obligations of Muslims and Divine Victory",
       "type": "heading_minor"
     },
     {
-      "section_id": 102,
+      "section_id": 77,
       "text": "Hadith on Guidance and Da'wah",
       "type": "heading_minor"
     },
     {
-      "section_id": 103,
+      "section_id": 78,
       "text": "Clarification on worship and Jahiliyyah matters",
       "type": "heading_minor"
     },
     {
-      "section_id": 104,
+      "section_id": 79,
       "text": "Islamic Movements and the Role of Youth",
       "type": "heading_major"
     },
     {
-      "section_id": 105,
-      "text": "Continuation of previous section",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 106,
+      "section_id": 80,
       "text": "A Reply to the Claims of BBC",
       "type": "heading_major"
     },
     {
-      "section_id": 107,
+      "section_id": 81,
       "text": "Status of the Messenger and his knowing the Ghayb",
       "type": "heading_major"
     },
     {
-      "section_id": 108,
+      "section_id": 82,
       "text": "Answers to different questions on the amulets containing Qur'anic Ayahs and other things related to the Messenger of Allah (peace be upon him)",
       "type": "heading_major"
     },
     {
-      "section_id": 109,
+      "section_id": 83,
       "text": "Q 4 : Is it tantamount to Shirk if a person in any part of the world calls upon the Prophet (peace be upon him) saying: \"O Muhammad, the Messenger of Allah\"?",
       "type": "heading_question"
     },
     {
-      "section_id": 110,
+      "section_id": 84,
       "text": "Q 5 : If a man comes to the Prophet's tomb and invokes Allah's Peace and Blessings upon the Prophet (peace be upon him); does the Prophet hear or see him? Does believing in that entail any act of Shirk or not?",
       "type": "heading_question"
     },
     {
-      "section_id": 111,
+      "section_id": 85,
       "text": "The Permissibility of invoking peace and blessings on the Prophet (May peace and blessings be upon him) in a complete form and the undesirability of referring to it with a letter or more",
       "type": "heading_minor"
     },
     {
-      "section_id": 112,
+      "section_id": 86,
       "text": "A warning against Rashad Khalifa's rejection of the purified Sunnah",
       "type": "heading_major"
     },
     {
-      "section_id": 113,
+      "section_id": 87,
       "text": "An important warning against the extreme estimation of the Prophet (peace be upon him) and the Al­Haramayn Al­ Sharifayn (the Two Sacred Mosques: the Sacred Mosque in Makkah and the Prophet's Mosque in Madinah)",
       "type": "heading_major"
     },
     {
-      "section_id": 114,
+      "section_id": 88,
       "text": "An Important Warning Against A Poem Entitled \"The Visit\"",
       "type": "heading_major"
     },
     {
-      "section_id": 115,
+      "section_id": 89,
       "text": "A Call from the Islamic University in Al-Madinah Al-Munawwarah to All Muslims, Arab and non-Arab, everywhere",
       "type": "heading_major"
     },
     {
-      "section_id": 116,
-      "text": "Continuation of previous section on victory and Ma'iyyah",
-      "type": "heading_minor"
-    },
-    {
-      "section_id": 117,
+      "section_id": 90,
       "text": "The merit of Jihad (fighting/striving in the Cause of Allah) and Mujahids (those striving/fighting in the Cause of Allah)",
       "type": "heading_major"
     },
     {
-      "section_id": 118,
+      "section_id": 91,
       "text": "Hadith on Jihad and Merit of Mujahids",
       "type": "heading_minor"
     },
     {
-      "section_id": 119,
+      "section_id": 92,
       "text": "the purpose of Jihad",
       "type": "heading_minor"
     },
     {
-      "section_id": 120,
+      "section_id": 93,
       "text": "Jihad in Islam passed through three phases:",
       "type": "heading_minor"
     },
     {
-      "section_id": 121,
+      "section_id": 94,
       "text": "Obligation of preparing against enemies",
       "type": "heading_minor"
     },
     {
-      "section_id": 122,
+      "section_id": 95,
       "text": "Merit of Ribat and guarding in the Cause of Allah",
       "type": "heading_major"
     },
     {
-      "section_id": 123,
+      "section_id": 96,
       "text": "An interview by the Pakistani magazine: \"Takbir\"",
       "type": "heading_major"
     },
     {
-      "section_id": 124,
+      "section_id": 97,
       "text": "The fifth question: What are the successfully effective methods for practicing Da'wah (Call to believe in and worship Allah) in the present time?",
       "type": "heading_question"
     }
@@ -1592,28 +1457,7 @@
           "confidence": 0.98,
           "notes": "retry_processing",
           "retry_attempt": true
-        }
-      ],
-      "content_count": 19,
-      "content_types": [
-        "paragraph",
-        "fatwa_ruling",
-        "navigation",
-        "quran_verse",
-        "hadith"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 7,
-      "original_section_index": 7,
-      "heading": {
-        "text": "Shirk Discussion Continuation",
-        "type": "heading_minor",
-        "page_number": 10,
-        "confidence": 0.85
-      },
-      "content_items": [
+        },
         {
           "text": "Allah he commits Shirk. There are other authentic Hadiths in this regard, such as, The most dreadful thing I fear for my Ummah is the minor Shirk. When he was asked about it, he (peace be upon him) said: Riya' (showing off).",
           "content_type": "hadith",
@@ -1663,18 +1507,20 @@
           "retry_attempt": true
         }
       ],
-      "content_count": 6,
+      "content_count": 25,
       "content_types": [
-        "hadith",
-        "fatwa_ruling",
         "paragraph",
+        "fatwa_ruling",
+        "navigation",
+        "quran_verse",
+        "hadith",
         "signature"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 8,
-      "original_section_index": 8,
+      "section_id": 7,
+      "original_section_index": 7,
       "heading": {
         "text": "Types of Tawhid Revealed to Allah's Messengers (peace be upon them)",
         "type": "heading_major",
@@ -1796,8 +1642,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 9,
-      "original_section_index": 9,
+      "section_id": 8,
+      "original_section_index": 8,
       "heading": {
         "text": "The Tawhid preached by the Prophets versus Kufr and Shirk",
         "type": "heading_major",
@@ -1878,8 +1724,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 10,
-      "original_section_index": 10,
+      "section_id": 9,
+      "original_section_index": 9,
       "heading": {
         "text": "Tawhid and the Meaning of La ilaha illa Allah",
         "type": "heading_minor",
@@ -2106,8 +1952,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 11,
-      "original_section_index": 11,
+      "section_id": 10,
+      "original_section_index": 10,
       "heading": {
         "text": "( Part No : 2, Page No: 49)",
         "type": "navigation",
@@ -2148,8 +1994,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 12,
-      "original_section_index": 12,
+      "section_id": 11,
+      "original_section_index": 11,
       "heading": {
         "text": "Analysis of Quranic Verses on Worship and Idolatry",
         "type": "heading_minor",
@@ -2335,8 +2181,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 13,
-      "original_section_index": 13,
+      "section_id": 12,
+      "original_section_index": 12,
       "heading": {
         "text": "Divine Attributes and Messengers' Da'wah",
         "type": "heading_minor",
@@ -2466,8 +2312,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 14,
-      "original_section_index": 14,
+      "section_id": 13,
+      "original_section_index": 13,
       "heading": {
         "text": "Divine Attributes and Messengers' Teachings",
         "type": "heading_minor",
@@ -2614,8 +2460,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 15,
-      "original_section_index": 15,
+      "section_id": 14,
+      "original_section_index": 14,
       "heading": {
         "text": "( Part No : 2, Page No: 48)",
         "type": "navigation",
@@ -2680,8 +2526,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 16,
-      "original_section_index": 16,
+      "section_id": 15,
+      "original_section_index": 15,
       "heading": {
         "text": "( Part No : 2, Page No: 47)",
         "type": "navigation",
@@ -2755,8 +2601,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 17,
-      "original_section_index": 17,
+      "section_id": 16,
+      "original_section_index": 16,
       "heading": {
         "text": "Theological Discussion on Allah's Attributes and Tawhid",
         "type": "heading_minor",
@@ -3147,28 +2993,7 @@
           "confidence": 0.9,
           "notes": "Contains Quranic verse about universal glorification",
           "memory_agreement": false
-        }
-      ],
-      "content_count": 48,
-      "content_types": [
-        "paragraph",
-        "navigation",
-        "quran_verse",
-        "fatwa_ruling",
-        "hadith"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 18,
-      "original_section_index": 18,
-      "heading": {
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor",
-        "page_number": 26,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "Ever Forbearing, Oft­Forgiving. Allah (Exalted be He) says: See you not that whoever is in the heavens and whoever is on the earth, and the sun, and the moon, and the stars, and the mountains, and the trees, and Ad­Dawâbb [moving (living) creatures, beasts], and many of mankind prostrate themselves to Allah. But there are many (men) on whom the punishment is justified.",
           "content_type": "quran_verse",
@@ -3226,18 +3051,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 7,
+      "content_count": 55,
       "content_types": [
-        "quran_verse",
         "paragraph",
         "navigation",
+        "quran_verse",
+        "fatwa_ruling",
         "hadith"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 19,
-      "original_section_index": 19,
+      "section_id": 17,
+      "original_section_index": 17,
       "heading": {
         "text": "Commentary on Al­`Aqidah Al­Tahawiyyah",
         "type": "heading_major",
@@ -3356,25 +3182,7 @@
           "confidence": 0.8,
           "notes": "Incomplete sentence continuing to next page",
           "memory_agreement": false
-        }
-      ],
-      "content_count": 14,
-      "content_types": [
-        "navigation",
-        "paragraph"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 20,
-      "original_section_index": 20,
-      "heading": {
-        "text": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
-        "type": "heading_minor",
-        "page_number": 28,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "and the meaning is as what he meant. We do not interpret this",
           "content_type": "paragraph",
@@ -3494,25 +3302,7 @@
           "confidence": 0.9,
           "notes": "About Allah's foreknowledge and decree with Quranic verses",
           "memory_agreement": false
-        }
-      ],
-      "content_count": 15,
-      "content_types": [
-        "paragraph",
-        "navigation"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 21,
-      "original_section_index": 21,
-      "heading": {
-        "text": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
-        "type": "heading_minor",
-        "page_number": 29,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "Woe to the one that has become a disputant against Allah with regard to predestination, prepared a sick heart to ponder it, has sought with his delusions to investigate the hidden secrets of the unseen, and has concluded with his statements as a sinful liar.",
           "content_type": "paragraph",
@@ -3658,16 +3448,16 @@
           "memory_agreement": false
         }
       ],
-      "content_count": 18,
+      "content_count": 47,
       "content_types": [
-        "paragraph",
-        "navigation"
+        "navigation",
+        "paragraph"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 22,
-      "original_section_index": 22,
+      "section_id": 18,
+      "original_section_index": 18,
       "heading": {
         "text": "Final Section of Al-Aqidah Al-Tahawiyyah Commentary",
         "type": "heading_minor",
@@ -3802,26 +3592,7 @@
           "confidence": 0.9,
           "notes": "About the superiority of prophets over saints",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 16,
-      "content_types": [
-        "paragraph",
-        "navigation",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 23,
-      "original_section_index": 23,
-      "heading": {
-        "text": "Continuation of Al-'Aqidah Al-Tahawiyyah",
-        "type": "heading_minor",
-        "page_number": 31,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "We believe in their Karamah (an extraordinary event performed by a pious person) and in what the trustworthy narrators reported about them. We also believe in the signs of the Day of Judgment, including the appearance of Al-Masih-ul-Dajjal (the Antichrist) and the descent of 'Isa (Jesus), son of Maryam (peace be upon him), and the rising of the sun from the west and coming of the creature of the earth. We do not believe any fortuneteller, soothsayer, or the one",
           "content_type": "paragraph",
@@ -3863,17 +3634,18 @@
           "memory_agreement": false
         }
       ],
-      "content_count": 5,
+      "content_count": 21,
       "content_types": [
         "paragraph",
         "navigation",
+        "quran_verse",
         "citation"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 24,
-      "original_section_index": 24,
+      "section_id": 19,
+      "original_section_index": 19,
       "heading": {
         "text": "The meaning of \"Al-Ma`iyyah\" and standing up in honor of another",
         "type": "heading_minor",
@@ -3936,26 +3708,7 @@
           "confidence": 0.9,
           "notes": "Transition to second topic with hadith citation",
           "memory_agreement": false
-        }
-      ],
-      "content_count": 7,
-      "content_types": [
-        "navigation",
-        "signature",
-        "answer"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 25,
-      "original_section_index": 25,
-      "heading": {
-        "text": "Continuation of Standing Up Ruling",
-        "type": "heading_minor",
-        "page_number": 33,
-        "confidence": 0.7
-      },
-      "content_items": [
+        },
         {
           "text": "Therefore, a teacher should not approve of such behavior from the students, based on a Hadith related on the authority of Mu`awiyah (may Allah be pleased with him) who narrated that the Prophet (peace be upon him) stated, \"Anyone who likes people to stand up fore him should prepare himself for his abode in Hellfire.\" (Related by Ahmad, Abu Dawud and Al-Tirmidhy with a good Sanad (chain of narrators) and Al-Tirmidhy ranked it as a Hadith Hasan)It is also related by Abu Dawud with a weak Sanadon the authority of Abu Umamah (may Allah be pleased with him) who said, \"The Messenger of Allah (peace be upon him) came out to us leaning on a stick. We stood up (in respect to him) but he said: 'Do not stand up as non-Arabs do, showing respect to one another.'\" This Hadith is also related by Ahmad and Ibn Majah. All of the previous Hadith were related by Al-Hafizh Muhammad ibn Muflih in his \"Al-Adab Al-Shar`iyyah\",",
           "content_type": "hadith",
@@ -3997,18 +3750,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 5,
+      "content_count": 12,
       "content_types": [
-        "hadith",
         "navigation",
-        "fatwa_ruling",
-        "answer"
+        "signature",
+        "answer",
+        "hadith",
+        "fatwa_ruling"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 26,
-      "original_section_index": 26,
+      "section_id": 20,
+      "original_section_index": 20,
       "heading": {
         "text": "The Sunni Creed in respect of the Divine Attribute of Istiwa' (Allah's rising over the Throne in a manner that befits Him)",
         "type": "heading_minor",
@@ -4083,8 +3837,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 27,
-      "original_section_index": 27,
+      "section_id": 21,
+      "original_section_index": 21,
       "heading": {
         "text": "Conclusion on Divine Attributes",
         "type": "heading_minor",
@@ -4125,8 +3879,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 28,
-      "original_section_index": 28,
+      "section_id": 22,
+      "original_section_index": 22,
       "heading": {
         "text": "A Commentary and Explanation of an Article by Dr. Muhiy Al-Din Al-Safy entitled \"In Order to be the Most Powerful Ummah\" about Allah's Attributes",
         "type": "heading_major",
@@ -4225,8 +3979,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 29,
-      "original_section_index": 29,
+      "section_id": 23,
+      "original_section_index": 23,
       "heading": {
         "text": "Response to a question regarding Allah (may he be Exalted) Being Up and Above",
         "type": "heading_major",
@@ -4310,8 +4064,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 30,
-      "original_section_index": 30,
+      "section_id": 24,
+      "original_section_index": 24,
       "heading": {
         "text": "Ruling on seeking help from other than Allah",
         "type": "heading_minor",
@@ -4491,8 +4245,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 31,
-      "original_section_index": 31,
+      "section_id": 25,
+      "original_section_index": 25,
       "heading": {
         "text": "Focusing on some matters related to swearing by other than Allah",
         "type": "heading_minor",
@@ -4525,8 +4279,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 32,
-      "original_section_index": 32,
+      "section_id": 26,
+      "original_section_index": 26,
       "heading": {
         "text": "The prohibition of taking oaths by anyone other than Allah",
         "type": "heading_minor",
@@ -4576,8 +4330,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 33,
-      "original_section_index": 33,
+      "section_id": 27,
+      "original_section_index": 27,
       "heading": {
         "text": "Ruling on visiting, consulting, and believing soothsayers and the like",
         "type": "heading_minor",
@@ -4700,8 +4454,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 34,
-      "original_section_index": 34,
+      "section_id": 28,
+      "original_section_index": 28,
       "heading": {
         "text": "A Legal Elaboration on Believing in Horoscopes",
         "type": "heading_minor",
@@ -4750,8 +4504,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 35,
-      "original_section_index": 35,
+      "section_id": 29,
+      "original_section_index": 29,
       "heading": {
         "text": "Necessity of approaching Allah with Tawbah and supplication in adversity",
         "type": "heading_minor",
@@ -4798,26 +4552,7 @@
           "confidence": 1,
           "notes": "Page navigation indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 5,
-      "content_types": [
-        "navigation",
-        "signature",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 36,
-      "original_section_index": 36,
-      "heading": {
-        "text": "Continuation of previous section",
-        "type": "heading_minor",
-        "page_number": 51,
-        "confidence": 0.7
-      },
-      "content_items": [
+        },
         {
           "text": "humble themselves (believe with humility). When Our Torment reached them, why then did they not humble themselves (believe with humility)? But their hearts became hardened, and Shaitân (Satan) made fair­seeming to them that which they used to do.",
           "content_type": "paragraph",
@@ -4891,18 +4626,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 9,
+      "content_count": 14,
       "content_types": [
-        "paragraph",
         "navigation",
-        "citation",
-        "quran_verse"
+        "signature",
+        "quran_verse",
+        "paragraph",
+        "citation"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 37,
-      "original_section_index": 37,
+      "section_id": 30,
+      "original_section_index": 30,
       "heading": {
         "text": "Sanctity of the Noble Qur'an",
         "type": "heading_minor",
@@ -4951,8 +4687,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 38,
-      "original_section_index": 38,
+      "section_id": 31,
+      "original_section_index": 31,
       "heading": {
         "text": "False Belief That Some Ayahs (Qur'anic verses) bring good and prevent harm",
         "type": "heading_minor",
@@ -4993,8 +4729,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 39,
-      "original_section_index": 39,
+      "section_id": 32,
+      "original_section_index": 32,
       "heading": {
         "text": "General Advice",
         "type": "heading_minor",
@@ -5041,26 +4777,7 @@
           "confidence": 1,
           "notes": "Page reference indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 5,
-      "content_types": [
-        "navigation",
-        "paragraph",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 40,
-      "original_section_index": 40,
-      "heading": {
-        "text": "Continuation of previous section",
-        "type": "heading_minor",
-        "page_number": 56,
-        "confidence": 0.7
-      },
-      "content_items": [
+        },
         {
           "text": "what Allah warns you against and haste to perform whatever Allah ordains for you sincerely, truthfully, humbly and with fear. Thus, you can win all goodness and safeguard yourselves from every evil in this life and the Hereafter.",
           "content_type": "paragraph",
@@ -5228,27 +4945,7 @@
           "confidence": 1,
           "notes": "Page reference indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 21,
-      "content_types": [
-        "paragraph",
-        "quran_verse",
-        "navigation",
-        "hadith"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 41,
-      "original_section_index": 41,
-      "heading": {
-        "text": "Continuation of warning about judgment",
-        "type": "heading_minor",
-        "page_number": 57,
-        "confidence": 0.7
-      },
-      "content_items": [
+        },
         {
           "text": "other than both of them. It is an obvious ruling from our Lord (Glorified and Exalted be He) deeming those, who judge according to laws other than those of Allah, disbelievers, oppressors, corrupt peopleand copying the manners of the hypocrites and the people of Jahiliyyah. O Muslims, beware of whatever Allah warns you against! Judge according to His Law in every matter! Abstain from every act opposing His Law, advise one another to hold fast to it, and have aversion and dislike for those who abstain from the Law of Allah, dispraise or neglect it, or find it easy to seek the judgment of any law other than the Law of Allah. You could win the Honor of Allah and escape His punishment. You hereby could carry out the ordinance of Allah regarding your support to His Awliya' (pious people) who judge according to His law and are satisfied with His Book and the Sunnah of His Messenger (peace be upon him) and your aversion to His enemies who abstain from His Law and stay away from His Book and the Sunnah of His Messenger (peace be upon him). May Allah guide you and us to Al­Sirat­ul­Mustaqim (the Straight Path) and protect us from imitating the disbelievers and hypocrites. May Allah support His Religion and frustrate His enemies, for He has power over all things.",
           "content_type": "paragraph",
@@ -5266,16 +4963,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 2,
+      "content_count": 28,
       "content_types": [
+        "navigation",
         "paragraph",
+        "quran_verse",
+        "hadith",
         "signature"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 42,
-      "original_section_index": 42,
+      "section_id": 33,
+      "original_section_index": 33,
       "heading": {
         "text": "An Advice to All Muslims",
         "type": "heading_major",
@@ -5434,28 +5134,7 @@
           "confidence": 1,
           "notes": "Page reference indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 19,
-      "content_types": [
-        "navigation",
-        "signature",
-        "quran_verse",
-        "hadith",
-        "paragraph"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 43,
-      "original_section_index": 43,
-      "heading": {
-        "text": "Continuation of advice about Taqwa",
-        "type": "heading_minor",
-        "page_number": 59,
-        "confidence": 0.7
-      },
-      "content_items": [
+        },
         {
           "text": "His Messenger (peace be upon him). Allah, the Exalted, states, And verily, We have recommended to the people of the Scripture before you, and to you (O Muslims) that you (all) fear Allâh The Prophet (peace be upon him), in his sermons, used to say, \"I enjoin you to fear Allah, and to hear and obey...\" Taqwa is a comprehensive word comprising all goodness. It is concisely defined as the performance of the ordinances of Allah and abstaining from His prohibitions out of loyalty to Him, eagerness, and desire to win His reward and fear of His punishment. Allah commands His Servants to fear Him, and in return He promises them to make their affairs easy for them, relieve their distresses, provide their livelihood, forgive their sins, and award them with Paradise. Allah, the Exalted, states,",
           "content_type": "paragraph",
@@ -5609,17 +5288,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 19,
+      "content_count": 38,
       "content_types": [
-        "paragraph",
+        "navigation",
+        "signature",
         "quran_verse",
-        "navigation"
+        "hadith",
+        "paragraph"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 44,
-      "original_section_index": 44,
+      "section_id": 34,
+      "original_section_index": 34,
       "heading": {
         "text": "Five Essential Matters",
         "type": "heading_minor",
@@ -5786,28 +5467,7 @@
           "confidence": 0.9,
           "notes": "Fifth matter: Complete obedience and self-accountability",
           "memory_agreement": false
-        }
-      ],
-      "content_count": 20,
-      "content_types": [
-        "paragraph",
-        "quran_verse",
-        "hadith",
-        "navigation",
-        "citation"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 45,
-      "original_section_index": 45,
-      "heading": {
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor",
-        "page_number": 61,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "weaknesses, so you should feel humble, focus on your own self, leave the others, submit to Allah, and feel lowly before Him, asking Him for His pardon and forgiveness. Such self­reproach, submission and humility before Allah is the real reason for happiness, success, and honor in the life of this world and the Hereafter. Let every Muslim know that all blessings including happiness, wealth, high rank, and prosperity are from the grace and benevolence of Allah. Every trial such as diseases, misfortunes, poverty, barrenness, oppressive enemies, or any other misfortune are the result of sin and corruption. All pains and sufferings in this life and in the Hereafter are the consequence of disobedience to Allah, opposition to His command, and negligence of His due right. Allah, the Exalted, states,",
           "content_type": "paragraph",
@@ -5849,17 +5509,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 5,
+      "content_count": 25,
       "content_types": [
         "paragraph",
+        "quran_verse",
+        "hadith",
         "navigation",
-        "quran_verse"
+        "citation"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 46,
-      "original_section_index": 46,
+      "section_id": 35,
+      "original_section_index": 35,
       "heading": {
         "text": "Advice and Guiding Outline",
         "type": "heading_minor",
@@ -5906,26 +5568,7 @@
           "confidence": 0.95,
           "notes": "Four attributes enumerated",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 5,
-      "content_types": [
-        "navigation",
-        "paragraph",
-        "list_item"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 47,
-      "original_section_index": 47,
-      "heading": {
-        "text": "Continuation of Advice and Guiding Outline",
-        "type": "heading_minor",
-        "page_number": 62,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "Whoever possesses these four attributes will attain the greatest reward ever and will deserve to be honored by His Lord and be granted the everlasting blessing on the Day of Resurrection. Whoever deviates from these attributes and fails to cultivate them, will draw on themselves the most grievous loss and will be cast into Hellfire, the abode of disgrace. Allah, the Glorified, in His Noble Book, explained the characteristics of winners, and repeated them in many places in His Book. Thus those who seek salvation must internalize them and call others to them. Moreover, Allah has explained the characteristics of the losers in many Ayahs so that the Mu'min will be aware of them and avoid them. Whoever studies well the Book of Allah and recites it often, will know the attributes of the winners and those of the losers in detail.",
           "content_type": "paragraph",
@@ -5941,25 +5584,7 @@
           "confidence": 1,
           "notes": "Page reference indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 2,
-      "content_types": [
-        "paragraph",
-        "navigation"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 48,
-      "original_section_index": 48,
-      "heading": {
-        "text": "Continuation - Importance of Quran and Sunnah",
-        "type": "heading_minor",
-        "page_number": 63,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "( Part No : 2, Page No: 157)",
           "content_type": "navigation",
@@ -5991,25 +5616,7 @@
           "confidence": 1,
           "notes": "Page reference indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 4,
-      "content_types": [
-        "navigation",
-        "paragraph"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 49,
-      "original_section_index": 49,
-      "heading": {
-        "text": "Continuation - Believers vs Disbelievers",
-        "type": "heading_minor",
-        "page_number": 64,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "( Part No : 2, Page No: 160)",
           "content_type": "navigation",
@@ -6027,16 +5634,17 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 2,
+      "content_count": 13,
       "content_types": [
         "navigation",
-        "paragraph"
+        "paragraph",
+        "list_item"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 50,
-      "original_section_index": 50,
+      "section_id": 36,
+      "original_section_index": 36,
       "heading": {
         "text": "general advice to the leaders of Islamic countries and all Muslims",
         "type": "heading_minor",
@@ -6083,25 +5691,7 @@
           "confidence": 1,
           "notes": "Page reference indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 5,
-      "content_types": [
-        "navigation",
-        "paragraph"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 51,
-      "original_section_index": 51,
-      "heading": {
-        "text": "Continuation of previous fatwa discussion",
-        "type": "heading_minor",
-        "page_number": 66,
-        "confidence": 0.7
-      },
-      "content_items": [
+        },
         {
           "text": "must exist among Muslims.",
           "content_type": "paragraph",
@@ -6191,18 +5781,18 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 11,
+      "content_count": 16,
       "content_types": [
-        "paragraph",
         "navigation",
+        "paragraph",
         "fatwa_ruling",
         "quran_verse"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 52,
-      "original_section_index": 52,
+      "section_id": 37,
+      "original_section_index": 37,
       "heading": {
         "text": "Speech to the Summit of the Islamic Summit Conference",
         "type": "heading_major",
@@ -6284,8 +5874,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 53,
-      "original_section_index": 53,
+      "section_id": 38,
+      "original_section_index": 38,
       "heading": {
         "text": "There is no Brotherhood between Muslims and Disbelievers and the Only True Religion is Islam",
         "type": "heading_major",
@@ -6332,28 +5922,7 @@
           "confidence": 0.9,
           "notes": "Multiple Quranic verses about Muslim brotherhood and relations with non-Muslims",
           "memory_agreement": false
-        }
-      ],
-      "content_count": 5,
-      "content_types": [
-        "paragraph",
-        "question",
-        "fatwa_ruling",
-        "navigation",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 54,
-      "original_section_index": 54,
-      "heading": {
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor",
-        "page_number": 71,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "our Prophet Muhammad (peace be upon him) has brought about Al­Haqq (the Truth) and even more, for it is a comprehensive perfect Shari`ah for all people of the earth. Other Shari`ahs were abrogated by that of Muhammad (peace be upon him) which is the most perfect, general, and most useful Shari`ah for Servants of Allah in this life and the Hereafter. Allah, the Glorified, addressed His Prophet Muhammad (peace be upon him) stating,",
           "content_type": "paragraph",
@@ -6451,17 +6020,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 12,
+      "content_count": 17,
       "content_types": [
         "paragraph",
-        "quran_verse",
-        "navigation"
+        "question",
+        "fatwa_ruling",
+        "navigation",
+        "quran_verse"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 55,
-      "original_section_index": 55,
+      "section_id": 39,
+      "original_section_index": 39,
       "heading": {
         "text": "Opposing the Enemies among the Jews, Mushriks, and other Non­Muslims",
         "type": "heading_major",
@@ -6511,8 +6082,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 56,
-      "original_section_index": 56,
+      "section_id": 40,
+      "original_section_index": 40,
       "heading": {
         "text": "Conclusion of Previous Section",
         "type": "heading_minor",
@@ -6536,8 +6107,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 57,
-      "original_section_index": 57,
+      "section_id": 41,
+      "original_section_index": 41,
       "heading": {
         "text": "Islamic Solidarity",
         "type": "heading_major",
@@ -6624,26 +6195,7 @@
           "confidence": 0.9,
           "notes": "Explanation of Islamic solidarity concept",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 10,
-      "content_types": [
-        "navigation",
-        "paragraph",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 58,
-      "original_section_index": 58,
-      "heading": {
-        "text": "Continuation of Islamic Solidarity Discussion",
-        "type": "heading_minor",
-        "page_number": 78,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "another and any other word that pertains to such meaning. This meaning further comprises the propagation of virtue, prevention of vice, calling to the Way of Allah (Exalted be He) and guiding people to the means of happiness and survival. In addition, solidarity means to set right all matters of this world and the Hereafter including teaching those who are ignorant, helping the needy, supporting the oppressed, holding back the oppressors from committing unjust acts, establishing the Hudud (ordained punishments for violating Allah's Law), maintaining security,",
           "content_type": "paragraph",
@@ -6683,25 +6235,7 @@
           "confidence": 1,
           "notes": "Page reference indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 5,
-      "content_types": [
-        "paragraph",
-        "navigation"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 59,
-      "original_section_index": 59,
-      "heading": {
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor",
-        "page_number": 81,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "Prophet's Companions and those who righteously followed them, (may Allah be pleased with them), succeeded greatly in acting on this way. Allah (Exalted be He) fulfilled His promise to them concerning honor, dignity, and victory as previously indicated and clarified at the beginning.",
           "content_type": "paragraph",
@@ -6775,18 +6309,18 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 9,
+      "content_count": 24,
       "content_types": [
+        "navigation",
         "paragraph",
         "quran_verse",
-        "hadith",
-        "navigation"
+        "hadith"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 60,
-      "original_section_index": 60,
+      "section_id": 42,
+      "original_section_index": 42,
       "heading": {
         "text": "Islam and Its Merits",
         "type": "heading_major",
@@ -6833,27 +6367,7 @@
           "confidence": 0.9,
           "notes": "Hadith describing pre-Islamic practices",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 5,
-      "content_types": [
-        "navigation",
-        "heading_minor",
-        "paragraph",
-        "hadith"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 61,
-      "original_section_index": 61,
-      "heading": {
-        "text": "Continuation of Islam and Its Merits",
-        "type": "heading_minor",
-        "page_number": 82,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "( Part No : 2, Page No: 204)",
           "content_type": "navigation",
@@ -6999,18 +6513,18 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 18,
+      "content_count": 23,
       "content_types": [
         "navigation",
+        "heading_minor",
         "paragraph",
-        "hadith",
-        "heading_minor"
+        "hadith"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 62,
-      "original_section_index": 62,
+      "section_id": 43,
+      "original_section_index": 43,
       "heading": {
         "text": "Islam conclusion",
         "type": "heading_minor",
@@ -7116,8 +6630,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 63,
-      "original_section_index": 63,
+      "section_id": 44,
+      "original_section_index": 44,
       "heading": {
         "text": "Shari`ah: Merits and Man's Need for It",
         "type": "heading_major",
@@ -7196,26 +6710,7 @@
           "confidence": 0.9,
           "notes": "Explanation following the Quranic verse",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 9,
-      "content_types": [
-        "navigation",
-        "paragraph",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 64,
-      "original_section_index": 64,
-      "heading": {
-        "text": "Continuation of Shari'ah discussion",
-        "type": "heading_minor",
-        "page_number": 88,
-        "confidence": 0.7
-      },
-      "content_items": [
+        },
         {
           "text": "himself? Truly, We chose him in this world and verily, in the Hereafter he will be among the righteous. When his Lord said to him,",
           "content_type": "paragraph",
@@ -7257,17 +6752,17 @@
           "memory_agreement": false
         }
       ],
-      "content_count": 5,
+      "content_count": 14,
       "content_types": [
+        "navigation",
         "paragraph",
-        "quran_verse",
-        "navigation"
+        "quran_verse"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 65,
-      "original_section_index": 65,
+      "section_id": 45,
+      "original_section_index": 45,
       "heading": {
         "text": "Islamic Law and Divine Guidance",
         "type": "heading_minor",
@@ -7594,27 +7089,7 @@
           "confidence": 0.9,
           "notes": "Quranic verse about Allah helping those who help His cause",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 40,
-      "content_types": [
-        "paragraph",
-        "navigation",
-        "quran_verse",
-        "hadith"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 66,
-      "original_section_index": 66,
-      "heading": {
-        "text": "Continuation of Islamic Shari'ah Discussion",
-        "type": "heading_minor",
-        "page_number": 96,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "another and wishing good for one another, enjoining Ma`ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect), forbidding Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect), helping one another in doing good deeds, and preventing one another from evil deeds. The Prophet (peace be upon him) said, \"None of you will believe until he loves for his brother what he loves for himself.\" Allah (Glorified and Exalted be He) says, The believers are nothing else than brothers (in Islâmic religion). So make reconciliation between your brothers A believer is the brother to another believer; he helps him do what is good and calls to it, forbids him from committing evil and reproaches him like when the Prophet (peace be upon him) said, \"Help your brother whether he is an oppressor or an oppressed!\" A man said, \"O Allah's Messenger of Allah, I will help him if he is oppressed but if he is an oppressor, how shall I help him?\" The Prophet (peace be upon him) said, \"By preventing him from oppressing (others), for this the manner of helping him.\" So, helping the oppressor is to prevent him from oppressing others and reproaching him.",
           "content_type": "paragraph",
@@ -7976,19 +7451,19 @@
           "memory_agreement": false
         }
       ],
-      "content_count": 45,
+      "content_count": 85,
       "content_types": [
         "paragraph",
         "navigation",
-        "hadith",
         "quran_verse",
+        "hadith",
         "signature"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 67,
-      "original_section_index": 67,
+      "section_id": 46,
+      "original_section_index": 46,
       "heading": {
         "text": "true Adherence to Islam is The Cause of Victory and Salvation in The Hereafter",
         "type": "heading_major",
@@ -8078,8 +7553,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 68,
-      "original_section_index": 68,
+      "section_id": 47,
+      "original_section_index": 47,
       "heading": {
         "text": "First: Not worshipping other than Allah Alone, and this is the meaning of the Shahadah (Testimony of Faith): \"La ilaha illa Allah\".",
         "type": "heading_minor",
@@ -8121,8 +7596,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 69,
-      "original_section_index": 69,
+      "section_id": 48,
+      "original_section_index": 48,
       "heading": {
         "text": "Second: Not worshipping Allah, except according to the Shari'ah of His Prophet Muhammad (peace be upon him).",
         "type": "heading_minor",
@@ -8163,8 +7638,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 70,
-      "original_section_index": 70,
+      "section_id": 49,
+      "original_section_index": 49,
       "heading": {
         "text": "In the Shade of Shari`ah Security and Life are Guaranteed",
         "type": "heading_major",
@@ -8254,8 +7729,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 71,
-      "original_section_index": 71,
+      "section_id": 50,
+      "original_section_index": 50,
       "heading": {
         "text": "Security and Guidance Through Islamic Law",
         "type": "heading_minor",
@@ -8515,8 +7990,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 72,
-      "original_section_index": 72,
+      "section_id": 51,
+      "original_section_index": 51,
       "heading": {
         "text": "Islam as the true religion above all others",
         "type": "heading_major",
@@ -8647,8 +8122,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 73,
-      "original_section_index": 73,
+      "section_id": 52,
+      "original_section_index": 52,
       "heading": {
         "text": "Piety is the reason behind every good",
         "type": "heading_major",
@@ -8727,26 +8202,7 @@
           "confidence": 1,
           "notes": "Page navigation marker",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 9,
-      "content_types": [
-        "paragraph",
-        "quran_verse",
-        "navigation"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 74,
-      "original_section_index": 74,
-      "heading": {
-        "text": "Continuation of Taqwa Discussion",
-        "type": "heading_minor",
-        "page_number": 116,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "A l­Muttaqûn [the pious ­ See V.2:2], not the least harm will their cunning do to you. If Muslims want victory, dignity, and salvation in this Worldly Life and the Hereafter, relieving hardship and making things easier, forgiveness of sins, expiating for their bad deeds, and attaining Al­Jannah and other forms of goodness, they only have to observe Taqwa of Allah (Glorified and Exalted be He) as He should be feared.",
           "content_type": "paragraph",
@@ -8812,16 +8268,17 @@
           "memory_agreement": false
         }
       ],
-      "content_count": 8,
+      "content_count": 17,
       "content_types": [
         "paragraph",
+        "quran_verse",
         "navigation"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 75,
-      "original_section_index": 75,
+      "section_id": 53,
+      "original_section_index": 53,
       "heading": {
         "text": "Definition and Essence of Islam",
         "type": "heading_minor",
@@ -8895,8 +8352,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 76,
-      "original_section_index": 76,
+      "section_id": 54,
+      "original_section_index": 54,
       "heading": {
         "text": "Religion as Guidance and Gratitude",
         "type": "heading_minor",
@@ -8938,8 +8395,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 77,
-      "original_section_index": 77,
+      "section_id": 55,
+      "original_section_index": 55,
       "heading": {
         "text": "Conclusion and Supplication",
         "type": "heading_minor",
@@ -8971,8 +8428,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 78,
-      "original_section_index": 78,
+      "section_id": 56,
+      "original_section_index": 56,
       "heading": {
         "text": "The knowledge of the Religious Rulings is the Most Important Obligation",
         "type": "heading_major",
@@ -9047,8 +8504,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 79,
-      "original_section_index": 79,
+      "section_id": 57,
+      "original_section_index": 57,
       "heading": {
         "text": "Importance of Religious Knowledge",
         "type": "heading_minor",
@@ -9122,8 +8579,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 80,
-      "original_section_index": 80,
+      "section_id": 58,
+      "original_section_index": 58,
       "heading": {
         "text": "Knowledge and Morals of Scholars",
         "type": "heading_major",
@@ -9414,8 +8871,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 81,
-      "original_section_index": 81,
+      "section_id": 59,
+      "original_section_index": 59,
       "heading": {
         "text": "In Pursuit of Knowledge",
         "type": "heading_major",
@@ -9586,8 +9043,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 82,
-      "original_section_index": 82,
+      "section_id": 60,
+      "original_section_index": 60,
       "heading": {
         "text": "A Piece of Advice to Seekers of Knowledge",
         "type": "heading_major",
@@ -9686,8 +9143,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 83,
-      "original_section_index": 83,
+      "section_id": 61,
+      "original_section_index": 61,
       "heading": {
         "text": "Ruling on learning and teaching positive law",
         "type": "heading_major",
@@ -9798,31 +9255,7 @@
           "confidence": 1,
           "notes": "Page navigation marker",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 13,
-      "content_types": [
-        "navigation",
-        "signature",
-        "arabic_text",
-        "question",
-        "fatwa_ruling",
-        "paragraph",
-        "list_item",
-        "hadith"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 84,
-      "original_section_index": 84,
-      "heading": {
-        "text": "Continuation of Fatwa on Prayer Behind Different Categories of Imams",
-        "type": "heading_minor",
-        "page_number": 131,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "examples.",
           "content_type": "navigation",
@@ -9912,18 +9345,22 @@
           "memory_agreement": false
         }
       ],
-      "content_count": 11,
+      "content_count": 24,
       "content_types": [
         "navigation",
+        "signature",
+        "arabic_text",
+        "question",
         "fatwa_ruling",
         "paragraph",
-        "signature"
+        "list_item",
+        "hadith"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 85,
-      "original_section_index": 85,
+      "section_id": 62,
+      "original_section_index": 62,
       "heading": {
         "text": "A speech delivered at the first Conference for Da`wah and Du`ah held in Madinah in 1397 A.H.",
         "type": "heading_major",
@@ -10255,8 +9692,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 86,
-      "original_section_index": 86,
+      "section_id": 63,
+      "original_section_index": 63,
       "heading": {
         "text": "Da`wah to Allah",
         "type": "heading_major",
@@ -10378,8 +9815,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 87,
-      "original_section_index": 87,
+      "section_id": 64,
+      "original_section_index": 64,
       "heading": {
         "text": "The Impact of Da`wah on the Society",
         "type": "heading_major",
@@ -10518,8 +9955,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 88,
-      "original_section_index": 88,
+      "section_id": 65,
+      "original_section_index": 65,
       "heading": {
         "text": "Dear Muslim brother who seeks the truth, reflect upon the Qur'an and the Sunnah of your Prophet (peace be upon him) and learn the Islamic upright teachings,",
         "type": "paragraph",
@@ -10552,8 +9989,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 89,
-      "original_section_index": 89,
+      "section_id": 66,
+      "original_section_index": 66,
       "heading": {
         "text": "This is NOT the Proper way to Reform, O Hamad!",
         "type": "heading_major",
@@ -10680,28 +10117,7 @@
           "confidence": 1,
           "notes": "Page navigation indicator",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 15,
-      "content_types": [
-        "paragraph",
-        "hadith",
-        "navigation",
-        "quran_verse",
-        "fatwa_ruling"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 90,
-      "original_section_index": 90,
-      "heading": {
-        "text": "Continuation of previous fatwa discussion",
-        "type": "heading_minor",
-        "page_number": 141,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "to avoid much suspicion since some may be false. The suspicion meant here is that guessed without evidence or proof from Shari`ah.",
           "content_type": "paragraph",
@@ -10759,19 +10175,20 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 7,
+      "content_count": 22,
       "content_types": [
         "paragraph",
         "hadith",
-        "quran_verse",
         "navigation",
+        "quran_verse",
+        "fatwa_ruling",
         "signature"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 91,
-      "original_section_index": 91,
+      "section_id": 67,
+      "original_section_index": 67,
       "heading": {
         "text": "Da`wah to Allah is truly different from that, O Salih!",
         "type": "heading_minor",
@@ -10838,8 +10255,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 92,
-      "original_section_index": 92,
+      "section_id": 68,
+      "original_section_index": 68,
       "heading": {
         "text": "Ruling on Mawlid celebration",
         "type": "heading_minor",
@@ -10878,26 +10295,7 @@
           "confidence": 1,
           "notes": "Page navigation marker",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 4,
-      "content_types": [
-        "fatwa_ruling",
-        "hadith",
-        "navigation"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 93,
-      "original_section_index": 93,
-      "heading": {
-        "text": "Continuation of Mawlid discussion and death banquets",
-        "type": "heading_minor",
-        "page_number": 143,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "( Part No : 2, Page No: 355)",
           "content_type": "navigation",
@@ -10947,17 +10345,18 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 6,
+      "content_count": 10,
       "content_types": [
-        "navigation",
+        "fatwa_ruling",
         "hadith",
+        "navigation",
         "paragraph"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 94,
-      "original_section_index": 94,
+      "section_id": 69,
+      "original_section_index": 69,
       "heading": {
         "text": "Death banquets ruling",
         "type": "heading_minor",
@@ -10998,8 +10397,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 95,
-      "original_section_index": 95,
+      "section_id": 70,
+      "original_section_index": 70,
       "heading": {
         "text": "Islamic Youth Movements and Their Role",
         "type": "heading_minor",
@@ -11161,8 +10560,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 96,
-      "original_section_index": 96,
+      "section_id": 71,
+      "original_section_index": 71,
       "heading": {
         "text": "Role of Youth in Islamic Movements",
         "type": "heading_minor",
@@ -11335,8 +10734,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 97,
-      "original_section_index": 97,
+      "section_id": 72,
+      "original_section_index": 72,
       "heading": {
         "text": "muslim minorities: Their conditions and hopes",
         "type": "heading_major",
@@ -11596,8 +10995,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 98,
-      "original_section_index": 98,
+      "section_id": 73,
+      "original_section_index": 73,
       "heading": {
         "text": "Global Da'wah Activities",
         "type": "heading_minor",
@@ -11686,8 +11085,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 99,
-      "original_section_index": 99,
+      "section_id": 74,
+      "original_section_index": 74,
       "heading": {
         "text": "Financial and Educational Support for Muslim Minorities",
         "type": "heading_minor",
@@ -11720,8 +11119,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 100,
-      "original_section_index": 100,
+      "section_id": 75,
+      "original_section_index": 75,
       "heading": {
         "text": "Muslim Minorities and Political Support",
         "type": "heading_minor",
@@ -11771,8 +11170,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 101,
-      "original_section_index": 101,
+      "section_id": 76,
+      "original_section_index": 76,
       "heading": {
         "text": "Obligations of Muslims and Divine Victory",
         "type": "heading_minor",
@@ -11813,8 +11212,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 102,
-      "original_section_index": 102,
+      "section_id": 77,
+      "original_section_index": 77,
       "heading": {
         "text": "Hadith on Guidance and Da'wah",
         "type": "heading_minor",
@@ -11881,8 +11280,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 103,
-      "original_section_index": 103,
+      "section_id": 78,
+      "original_section_index": 78,
       "heading": {
         "text": "Clarification on worship and Jahiliyyah matters",
         "type": "heading_minor",
@@ -11940,8 +11339,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 104,
-      "original_section_index": 104,
+      "section_id": 79,
+      "original_section_index": 79,
       "heading": {
         "text": "Islamic Movements and the Role of Youth",
         "type": "heading_major",
@@ -12028,26 +11427,7 @@
           "confidence": 1,
           "notes": "Page navigation marker",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 10,
-      "content_types": [
-        "navigation",
-        "paragraph",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 105,
-      "original_section_index": 105,
-      "heading": {
-        "text": "Continuation of previous section",
-        "type": "heading_minor",
-        "page_number": 151,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "the need of these countries. They also study how best to support Islamic societies that are known for their correct tendencies, and, after confirming their need for help, provide them with Islamic books and send letters to educational organizations to provide them with school curricula. The presidency also participates in completing projects that bring benefit to Muslims in their Din and lives, such as by participating in building and repairing Masjids and providing them with Mus­hafs. It also verifies the integrity and honesty of Islamic organizations, offers recommendations to help them in their charitable work, and sends delegations to review the conditions of the Muslim minorities and learn their pressing needs.",
           "content_type": "paragraph",
@@ -12153,19 +11533,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 13,
+      "content_count": 23,
       "content_types": [
-        "paragraph",
         "navigation",
-        "fatwa_ruling",
+        "paragraph",
         "quran_verse",
+        "fatwa_ruling",
         "hadith"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 106,
-      "original_section_index": 106,
+      "section_id": 80,
+      "original_section_index": 80,
       "heading": {
         "text": "A Reply to the Claims of BBC",
         "type": "heading_major",
@@ -12224,8 +11604,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 107,
-      "original_section_index": 107,
+      "section_id": 81,
+      "original_section_index": 81,
       "heading": {
         "text": "Status of the Messenger and his knowing the Ghayb",
         "type": "heading_major",
@@ -12284,8 +11664,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 108,
-      "original_section_index": 108,
+      "section_id": 82,
+      "original_section_index": 82,
       "heading": {
         "text": "Answers to different questions on the amulets containing Qur'anic Ayahs and other things related to the Messenger of Allah (peace be upon him)",
         "type": "heading_major",
@@ -12393,8 +11773,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 109,
-      "original_section_index": 109,
+      "section_id": 83,
+      "original_section_index": 83,
       "heading": {
         "text": "Q 4 : Is it tantamount to Shirk if a person in any part of the world calls upon the Prophet (peace be upon him) saying: \"O Muhammad, the Messenger of Allah\"?",
         "type": "heading_question",
@@ -12536,8 +11916,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 110,
-      "original_section_index": 110,
+      "section_id": 84,
+      "original_section_index": 84,
       "heading": {
         "text": "Q 5 : If a man comes to the Prophet's tomb and invokes Allah's Peace and Blessings upon the Prophet (peace be upon him); does the Prophet hear or see him? Does believing in that entail any act of Shirk or not?",
         "type": "heading_question",
@@ -12604,8 +11984,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 111,
-      "original_section_index": 111,
+      "section_id": 85,
+      "original_section_index": 85,
       "heading": {
         "text": "The Permissibility of invoking peace and blessings on the Prophet (May peace and blessings be upon him) in a complete form and the undesirability of referring to it with a letter or more",
         "type": "heading_minor",
@@ -12697,8 +12077,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 112,
-      "original_section_index": 112,
+      "section_id": 86,
+      "original_section_index": 86,
       "heading": {
         "text": "A warning against Rashad Khalifa's rejection of the purified Sunnah",
         "type": "heading_major",
@@ -12886,8 +12266,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 113,
-      "original_section_index": 113,
+      "section_id": 87,
+      "original_section_index": 87,
       "heading": {
         "text": "An important warning against the extreme estimation of the Prophet (peace be upon him) and the Al­Haramayn Al­ Sharifayn (the Two Sacred Mosques: the Sacred Mosque in Makkah and the Prophet's Mosque in Madinah)",
         "type": "heading_major",
@@ -13068,8 +12448,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 114,
-      "original_section_index": 114,
+      "section_id": 88,
+      "original_section_index": 88,
       "heading": {
         "text": "An Important Warning Against A Poem Entitled \"The Visit\"",
         "type": "heading_major",
@@ -13218,8 +12598,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 115,
-      "original_section_index": 115,
+      "section_id": 89,
+      "original_section_index": 89,
       "heading": {
         "text": "A Call from the Islamic University in Al-Madinah Al-Munawwarah to All Muslims, Arab and non-Arab, everywhere",
         "type": "heading_major",
@@ -13322,27 +12702,7 @@
           "confidence": 1,
           "notes": "Page reference marker",
           "memory_agreement": true
-        }
-      ],
-      "content_count": 12,
-      "content_types": [
-        "paragraph",
-        "fatwa_ruling",
-        "navigation",
-        "quran_verse"
-      ],
-      "section_type": "content_section"
-    },
-    {
-      "section_id": 116,
-      "original_section_index": 116,
-      "heading": {
-        "text": "Continuation of previous section on victory and Ma'iyyah",
-        "type": "heading_minor",
-        "page_number": 171,
-        "confidence": 0.8
-      },
-      "content_items": [
+        },
         {
           "text": "them.",
           "content_type": "navigation",
@@ -13456,17 +12816,19 @@
           "memory_agreement": true
         }
       ],
-      "content_count": 14,
+      "content_count": 26,
       "content_types": [
-        "navigation",
         "paragraph",
+        "fatwa_ruling",
+        "navigation",
+        "quran_verse",
         "heading_minor"
       ],
       "section_type": "content_section"
     },
     {
-      "section_id": 117,
-      "original_section_index": 117,
+      "section_id": 90,
+      "original_section_index": 90,
       "heading": {
         "text": "The merit of Jihad (fighting/striving in the Cause of Allah) and Mujahids (those striving/fighting in the Cause of Allah)",
         "type": "heading_major",
@@ -13549,8 +12911,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 118,
-      "original_section_index": 118,
+      "section_id": 91,
+      "original_section_index": 91,
       "heading": {
         "text": "Hadith on Jihad and Merit of Mujahids",
         "type": "heading_minor",
@@ -13633,8 +12995,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 119,
-      "original_section_index": 119,
+      "section_id": 92,
+      "original_section_index": 92,
       "heading": {
         "text": "the purpose of Jihad",
         "type": "heading_minor",
@@ -13710,8 +13072,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 120,
-      "original_section_index": 120,
+      "section_id": 93,
+      "original_section_index": 93,
       "heading": {
         "text": "Jihad in Islam passed through three phases:",
         "type": "heading_minor",
@@ -13760,8 +13122,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 121,
-      "original_section_index": 121,
+      "section_id": 94,
+      "original_section_index": 94,
       "heading": {
         "text": "Obligation of preparing against enemies",
         "type": "heading_minor",
@@ -13811,8 +13173,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 122,
-      "original_section_index": 122,
+      "section_id": 95,
+      "original_section_index": 95,
       "heading": {
         "text": "Merit of Ribat and guarding in the Cause of Allah",
         "type": "heading_major",
@@ -13894,8 +13256,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 123,
-      "original_section_index": 123,
+      "section_id": 96,
+      "original_section_index": 96,
       "heading": {
         "text": "An interview by the Pakistani magazine: \"Takbir\"",
         "type": "heading_major",
@@ -14018,8 +13380,8 @@
       "section_type": "content_section"
     },
     {
-      "section_id": 124,
-      "original_section_index": 124,
+      "section_id": 97,
+      "original_section_index": 97,
       "heading": {
         "text": "The fifth question: What are the successfully effective methods for practicing Da'wah (Call to believe in and worship Allah) in the present time?",
         "type": "heading_question",
@@ -14195,187 +13557,187 @@
         "type": "heading_major"
       },
       {
-        "section_id": 8,
+        "section_id": 7,
         "text": "Types of Tawhid Revealed to Allah's Messengers (peace be upon them)",
         "type": "heading_major"
       },
       {
-        "section_id": 9,
+        "section_id": 8,
         "text": "The Tawhid preached by the Prophets versus Kufr and Shirk",
         "type": "heading_major"
       },
       {
-        "section_id": 19,
+        "section_id": 17,
         "text": "Commentary on Al­`Aqidah Al­Tahawiyyah",
         "type": "heading_major"
       },
       {
-        "section_id": 28,
+        "section_id": 22,
         "text": "A Commentary and Explanation of an Article by Dr. Muhiy Al-Din Al-Safy entitled \"In Order to be the Most Powerful Ummah\" about Allah's Attributes",
         "type": "heading_major"
       },
       {
-        "section_id": 29,
+        "section_id": 23,
         "text": "Response to a question regarding Allah (may he be Exalted) Being Up and Above",
         "type": "heading_major"
       },
       {
-        "section_id": 42,
+        "section_id": 33,
         "text": "An Advice to All Muslims",
         "type": "heading_major"
       },
       {
-        "section_id": 52,
+        "section_id": 37,
         "text": "Speech to the Summit of the Islamic Summit Conference",
         "type": "heading_major"
       },
       {
-        "section_id": 53,
+        "section_id": 38,
         "text": "There is no Brotherhood between Muslims and Disbelievers and the Only True Religion is Islam",
         "type": "heading_major"
       },
       {
-        "section_id": 55,
+        "section_id": 39,
         "text": "Opposing the Enemies among the Jews, Mushriks, and other Non­Muslims",
         "type": "heading_major"
       },
       {
-        "section_id": 57,
+        "section_id": 41,
         "text": "Islamic Solidarity",
         "type": "heading_major"
       },
       {
-        "section_id": 60,
+        "section_id": 42,
         "text": "Islam and Its Merits",
         "type": "heading_major"
       },
       {
-        "section_id": 63,
+        "section_id": 44,
         "text": "Shari`ah: Merits and Man's Need for It",
         "type": "heading_major"
       },
       {
-        "section_id": 67,
+        "section_id": 46,
         "text": "true Adherence to Islam is The Cause of Victory and Salvation in The Hereafter",
         "type": "heading_major"
       },
       {
-        "section_id": 70,
+        "section_id": 49,
         "text": "In the Shade of Shari`ah Security and Life are Guaranteed",
         "type": "heading_major"
       },
       {
-        "section_id": 72,
+        "section_id": 51,
         "text": "Islam as the true religion above all others",
         "type": "heading_major"
       },
       {
-        "section_id": 73,
+        "section_id": 52,
         "text": "Piety is the reason behind every good",
         "type": "heading_major"
       },
       {
-        "section_id": 78,
+        "section_id": 56,
         "text": "The knowledge of the Religious Rulings is the Most Important Obligation",
         "type": "heading_major"
       },
       {
-        "section_id": 80,
+        "section_id": 58,
         "text": "Knowledge and Morals of Scholars",
         "type": "heading_major"
       },
       {
-        "section_id": 81,
+        "section_id": 59,
         "text": "In Pursuit of Knowledge",
         "type": "heading_major"
       },
       {
-        "section_id": 82,
+        "section_id": 60,
         "text": "A Piece of Advice to Seekers of Knowledge",
         "type": "heading_major"
       },
       {
-        "section_id": 83,
+        "section_id": 61,
         "text": "Ruling on learning and teaching positive law",
         "type": "heading_major"
       },
       {
-        "section_id": 85,
+        "section_id": 62,
         "text": "A speech delivered at the first Conference for Da`wah and Du`ah held in Madinah in 1397 A.H.",
         "type": "heading_major"
       },
       {
-        "section_id": 86,
+        "section_id": 63,
         "text": "Da`wah to Allah",
         "type": "heading_major"
       },
       {
-        "section_id": 87,
+        "section_id": 64,
         "text": "The Impact of Da`wah on the Society",
         "type": "heading_major"
       },
       {
-        "section_id": 89,
+        "section_id": 66,
         "text": "This is NOT the Proper way to Reform, O Hamad!",
         "type": "heading_major"
       },
       {
-        "section_id": 97,
+        "section_id": 72,
         "text": "muslim minorities: Their conditions and hopes",
         "type": "heading_major"
       },
       {
-        "section_id": 104,
+        "section_id": 79,
         "text": "Islamic Movements and the Role of Youth",
         "type": "heading_major"
       },
       {
-        "section_id": 106,
+        "section_id": 80,
         "text": "A Reply to the Claims of BBC",
         "type": "heading_major"
       },
       {
-        "section_id": 107,
+        "section_id": 81,
         "text": "Status of the Messenger and his knowing the Ghayb",
         "type": "heading_major"
       },
       {
-        "section_id": 108,
+        "section_id": 82,
         "text": "Answers to different questions on the amulets containing Qur'anic Ayahs and other things related to the Messenger of Allah (peace be upon him)",
         "type": "heading_major"
       },
       {
-        "section_id": 112,
+        "section_id": 86,
         "text": "A warning against Rashad Khalifa's rejection of the purified Sunnah",
         "type": "heading_major"
       },
       {
-        "section_id": 113,
+        "section_id": 87,
         "text": "An important warning against the extreme estimation of the Prophet (peace be upon him) and the Al­Haramayn Al­ Sharifayn (the Two Sacred Mosques: the Sacred Mosque in Makkah and the Prophet's Mosque in Madinah)",
         "type": "heading_major"
       },
       {
-        "section_id": 114,
+        "section_id": 88,
         "text": "An Important Warning Against A Poem Entitled \"The Visit\"",
         "type": "heading_major"
       },
       {
-        "section_id": 115,
+        "section_id": 89,
         "text": "A Call from the Islamic University in Al-Madinah Al-Munawwarah to All Muslims, Arab and non-Arab, everywhere",
         "type": "heading_major"
       },
       {
-        "section_id": 117,
+        "section_id": 90,
         "text": "The merit of Jihad (fighting/striving in the Cause of Allah) and Mujahids (those striving/fighting in the Cause of Allah)",
         "type": "heading_major"
       },
       {
-        "section_id": 122,
+        "section_id": 95,
         "text": "Merit of Ribat and guarding in the Cause of Allah",
         "type": "heading_major"
       },
       {
-        "section_id": 123,
+        "section_id": 96,
         "text": "An interview by the Pakistani magazine: \"Takbir\"",
         "type": "heading_major"
       }
@@ -14402,413 +13764,278 @@
         "type": "heading_minor"
       },
       {
-        "section_id": 7,
-        "text": "Shirk Discussion Continuation",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 10,
+        "section_id": 9,
         "text": "Tawhid and the Meaning of La ilaha illa Allah",
         "type": "heading_minor"
       },
       {
-        "section_id": 12,
+        "section_id": 11,
         "text": "Analysis of Quranic Verses on Worship and Idolatry",
         "type": "heading_minor"
       },
       {
-        "section_id": 13,
+        "section_id": 12,
         "text": "Divine Attributes and Messengers' Da'wah",
         "type": "heading_minor"
       },
       {
-        "section_id": 14,
+        "section_id": 13,
         "text": "Divine Attributes and Messengers' Teachings",
         "type": "heading_minor"
       },
       {
-        "section_id": 17,
+        "section_id": 16,
         "text": "Theological Discussion on Allah's Attributes and Tawhid",
         "type": "heading_minor"
       },
       {
         "section_id": 18,
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 20,
-        "text": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 21,
-        "text": "Continuation of Al-Aqidah Al-Tahawiyyah Commentary",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 22,
         "text": "Final Section of Al-Aqidah Al-Tahawiyyah Commentary",
         "type": "heading_minor"
       },
       {
-        "section_id": 23,
-        "text": "Continuation of Al-'Aqidah Al-Tahawiyyah",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 24,
+        "section_id": 19,
         "text": "The meaning of \"Al-Ma`iyyah\" and standing up in honor of another",
         "type": "heading_minor"
       },
       {
-        "section_id": 25,
-        "text": "Continuation of Standing Up Ruling",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 26,
+        "section_id": 20,
         "text": "The Sunni Creed in respect of the Divine Attribute of Istiwa' (Allah's rising over the Throne in a manner that befits Him)",
         "type": "heading_minor"
       },
       {
-        "section_id": 27,
+        "section_id": 21,
         "text": "Conclusion on Divine Attributes",
         "type": "heading_minor"
       },
       {
-        "section_id": 30,
+        "section_id": 24,
         "text": "Ruling on seeking help from other than Allah",
         "type": "heading_minor"
       },
       {
-        "section_id": 31,
+        "section_id": 25,
         "text": "Focusing on some matters related to swearing by other than Allah",
         "type": "heading_minor"
       },
       {
-        "section_id": 32,
+        "section_id": 26,
         "text": "The prohibition of taking oaths by anyone other than Allah",
         "type": "heading_minor"
       },
       {
-        "section_id": 33,
+        "section_id": 27,
         "text": "Ruling on visiting, consulting, and believing soothsayers and the like",
         "type": "heading_minor"
       },
       {
-        "section_id": 34,
+        "section_id": 28,
         "text": "A Legal Elaboration on Believing in Horoscopes",
         "type": "heading_minor"
       },
       {
-        "section_id": 35,
+        "section_id": 29,
         "text": "Necessity of approaching Allah with Tawbah and supplication in adversity",
         "type": "heading_minor"
       },
       {
-        "section_id": 36,
-        "text": "Continuation of previous section",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 37,
+        "section_id": 30,
         "text": "Sanctity of the Noble Qur'an",
         "type": "heading_minor"
       },
       {
-        "section_id": 38,
+        "section_id": 31,
         "text": "False Belief That Some Ayahs (Qur'anic verses) bring good and prevent harm",
         "type": "heading_minor"
       },
       {
-        "section_id": 39,
+        "section_id": 32,
         "text": "General Advice",
         "type": "heading_minor"
       },
       {
-        "section_id": 40,
-        "text": "Continuation of previous section",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 41,
-        "text": "Continuation of warning about judgment",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 43,
-        "text": "Continuation of advice about Taqwa",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 44,
+        "section_id": 34,
         "text": "Five Essential Matters",
         "type": "heading_minor"
       },
       {
-        "section_id": 45,
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 46,
+        "section_id": 35,
         "text": "Advice and Guiding Outline",
         "type": "heading_minor"
       },
       {
-        "section_id": 47,
-        "text": "Continuation of Advice and Guiding Outline",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 48,
-        "text": "Continuation - Importance of Quran and Sunnah",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 49,
-        "text": "Continuation - Believers vs Disbelievers",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 50,
+        "section_id": 36,
         "text": "general advice to the leaders of Islamic countries and all Muslims",
         "type": "heading_minor"
       },
       {
-        "section_id": 51,
-        "text": "Continuation of previous fatwa discussion",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 54,
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 56,
+        "section_id": 40,
         "text": "Conclusion of Previous Section",
         "type": "heading_minor"
       },
       {
-        "section_id": 58,
-        "text": "Continuation of Islamic Solidarity Discussion",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 59,
-        "text": "Continuation of Previous Section",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 61,
-        "text": "Continuation of Islam and Its Merits",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 62,
+        "section_id": 43,
         "text": "Islam conclusion",
         "type": "heading_minor"
       },
       {
-        "section_id": 64,
-        "text": "Continuation of Shari'ah discussion",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 65,
+        "section_id": 45,
         "text": "Islamic Law and Divine Guidance",
         "type": "heading_minor"
       },
       {
-        "section_id": 66,
-        "text": "Continuation of Islamic Shari'ah Discussion",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 68,
+        "section_id": 47,
         "text": "First: Not worshipping other than Allah Alone, and this is the meaning of the Shahadah (Testimony of Faith): \"La ilaha illa Allah\".",
         "type": "heading_minor"
       },
       {
-        "section_id": 69,
+        "section_id": 48,
         "text": "Second: Not worshipping Allah, except according to the Shari'ah of His Prophet Muhammad (peace be upon him).",
         "type": "heading_minor"
       },
       {
-        "section_id": 71,
+        "section_id": 50,
         "text": "Security and Guidance Through Islamic Law",
         "type": "heading_minor"
       },
       {
-        "section_id": 74,
-        "text": "Continuation of Taqwa Discussion",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 75,
+        "section_id": 53,
         "text": "Definition and Essence of Islam",
         "type": "heading_minor"
       },
       {
-        "section_id": 76,
+        "section_id": 54,
         "text": "Religion as Guidance and Gratitude",
         "type": "heading_minor"
       },
       {
-        "section_id": 77,
+        "section_id": 55,
         "text": "Conclusion and Supplication",
         "type": "heading_minor"
       },
       {
-        "section_id": 79,
+        "section_id": 57,
         "text": "Importance of Religious Knowledge",
         "type": "heading_minor"
       },
       {
-        "section_id": 84,
-        "text": "Continuation of Fatwa on Prayer Behind Different Categories of Imams",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 90,
-        "text": "Continuation of previous fatwa discussion",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 91,
+        "section_id": 67,
         "text": "Da`wah to Allah is truly different from that, O Salih!",
         "type": "heading_minor"
       },
       {
-        "section_id": 92,
+        "section_id": 68,
         "text": "Ruling on Mawlid celebration",
         "type": "heading_minor"
       },
       {
-        "section_id": 93,
-        "text": "Continuation of Mawlid discussion and death banquets",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 94,
+        "section_id": 69,
         "text": "Death banquets ruling",
         "type": "heading_minor"
       },
       {
-        "section_id": 95,
+        "section_id": 70,
         "text": "Islamic Youth Movements and Their Role",
         "type": "heading_minor"
       },
       {
-        "section_id": 96,
+        "section_id": 71,
         "text": "Role of Youth in Islamic Movements",
         "type": "heading_minor"
       },
       {
-        "section_id": 98,
+        "section_id": 73,
         "text": "Global Da'wah Activities",
         "type": "heading_minor"
       },
       {
-        "section_id": 99,
+        "section_id": 74,
         "text": "Financial and Educational Support for Muslim Minorities",
         "type": "heading_minor"
       },
       {
-        "section_id": 100,
+        "section_id": 75,
         "text": "Muslim Minorities and Political Support",
         "type": "heading_minor"
       },
       {
-        "section_id": 101,
+        "section_id": 76,
         "text": "Obligations of Muslims and Divine Victory",
         "type": "heading_minor"
       },
       {
-        "section_id": 102,
+        "section_id": 77,
         "text": "Hadith on Guidance and Da'wah",
         "type": "heading_minor"
       },
       {
-        "section_id": 103,
+        "section_id": 78,
         "text": "Clarification on worship and Jahiliyyah matters",
         "type": "heading_minor"
       },
       {
-        "section_id": 105,
-        "text": "Continuation of previous section",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 111,
+        "section_id": 85,
         "text": "The Permissibility of invoking peace and blessings on the Prophet (May peace and blessings be upon him) in a complete form and the undesirability of referring to it with a letter or more",
         "type": "heading_minor"
       },
       {
-        "section_id": 116,
-        "text": "Continuation of previous section on victory and Ma'iyyah",
-        "type": "heading_minor"
-      },
-      {
-        "section_id": 118,
+        "section_id": 91,
         "text": "Hadith on Jihad and Merit of Mujahids",
         "type": "heading_minor"
       },
       {
-        "section_id": 119,
+        "section_id": 92,
         "text": "the purpose of Jihad",
         "type": "heading_minor"
       },
       {
-        "section_id": 120,
+        "section_id": 93,
         "text": "Jihad in Islam passed through three phases:",
         "type": "heading_minor"
       },
       {
-        "section_id": 121,
+        "section_id": 94,
         "text": "Obligation of preparing against enemies",
         "type": "heading_minor"
       }
     ],
     "navigation": [
       {
-        "section_id": 11,
+        "section_id": 10,
         "text": "( Part No : 2, Page No: 49)",
         "type": "navigation"
       },
       {
-        "section_id": 15,
+        "section_id": 14,
         "text": "( Part No : 2, Page No: 48)",
         "type": "navigation"
       },
       {
-        "section_id": 16,
+        "section_id": 15,
         "text": "( Part No : 2, Page No: 47)",
         "type": "navigation"
       }
     ],
     "paragraph": [
       {
-        "section_id": 88,
+        "section_id": 65,
         "text": "Dear Muslim brother who seeks the truth, reflect upon the Qur'an and the Sunnah of your Prophet (peace be upon him) and learn the Islamic upright teachings,",
         "type": "paragraph"
       }
     ],
     "heading_question": [
       {
-        "section_id": 109,
+        "section_id": 83,
         "text": "Q 4 : Is it tantamount to Shirk if a person in any part of the world calls upon the Prophet (peace be upon him) saying: \"O Muhammad, the Messenger of Allah\"?",
         "type": "heading_question"
       },
       {
-        "section_id": 110,
+        "section_id": 84,
         "text": "Q 5 : If a man comes to the Prophet's tomb and invokes Allah's Peace and Blessings upon the Prophet (peace be upon him); does the Prophet hear or see him? Does believing in that entail any act of Shirk or not?",
         "type": "heading_question"
       },
       {
-        "section_id": 124,
+        "section_id": 97,
         "text": "The fifth question: What are the successfully effective methods for practicing Da'wah (Call to believe in and worship Allah) in the present time?",
         "type": "heading_question"
       }
@@ -14830,7 +14057,7 @@
       "question",
       "heading_minor"
     ],
-    "sections_with_content": 125,
+    "sections_with_content": 98,
     "sections_without_content": 0
   },
   "memory_enhanced": true

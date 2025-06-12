@@ -1,0 +1,1455 @@
+{
+  "batch_number": 70,
+  "sections_count": 265,
+  "timestamp": "2025-06-12T13:16:08.808372",
+  "sections": [
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 2:",
+        "content_type": "heading_question",
+        "page_number": 255,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "I have a sister who is in her fifties; she overlooks many of her son's mistakes related to religion and morals on account of her extreme love for him. She claims that many parents do the same. Please advise her. May Allah reward you the best!",
+          "content_type": "question",
+          "page_number": 255,
+          "confidence": 0.95,
+          "notes": "Second question about parental guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: It is obligatory upon Muslims to fear Allah (Exalted be He) with regard to themselves, their families, their neighbors, and their all affairs. A Muslim should invite people to Allah (Exalted be He), encourage them to propagate virtue and prevent vice, and fear the blame of no one except Allah. Every Muslim should enjoin goodness and forbid evil with regard to all people including his relatives and beloved ones. It is his duty towards them to encourage them to do goodness and forbid them from doing evil and they will be rewarded for this. Allah (Glorified and Exalted be He) says, And whenever you give your word (i.e. judge between men or give evidence), say the truth even if a near relative is concerned Thus, it is obligatory upon all the believing men and women to fear Allah (Exalted be He) and fulfill their duties towards their relatives and people in general. Allah (Glorified be He) says, O you who believe! Stand out firmly for justice, as witnesses to Allâh, even though it be against yourselves, or your parents, or your kin",
+          "content_type": "answer",
+          "page_number": 255,
+          "confidence": 0.95,
+          "notes": "Answer with Quranic citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 366)",
+          "content_type": "navigation",
+          "page_number": 255,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah (Glorified be He) says, O you who believe! Ward off yourselves and your families against a Fire (Hell) whose fuel is men and stones It is obligatory upon the believing men and women to advise their relatives and people in general, forbid the Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect), and enjoin Ma`ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect). It is very important to advise or guide your relatives to goodness. This is better than giving them money, for guiding and encouraging them to do goodness and stop doing evil is more important than money, as this will benefit them in this worldly life and in the Hereafter. Your sister should not abandon enjoining goodness or forbidding evil, because of her love for her son, brother, sister, and so on. She should enjoin goodness and forbid evil in the way that she deems useful and helpful until she succeeds In sha'a­Allah (if Allah wills) and is free of guilt.",
+          "content_type": "answer",
+          "page_number": 256,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with more Quranic citations",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The third question:",
+        "content_type": "heading_question",
+        "page_number": 256,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "People talk a great deal and have different opinions about the place of the grave of Al­Husayn. Can the Muslims benefit from knowing exactly where it is?",
+          "content_type": "question",
+          "page_number": 256,
+          "confidence": 0.95,
+          "notes": "Third question about Al-Husayn's grave location",
+          "memory_agreement": false
+        },
+        {
+          "text": "Answer: People have in fact differed concerning this. It is said that he is buried in Al­Sham (The Levant), or in Iraq, Allah knows best what is true. With regard to his head, they also differed concerning that; it was said that it is buried in Al­Sham or in Iraq or in Egypt. The correct view is that the site in Egypt is not his grave, rather that is a mistake and the head of Al­Husayn is not there. A number of scholars have written essays on that and explained that there is no evidence for the head of al­Husayn being in Egypt. The most likely view to be correct is the view that it is in Al­Sham, because it was taken to Yazid ibn Mu`awiyah who was in Al­Sham. There is no basis for the view that it was taken to Egypt. Either it was kept in Al­Sham or it was returned to his body in Iraq.",
+          "content_type": "answer",
+          "page_number": 256,
+          "confidence": 0.95,
+          "notes": "Answer about different opinions on Al-Husayn's burial location",
+          "memory_agreement": false
+        },
+        {
+          "text": "Nevertheless, people do not need to know where he was buried or where his head. Rather what is prescribed is to pray that Allah may forgive him and be pleased with him, for he was killed unjustly. So we should pray for him to have forgiveness and mercy and hope for much good for him. He and his brother Al­Hasan will be the master youth of Paradise, as the Prophet (peace be upon him) said. May Allah be pleased with them. If a person's grave is known, there is nothing wrong with saying Salam (Islamic greeting of peace) to him and making Du`a' (supplication) for him, as other graves may be visited,",
+          "content_type": "answer",
+          "page_number": 256,
+          "confidence": 0.9,
+          "notes": "Continuation of answer with guidance on proper conduct",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 367)",
+          "content_type": "navigation",
+          "page_number": 256,
+          "confidence": 1.0,
+          "notes": "Page navigation indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "without going to extremes in that or worshipping them. It is not permissible to ask the dead to intercede, because nothing can be asked of the dead. Rather, we should make Du`a' for them and ask Allah to show mercy for them, if they were Muslims, because the Prophet (peace be upon him) said: Visit the graves for they remind you of the Hereafter.",
+          "content_type": "answer",
+          "page_number": 256,
+          "confidence": 0.9,
+          "notes": "Continued answer with hadith citation about grave visitation",
+          "memory_agreement": false
+        },
+        {
+          "text": "If a person visits the graves of Al­Husayn or Al­Hasan or any other Muslim to make Du`a' for them and pray for them to have mercy and forgiveness, as he would do at the grave of any other Muslim, this is Sunnah (a commendable act). Visiting graves to supplicate to dead people or beseech their help or intercession is a reprehensible action and indeed it is major Shirk (associating others with Allah in His Divinity or worship). It is not permissible to build mosques or domes over graves, because the Messenger (peace be upon him) said: \"May Allah curse the Jews and Christians, for they took the graves of their Prophets as places of worship.\" (Agreed upon by Imams Al­ Bukhari and Muslim) It is authentically narrated from Jabir ibn `Abdullah (may Allah be pleased with them) that the Prophet (peace be upon him) forbade plastering of graves, sitting on them, and building over them. So it is not permissible to plaster over graves, perfume them, place screens around them or build over them; all of that is forbidden and these are means that lead to Shirk. And we should not pray at the graves, because the Prophet (peace be upon him) said: Beware of those who preceded you and used to take the graves of their prophets and righteous men as places of worship, but you should not take graves as Masjids (mosques); I forbid you to do that. [Related by Muslim in his Sahih (authentic) Book on the authority of Jundub ibn `Abdullaah Al­Bajaly(may Allah be pleased with him)] This Hadith indicates that it is not permissible to pray at the graves or to take them as Masjids, because this is a means to Shirk and worshipping someone other than Allah by calling upon them (the occupants of the graves), seeking their help, making vows to them, and touching their graves to seek their blessings. Hence the Prophet (peace be upon him) warned against that. Rather graves should be visited in the manner prescribed in Shari`ah (Islamic law) only, to give Salam to them and make Du`a' for them and pray for them to have mercy without traveling specifically for that purpose. Allah is the Source of strength and the Guide to the straight path.",
+          "content_type": "answer",
+          "page_number": 256,
+          "confidence": 0.95,
+          "notes": "Extended answer with multiple hadith citations about proper grave visitation and prohibitions",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Fifth question: What is the ruling on whoever claims to have seen Allah in a dream? Is it true, as some say that Imam Ahmad Ibn Hanbal saw Allah in a dream more that a hundred times?",
+        "content_type": "heading_question",
+        "page_number": 257,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "A: Shaykh al­Islam Ibn Taymiyyah (may Allah be merciful to him) and others mentioned that it is possible for a person to see his Lord in a dream, but what they see will not be the truth, because nothing resembles Allah (Glorified and Exalted be He), Who says: There is nothing like Him; and He is the All­Hearer, the All­Seer. So nothing",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.9,
+          "notes": "Beginning of scholarly response with Quranic reference",
+          "memory_agreement": true
+        },
+        {
+          "text": "( Part No : 6, Page No: 368)",
+          "content_type": "navigation",
+          "page_number": 257,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "of His creation resembles Him. However, someone may see in their dream that their Lord is speaking to them, yet, whatever visions they see is not Allah, because there is nothing like Him, so none is co­equal or comparable to Him.",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.85,
+          "notes": "Continuation of ruling explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Shaykh Taqy Al­Din (may Allah be merciful to him) mentioned in this regard that this may vary according to the situation of the person who sees it. The more righteous and good the person is, the closer their dream will be to what is true and correct. However, He is different from whatever they see, because the basic principle is that there is nothing like Allah (Glorified and Exalted be He).",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.85,
+          "notes": "Further scholarly explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "However, a person may hear a voice that says so and so or does such and such, without seeing any image that resembles any created being. This is because nothing resembles Allah (Exalted be He). It was narrated that the Prophet (peace be upon him) saw his Lord in a dream, from the Hadith of Mu`adh (may Allah be pleased with him) that the Prophet (peace be upon him) had seen His Lord. It was also narrated via a number of Isnads (chain of narrators) that he saw his Lord and that Allah put His Hand between the Prophet's shoulders so that he felt its coolness on his chest. Al­Hafizh Ibn Rajab wrote an essay on that, entitled \"Ikhtiyar al­Awla fi Sharh Hadith Ikhtisam al­Mala' Al­A`la\". It indicates that the Prophets might have seen their Lord in their dreams. However, seeing the Lord in this world with one's eyes does not happen.",
+          "content_type": "hadith",
+          "page_number": 257,
+          "confidence": 0.9,
+          "notes": "Hadith reference with chain of narration and scholarly citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "Moreover, the Prophet (peace be upon him) had said that no one would see their Lord until they die, related by Muslim in his Sahih. When the Messenger of Allah (peace be upon him) was asked: \"Did you see your Lord\", he said: \"I saw Light\" and in another narration: \"Light, how could I see Him\" (Both were related by Muslim from the Hadith of Abu Zhar (may Allah be pleased with him)).When `Aishah (may Allah be pleased with her) was asked about this, she said that no one in the worldly life shall see Him, for seeing Allah (Exalted be He) in Jannah is the greatest delight presented to the Mu'minun (believers).",
+          "content_type": "hadith",
+          "page_number": 257,
+          "confidence": 0.9,
+          "notes": "Multiple hadith references with proper attribution",
+          "memory_agreement": false
+        },
+        {
+          "text": "Therefore, it only occurs to the people of Jannah (Paradise) and Iman (faith/belief) in the Hereafter as well as the Mu'minun in the place of standing on the Day of Resurrection. This world is the abode of trial and testing shared by both good and evil people. It is not a place for seeing Allah (Exalted be He), as seeing Him is the greatest delight; therefore Allah (Exalted be He) has saved it for His Mu'min servants in the abode of honor on the Day of Resurrection.",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.85,
+          "notes": "Theological explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 369)",
+          "content_type": "navigation",
+          "page_number": 257,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "With regard to seeing Allah (Exalted be He) in a dream as many people claim to have seen, this varies according to the situation of the one who sees. Shaykh Al­Islam Ibn Taymiyah (may Allah be merciful to him) said it is pursuant to their virtue and piety, for some may imagine that they have seen Allah when that is not the case, since Satan may appear to them and make them think that he is their Lord. It was narrated that Satan appeared to `Abdul­Qadir al­Jilany on a throne above the water, and said: \"I am your Lord, and has relieved you of all the obligations upon you\", then shaykh `Abdul­Qadir said: \"Shut up, O enemy of Allah, you are not my Lord, because the commands of my Lord can never be dropped from those who are Mukallafin (persons meeting the conditions to be held legally accountable for their actions)\" ­ or words to that effect.",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.9,
+          "notes": "Warning about satanic deception with historical example",
+          "memory_agreement": false
+        },
+        {
+          "text": "The point is that seeing Allah (Exalted be He) during wakefulness cannot happen to anyone in this world, nor the prophets (peace be upon them), according to the Hadith of Abu Dhar. This is also indicated by Allah's Saying to Musa (Moses) (peace be upon him) when he asked his Lord to let him see Him. Allah (Exalted be He) told him: You cannot see Me However, the Prophets and some of the righteous may see Him in a dream in a manner that does not resemble any of His creation, as stated above in the Hadith of Mu`adh (may Allah be pleased with him).",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.9,
+          "notes": "Final ruling with Quranic and hadith support",
+          "memory_agreement": false
+        },
+        {
+          "text": "However, if there is a command to do something that goes against Shari`ah (Islamic Law), this is a sign that they have not seen their Lord, but rather Satan. If someone sees Satan, he may tell, \"Do not pray, for you have been exempted from obligations\"; \"You do not have to pay Zakah (obligatory charity), fast Ramadan, or honor your parents\", or \"It does not matter if you eat Riba (usury/interest)\" ...and so on – all such things are signs that the person seen in the dream is Satan, not Allah (Exalted be He).",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.85,
+          "notes": "Practical guidance for distinguishing true from false visions",
+          "memory_agreement": false
+        },
+        {
+          "text": "Regarding the reports that Imam Ahmad had seen his Lord, I do not know if they are authentic or not. It is said that he saw his Lord, but I do not know about the credibility of that.",
+          "content_type": "fatwa_ruling",
+          "page_number": 257,
+          "confidence": 0.8,
+          "notes": "Scholar's honest assessment of specific claim",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 6, Page No: 370)",
+        "content_type": "navigation",
+        "page_number": 259,
+        "confidence": 1.0
+      },
+      "content_items": [
+        {
+          "text": "Questions and Their Answers",
+          "content_type": "heading_minor",
+          "page_number": 259,
+          "confidence": 0.9,
+          "notes": "Section heading for Q&A format",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 1: I read a Hadith stating, \"Do not beat or insult a person whose name is Muhammad\", what is the authenticity of this Hadith?",
+        "content_type": "question",
+        "page_number": 259,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "A: This Hadith is Mawdu` (fabricated) and falsely attributed to the Messenger of Allah (peace be upon him). It has no basis in the Purified Sunnah (whatever is reported from the Prophet).",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.95,
+          "notes": "Clear ruling on hadith authenticity",
+          "memory_agreement": true
+        },
+        {
+          "text": "The same applies to the saying, \"Whoever is called Muhammad enjoys the protection of Muhammad and his name will bring him close to Paradise.\" The same applies to those who say, \"Whoever is called Muhammad, his household will have such and such…\" All these reports are baseless. What matters is following Muhammad (peace be upon him), not being called by his name.",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.9,
+          "notes": "Extension of ruling to similar fabricated reports",
+          "memory_agreement": false
+        },
+        {
+          "text": "How many of those who are called Muhammad are evil, because they do not follow Muhammad or implement his Shari`ah (Islamic law)? Names do not purify people; what purifies them is their righteous deeds and their fear of Allah. So whoever is called Ahmad or Muhammad or Abu Al­Qasim and is a Kafir (disbeliever/non­Muslim) or Fasiq (someone flagrantly violating Islamic law) will not benefit from his name.",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.85,
+          "notes": "Theological principle about names vs deeds",
+          "memory_agreement": false
+        },
+        {
+          "text": "Each person should fear Allah and strive to obey Him and adhere to the Shari`ah of Allah with which He sent His Prophet Muhammad. This is what will benefit him and this is the way to salvation and safety. As for names separated from practice in accordance with Shari`ah, they have nothing to do with salvation or punishment.",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.85,
+          "notes": "Positive guidance on true path to salvation",
+          "memory_agreement": false
+        },
+        {
+          "text": "It was a mistake on the part of Al­Busiry to say in his Al­Burdah poem: Verily, I have a security from him due to my name i.e. Muhammad, and he is the most faithful of mankind in fulfilling his promise",
+          "content_type": "citation",
+          "page_number": 259,
+          "confidence": 0.8,
+          "notes": "Critique of famous poem with Arabic poetry quote",
+          "memory_agreement": false
+        },
+        {
+          "text": "He committed worse fatal mistake when he said: Most generous of mankind, I have no one to take refuge in Except you at the occurrence of widespread calamity If at my resurrection, he should not take me by my hand Out of kindness, then say sure I am fallen This world and the Hereafter are indeed some of your generosity And the knowledge of the Preserved Tablet (Lawh) and the Pen is some of your knowledge",
+          "content_type": "citation",
+          "page_number": 259,
+          "confidence": 0.8,
+          "notes": "Extended quote from Al-Burdah poem being criticized",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 371)",
+          "content_type": "navigation",
+          "page_number": 259,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "This poor poet resorts to the Messenger (peace be upon him) instead of Allah (Glorified and Exalted be He). He mentioned that he is lost if the Messenger (peace be upon him) did not help him, forgetting that it is Allah (Glorified be He) Who is Capable of harming, benefiting, giving, withholding and saving His Awliya' (pious people).",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.9,
+          "notes": "Theological critique of the poem's content",
+          "memory_agreement": false
+        },
+        {
+          "text": "He regarded the Messenger (peace be upon him) as the disposer of the worldly life and the Hereafter and that they are some of his bounties. He made him knowledgeable of Ghayb (the Unseen) and that the knowledge of the Lawh, and the Pen are of his knowledge. This is utter Kufr (disbelief) and exaggeration. We ask Allah to grant us well­being and safety.",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.95,
+          "notes": "Strong condemnation of theological errors",
+          "memory_agreement": false
+        },
+        {
+          "text": "If he died while holding this belief, he then died with worst Kufr and deviation. Every Muslim should beware of this exaggeration and should not be deceived by Al­Burdah and its composer. Allah is the one who is sought for help and in Him we trust. There is neither might nor power except with Allah!",
+          "content_type": "fatwa_ruling",
+          "page_number": 259,
+          "confidence": 0.9,
+          "notes": "Final warning with traditional Islamic phrase",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 2: What is the authenticity of the following Hadith: \"Learn Sihr (sorcery), but do not practice it\"?",
+        "content_type": "question",
+        "page_number": 260,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "A: This Hadith is false and baseless. It is not permissible to learn Sihr or to use it. It is an evil action, Kufr (disbelief) and misguidance.",
+          "content_type": "fatwa_ruling",
+          "page_number": 260,
+          "confidence": 0.95,
+          "notes": "Clear ruling on fabricated hadith about sorcery",
+          "memory_agreement": true
+        },
+        {
+          "text": "Allah clearly states that Sihr is forbidden in His Book, where He (Exalted be He) says: \"And they followed what the Shayâtîn (devils) gave out (falsely of the magic) in the lifetime of Sulaimân (Solomon). Sulaimân did not disbelieve, but the Shayâtîn (devils) disbelieved, teaching men magic and such things that came down at Babylon to the two angels, Hârût and Mârût, but neither of these two (angels) taught anyone (such things) till they had said, \"We are only for trial, so disbelieve not (by learning this magic from us).\" And from these (angels) people learn that by which they cause separation between man and his wife, but they could not thus harm anyone except by Allâh's Leave. And they learn that which harms them and profits them not. And indeed they knew that the buyers of it (magic) would have no share in the Hereafter. And how bad indeed was that for which they sold their ownselves, if they but knew. And if they had believed and guarded themselves from evil and kept their duty to Allâh, far better would have been the reward from their Lord, if they but knew!\"",
+          "content_type": "quran_verse",
+          "page_number": 260,
+          "confidence": 0.95,
+          "notes": "Extended Quranic verse about magic and sorcery",
+          "memory_agreement": false
+        },
+        {
+          "text": "Allah (Glorified be He) points out that Sihr is Kufr and that it is from the teachings of the devils. Allah has condemned them for that, and they are our enemies. He states that teaching Sihr is Kufr and that it is harmful and not beneficial, so we must beware of it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 260,
+          "confidence": 0.9,
+          "notes": "Explanation of Quranic teaching",
+          "memory_agreement": false
+        },
+        {
+          "text": "Learning Sihr is all Kufr, hence He states that the two angels did not teach it to people until they had told them, \"We are for trial, so disbelieve not (by learning this magic from us).\" Then He says: but they could not thus harm anyone except by Allâh's Leave. So it is known that it is Kufr and misguidance and that the practitioners of Sihr cannot harm anyone except by Allah's Leave.",
+          "content_type": "fatwa_ruling",
+          "page_number": 260,
+          "confidence": 0.9,
+          "notes": "Further theological explanation",
+          "memory_agreement": false
+        },
+        {
+          "text": "What is meant is His universal Qadari will (i.e. things that He decrees should happen even though He may dislike them), not His religious Shar`y will (i.e. that which He prescribes and which pleases Him) – because Allah has not prescribed this and has not given permission for it",
+          "content_type": "fatwa_ruling",
+          "page_number": 260,
+          "confidence": 0.85,
+          "notes": "Technical theological distinction",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 372)",
+          "content_type": "navigation",
+          "page_number": 260,
+          "confidence": 1.0,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "in His Shari`ah (Islamic law); rather He has forbidden it and stated that it is Kufr and is from the teachings of the devils. He states that whoever buys it – i.e. learns it – will have no share in the Hereafter. This is a serious warning.",
+          "content_type": "fatwa_ruling",
+          "page_number": 260,
+          "confidence": 0.9,
+          "notes": "Continuation of ruling with warning",
+          "memory_agreement": false
+        },
+        {
+          "text": "Then Allah (Glorified be He) says: And how bad indeed was that for which they sold their ownselves, if they but knew. This means that they have sold themselves to the devils for this Sihr. Then, Allah (Glorified be He) says: And if they had believed, and guarded themselves from evil and kept their duty to Allâh, far better would have been the reward from their Lord, if they but knew! This indicates that learning Sihr and using it is the opposite of faith and piety. There is neither might nor power except with Allah!",
+          "content_type": "fatwa_ruling",
+          "page_number": 260,
+          "confidence": 0.9,
+          "notes": "Final explanation with traditional Islamic phrase",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 261 Content",
+        "content_type": "heading_minor",
+        "page_number": 261,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "Q: When someone dies here in Sudan, the family of the deceased including women and",
+          "content_type": "question",
+          "page_number": 261,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "children visit the grave after forty days and open the grave. They have seeds of corn with",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "them, which they scatter over the deceased. They also ­ I think ­ throw stones on the",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "deceased. Is it permissible for women to visit graves?",
+          "content_type": "paragraph",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "A: This is a Bid`ah (innovation in religion) for which there is no basis in the Shari`ah (Islamic",
+          "content_type": "fatwa_ruling",
+          "page_number": 261,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "law). Throwing seeds, perfume, and clothes into the grave are all reprehensible actions for",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "which there is no basis. The grave should not be opened unless there is a good reason for",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "doing so, such as forgetting some tools like shovels by the workers, so it may be opened for",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "that reason, or if one of them has dropped something important, so the grave may be opened",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "to retrieve it. But opening it to scatter seeds or clothes and the like is not permissible. Women",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "should not visit graves, because the Prophet (peace be upon him) cursed women who visit",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "graves. That was narrated from Abu Hurayrah, Ibn `Abbas and Hassan ibn Thabit (may Allah be pleased with",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "them all). It is not permissible for women to visit graves but it is prescribed for men, because",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the Prophet (peace be upon him) said:  “Visit the graves, for they remind you of the Hereafter.”  (Related by",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Muslim in his Sahih (authentic) Book).",
+          "content_type": "navigation",
+          "page_number": 261,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "The underlying wisdom in forbidding women from visiting graves – Allah knows best – is that",
+          "content_type": "heading_major",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "they are a Fitnah (temptation) and they have little patience.",
+          "content_type": "paragraph",
+          "page_number": 261,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 262 Content",
+        "content_type": "heading_minor",
+        "page_number": 262,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "Q 4: If a Christian asks me to give him a Mus­haf (the Qur'an), should I give it to him or not?",
+          "content_type": "heading_major",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "A: You should not give it to him. You should recite the Ever­Glorious Qur'an to him and call",
+          "content_type": "fatwa_ruling",
+          "page_number": 262,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "him to Allah and supplicate Allah to guide him. Allah (Exalted be He) says:  And if anyone of the",
+          "content_type": "heading_major",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh) seeks your protection, then grant him protection so that",
+          "content_type": "paragraph",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "he may hear the Word of Allâh (the Qur’ân), and then escort him to where he can be secure  The Prophet (peace be upon",
+          "content_type": "heading_major",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "him) said:  Do not travel",
+          "content_type": "navigation",
+          "page_number": 262,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "( Part No : 6, Page No: 373)",
+          "content_type": "navigation",
+          "page_number": 262,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "with the Qur'an to the land of the enemy, lest it should fall to their hands.  This lends support to the fact that the Mus­haf should not",
+          "content_type": "paragraph",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "be given to the Kafirs (disbeliever/non­Muslim), for fear that they may misuse or play with it. However, it is permissible to teach them",
+          "content_type": "paragraph",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and recite the Ever­Glorious Qur'an to them and call them to accept it. If they embrace Islam, you may hand it to them. There is",
+          "content_type": "paragraph",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "nothing wrong with giving them some books of Tafsir (explanation/exegesis of the meanings of the Qur'an), Hadith, or translations of",
+          "content_type": "paragraph",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "the Ever­Glorious Qur'an, if there is hope that they may benefit from them.",
+          "content_type": "paragraph",
+          "page_number": 262,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 263 Content",
+        "content_type": "heading_minor",
+        "page_number": 263,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "Q 5: Would you please address us about the reward Allah promises those who are patience",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and do righteous deeds in this world and in the Hereafter? What should one do to deter his",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "love of the worldly life and its pleasures?",
+          "content_type": "navigation",
+          "page_number": 263,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "A: Indeed, Allah has created mankind to worship him Alone with no partners by obeying His",
+          "content_type": "fatwa_ruling",
+          "page_number": 263,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "Commands, forsaking His Prohibitions, and making frequent Dhikr (Remembrance of Allah).",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "He (Exalted be He) says:  And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone).",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Worshipping Allah means Tawhid (belief in the Oneness of Allah/monotheism) through",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Du`a' (supplication), fear, hope, Salah (prayer), Sawm (fast), etc. beside carrying out His",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Commands and avoiding His Prohibitions. To those who do this Allah promises well­being and",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "good end in the worldly life and Jannah (Paradise) and honor in the Hereafter. He (Exalted be",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "He) says:  So be patient. Surely, the (good) end is for Al­Muttaqûn (the pious)  Allah (Glorified be He) also says:",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "but give glad tidings to As­Sâbirûn (the patient).",
+          "content_type": "paragraph",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Who, when afflicted with calamity, say: \"Truly! To Allâh we belong and truly, to",
+          "content_type": "paragraph",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Him we shall return.\"",
+          "content_type": "navigation",
+          "page_number": 263,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "They are those on whom are the Salawât (i.e. who are blessed and will be forgiven) from their Lord, and",
+          "content_type": "paragraph",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(they are those who) receive His Mercy, and it is they who are the guided ones.  The Prophet (peace be upon him)",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "said:  Nobody can be given a blessing better and greater than patience.  The patient will attain the good end in",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "this world and the Hereafter or will attain the good end in the Hereafter, if they keep",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "patiently to Taqwa (fearing Allah as He should be feared), obey Allah, and endure afflictions",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "i.e. poverty, misery or disease. Patience has a good outcome. With regard to believers and",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "their enemy, Allah (Exalted be He) says:  But if you remain patient and become Al­Muttaqûn [the pious ­ See V.2:2],",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "not the least harm will their cunning do to you. Surely, Allâh surrounds all that they do.",
+          "content_type": "paragraph",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Patience has good consequences, if one exercises it while obeying Allah during worldly",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "misfortunes; he who remains steadfast to the Command of Allah will get the blessing in the",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Hereafter. The patient person has a clear conscience; he strives",
+          "content_type": "paragraph",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 6, Page No: 374)",
+          "content_type": "navigation",
+          "page_number": 263,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "for the Sake of Allah and remains patient with poverty and hardships that befall him, so he",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "will attain the blessings of Jannah in the Hereafter due to his Iman (Faith/belief) and Taqwa.",
+          "content_type": "heading_major",
+          "page_number": 263,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah knows best.",
+          "content_type": "navigation",
+          "page_number": 263,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Page 264 Content",
+        "content_type": "heading_minor",
+        "page_number": 264,
+        "confidence": 0.5
+      },
+      "content_items": [
+        {
+          "text": "A Piece of advice to those encouraging the shaving of beards",
+          "content_type": "heading_major",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "From `Abdul `Aziz Ibn `Abdullah Bin Baz to the honorable brother, the editor­in­chief of Okaz newspaper, may",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Allah protect him!",
+          "content_type": "navigation",
+          "page_number": 264,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "It was published in Sha`ban 18, 1393 A.H. on Mujtama`una Page [Society page] a short article entitled,",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "\"Negligence destroys marital life\" in which the writer says, \"A man might neglect his looks at the weekend by",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "not shaving his beard and so he looks shabby and sad.\" This saying is Munkar (that which is unacceptable or",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "disapproved of by Islamic law and Muslims of sound intellect). It is an invitation to contradict the Sunnah,",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "therefore, I thought it is my duty to advise you and the Muslims to ward off the punishment [of keeping",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "silent when advice is necessary].",
+          "content_type": "navigation",
+          "page_number": 264,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "A wise man knows that the best of generations is the generation of the Messenger of Allah (peace be upon",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "him). The Sahabah (Companions of the Prophet, may Allah be pleased with them) did not shave their beards",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "following the example of the Messenger of Allah (peace be upon him) and in compliance with his",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "commands. The Prophet (peace be upon him) said,  Trim closely the mustache and grow the beard. Be different from the",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "fire­worshippers.  (Related by Muslim in his Sahih (authentic) book of Hadith).The Prophet (may Allah's Peace",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "and Blessings be upon him) also says:  Trim closely the mustache and let the beard grow to be contradictory to the",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "disbelievers.  (Agreed upon by Al­Bukhari and Muslim).It is also to avoid contradicting him (peace be upon",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "him). The last generations of this Ummah (nation) will not succeed except with what brought success to the",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "first generations. The blind imitation of the enemies of Islam and the abandonment of the teachings of",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Shari`ah made many people exchange that which is good for that which is evil.",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "( Part No : 6, Page No: 375)",
+          "content_type": "navigation",
+          "page_number": 264,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "They also invite others to shave their beards as in the article published in your newspaper. The Prophet",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "(peace be upon him) said in an authentic Hadith,  Anyone who calls others to (follow the Right) Guidance will have a",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "reward equal to the reward of those who follow him, without their reward being diminished at all and whoever invites others to follow",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "misguidance, their sin will be equivalent to that of the people who follow them (in sinfulness) without their sins being diminished in any",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "respect.\"",
+          "content_type": "navigation",
+          "page_number": 264,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "You should beware of publishing anything that contradicts the Shari`ah. Rather, you should publish the",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "Shari`ah teachings and guidance. Your newspaper should be a key to guidance. I did not know of this article",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "until 5/1/ 1394 A.H. and this is the reason for my late reply.",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "May Allah guide us all to what pleases Him! May He guide us to His Straight Path and protect us from the evil",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "of ourselves and the evil consequences of our deeds.",
+          "content_type": "paragraph",
+          "page_number": 264,
+          "confidence": 0.5,
+          "notes": "fallback_classification"
+        },
+        {
+          "text": "As­salamu `alaykum warahmatullah wabarakatuh",
+          "content_type": "navigation",
+          "page_number": 264,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        },
+        {
+          "text": "President of the Islamic University in Al­Madinah",
+          "content_type": "navigation",
+          "page_number": 264,
+          "confidence": 0.7,
+          "notes": "memory_prediction"
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Q 3: There is a man who is a partner with another in a shop selling cameras. He has repented, so how can he end his partnership in a way that saves him from loss? What is the ruling on the money he earns from this shop?",
+        "content_type": "heading_question",
+        "page_number": 269,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "A: He should end the partnership by evaluating the worth of the contents of the shop and make a deal with his partner. Whatever he receives from this deal is permissible for him unless it includes pictures of animate beings or any other Haram (prohibited) images, in which case it is not permissible for him to keep that money; rather he should give it in charity.",
+          "content_type": "fatwa_ruling",
+          "page_number": 269,
+          "confidence": 0.95,
+          "notes": "Complete fatwa ruling on partnership dissolution",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 6, Page No: 381)",
+        "content_type": "navigation",
+        "page_number": 270,
+        "confidence": 1.0
+      },
+      "content_items": []
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Reconciliation between the two Hadith on Ruqyah, amulets, and love charms",
+        "content_type": "heading_minor",
+        "page_number": 270,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: On the authority of `Abdullah ibn Mas`ud (may Allah be pleased with him) that he heard the Messenger of Allah (peace be upon him) say, (Illegal) Ruqyah (saying some words over the sick seeking healing), amulets, and love charms are Shirk (associating others in worship with Allah). It is also narrated on the authority of Jabir (may Allah be pleased with him) who said, My maternal uncle used to treat the sting of a scorpion with Ruqyah. The Messenger of Allah (peace be upon him) later forbade the use of Ruqyah (for treatment). My uncle then went to him and said, \"O Messenger of Allah, you forbade to practice Ruqyah, whereas I employ it for curing the sting of scorpions.\" The Prophet (peace be upon him) replied, \"Whoever amongst you is able to benefit his brother should do so.\" How can we reconcile between the Hadith denoting permissibility and the other denoting impermissibility of Ruqyah? What is the ruling on wearing an amulet which contains Ayahs (verses) of the Qur'an? A question submitted by `A.S.F. from Riyadh.",
+          "content_type": "question",
+          "page_number": 270,
+          "confidence": 0.9,
+          "notes": "Complex question containing hadith citations and specific inquiry",
+          "memory_agreement": false
+        },
+        {
+          "text": "A: The prohibited Ruqyahs are those which contain Shirk, Tawassul (supplicating) to anything beside Allah, or using spells. If the Ruqyah is free from these things, it will be permissible and will greatly help for recovery. The Prophet (peace be upon him) said, There is no harm in the Ruqyah which does not contain Shirk. and \"Whoever amongst you is able to benefit his brother should do so.\" (Related by Muslim in his Sahih (authentic) book of Hadith).The Prophet (peace be upon him) also said, Ruqyah is greatly recommended for treating the evil eye and a scorpion sting. The meaning of this Hadith is that it is more worthy to practice Ruqyah when afflicted with those two things. The Prophet (peace be upon him) recited Ruqyah over himself and over other people.",
+          "content_type": "fatwa_ruling",
+          "page_number": 270,
+          "confidence": 0.95,
+          "notes": "First part of comprehensive fatwa ruling on Ruqyah",
+          "memory_agreement": true
+        },
+        {
+          "text": "However, it is not permissible for patients or children to wear amulets. These prohibited Ruqyahs are called amulets, Hirz (protective amulet), or Jawami`. All these kinds of amulets are prohibited and are considered a form of Shirk. The Prophet (peace be upon him) said, If anyone wears an amulet, Allah will not fulfill it (i.e. what they want) for them, and if anyone wears a cowrie shell, Allah will not protect them. , Whoever wears an amulet commits an act of Shirk. and (Illegal) Ruqyah, amulets, and love charms are (types of) Shirk.",
+          "content_type": "fatwa_ruling",
+          "page_number": 270,
+          "confidence": 0.95,
+          "notes": "Continuation of fatwa ruling on amulets",
+          "memory_agreement": false
+        },
+        {
+          "text": "Scholars held different views with regard to the permissibility or impermissibility of amulets that contain Ayahs from the Qur'an or permissible Du`a' (supplications). The preponderant opinion is that they are impermissible for two reasons:",
+          "content_type": "fatwa_ruling",
+          "page_number": 270,
+          "confidence": 0.9,
+          "notes": "Introduction to scholarly opinion on Quranic amulets",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 382)",
+          "content_type": "navigation",
+          "page_number": 270,
+          "confidence": 1.0,
+          "notes": "",
+          "memory_agreement": true
+        },
+        {
+          "text": "First: the general meaning of the previously mentioned Hadith as they include all amulets whether they contain verses of the Qur'an or not. Second: Blocking the means that lead to Shirk. If the amulets that contain verses from the Qur'an are permitted, they would be mixed with others and this would lead to using other amulets. It is known that blocking the means leading to sins and Shirk is one of the great rules of Shari`ah.",
+          "content_type": "fatwa_ruling",
+          "page_number": 270,
+          "confidence": 0.95,
+          "notes": "Two reasons for prohibition of Quranic amulets",
+          "memory_agreement": false
+        },
+        {
+          "text": "May Allah grant us success!",
+          "content_type": "signature",
+          "page_number": 270,
+          "confidence": 0.9,
+          "notes": "Standard closing phrase",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Different questions about the ruling on customary/prideful practice of Isbal",
+        "content_type": "heading_minor",
+        "page_number": 271,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q: What is the ruling on Isbal (lengthening and trailing clothing below the ankles) out of pride or for other reasons? What is the ruling on Isbal, if one is forced to do it because of the family when young or because of the prevailing customs?",
+          "content_type": "question",
+          "page_number": 271,
+          "confidence": 0.95,
+          "notes": "Question about Isbal under different circumstances",
+          "memory_agreement": true
+        },
+        {
+          "text": "A: The ruling is that it is Haram (prohibited) for men, because the Prophet (peace be upon him) said: The part of an Izar (garment worn below the waist) which trails below the ankles is in the Fire. (Related by Al­Bukhari in his Sahih (authentic) Book of Hadith).Also, Muslim related in his Sahihon the authority of Abu Dharr (may Allah be pleased with him) who narrated that the Messenger of Allah (peace be upon him) said: Three persons whom Allah shall neither speak to, nor look at, nor purify on the Day of Resurrection, and they shall have a painful torment: he who lets his Izar trail below his ankles, whoever reminds (the people) of what they give, and whoever sells their merchandise by false swearing.",
+          "content_type": "fatwa_ruling",
+          "page_number": 271,
+          "confidence": 0.95,
+          "notes": "Initial ruling with hadith evidence",
+          "memory_agreement": true
+        },
+        {
+          "text": "These two Hadiths and what is similar to them in meaning are applicable to whoever lets their Izar trail below their ankles out of pride or for any other reason, because the Prophet (peace be upon him) did not specify any reason in the quoted Hadith. If Isbal is made out of pride, the sin would be worse and the threat of punishment would be severer, because the Prophet (peace be upon him) said: Allah will not look on the Day of Resurrection at him who trails his garment out of pride. It is not permissible to think that Isbal is Haram only when it is done out of pride, because the Messenger (peace be upon him) did not restrict the prohibition to",
+          "content_type": "fatwa_ruling",
+          "page_number": 271,
+          "confidence": 0.9,
+          "notes": "Explanation of ruling regardless of intention",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 383)",
+          "content_type": "navigation",
+          "page_number": 271,
+          "confidence": 1.0,
+          "notes": "",
+          "memory_agreement": true
+        },
+        {
+          "text": "this reason in the above­quoted Hadith and also did not specify any other reason in the following Hadith when he said to some of his Sahabah (Companions of the Prophet): Avoid Isbal, for it is a sign of pride. He (peace be upon him), thus, stated that Isbal is a sign of pride, because it is almost done for that. Whoever does Isbal, not out of pride, has in fact committed an act which is a means to pride, because the means have the same ruling of objectives. Also, Isbal denotes extravagance and subjects clothes to dirt. It is authentically reported from `Umar (may Allah be pleased with him) that when he saw a young man whose garment was touching the ground, he said, \"Lift up your garment, for this (act) is more obedient to your Lord and cleaner for your garment.\"",
+          "content_type": "fatwa_ruling",
+          "page_number": 271,
+          "confidence": 0.95,
+          "notes": "Detailed explanation with companion's example",
+          "memory_agreement": true
+        },
+        {
+          "text": "The Prophet (peace be upon him) said to Abu Bakr Al­Siddiq (may Allah be pleased with him) when the latter said: O Messenger of Allah, my Izar slips down unless I hold it. The Prophet (peace be upon him) said: You are not of those who do it out of pride. The Prophet (peace be upon him) means that the one who holds his garment when it slips down is not regarded as a person who makes Isbal out of pride, because this is done unintentionally and he tries to prevent this by holding it whenever it slips down. Definitely, such a person is excused. On the other hand, if a person intends to make Isbal, whether of Bisht (cloak), trousers, or shirts, he is included in the threat and has no excuse for doing so. This is because the Sahih Hadiths on the prohibition of Isbal are applicable to him, whether by their wordings or meanings. Accordingly, all Muslims must beware of Isbal, fear Allah, and take care not to lower their garments below their ankles, to act in accordance to these Sahih Hadiths and be cautious of Allah's Anger and Punishment. Allah is the One Who grants success!",
+          "content_type": "fatwa_ruling",
+          "page_number": 271,
+          "confidence": 0.95,
+          "notes": "Exception case and final conclusion",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Ruling on whoever lowers his garment and lengthens his trousers",
+        "content_type": "heading_minor",
+        "page_number": 272,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q : Some people lower their garments to be above the ankle but their trousers remain long. What is the ruling on this?",
+          "content_type": "question",
+          "page_number": 272,
+          "confidence": 0.95,
+          "notes": "Specific question about trousers vs garments",
+          "memory_agreement": false
+        },
+        {
+          "text": "A : Isbal (lengthening and trailing cloths below the ankles) is unlawful and unacceptable (in religion) whether this is in shirts, garments, trousers, or Al­Bisht (A woolen robe worn by Bedouins). Isbal means lengthening and trailing cloths below the ankles. This is because the Prophet (peace be upon him) said: The part of a garment which hangs below the ankles is in the Fire. (Narrated by Al­Bukhari)",
+          "content_type": "fatwa_ruling",
+          "page_number": 272,
+          "confidence": 0.95,
+          "notes": "Clear ruling on all types of clothing",
+          "memory_agreement": false
+        },
+        {
+          "text": "The Prophet (peace be upon him) also said: Three persons whom Allah shall neither speak to on the Day of Resurrection, nor look at,",
+          "content_type": "fatwa_ruling",
+          "page_number": 272,
+          "confidence": 0.8,
+          "notes": "Beginning of hadith citation",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 384)",
+          "content_type": "navigation",
+          "page_number": 272,
+          "confidence": 1.0,
+          "notes": "",
+          "memory_agreement": true
+        },
+        {
+          "text": "nor purify, and they shall have a painful torment: he who lets his Izar (lower garment) hang below his heels (out of pride), he who reminds (the people) of what he gives, and he who sells his merchandise by false swearing. (Narrated by Muslim in his Sahih).The Prophet (peace be upon him) said to some of his Companions: Beware of trailing the lower garment, for it is conceit. These Hadiths indicate that Isbal (lengthening and trailing cloths below the ankles) is one of the major sins even if the person doing so claims that he does not intend to show conceit at all. As for the person who wants to show conceit by doing so, his sin is worse, as the Prophet (peace be upon him) said: Allah will not look on the Day of Judgment at him who drags his robe (behind him) out of pride. This is because such a person committed both Isbal (lengthening and trailing cloths below the ankles) and arrogance. We implore Allah to grant us safety from this.",
+          "content_type": "fatwa_ruling",
+          "page_number": 272,
+          "confidence": 0.95,
+          "notes": "Complete hadith and explanation of major sin classification",
+          "memory_agreement": false
+        },
+        {
+          "text": "As for what the Prophet (peace be upon him) said to Abu Bakr when he said to him (peace be upon him): O Messenger of Allah, my Izar slips down unless I hold it. The Prophet (peace be upon him) said: \"You are not of those who do it out of pride,\" This Hadith does not indicate that Isbal is permissible for the one who does not intend to show conceit. It indicates that the person whose Izar slips down without intending to show conceit and the person who holds it just to be on the safe side, is guiltless. Some people lower the trousers under the ankle, and this is not permissible. The Sunnah of the Prophet (peace be upon him) is that shirts, and so on, should be halfway between the shin and the ankles according to all Hadiths. May Allah grant us success!",
+          "content_type": "fatwa_ruling",
+          "page_number": 272,
+          "confidence": 0.95,
+          "notes": "Final clarification and proper Sunnah practice",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "Paying a bribe to officials",
+        "content_type": "heading_minor",
+        "page_number": 273,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q : A questioner from Biljirshy, Kingdom of Saudi Arabia, says, ''Is it permissible for me to pay a bribe to an official from among those who judge in cases, such as judges, heads of committees and those who make surveys of lands, taking into account that I can only take my right through paying a bribe? If I refuse to pay, I will lose my right and if I pay, I will obtain my right without encroaching upon the right of any other person. Is this permissible? What about the Hadith of the Messenger of Allah (peace be upon him) in which he said: Allah has cursed the briber, the bribed, and the mediator between them.\"",
+          "content_type": "question",
+          "page_number": 273,
+          "confidence": 0.95,
+          "notes": "Question about permissibility of paying bribes with hadith reference",
+          "memory_agreement": false
+        },
+        {
+          "text": "A : It is impermissible to pay a bribe to any official whether they are judges, rulers, or committees judging between people. There is no doubt that this is unlawful and it is one of the major sins according to the Hadith mentioned above and because this is a means to injustice and loss of the right of the one who does not pay it.",
+          "content_type": "fatwa_ruling",
+          "page_number": 273,
+          "confidence": 0.95,
+          "notes": "Clear ruling against bribery",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "( Part No : 6, Page No: 385)",
+        "content_type": "navigation",
+        "page_number": 274,
+        "confidence": 0.95
+      },
+      "content_items": [
+        {
+          "text": "( Part No : 6, Page No: 385)",
+          "content_type": "navigation",
+          "page_number": 274,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "The Green Man",
+        "content_type": "heading_minor",
+        "page_number": 274,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q : Faithfully, I believe that there is no God but Allah alone. I heard some people saying that there is a man whose color and dress are purely white. There were no signs of travel on him. This man is called Al­Rajul Al­Akhdar i.e. the green man. If such a man gives you something, your money will be blessed. If he enters a store, its earnings will increase. Please guide us. Are these matters believable or just Bid'ahs (Innovation in religion)?",
+          "content_type": "question",
+          "page_number": 274,
+          "confidence": 0.95,
+          "notes": "Question about belief in the Green Man",
+          "memory_agreement": false
+        },
+        {
+          "text": "A : This is a false baseless claim. Such a man does not exist. Some people claim that such a man is Al­Khadir. Yet, this is not sound, because Al­Khadir already died before the mission of the Prophet (peace be upon him) according to the most appropriate view held by scholars. The superstition you have mentioned is inspired by Satan and is baseless. You should be aware of that and should not be tempted by the claims of charlatans.",
+          "content_type": "fatwa_ruling",
+          "page_number": 274,
+          "confidence": 0.95,
+          "notes": "Ruling against belief in the Green Man superstition",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A man offers a sacrificial animal on behalf of his father and grandfather every year",
+        "content_type": "heading_minor",
+        "page_number": 275,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q : I have a cousin who slaughters an animal on behalf of his father and grandfather every year. I advised him many a time but he said that he inquired about this issue and knew that there is no sin in doing so. Please, advise. Is what he says correct or not?",
+          "content_type": "question",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "Question about sacrificing animals on behalf of deceased relatives",
+          "memory_agreement": false
+        },
+        {
+          "text": "A : If such a person slaughters an animal throughout the four days of `Eid­ul­Adha (the Festival of the Sacrifice) on behalf of his father or grandfather with the intention to offer sacrifice, then there is no harm in doing so. If he slaughters an animal at any time intending to give charity to the poor on their behalf, then there is no harm in doing so because charity benefits both the dead and the living, whether it is meat or something else like money or food. All these benefit the dead and the living. It is authentically narrated from Allah's Messenger (peace be upon him) that he was asked whether a woman whose son gives charities on behalf of her after her death will receive a reward. He answered in the affirmative. It is narrated in Sahih Muslim(may Allah be merciful with him) that the Prophet (peace be upon) said: When a man dies, his acts come to an end but three: a recurring charity, or knowledge (by which people) benefit, or a pious son, who prays for him (i.e. for the deceased). In conclusion, giving Sadaqah on behalf of the deceased is beneficial to him or her according to the consensus of Muslim scholars. The same applies to supplicating Allah (Exalted be He) for him. Thus, such a person can slaughter an animal on behalf of his father, grandfather, or any other person, whether intending to offer it as charity or as a sacrifice to be slaughtered throughout the four days of `Eid­ul­Adha (the Festival of the Sacrifice) to draw them nearer to Allah (may He be Praised and Glorified). However, it is not allowed",
+          "content_type": "fatwa_ruling",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "Detailed ruling on sacrificing for deceased with hadith citations",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 386)",
+          "content_type": "navigation",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "for him to appoint for such a sacrifice a fixed day or month other than the four days of `Eid­ul­ Adha (the Festival of the Sacrifice), except when focusing on the honored times like Ramadan and the first nine days of Dhul­Hijjah. There is no harm in doing so. There is a reward for the dead as well as the person offering the sacrifice according to the degree of his sincerity to Allah (Exalted be He) and the lawfulness of his earnings. On the contrary, if such a person does so intending to draw nearer to the dead as done by those sacrificing for the dead, the sun, the moon, or Jinn, then this is an act of major Shirk (associating others in worship with Allah), because it is not permissible for any one to draw near to any person through slaughtering, vowing, or any other act of worship exclusively confined to Allah (Glorified and Exalted be He). Allah (Glorified and Exalted be He) says: Say (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ): \"Verily, my Salât (prayer), my sacrifice, my living, and my dying are for Allâh, the Lord of the 'Alamîn (mankind, jinn and all that exists). \"He has no partner. And of this I have been commanded, and I am the first of the Muslims.\" Allah (Glorified and Exalted be He) also says: Verily, We have granted you (O Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) Al­Kauthar (a river in Paradise). Therefore turn in prayer to your Lord and sacrifice (to Him only). The Prophet (Peace be upon him) also says: \"Allah has cursed the one who slaughters (a sacrifice) to other than Allah…\" Narrated by Muslimin his Sahih. Thus, slaughtering for the Jinn, the dead, or other creatures, such as idols, planets, and the like, whether the slaughterer hopes for their intercession, believes that they benefit or save him from illness, or the like is legally unacceptable and Shirk (associating others in worship with Allah). The one who slaughters on behalf of one's father or grandfather believing that they can benefit him, cure an ill relative, or draw one near to Allah is like a person who slaughters for the sun, the moon, or the stars. All such acts are Shirk. We implore Allah to grant us safety.",
+          "content_type": "fatwa_ruling",
+          "page_number": 275,
+          "confidence": 0.95,
+          "notes": "Continuation of ruling with Quranic verses and warnings about shirk",
+          "memory_agreement": false
+        }
+      ]
+    },
+    {
+      "type": "content_section",
+      "heading": {
+        "text": "A father invoking curse upon his son",
+        "content_type": "heading_minor",
+        "page_number": 276,
+        "confidence": 0.9
+      },
+      "content_items": [
+        {
+          "text": "Q : A man has three sons who are obedient to him, but he invokes curses upon them. Can this harm them?",
+          "content_type": "question",
+          "page_number": 276,
+          "confidence": 0.95,
+          "notes": "Question about father cursing his children",
+          "memory_agreement": false
+        },
+        {
+          "text": "A : It is impermissible for a person to invoke curses upon his children. Rather, he should beware of such things, because this can be at a time when invoking curse is answered. A father should not invoke curses upon his children. If the children are righteous, this will make it even worse and impermissible to invoke curses upon them. However neglectful they might be, a father should not invoke curses upon them. He should supplicate Allah (Exalted be He) to grant them guidance, righteousness, and success. This is what the believer should do. The narrations reported from the Prophet (peace be upon him) warned Muslims against invoking curses upon children, family, or property lest this should correspond with a time when invoking curses is answered. Thus, a person may harm himself, his family, or children. Dear",
+          "content_type": "fatwa_ruling",
+          "page_number": 276,
+          "confidence": 0.95,
+          "notes": "Ruling against cursing children with prophetic guidance",
+          "memory_agreement": false
+        },
+        {
+          "text": "( Part No : 6, Page No: 387)",
+          "content_type": "navigation",
+          "page_number": 276,
+          "confidence": 0.95,
+          "notes": "Page reference indicator",
+          "memory_agreement": true
+        },
+        {
+          "text": "inquirer, you should hold your tongue and advise any one doing so to control his tongue, fear Allah, and abstain from invoking curses upon one's children or upon any other Muslim. He should supplicate Allah to grant them good, success, and righteousness.",
+          "content_type": "fatwa_ruling",
+          "page_number": 276,
+          "confidence": 0.95,
+          "notes": "Continuation of advice about cursing",
+          "memory_agreement": false
+        }
+      ]
+    }
+  ]
+}
