@@ -27,14 +27,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
       // Add question pages
       for (const heading of headings) {
-        if (heading.content_count > 0) {
-          sitemapEntries.push({
-            url: `https://al-ifta.com/volume/${volumeId}/section/${heading.section_id}`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.6,
-          });
-        }
+        sitemapEntries.push({
+          url: `https://al-ifta.com/volume/${volumeId}/section/${heading.section_id}`,
+          lastModified: new Date(),
+          changeFrequency: 'weekly',
+          priority: 0.6,
+        });
       }
     } catch (error) {
       // Skip volumes that don't exist
