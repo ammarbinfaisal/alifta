@@ -194,8 +194,11 @@ export default async function HomePage() {
               Majmoo'al-Fatawa of Ibn Bazz
             </h1>
             <p className="text-lg text-gray-600">
-              Complete Collection - {volumes.length} Volumes
+              Collection - {volumes.length} / 30 Volumes
             </p>
+            <a className='underline' href='https://github.com/ammarbinfaisal/alifta'>
+              Source Code
+            </a>
           </div>
         </header>
         <VolumeIndex volumes={volumes} />
