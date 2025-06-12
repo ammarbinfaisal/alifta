@@ -1,0 +1,45 @@
+{
+  "total_fallbacks": 4,
+  "fallbacks": [
+    {
+      "page_number": 121,
+      "section_index": 114,
+      "heading_text": "Page 121 Content",
+      "content_items_count": 65,
+      "avg_confidence": 0.54,
+      "needs_retry": true,
+      "file_source": "vol4.json",
+      "content_preview": "\"he tore it up\")..."
+    },
+    {
+      "page_number": 122,
+      "section_index": 115,
+      "heading_text": "Page 122 Content",
+      "content_items_count": 65,
+      "avg_confidence": 0.5246153846153846,
+      "needs_retry": true,
+      "file_source": "vol4.json",
+      "content_preview": "the major sins entailing the threat of punishment in the Fire...."
+    },
+    {
+      "page_number": 123,
+      "section_index": 116,
+      "heading_text": "Page 123 Content",
+      "content_items_count": 69,
+      "avg_confidence": 0.5405797101449274,
+      "needs_retry": true,
+      "file_source": "vol4.json",
+      "content_preview": "\"Zayd then fell ill and we went to visit him but there was a curtain with a sura hanging at his door..."
+    },
+    {
+      "page_number": 124,
+      "section_index": 117,
+      "heading_text": "Page 124 Content",
+      "content_items_count": 56,
+      "avg_confidence": 0.5214285714285715,
+      "needs_retry": true,
+      "file_source": "vol4.json",
+      "content_preview": "doing it...."
+    }
+  ]
+}

@@ -574,22 +574,22 @@
     },
     {
       "section_id": 114,
-      "text": "Page 121 Content",
+      "text": "Hadith Collection on Images and Pictures",
       "type": "heading_minor"
     },
     {
       "section_id": 115,
-      "text": "Page 122 Content",
+      "text": "Prohibition of Taswir (Image-making)",
       "type": "heading_minor"
     },
     {
       "section_id": 116,
-      "text": "Page 123 Content",
+      "text": "Religious Ruling on Hanging Curtains with Images",
       "type": "heading_minor"
     },
     {
       "section_id": 117,
-      "text": "Page 124 Content",
+      "text": "Continuation of Fatwa on Images and Dolls",
       "type": "heading_minor"
     },
     {
@@ -10430,473 +10430,155 @@
       "section_id": 114,
       "original_section_index": 114,
       "heading": {
-        "text": "Page 121 Content",
+        "text": "Hadith Collection on Images and Pictures",
         "type": "heading_minor",
         "page_number": 121,
-        "confidence": 0.5
+        "confidence": 0.85
       },
       "content_items": [
         {
-          "text": "\"he tore it up\")",
+          "text": "She also narrated: The Prophet (peace be upon him) returned from a journey and I had hung a thick curtain having suras. He ordered me to remove it and I did. (Related by Al-Bukhary). Imam Muslim also related it with the following wording: I had screened my door with a thick curtain having suras of winged horses. He ordered me to remove it and I did.",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "On the authority of Al-Qasim ibn Muhammad from `Aishah who narrated: I bought a cushion with suras on it. When Allah's Messenger (peace be upon him) saw it, he kept standing at the door and did not enter the house. I noticed the sign of disgust on his face, so I said, \"O Allah's Messenger! I repent to Allah and to His Messenger. (Please let me know) what sin I have done.\" He (peace be upon him) said, \"What about this cushion?\" I replied, \"I bought it for you to sit and recline on.\" Allah's Messenger (peace be upon him) said, \"The makers of these suras will be punished on the Day of Resurrection. It will be said to them, 'Breathe life into what you have created.'\" He (peace be upon him) added, \"Angels do not enter a house where there are suras.\" (Related by Al-Bukhary and Muslim). Muslim added from Ibn Al-Majishun that `Aishah said: \"I took it and turned it into two pillows on which he used to recline at home.\")",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "It is reported from Ibn `Abbas (may Allah be pleased with both of them) that the Messenger of Allah (peace be upon him) said: Angels do not enter a house in which there is a dog or a sura. (Agreed upon by Al-Bukhary and Muslim). This wording is reported by Muslim).",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "It is related by Muslim on the authority of Zayd ibn Khalid from Abu Talhah that the Prophet (peace be upon him) said: Angels do not enter a house in which there is a dog or a statue.",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "[It is also reported] in Sahih Al-Bukhary from Ibn `Umar (may Allah be pleased with them) that the Prophet (peace be upon him) said, \"Jibril said: We do not enter a house in which there is a dog or a sura.\" The same Hadith was related by Muslim on the authority of `Aishah and Maymunah.",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 213)",
           "content_type": "navigation",
           "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.98,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "She also narrated:  The Prophet (peace be upon him) returned from a journey and I had hung a thick curtain having suras. He",
-          "content_type": "paragraph",
+          "text": "Also, Muslim related on the authority of Abu Al-Hayyaj Al-Asdiy who said: `Ali (may Allah be pleased with him) said to me: Shall I not order you of the same thing which the Messenger of Allah (peace be upon him) ordered me; leave no sura unspoiled and leave no outstanding grave unleveled. It is related by Abu Dawud with a good Sanad (chain of narration)on the authority of Jabir (may Allah be pleased with him) that the Prophet (peace be upon him) ordered `Umar ibn Al-Khattab during the time of the Conquest of Makkah while he was in Al-Bat-ha' to go to Al-Ka`bah and efface every sura in it. The Prophet (peace be upon him) only entered it when all suras were effaced.",
+          "content_type": "hadith",
           "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "ordered me to remove it and I did.  (Related by Al­Bukhary). Imam Muslim also related it with the following wording:  I had screened",
-          "content_type": "paragraph",
+          "text": "Moreover, Abu Dawud Al-Tayalisi related in his Musnadon the authority of Usamah who said: I went to the Messenger of Allah (peace be upon him) in Al-Ka`bah and he saw suras. He, thus, ordered to bring him a bucket of water and when I did, he began erasing them, saying: May Allah fight those who make Taswir of what they are not able to create. Al-Hafizh said: Its Sanad (chain of narrators) is good.",
+          "content_type": "hadith",
           "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "my door with a thick curtain having suras of winged horses. He ordered me to remove it and I did.",
-          "content_type": "paragraph",
+          "text": "He said: `Umar ibn Shabbah related from `Abdul-Rahman ibn Mahran from `Umayr, the servant of Ibn `Abbas, from Usamah that: The Prophet (peace be upon him) entered Al-Ka`bah and ordered me to bring him some water in a bucket. He wet his garment and beat the suras with it, saying: May Allah fight those who make Taswir of what they are not able to create.",
+          "content_type": "hadith",
           "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "On the authority of Al­Qasim ibn Muhammad from `Aishah who narrated:  I bought a cushion with suras on it. When Allah's",
-          "content_type": "paragraph",
+          "text": "Also, Al-Bukhary related in his Sahihon the authority of `Aishah that she narrated: The Prophet (peace be upon him) never left in his house anything bearing crosses on it without obliterating it. The same Hadith was narrated by Al-Kushmayhani using the term \"Tasawir (i.e. pictures) instead of crosses. Imam Al-Bukhary (may Allah be merciful with him) entitled a chapter in his collection of Hadith: \"Obliterating Suras\" where he related this Hadith.",
+          "content_type": "hadith",
           "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Messenger (peace be upon him) saw it, he kept standing at the door and did not enter the house. I noticed the sign of disgust on his",
-          "content_type": "paragraph",
+          "text": "In the Two Sahih Books of Hadith,it is related on the authority of Busr ibn Sa`id from Zayd ibn Khalid from Abu Talhah that the Prophet (peace be upon him) stated: Angels do not enter a house in which there is a sura. Busr said, \"Zayd then fell ill and we went to visit him but there was a curtain with a sura hanging at his door. I said to `Ubaydullah Al-Khawlani, the stepson of Maymunah - the wife of the Prophet (peace be upon him): Did not Zayd tell us about (the ruling on) suras the day before? `Ubaydullah said: Did you not hear when he said: Except a design in a cloth.\" In the Two Sahih, it is related on the authority of `Amr ibn Al-Harith from Bukayr Al-Ashajj from Busr that he said, \"I said to `Ubaydullah",
+          "content_type": "hadith",
           "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "face, so I said, \"O Allah's Messenger! I repent to Allah and to His Messenger. (Please let me know) what sin I have done.\" He (peace",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "be upon him) said, \"What about this cushion?\" I replied, \"I bought it for you to sit and recline on.\" Allah's Messenger (peace be upon",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "him) said, \"The makers of these suras will be punished on the Day of Resurrection. It will be said to them, 'Breathe life into what you",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "have created.'\" He (peace be upon him) added, \"Angels do not enter a house where there are suras.\"  (Related by Al­Bukhary and",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Muslim). Muslim added from Ibn Al­Majishun that `Aishah said: \"I took it and turned it into two pillows on which he used to recline at",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "home.\")",
+          "text": "( Part No : 4, Page No: 214)",
           "content_type": "navigation",
           "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.98,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "It is reported from Ibn `Abbas (may Allah be pleased with both of them) that the Messenger of Allah (peace be upon him) said:",
+          "text": "Al-Khawlani: Did he not tell us about (the ruling on) suras? He said: He said, \"Except a design in a cloth. Did you not hear him?\" I said: No and he said: He said, \"He indeed did say that.\"",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "It is related in the Musnad and Sunan Al-Nasa'i on the authority of `Ubaydullah ibn `Abdullah who narrated that he went to Abu Talhah Al-Ansary to visit him during his illness and found Sahl ibn Hunayf with him. Abu Talhah asked someone to remove a rug on the floor. Sahl asked: Why do you (want to) remove it? He replied: Because it includes suras and I know what the Messenger of Allah (peace be upon him) said about them (suras - i.e. the ruling on them). He said: Did he not say: \"Except a design in a cloth\". He said, \"Yes, but this is more comfortable for me.\" The Sanad of this Hadith isvalid. Al-Tirmidhy related it in the same wording and commented, 'It is a Sahih Hasan Hadith.'",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "Abu Dawud, Al-Tirmidhy, and Al-Nasa'y related with a good Sanad on the authority of Abu Hurayrah that the Messenger of Allah (peace be upon him) said: Jibril came to me and said: 'I came to you yesterday and nothing prevented me from entering except that there were statues by your door, there was a curtain in your house with suras on it, and there was a dog in the house. Tell someone to cut off the head of the statue by your door, so it will look like a tree; tell someone to tear up the curtain and make it into floor-cushions that will be stepped on; and tell someone to put the dog outside.' The Messenger of Allah (peace be upon him) did that. The dog belonged to Al-Hasan or Al-Husayn and was under their couch. The Prophet (peace be upon him) ordered that it would be taken outside the house. This is the wording of Abu Dawud and a similar wording was reported by Al-Tirmidhy. The following is the wording of Al-Nasa'y: Jibril asked the Prophet's permission to enter his house whereupon the Prophet said, \"Get in,\" but Jibril replied, \"How could I enter your house and there is a curtain on which there are suras? Either you cut off their heads or make it (the curtain) into a cushion spread out so that the people may tread on. We, angels, do not enter a house in which there are suras.\"",
+          "content_type": "hadith",
+          "page_number": 121,
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "There are many other Hadith conveying the same meaning.",
           "content_type": "paragraph",
           "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Angels do not enter a house in which there is a dog or a sura.  (Agreed upon by Al­Bukhary and Muslim). This wording is reported by",
-          "content_type": "paragraph",
+          "text": "These Hadith and those which are similar in meaning evidently indicate that Taswir of any being with a soul is prohibited and is one of",
+          "content_type": "fatwa_ruling",
           "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Muslim).",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "It is related by Muslim on the authority of Zayd ibn Khalid from Abu Talhah that the Prophet (peace be upon him) said:  Angels do not",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "enter a house in which there is a dog or a statue.",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "[It is also reported] in Sahih Al­Bukhary from Ibn `Umar (may Allah be pleased with them) that  the Prophet (peace be upon him)",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "said, \"Jibril said: We do not enter a house in which there is a dog or a sura.\"  The same Hadith was related by Muslim on the authority",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "of `Aishah and Maymunah.",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "( Part No : 4, Page No: 213)",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "Also, Muslim related on the authority of Abu Al­Hayyaj Al­Asdiy who said:  `Ali (may Allah be pleased with him) said to me: Shall I not",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "order you of the same thing which the Messenger of Allah (peace be upon him) ordered me; leave no sura unspoiled and leave no",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "outstanding grave unleveled.  It is related by Abu Dawud with a good Sanad (chain of narration)on the authority of Jabir (may Allah be",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "pleased with him) that the Prophet (peace be upon him) ordered `Umar ibn Al­Khattab during the time of the Conquest of Makkah",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "while he was in Al­Bat­ha' to go to Al­Ka`bah and efface every sura in it. The Prophet (peace be upon him) only entered it when all",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "suras were effaced.",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "Moreover, Abu Dawud Al­Tayalisi related in his Musnadon the authority of Usamah who said: I went to the Messenger of Allah (peace",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "be upon him) in Al­Ka`bah and he saw suras. He, thus, ordered to bring him a bucket of water and when I did, he began erasing",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "them, saying:  May Allah fight those who make Taswir of what they are not able to create.  Al­Hafizh said: Its Sanad (chain of",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "narrators) is good.",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "He said: `Umar ibn Shabbah related from `Abdul­Rahman ibn Mahran from `Umayr, the servant of Ibn `Abbas, from Usamah that:",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "The Prophet (peace be upon him) entered Al­Ka`bah and ordered me to bring him some water in a bucket. He wet his garment and",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "beat the suras with it, saying: May Allah fight those who make Taswir of what they are not able to create.",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Also, Al­Bukhary related in his Sahihon the authority of `Aishah that she narrated:   The Prophet (peace be upon him) never left in his",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "house anything bearing crosses on it without obliterating it.  The same Hadith was narrated by Al­Kushmayhani using the term",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"Tasawir (i.e. pictures) instead of crosses. Imam Al­Bukhary (may Allah be merciful with him) entitled a chapter in his collection of",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Hadith: \"Obliterating Suras\" where he related this Hadith.",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "In the Two Sahih Books of Hadith,it is related on the authority of Busr ibn Sa`id from Zayd ibn Khalid from Abu Talhah that the Prophet",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(peace be upon him) stated:  Angels do not enter a house in which there is a sura.   Busr said, \"Zayd then fell ill and we went to visit",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "him but there was a curtain with a sura hanging at his door. I said to `Ubaydullah Al­Khawlani, the stepson of Maymunah ­ the wife of",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "the Prophet (peace be upon him): Did not Zayd tell us about (the ruling on) suras the day before? `Ubaydullah said: Did you not hear",
-          "content_type": "question",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "when he said: Except a design in a cloth.\" In the Two Sahih, it is related on the authority of `Amr ibn Al­Harith from Bukayr Al­Ashajj",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "from Busr that he said, \"I said to `Ubaydullah",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "( Part No : 4, Page No: 214)",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "A l­Khawlani: Did he not tell us about (the ruling on) suras? He said: He said, \"Except a design in a cloth. Did you not hear him?\" I said:",
-          "content_type": "question",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "No and he said: He said, \"He indeed did say that.\"",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "It is related in the Musnad and Sunan Al­Nasa'i   on the authority of `Ubaydullah ibn `Abdullah who narrated that he went to Abu",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Talhah Al­Ansary to visit him during his illness and found Sahl ibn Hunayf with him. Abu Talhah asked someone to remove a rug on the",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "floor. Sahl asked: Why do you (want to) remove it? He replied: Because it includes suras and I know what the Messenger of Allah",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(peace be upon him) said about them (suras ­ i.e. the ruling on them). He said: Did he not say: \"Except a design in a cloth\". He said,",
-          "content_type": "question",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "\"Yes, but this is more comfortable for me.\"  The Sanad of this Hadith isvalid. Al­Tirmidhy related it in the same wording and",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "commented, 'It is a Sahih Hasan Hadith.'",
-          "content_type": "navigation",
-          "page_number": 121,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "Abu Dawud, A l­Tirmidhy, and Al­Nasa'y related with a good Sanad on the authority of Abu Hurayrah that the Messenger of Allah",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(peace be upon him) said:  Jibril came to me and said: ‘I came to you yesterday and nothing prevented me from entering except that",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "there were statues by your door, there was a curtain in your house with suras on it, and there was a dog in the house. Tell someone",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "to cut off the head of the statue by your door, so it will look like a tree; tell someone to tear up the curtain and make it into floor­",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "cushions that will be stepped on; and tell someone to put the dog outside.’ The Messenger of Allah (peace be upon him) did that. The",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "dog belonged to Al­Hasan or Al­Husayn and was under their couch. The Prophet (peace be upon him) ordered that it would be taken",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "outside the house.  This is the wording of Abu Dawud and a similar wording was reported by Al­Tirmidhy. The following is the",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "wording of Al­Nasa'y:   Jibril asked the Prophet's permission to enter his house whereupon the Prophet said, \"Get in,\" but Jibril replied,",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"How could I enter your house and there is a curtain on which there are suras? Either you cut off their heads or make it (the curtain)",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "into a cushion spread out so that the people may tread on. We, angels, do not enter a house in which there are suras.\"",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "There are many other Hadith conveying the same meaning.",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "These Hadith and those which are similar in meaning evidently indicate that Taswir of any being with a soul is prohibited and is one of",
-          "content_type": "paragraph",
-          "page_number": 121,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.88,
+          "notes": "retry_processing",
+          "retry_attempt": true
         }
       ],
-      "content_count": 65,
+      "content_count": 17,
       "content_types": [
+        "hadith",
         "navigation",
         "paragraph",
-        "question"
+        "fatwa_ruling"
       ],
       "section_type": "content_section"
     },
@@ -10904,473 +10586,204 @@
       "section_id": 115,
       "original_section_index": 115,
       "heading": {
-        "text": "Page 122 Content",
+        "text": "Prohibition of Taswir (Image-making)",
         "type": "heading_minor",
         "page_number": 122,
-        "confidence": 0.5
+        "confidence": 0.85
       },
       "content_items": [
         {
-          "text": "the major sins entailing the threat of punishment in the Fire.",
+          "text": "the major sins entailing the threat of punishment in the Fire. This prohibition is applicable to all forms of Taswir, whether the sura has a shadow or not, and whether it is",
           "content_type": "paragraph",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "This prohibition is applicable to all forms of Taswir, whether the sura has a shadow or not, and whether it is",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "( Part No : 4, Page No: 215)",
+          "text": "( Part No : 4, Page No: 215)",
           "content_type": "navigation",
           "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "on a wall, a curtain, a garment, a mirror, a paper, etc. This is because the Prophet (peace be upon him) did not differentiate between",
+          "text": "on a wall, a curtain, a garment, a mirror, a paper, etc. This is because the Prophet (peace be upon him) did not differentiate between that which has a shadow and that which has no shadow or between what is drawn on a curtain or not. In fact, he cursed Musawwirs, saying that they will receive the severest punishment on the Day of Resurrection and that all of them will enter the Fire, without making any exceptions.",
+          "content_type": "fatwa_ruling",
+          "page_number": 122,
+          "confidence": 0.88,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "The fact that this prohibition is general is supported by the evidence that when the Prophet (peace be upon him) saw suras on the curtain in the house of `Aishah, he tore it up and the color of his face changed and he said: The people who will receive the severest punishment on the Day of Resurrection will be those who imitate Allah's Creation.",
+          "content_type": "hadith",
+          "page_number": 122,
+          "confidence": 0.92,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "In another narration, he said when he saw the curtain: The makers of these suras will be punished on the Day of Resurrection and it will be said to them: 'Breathe life into what you have created.'",
+          "content_type": "hadith",
+          "page_number": 122,
+          "confidence": 0.91,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "This narration and similar ones clearly indicate that Musawwirs are included in the general admonishment, whether they make suras on curtains or the like.",
           "content_type": "paragraph",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.87,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "that which has a shadow and that which has no shadow or between what is drawn on a curtain or not. In fact, he cursed Musawwirs,",
+          "text": "As for his statement \"except a design in a cloth\" in the Hadith narrated by Abu Talhah and Sahl ibn Hunayf, this is an exception to suras which prevent the entry of angels but not an exception far Taswir as understood by the context of the Hadith. This means that Taswir is only permissible if the design in a cloth or the like is made to be used in a disrespectful fashion, such as the cushion that was made to be sat on as stated in the aforementioned Hadith narrated by `Aishah, in which she tore up the curtain and made it into one or two cushions, and the Hadith narrated by Abu Hurayrah in which Jibril said to the Prophet (peace be upon him), \"Tell someone to cut off the head of the statue by your door, so it will look like a tree; tell someone to tear up the curtain and make it into floor­cushions that will be stepped on...\" The Prophet (peace be upon him) did that.",
+          "content_type": "fatwa_ruling",
+          "page_number": 122,
+          "confidence": 0.89,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "It is not permissible to apply this exception to suras in a cloth that is to be hung on a door or a wall or the like because the texts of Hadith narrated by `Aishah in this regard clearly indicate that such curtains is forbidden, and must be removed and torn up as already stated.",
+          "content_type": "fatwa_ruling",
+          "page_number": 122,
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "This Hadith as narrated by Abu Hurayrah unmistakably means that such curtains prevent the entry of angels unless it is made into something to be treaded on or the head of the statue is cut off so that it takes the shape of a tree. The statements of Prophet (peace be upon him) do not conflict with each other; they confirm the validity of each other.",
           "content_type": "paragraph",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.86,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "saying that they will receive the severest punishment on the Day of Resurrection and that all of them will enter the Fire, without",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "making any exceptions.",
+          "text": "( Part No : 4, Page No: 216)",
           "content_type": "navigation",
           "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "The fact that this prohibition is general is supported by the evidence that  when the Prophet (peace be upon him) saw suras on the",
+          "text": "Whenever it is possible to reconcile between various Hadith in a proper manner without any prejudice, it becomes obligatory to do so and to give this precedence over adopting the approach of Tarjih (comparing an opinion with another to choose the most appropriate one) and Naskh (abrogation) as stated in the sciences of Usul­ul­Hadith (principles of Hadith) and Mustalah Al­Hadith (Hadith terminology). Here, it was possible to reconcile between the quoted texts. All praise is due to Allah for this.",
           "content_type": "paragraph",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.88,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "curtain in the house of `Aishah, he tore it up and the color of his face changed and he said: The people who will receive the severest",
-          "content_type": "paragraph",
+          "text": "In Al­Fath, Al­Hafizh gave precedence to reconciliation between Hadith in the manner that I have already mentioned. He said, \"Al­ Khattabi said: The suras which forbid angels from entering a house are those whose possession is prohibited e.g. the suras of beings with souls whose heads are not cut off or are not treated in a disrespectful manner.\"",
+          "content_type": "citation",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.91,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "punishment on the Day of Resurrection will be those who imitate Allah's Creation.  In another narration, he said when he saw the",
-          "content_type": "paragraph",
+          "text": "Also, Al­Khattabi (may Allah be merciful with him) said, \"In fact, the punishment of a Musawwir is made severe because suras were worshipped besides Allah. Furthermore, looking at them may become a sort of Fitnah (temptation) and some souls might be attached to them.\"",
+          "content_type": "citation",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "curtain:  The makers of these suras will be punished on the Day of Resurrection and it will be said to them: ‘Breathe life into what you",
-          "content_type": "paragraph",
+          "text": "A l­Nawawi (may Allah be merciful with him) stated the following in Sharh Muslim, \"Chapter: The prohibition of Taswir of animate beings and the prohibition of possessing that which has a sura un­trodden in a carpet or the like. In fact, the angels do not enter a house in which there is a sura or a dog\"",
+          "content_type": "citation",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.92,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "have created.'  This narration and similar ones clearly indicate that Musawwirs are included in the general admonishment, whether",
-          "content_type": "paragraph",
+          "text": "\"Our companions and other scholars commented: Taswir of animate beings is extremely prohibited and is a major sin, because severe warnings are made against the Musawwir in the Hadith; whether they make suras to be used in a disrespectful fashion or for other purposes, this profession is prohibited in all cases, because it implies that one is trying to match the Creation of Allah (Exalted be He). There is no difference whether the sura is in a cloth, carpet, coin, vessel, wall or whatever. With regard to making Taswir of trees and camel saddlebags and other inanimate beings, this is not prohibited.",
+          "content_type": "citation",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.89,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "they make suras on curtains or the like.",
+          "text": "\"This is the ruling on Taswir. As for making Taswir of animate beings, this is prohibited if the suras are to be hung on a wall or worn as clothing or a turban or what is similar to that of things that are not considered to be in a state of degradation or disrespect. On the other hand, if suras are made on carpets, cushions, or similar articles to be used in a disrespectful fashion, it is not prohibited to possess them. There is no difference (in the prohibition) between that which has a shadow and that which has no shadow.",
+          "content_type": "citation",
+          "page_number": 122,
+          "confidence": 0.88,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 217)",
           "content_type": "navigation",
           "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "As for his statement \"except a design in a cloth\" in the Hadith narrated by Abu Talhah and Sahl ibn Hunayf, this is an exception to",
+          "text": "\"This is our own opinion on this issue and the opinion of Jumhur (dominant majority of scholars) from among the Sahabah (Companions of the Prophet), the Tabi`un (Followers, the generation after the Companions of the Prophet), and those who came after them. It is also the opinion of Al­Thawry, Malik, Abu Hanifah, and others.",
+          "content_type": "citation",
+          "page_number": 122,
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "\"Some of the Salaf (righteous predecessors) believed that suras which are prohibited are only those which cast a shadow and that there is no harm in the suras which do not cast a shadow. However, this is an invalid opinion because the curtain that the Prophet (peace be upon him) disapproved was undoubtedly disrespected and the sura did not cast a shadow. This is in addition to the general and inclusive Hadith [forbidding] all kinds of Taswir.\"",
+          "content_type": "citation",
+          "page_number": 122,
+          "confidence": 0.87,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "After summarizing the opinion of Al­Nawawi, Al­Hafizh said:",
           "content_type": "paragraph",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.85,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "suras which prevent the entry of angels but not an exception far Taswir as understood by the context of the Hadith. This means that",
+          "text": "\"The opinion that the prohibition of Taswir is general, including that which casts a shadow and that which has no shadow, is supported by the Hadithrelated by Ahmad on the authority of `Aly (may Allah be pleased with him) who narrated that the Prophet (peace be upon him) stated: Anyone of you who goes to Madinah must not leave there any idol without breaking it up nor any sura without obliterating it. In another narration, the Prophet (peace be upon him) stated: Whoever returns to make these things (suras) has disbelieved in what was revealed to Muhammad (peace be upon him).",
+          "content_type": "hadith",
+          "page_number": 122,
+          "confidence": 0.93,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "Whoever looks closely at the previously quoted Hadith will notice that they denote that the prohibition of Taswir is general and inclusive of that which has a shadow and that which has no shadow ­ as already explained.",
           "content_type": "paragraph",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.86,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Taswir is only permissible if the design in a cloth or the like is made to be used in a disrespectful fashion, such as the cushion that was",
+          "text": "It may be claimed that the Hadith narrated by Zayd ibn Khalid from Abu Talhah that Busr ibn Sa`id, the narrator from Zayd, said:",
           "content_type": "paragraph",
           "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "made to be sat on as stated in the aforementioned Hadith narrated by `Aishah, in which she tore up the curtain and made it into one",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "or two cushions, and the Hadith narrated by Abu Hurayrah in which   Jibril said to the Prophet (peace be upon him), \"Tell someone to",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "cut off the head of the statue by your door, so it will look like a tree; tell someone to tear up the curtain and make it into floor­cushions",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "that will be stepped on...\" The Prophet (peace be upon him) did that.  It is not permissible to apply this exception to suras in a cloth",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "that is to be hung on a door or a wall or the like because the texts of Hadith narrated by `Aishah in this regard clearly indicate that",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "such curtains is forbidden, and must be removed and torn up as already stated.",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "This Hadith as narrated by Abu Hurayrah unmistakably means that such curtains prevent the entry of angels unless it is made into",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "something to be treaded on or the head of the statue is cut off so that it takes the shape of a tree. The statements of Prophet (peace",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "be upon him) do not conflict with each other; they confirm the validity of each other.",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "( Part No : 4, Page No: 216)",
-          "content_type": "navigation",
-          "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "Whenever it is possible to reconcile between various Hadith in a proper manner without any prejudice, it becomes obligatory to do so",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "and to give this precedence over adopting the approach of Tarjih (comparing an opinion with another to choose the most appropriate",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "one) and Naskh (abrogation) as stated in the sciences of Usul­ul­Hadith (principles of Hadith) and Mustalah Al­Hadith (Hadith",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "terminology). Here, it was possible to reconcile between the quoted texts. All praise is due to Allah for this.",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "In Al­Fath, Al­Hafizh gave precedence to reconciliation between Hadith in the manner that I have already mentioned. He said, \"Al­",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Khattabi said: The suras which forbid angels from entering a house are those whose possession is prohibited e.g. the suras of beings",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "with souls whose heads are not cut off or are not treated in a disrespectful manner.\"",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Also, Al­Khattabi (may Allah be merciful with him) said, \"In fact, the punishment of a Musawwir is made severe because suras were",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "worshipped besides Allah. Furthermore, looking at them may become a sort of Fitnah (temptation) and some souls might be attached",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "to them.\"",
-          "content_type": "navigation",
-          "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "A l­Nawawi (may Allah be merciful with him) stated the following in Sharh Muslim, \"Chapter: The prohibition of Taswir of animate",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "beings and the prohibition of possessing that which has a sura un­trodden in a carpet or the like. In fact, the angels do not enter a",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "house in which there is a sura or a dog\"",
-          "content_type": "navigation",
-          "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "\"Our companions and other scholars commented: Taswir of animate beings is extremely prohibited and is a major sin, because severe",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "warnings are made against the Musawwir in the Hadith; whether they make suras to be used in a disrespectful fashion or for other",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "purposes, this profession is prohibited in all cases, because it implies that one is trying to match the Creation of Allah (Exalted be He).",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "There is no difference whether the sura is in a cloth, carpet, coin, vessel, wall or whatever. With regard to making Taswir of trees and",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "camel saddlebags and other inanimate beings, this is not prohibited.",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"This is the ruling on Taswir. As for making Taswir of animate beings, this is prohibited if the suras are to be hung on a wall or worn",
-          "content_type": "question",
-          "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "as clothing or a turban or what is similar to that of things that are not considered to be in a state of degradation or disrespect. On the",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "other hand, if suras are made on carpets, cushions, or similar articles to be used in a disrespectful fashion, it is not prohibited to",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "possess them. There is no difference (in the prohibition) between that which has a shadow and that which has no shadow.",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "( Part No : 4, Page No: 217)",
-          "content_type": "navigation",
-          "page_number": 122,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "\"This is our own opinion on this issue and the opinion of Jumhur (dominant majority of scholars) from among the Sahabah",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(Companions of the Prophet), the Tabi`un (Followers, the generation after the Companions of the Prophet), and those who came after",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "them. It is also the opinion of Al­Thawry, Malik, Abu Hanifah, and others.",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"Some of the Salaf (righteous predecessors) believed that suras which are prohibited are only those which cast a shadow and that",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "there is no harm in the suras which do not cast a shadow. However, this is an invalid opinion because the curtain that the Prophet",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(peace be upon him) disapproved was undoubtedly disrespected and the sura did not cast a shadow. This is in addition to the general",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "and inclusive Hadith [forbidding] all kinds of Taswir.\"",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "After summarizing the opinion of Al­Nawawi, Al­Hafizh said:",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"The opinion that the prohibition of Taswir is general, including that which casts a shadow and that which has no shadow, is supported",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "by the Hadithrelated by Ahmad on the authority of `Aly (may Allah be pleased with him) who narrated that the Prophet (peace be upon",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "him) stated:  Anyone of you who goes to Madinah must not leave there any idol without breaking it up nor any sura without",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "obliterating it.  In another narration, the Prophet (peace be upon him) stated:  Whoever returns to make these things (suras) has",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "disbelieved in what was revealed to Muhammad (peace be upon him).",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Whoever looks closely at the previously quoted Hadith will notice that they denote that the prohibition of Taswir is general and inclusive",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "of that which has a shadow and that which has no shadow ­ as already explained.",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "It may be claimed that the Hadith narrated by Zayd ibn Khalid from Abu Talhah that Busr ibn Sa`id, the narrator from Zayd, said:",
-          "content_type": "paragraph",
-          "page_number": 122,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.84,
+          "notes": "retry_processing",
+          "retry_attempt": true
         }
       ],
-      "content_count": 65,
+      "content_count": 23,
       "content_types": [
         "paragraph",
         "navigation",
-        "question"
+        "fatwa_ruling",
+        "hadith",
+        "citation"
       ],
       "section_type": "content_section"
     },
@@ -11378,501 +10791,179 @@
       "section_id": 116,
       "original_section_index": 116,
       "heading": {
-        "text": "Page 123 Content",
+        "text": "Religious Ruling on Hanging Curtains with Images",
         "type": "heading_minor",
         "page_number": 123,
-        "confidence": 0.5
+        "confidence": 0.85
       },
       "content_items": [
         {
-          "text": "\"Zayd then fell ill and we went to visit him but there was a curtain with a sura hanging at his door\" apparently denotes that Zayd",
+          "text": "\"Zayd then fell ill and we went to visit him but there was a curtain with a sura hanging at his door\" apparently denotes that Zayd believed in the permissibility of hanging curtains including suras.",
           "content_type": "paragraph",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "believed in the permissibility of hanging curtains including suras.",
-          "content_type": "paragraph",
+          "text": "The answer to this claim is that the aforementioned Hadith narrated by `Aishah and other Hadith conveying the same meaning all serve as evidence on the prohibition of hanging curtains that include suras, the obligation of tearing them up, and the fact that they prohibit the entry of angels. If the Hadith reported from the Messenger of Allah (peace be upon him) are Sahih (authentic), it is not permissible to contradict them because of a saying or action of any person, whoever they may be.",
+          "content_type": "fatwa_ruling",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "The answer to this claim is that the aforementioned Hadith narrated by `Aishah and other Hadith conveying the same meaning all",
-          "content_type": "question",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "serve as evidence on the prohibition of hanging curtains that include suras, the obligation of tearing them up, and the fact that they",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "prohibit the entry of angels. If the Hadith reported from the Messenger of Allah (peace be upon him) are Sahih (authentic), it is not",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "permissible to",
+          "text": "( Part No : 4, Page No: 218)",
           "content_type": "navigation",
           "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.98,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "( Part No : 4, Page No: 218)",
+          "text": "And whatsoever the Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) gives you, take it; and whatsoever he forbids you, abstain (from it).",
+          "content_type": "quran_verse",
+          "page_number": 123,
+          "confidence": 0.92,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "Say: \"Obey Allâh and obey the Messenger, but if you turn away, he (Messenger Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) is only responsible for the duty placed on him (i.e. to convey Allâh's Message) and you for that placed on you. If you obey him, you shall be on the right guidance. The Messenger's duty is only to convey (the message) in a clear way (i.e. to preach in a plain way).\"",
+          "content_type": "quran_verse",
+          "page_number": 123,
+          "confidence": 0.92,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "And let those who oppose the Messenger's (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways, orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall them or a painful torment be inflicted on them.",
+          "content_type": "quran_verse",
+          "page_number": 123,
+          "confidence": 0.92,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "Perhaps Zayd (may Allah be pleased with him) was not aware of the sura which was on the curtain or did not hear about the Hadith on the prohibition of hanging curtains including suras and, thus, his action followed the apparent meaning of the statement of the Prophet \"except a design in a cloth\". Therefore, he would be free from blame for not having knowledge of the Hadith.",
+          "content_type": "paragraph",
+          "page_number": 123,
+          "confidence": 0.88,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "As for those who know the Sahih Hadith indicating the prohibition of hanging curtains including suras, there is no excuse for them. Whoever contradicts Sahih Hadith in order to follow their whims or to blindly follow others will necessarily deserve the Anger of their Lord and may be tried with deviation and Fitnah of the heart.",
+          "content_type": "fatwa_ruling",
+          "page_number": 123,
+          "confidence": 0.93,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "So when they turned away (from the Path of Allâh), Allâh turned their hearts away (from the Right Path).",
+          "content_type": "quran_verse",
+          "page_number": 123,
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "So He punished them by putting hypocrisy into their hearts",
+          "content_type": "quran_verse",
+          "page_number": 123,
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "The aforementioned Hadith narrated by Abu Hurayrah indicates that it is permissible to keep a sura in a house if its head is cut off, because it would then be in the shape of a tree. This proves that it is permissible to make Taswir of trees and any beings which have no souls. This was already mentioned clearly in the narration of the two Sheikhs (Al­Bukhary and Muslim) on the authority of Ibn `Abbas.",
+          "content_type": "fatwa_ruling",
+          "page_number": 123,
+          "confidence": 0.94,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 219)",
           "content_type": "navigation",
           "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.98,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "contradict them because of a saying or action of any person, whoever they may be. Likewise, believers are obligated to follow these",
+          "text": "The quoted Hadith is also a proof that cutting off anything other than the head of the sura such as cutting off the lower half or the like, is not enough to render it permissible to keep or to allow the entry of angels. This is because the Prophet (peace be upon him) ordered it to be torn up and efface the suras, saying that they prevent the entry of angels, with the exception of suras that are to be treated in a disrespectful manner or whose heads have been cut off.",
+          "content_type": "fatwa_ruling",
+          "page_number": 123,
+          "confidence": 0.93,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "The Prophet (peace be upon him) informed us that if the head of the sura is cut off, the remainder of it will be like the shape of a tree, this proves that the factor which permits its possession is its being transformed from the shape of beings with souls to a form similar to inanimate beings.",
           "content_type": "paragraph",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.89,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Hadith, hold fast to that which they indicate, and reject whatever contradicts them. Allah (Exalted be He) states:  And whatsoever the",
-          "content_type": "paragraph",
+          "text": "Thus, it is clear that making Taswir of the head and other parts of the body of animate beings is prohibited because the ruling stated by the aforementioned Sahih Hadith is generaly applied and no one is allowed to make exceptions to this general ruling beyond those stated by the Law­Giver.",
+          "content_type": "fatwa_ruling",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.94,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Messenger (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) gives you, take it; and whatsoever he forbids you, abstain (from it).  Allah (Exalted be",
-          "content_type": "paragraph",
+          "text": "There is no difference in this ruling between corporeal suras and others inscribed on curtains, papers, etc. as there is no difference between suras of humans and other beings with souls and the suras of kings, scholars, etc. In fact, the degree of prohibition regarding the suras of kings, scholars, and other influential people is severer, because the Fitnah that might be caused by them is greater.",
+          "content_type": "fatwa_ruling",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.92,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "He) also says:  Say: \"Obey Allâh and obey the Messenger, but if you turn away, he (Messenger Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) is",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "only responsible for the duty placed on him (i.e. to convey Allâh’s Message) and you for that placed on you. If you obey him, you shall",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "be on the right guidance. The Messenger’s duty is only to convey (the message) in a clear way (i.e. to preach in a plain way).\"  Allah",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(Glorified be He) has, thus, guaranteed the guidance of those who obey the Messenger (peace be upon him). Allah (Exalted be He)",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "states:  And let those who oppose the Messenger’s (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways,",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "orders, acts of worship, statements) (among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing,",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "overpowered by a tyrant) should befall them or a painful torment be inflicted on them.",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Perhaps Zayd (may Allah be pleased with him) was not aware of the sura which was on the curtain or did not hear about the Hadith",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "on the prohibition of hanging curtains including suras and, thus, his action followed the apparent meaning of the statement of the",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Prophet \"except a design in a cloth\". Therefore, he would be free from blame for not having knowledge of the Hadith.",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "As for those who know the Sahih Hadith indicating the prohibition of hanging curtains including suras, there is no excuse for them.",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Whoever contradicts Sahih Hadith in order to follow their whims or to blindly follow others will necessarily deserve the Anger of their",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Lord and may be tried with deviation and Fitnah of the heart. Allah (Glorified be He) states:  And let those who oppose the",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Messenger’s (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) commandment (i.e. his Sunnah ­ legal ways, orders, acts of worship, statements)",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(among the sects) beware, lest some Fitnah (disbelief, trials, afflictions, earthquakes, killing, overpowered by a tyrant) should befall",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "them",
+          "text": "( Part No : 4, Page No: 220)",
           "content_type": "navigation",
           "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.98,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Allah (Exalted be He) says:  So when they turned away (from the Path of Allâh), Allâh turned their hearts away (from the Right Path).",
+          "text": "During Jahiliyyah (pre­Islamic time of ignorance), there were many suras that people used to revere and worship other than Allah until Allah sent his Prophet Muhammad (peace be upon him) who destroyed the idols, obliterated the suras, and removed Shirk and its means.",
           "content_type": "paragraph",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.87,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Allah (Exalted be He) also says:  So He punished them by putting hypocrisy into their hearts",
-          "content_type": "paragraph",
+          "text": "And when you (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) see those who engage in a false conversation about Our Verses (of the Qur'ân) by mocking at them, stay away from them till they turn to another topic. And if Shaitân (Satan) causes you to forget, then after the remembrance sit not you in the company of those people who are the Zâlimûn (polytheists and wrong­doers).",
+          "content_type": "quran_verse",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.91,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "The aforementioned Hadith narrated by Abu Hurayrah indicates that it is permissible to keep a sura in a house if its head is cut off,",
-          "content_type": "paragraph",
+          "text": "And it has already been revealed to you in the Book (this Qur'ân) that when you hear the Verses of Allâh being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) certainly in that case you would be like them.",
+          "content_type": "quran_verse",
           "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "because it would then be in the shape of a tree. This proves that it is permissible to make Taswir",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "( Part No : 4, Page No: 219)",
-          "content_type": "navigation",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "of trees and any beings which have no souls. This was already mentioned clearly in the narration of the two Sheikhs (Al­Bukhary and",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Muslim) on the authority of Ibn `Abbas.",
-          "content_type": "navigation",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "The quoted Hadith is also a proof that cutting off anything other than the head of the sura such as cutting off the lower half or the like,",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "is not enough to render it permissible to keep or to allow the entry of angels. This is because the Prophet (peace be upon him)",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "ordered it to be torn up and efface the suras, saying that they prevent the entry of angels, with the exception of suras that are to be",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "treated in a disrespectful manner or whose heads have been cut off. Thus, whoever has any claim justifying the permissibility of",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "keeping suras at home other than for these two stated reasons must bring evidence supporting their claim from the Qur'an or the",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Sunnah (whatever is reported from the Prophet).",
-          "content_type": "navigation",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "The Prophet (peace be upon him) informed us that if the head of the sura is cut off, the remainder of it will be like the shape of a tree,",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "this proves that the factor which permits its possession is its being transformed from the shape of beings with souls to a form similar",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "to inanimate beings. If the lower part of the sura is cut off and the head remains, it will not take the shape of a tree because the face",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "still remains. Furthermore, the face has a beauty and uniqueness of creation that is not found in the rest of the body. Hence, it is not",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "permissible for a person who understands the intended meanings of the quoted Nas (Islamic text from the Qur'an or the Sunnah) to",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "make Qiyas (analogy) between cutting off any other part of the body and cutting off the head.",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Thus, it is clear that making Taswir of the head and other parts of the body of animate beings is prohibited because the ruling stated",
-          "content_type": "question",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "by the aforementioned Sahih Hadith is generaly applied and no one is allowed to make exceptions to this general ruling beyond those",
-          "content_type": "question",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "stated by the Law­Giver.",
-          "content_type": "navigation",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "There is no difference in this ruling between corporeal suras and others inscribed on curtains, papers, etc. as there is no difference",
-          "content_type": "question",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "between suras of humans and other beings with souls and the suras of kings, scholars, etc. In fact, the degree of prohibition regarding",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "the suras of kings, scholars, and other influential people is severer, because the Fitnah that might be caused by them is greater. Also,",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "hanging their suras in sitting areas and elsewhere and revering them are of the most dangerous means leading to Shirk (associating",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "others with Allah in His Divinity or worship) and to the worship of such persons along with Allah as happened to the people of Nuh. Al­",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Khattabi pointed to this in his statements.",
-          "content_type": "navigation",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "During Jahiliyyah (pre­Islamic time of ignorance), there were many suras that people used to revere and worship other than Allah until",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "( Part No : 4, Page No: 220)",
-          "content_type": "navigation",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "Allah sent his Prophet Muhammad (peace be upon him) who destroyed the idols, obliterated the suras, and removed Shirk and its",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "means. Therefore, anyone who makes Taswir or hangs suras and reveres them has imitated the Kafirs (disbelievers) in their actions",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "and opened the door to Shirk and its means for the people. Likewise, any person who orders the making of Taswir and is pleased with",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "it will have the same ruling of a Musawwir in terms of having done something prohibited and being entitled to the threat. This is",
-          "content_type": "question",
-          "page_number": 123,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "because the Qur'an, the Sunnah, and the scholars' opinions have all decreed that it is prohibited to order something entailing",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "disobedience and to be pleased with acts of disobedience just as it is prohibited to commit such acts. Allah (Exalted be He) states:",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "And when you (Muhammad ﺻﻠﻰ ﺍﷲ ﻋﻠﻴﻪ ﻭﺳﻠﻢ) see those who engage in a false conversation about Our Verses (of the Qur’ân) by",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "mocking at them, stay away from them till they turn to another topic. And if Shaitân (Satan) causes you to forget, then after the",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "remembrance sit not you in the company of those people who are the Zâlimûn (polytheists and wrong­doers).  Allah (Exalted be He)",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "also says:  And it has already been revealed to you in the Book (this Qur’ân) that when you hear the Verses of Allâh being denied and",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) certainly in that case you",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "would be like them.  The Ayah (Qur'anic verse) indicates that whoever is present while Munkar (that which is unacceptable or",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "disapproved of by Islamic law and Muslims of sound intellect) is being committed and does not turn away from it is like those who are",
-          "content_type": "paragraph",
-          "page_number": 123,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.91,
+          "notes": "retry_processing",
+          "retry_attempt": true
         }
       ],
-      "content_count": 69,
+      "content_count": 20,
       "content_types": [
         "paragraph",
-        "question",
-        "navigation"
+        "fatwa_ruling",
+        "navigation",
+        "quran_verse"
       ],
       "section_type": "content_section"
     },
@@ -11880,409 +10971,132 @@
       "section_id": 117,
       "original_section_index": 117,
       "heading": {
-        "text": "Page 124 Content",
+        "text": "Continuation of Fatwa on Images and Dolls",
         "type": "heading_minor",
         "page_number": 124,
-        "confidence": 0.5
+        "confidence": 0.85
       },
       "content_items": [
         {
-          "text": "doing it.",
+          "text": "doing it. If the one who remains silent about Munkar, although they are able to reject it or to leave the place where Munkar is committed, is like the doer of Munkar but the one who enjoin the Munkar or is pleased with it will be more sinful than the one who remains silent about it and will be more deserving to be like those who actually commit it. There are several evidences conveying the same meaning and can be easily found by whomever seeks them.",
+          "content_type": "fatwa_ruling",
+          "page_number": 124,
+          "confidence": 0.88,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "In the light of the Hadith and the scholars' opinion mentioned above, it is clear that making Taswir of beings with souls that are widely spread in books, magazines, newspapers, and letters, is a plain mistake and an act of disobedience. People must beware of it and warn each other against it; and must make sincere Tawbah (repentance) for what they have done.",
+          "content_type": "fatwa_ruling",
+          "page_number": 124,
+          "confidence": 0.92,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "Also, the aforementioned evidence indicates that it is not permissible to keep such suras without cutting off their heads or effacing them unless they are on a carpet",
+          "content_type": "fatwa_ruling",
+          "page_number": 124,
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 221)",
           "content_type": "navigation",
           "page_number": 124,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "If the one who remains silent about Munkar, although they are able to reject it or to leave the place where Munkar is committed, is like",
-          "content_type": "paragraph",
+          "text": "or something similar which is treated in a disrespectful manner. In this case only, is it permissible to possess them as already supported by the Hadith narrated by `Aishah and Abu Hurayrah. As for toys in the form of beings with souls, scholars have differed about the permissibility of their possession by little girls.",
+          "content_type": "fatwa_ruling",
           "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.89,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "the doer of Munkar but the one who enjoin the Munkar or is pleased with it will be more sinful than the one who remains silent about",
-          "content_type": "paragraph",
+          "text": "It was authentically reported in the Two Sahih Books of Hadith: On the authority of `Aishah who narrated: I used to play with dolls in the presence of the Prophet (peace be upon him) and I had female friends who used to play along with me. They would hide from the Messenger of Allah (peace be upon him) whenever he entered, but he would call them to join and play with me.",
+          "content_type": "hadith",
           "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.93,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "it and will be more deserving to be like those who actually commit it. There are several evidences conveying the same meaning and",
-          "content_type": "paragraph",
+          "text": "Al­Hafizh said in Al­Fath, \"This Hadith has been used as a proof for the permissibility of possessing suras of dolls and toys so that young girls may play with them. This has been an exception to the general prohibition of possessing suras. `Iyad confirmed this opinion and reported that it was the same opinion of the Jumhur who permitted the selling of toys for little girls to train them from childhood for household responsibilities and childrearing. He added that some scholars believed that this permissibility was Mansukh (abrogated). Ibn Battal inclined to this opinion. It is reported from Ibn Abu Zayd from Malik that he disliked that a man buys dolls for his daughter. Accordingly, Al­Dawudi was in favor of the opinion that the permissibility was Mansukh.",
+          "content_type": "citation",
           "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.91,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "can be easily found by whomever seeks them.",
+          "text": "\"However, Ibn Hibban entitled a chapter: Permissibility for young women to play with dolls. Al­Nasa'i also entitled a chapter: Man's permitting his wife to play with dolls. He did not restrict this to childhood, but this opinion is debatable.",
+          "content_type": "citation",
+          "page_number": 124,
+          "confidence": 0.88,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "\"After mentioning the Takhrij (referencing) of Hadith, Al­Bayhaqi said, \"The prohibition of possessing suras has been confirmed.\" Thus, the permission given to `Aishah in this matter was perhaps before rendering it as prohibited. The same opinion was held by Ibn Al­Jawzy.\" He went on to say, \"Abu Dawud, and Al­Nasa'y related another narration on the authority of `Aishah who said: The Messenger of Allah (peace be upon him) returned from the Battle of Tabuk or Khaybar... and he mentioned the Hadith of tearing up the curtain which `Aishah had hung at her door. She said, \"The side of the curtain which was over dolls of `Aishah was uncovered. He (peace be upon him) asked: What is this, O `Aishah? She answered: My dolls. She, then, said: He saw amongst them a two­winged horse tied up. He asked about it and she replied: A horse having two wings. Did not you",
+          "content_type": "hadith",
+          "page_number": 124,
+          "confidence": 0.9,
+          "notes": "retry_processing",
+          "retry_attempt": true
+        },
+        {
+          "text": "( Part No : 4, Page No: 222)",
           "content_type": "navigation",
           "page_number": 124,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.95,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "In the light of the Hadith and the scholars' opinion mentioned above, it is clear that making Taswir of beings with souls that are widely",
-          "content_type": "paragraph",
+          "text": "hear that Sulayman had horses with wings? Upon this, he laughed.\" He continued to say, \"Al­Khattabi said: This Hadith indicates that playing with dolls is not like having amusement with other suras regarding which warnings have been issued. In fact, `Aishah was given the permission to play with dolls, because she had not reached the age of puberty at that time.\"",
+          "content_type": "hadith",
           "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.89,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "spread in books, magazines, newspapers, and letters, is a plain mistake and an act of disobedience. People must beware of it and",
-          "content_type": "paragraph",
+          "text": "\"I believe that it is questionable to confirm that she had not reached the age of puberty at that time, though it might possibly be so. This is because `Aishah at the time of the Battle of Khaybar was fourteen years old; she was either past the age of fourteen or was approaching it. In the Battle of Tabuk, on the other hand, she definitely had reached the age of puberty. Thus, the strongest opinion is that of those who said it was in the Battle of Khaybar. Reconciliation is to be made with what Al­Khattabi stated because this is better than assuming that the reports are in conflict.\" This is the end of Al­Hafizh's quote.",
+          "content_type": "citation",
           "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.87,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "warn each other against it; and must make sincere Tawbah (repentance) for what they have done.",
-          "content_type": "paragraph",
+          "text": "If you have understood what Al­Hafizh (may Allah be merciful with him) mentioned, then it is safer to avoid possession of toys. This is because their lawfulness is doubtful due to the possibility that the Prophet (peace be upon him) might have approved of `Aishah's possession of dolls before the order to efface suras was revealed. In such a case, the permission would be considered Mansukh by the Hadith including the order to efface suras except those whose heads are cut off or those which are degraded, as stated by Al­Bayhaqy, Ibn Al­Jawzy, and Ibn Battal. Another possibility is that this permission could be a special exception to the general prohibition, as the Jumhur (dominant majority of scholars) have stated, for the sake of training girls to be mothers and because playing with dolls entails a kind of disrespect. As this possibilities loom and the doubt is there, it is safer to avoid the possession of toys and dolls. In fact, it is better to train girls using non­corporeal toys in order to be safe from the questionable matter regarding the possession of corporeal dolls. In this way, you will be acting according to the following Hadith in which the Prophet (peace be upon him) stated: Leave what causes you doubt and turn to what does not cause you doubt. Also, it is narrated on the authority of Al­Nu`man ibn Bashir ­ as related in the Two Sahih Books of Hadith: What is lawful is evident and what is unlawful is evident, and in between them are doubtful matters which many people do not know. Thus, whoever guards against doubtful matters keeps their religion and honor blameless, and whoever indulges in doubtful matters, indulges, in fact, in unlawful matters, just as a shepherd who pastures their animals round a preserve will soon pasture them in it. And Allah knows best!",
+          "content_type": "fatwa_ruling",
           "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
+          "confidence": 0.94,
+          "notes": "retry_processing",
+          "retry_attempt": true
         },
         {
-          "text": "Also, the aforementioned evidence indicates that it is not permissible to keep such suras without cutting off their heads or effacing",
-          "content_type": "paragraph",
+          "text": "Peace be upon our Prophet Muhammad and his family",
+          "content_type": "signature",
           "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "them unless they are on a carpet",
-          "content_type": "navigation",
-          "page_number": 124,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "( Part No : 4, Page No: 221)",
-          "content_type": "navigation",
-          "page_number": 124,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "or something similar which is treated in a disrespectful manner. In this case only, is it permissible to possess them as already",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "supported by the Hadith narrated by `Aishah and Abu Hurayrah. As for toys in the form of beings with souls, scholars have differed",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "about the permissibility of their possession by little girls.",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "It wasauthentically reported in the Two Sahih Books of Hadith:  On the authority of `Aishah who narrated: I used to play with dolls in",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "the presence of the Prophet (peace be upon him) and I had female friends who used to play along with me. They would hide from the",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Messenger of Allah (peace be upon him) whenever he entered, but he would call them to join and play with me.",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "A l­Hafizh said in Al­Fath, \"This Hadith has been used as a proof for the permissibility of possessing suras of dolls and toys so that",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "young girls may play with them. This has been an exception to the general prohibition of possessing suras. `Iyad confirmed this",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "opinion and reported that it was the same opinion of the Jumhur who permitted the selling of toys for little girls to train them from",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "childhood for household responsibilities and childrearing. He added that some scholars believed that this permissibility was Mansukh",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(abrogated). Ibn Battal inclined to this opinion. It is reported from Ibn Abu Zayd from Malik that he disliked that a man buys dolls for",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "his daughter. Accordingly, Al­Dawudi was in favor of the opinion that the permissibility was Mansukh.",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"However, Ibn Hibban entitled a chapter: Permissibility for young women to play with dolls. Al­Nasa'i also entitled a chapter: Man's",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "permitting his wife to play with dolls. He did not restrict this to childhood, but this opinion is debatable.",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"After mentioning the Takhrij (referencing) of Hadith, Al­Bayhaqi said, \"The prohibition of possessing suras has been confirmed.\" Thus,",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "the permission given to `Aishah in this matter was perhaps before rendering it as prohibited. The same opinion was held by Ibn Al­",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Jawzy.\" He went on tosay, \"Abu Dawud, and Al­Nasa'y related another narration on the authority of `Aishah who said:  The",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Messenger of Allah (peace be upon him) returned from the Battle of Tabuk or Khaybar... and he mentioned the Hadith of tearing up",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "the curtain which `Aishah had hung at her door. She said, \"The side of the curtain which was over dolls of `Aishah was uncovered. He",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "(peace be upon him) asked: What is this, O `Aishah? She answered: My dolls. She, then, said: He saw amongst them a two­winged",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "horse tied up. He asked about it and she replied: A horse having two wings. Did not you",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "( Part No : 4, Page No: 222)",
-          "content_type": "navigation",
-          "page_number": 124,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
-        },
-        {
-          "text": "hear that Sulayman had horses with wings? Upon this, he laughed.\"  He continued to say, \"Al­Khattabi said: This Hadith indicates that",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "playing with dolls is not like having amusement with other suras regarding which warnings have been issued. In fact, `Aishah was",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "given the permission to play with dolls, because she had not reached the age of puberty at that time.\"",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "\"I believe that it is questionable to confirm that she had not reached the age of puberty at that time, though it might possibly be so.",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "This is because `Aishah at the time of the Battle of Khaybar was fourteen years old; she was either past the age of fourteen or was",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "approaching it. In the Battle of Tabuk, on the other hand, she definitely had reached the age of puberty. Thus, the strongest opinion is",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "that of those who said it was in the Battle of Khaybar. Reconciliation is to be made with what Al­Khattabi stated because this is better",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "than assuming that the reports are in conflcit.\" This is the end of Al­Hafizh's quote.",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "If you have understood what Al­Hafizh (may Allah be merciful with him) mentioned, then it is safer to avoid possession of toys. This is",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "because their lawfulness is doubtful due to the possibility that the Prophet (peace be upon him) might have approved of `Aishah's",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "possession of dolls before the order to efface suras was revealed. In such a case, the permission would be considered Mansukh by the",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Hadith including the order to efface suras except those whose heads are cut off or those which are degraded, as stated by Al­Bayhaqy,",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Ibn Al­Jawzy, and Ibn Battal. Another possibility is that this permission could be a special exception to the general prohibition, as the",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Jumhur (dominant majority of scholars) have stated, for the sake of training girls to be mothers and because playing with dolls entails",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "a kind of disrespect. As this possibilities loom and the doubt is there, it is safer to avoid the possession of toys and dolls. In fact, it is",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "better to train girls using non­corporeal toys in order to be safe from the questionable matter regarding the possession of corporeal",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "dolls. In this way, you will be acting according to the following Hadith in which the Prophet (peace be upon him) stated:  Leave what",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "causes you doubt and turn to what does not cause you doubt.  Also, it is narrated on the authority of Al­Nu`man ibn Bashir ­ as",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "related inthe Two SahihBooks of Hadith:  What is lawful is evident and what is unlawful is evident, and in between them are doubtful",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "matters which many people do not know. Thus, whoever guards against doubtful matters keeps their religion and honor blameless,",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "and whoever indulges in doubtful matters, indulges, in fact, in unlawful matters, just as a shepherd who pastures their animals round",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "a preserve will soon pasture them in it.  And Allah knows best!",
-          "content_type": "paragraph",
-          "page_number": 124,
-          "confidence": 0.5,
-          "notes": "fallback_classification"
-        },
-        {
-          "text": "Peace be upon our Prophet Muhammad and his family",
-          "content_type": "navigation",
-          "page_number": 124,
-          "confidence": 0.7,
-          "notes": "memory_prediction"
+          "confidence": 0.96,
+          "notes": "retry_processing",
+          "retry_attempt": true
         }
       ],
-      "content_count": 56,
+      "content_count": 14,
       "content_types": [
+        "fatwa_ruling",
         "navigation",
-        "paragraph"
+        "hadith",
+        "citation",
+        "signature"
       ],
       "section_type": "content_section"
     },
@@ -23612,22 +22426,22 @@
       },
       {
         "section_id": 114,
-        "text": "Page 121 Content",
+        "text": "Hadith Collection on Images and Pictures",
         "type": "heading_minor"
       },
       {
         "section_id": 115,
-        "text": "Page 122 Content",
+        "text": "Prohibition of Taswir (Image-making)",
         "type": "heading_minor"
       },
       {
         "section_id": 116,
-        "text": "Page 123 Content",
+        "text": "Religious Ruling on Hanging Curtains with Images",
         "type": "heading_minor"
       },
       {
         "section_id": 117,
-        "text": "Page 124 Content",
+        "text": "Continuation of Fatwa on Images and Dolls",
         "type": "heading_minor"
       },
       {
@@ -24504,7 +23318,7 @@
     ]
   },
   "content_statistics": {
-    "total_content_items": 2109,
+    "total_content_items": 1928,
     "content_types_found": [
       "signature",
       "paragraph",

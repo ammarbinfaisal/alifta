@@ -1,0 +1,56 @@
+{
+  "total_fallbacks": 4,
+  "pages_affected": [
+    121,
+    122,
+    123,
+    124
+  ],
+  "confidence_distribution": {
+    "min": 0.5,
+    "max": 0.7,
+    "avg": 0.532156862745098,
+    "below_0.5": 0,
+    "below_0.6": 214
+  },
+  "fallback_types": {
+    "page_content_fallback": 4
+  },
+  "source_files": {
+    "vol4.json": 4
+  },
+  "retry_priority": [
+    {
+      "page_number": 124,
+      "section_index": 117,
+      "avg_confidence": 0.5214285714285715,
+      "content_items_count": 56,
+      "source": "vol4.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 122,
+      "section_index": 115,
+      "avg_confidence": 0.5246153846153846,
+      "content_items_count": 65,
+      "source": "vol4.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 121,
+      "section_index": 114,
+      "avg_confidence": 0.54,
+      "content_items_count": 65,
+      "source": "vol4.json",
+      "needs_retry": true
+    },
+    {
+      "page_number": 123,
+      "section_index": 116,
+      "avg_confidence": 0.5405797101449274,
+      "content_items_count": 69,
+      "source": "vol4.json",
+      "needs_retry": true
+    }
+  ]
+}
