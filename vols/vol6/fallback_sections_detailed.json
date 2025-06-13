@@ -1,0 +1,465 @@
+{
+  "total_fallbacks": 46,
+  "fallbacks": [
+    {
+      "page_number": 33,
+      "section_index": 27,
+      "heading_text": "Page 33 Content",
+      "content_items_count": 28,
+      "avg_confidence": 0.5214285714285715,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "without begging people, for the Prophet (peace be upon him) said:  A strong believer is better and d..."
+    },
+    {
+      "page_number": 34,
+      "section_index": 28,
+      "heading_text": "Page 34 Content",
+      "content_items_count": 17,
+      "avg_confidence": 0.5705882352941176,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 50)..."
+    },
+    {
+      "page_number": 35,
+      "section_index": 29,
+      "heading_text": "Page 35 Content",
+      "content_items_count": 29,
+      "avg_confidence": 0.5206896551724138,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Q2 : Can evil be changed with one’s hand (by taking action)? Who should change evil with his..."
+    },
+    {
+      "page_number": 36,
+      "section_index": 30,
+      "heading_text": "Page 36 Content",
+      "content_items_count": 31,
+      "avg_confidence": 0.5258064516129033,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Q3 : Some people try to discredit the youth of Al­Sahwah al­Islamiyyah (Islamic Awakening)..."
+    },
+    {
+      "page_number": 49,
+      "section_index": 41,
+      "heading_text": "Page 49 Content",
+      "content_items_count": 46,
+      "avg_confidence": 0.508695652173913,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "His reward and obeying the commands of the Messenger (peace be upon him). Among the greatest deniabl..."
+    },
+    {
+      "page_number": 50,
+      "section_index": 42,
+      "heading_text": "Page 50 Content",
+      "content_items_count": 54,
+      "avg_confidence": 0.5444444444444444,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 72)..."
+    },
+    {
+      "page_number": 51,
+      "section_index": 43,
+      "heading_text": "Page 51 Content",
+      "content_items_count": 2,
+      "avg_confidence": 0.6,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "As­salamu `alaykum warahmatullah wabarakatuh...."
+    },
+    {
+      "page_number": 52,
+      "section_index": 44,
+      "heading_text": "Page 52 Content",
+      "content_items_count": 54,
+      "avg_confidence": 0.5333333333333333,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 75)..."
+    },
+    {
+      "page_number": 93,
+      "section_index": 86,
+      "heading_text": "Page 93 Content",
+      "content_items_count": 55,
+      "avg_confidence": 0.5327272727272727,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 147)..."
+    },
+    {
+      "page_number": 94,
+      "section_index": 87,
+      "heading_text": "Page 94 Content",
+      "content_items_count": 6,
+      "avg_confidence": 0.5666666666666667,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "We ask Allah (Exalted be He) to remove Saddam Hussein, make him suffer disgraceful torment, and cast..."
+    },
+    {
+      "page_number": 95,
+      "section_index": 88,
+      "heading_text": "Page 95 Content",
+      "content_items_count": 59,
+      "avg_confidence": 0.5372881355932203,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 150)..."
+    },
+    {
+      "page_number": 96,
+      "section_index": 89,
+      "heading_text": "Page 96 Content",
+      "content_items_count": 64,
+      "avg_confidence": 0.525,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "His Eminence advised the Iraqi army not to continue committing such unacceptable deeds. It is obliga..."
+    },
+    {
+      "page_number": 117,
+      "section_index": 128,
+      "heading_text": "Page 117 Content",
+      "content_items_count": 13,
+      "avg_confidence": 0.5769230769230769,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 180)..."
+    },
+    {
+      "page_number": 118,
+      "section_index": 129,
+      "heading_text": "Page 118 Content",
+      "content_items_count": 11,
+      "avg_confidence": 0.5181818181818182,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "A Letter to Families of Martyrs:..."
+    },
+    {
+      "page_number": 119,
+      "section_index": 130,
+      "heading_text": "Page 119 Content",
+      "content_items_count": 12,
+      "avg_confidence": 0.5499999999999999,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "A Letter to the Iraqi people:..."
+    },
+    {
+      "page_number": 120,
+      "section_index": 131,
+      "heading_text": "Page 120 Content",
+      "content_items_count": 14,
+      "avg_confidence": 0.5285714285714286,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "A Letter to the Youth of Islamic Awakening..."
+    },
+    {
+      "page_number": 121,
+      "section_index": 132,
+      "heading_text": "Page 121 Content",
+      "content_items_count": 12,
+      "avg_confidence": 0.5833333333333334,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Scholars and knowledge seekers:..."
+    },
+    {
+      "page_number": 122,
+      "section_index": 133,
+      "heading_text": "Page 122 Content",
+      "content_items_count": 56,
+      "avg_confidence": 0.55,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 183)..."
+    },
+    {
+      "page_number": 123,
+      "section_index": 134,
+      "heading_text": "Page 123 Content",
+      "content_items_count": 61,
+      "avg_confidence": 0.5229508196721311,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "If the Hadith narrated by Malik indicates that the Prophet (peace be upon him) was free to choose be..."
+    },
+    {
+      "page_number": 124,
+      "section_index": 135,
+      "heading_text": "Page 124 Content",
+      "content_items_count": 65,
+      "avg_confidence": 0.5276923076923077,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "It is stated in \"Al­Mughny\" (vol. 8, pp. 414­415): \"It is not permissible to seek the help of the Mu..."
+    },
+    {
+      "page_number": 125,
+      "section_index": 136,
+      "heading_text": "Page 125 Content",
+      "content_items_count": 3,
+      "avg_confidence": 0.5666666666666667,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "President of the Constituent Assembly of the World Muslim League..."
+    },
+    {
+      "page_number": 126,
+      "section_index": 137,
+      "heading_text": "Page 126 Content",
+      "content_items_count": 60,
+      "avg_confidence": 0.5366666666666667,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 189)..."
+    },
+    {
+      "page_number": 127,
+      "section_index": 138,
+      "heading_text": "Page 127 Content",
+      "content_items_count": 68,
+      "avg_confidence": 0.5294117647058824,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Prophet (peace be upon him) said:  When someone dies, their acts come to a halt, except for three; S..."
+    },
+    {
+      "page_number": 128,
+      "section_index": 139,
+      "heading_text": "Page 128 Content",
+      "content_items_count": 33,
+      "avg_confidence": 0.5303030303030303,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "As for Allah's Saying (Glorified be He):  and find in themselves no resistance against your decision..."
+    },
+    {
+      "page_number": 141,
+      "section_index": 151,
+      "heading_text": "Page 141 Content",
+      "content_items_count": 17,
+      "avg_confidence": 0.5470588235294118,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "in his Sahih Book of Hadith...."
+    },
+    {
+      "page_number": 142,
+      "section_index": 152,
+      "heading_text": "Page 142 Content",
+      "content_items_count": 21,
+      "avg_confidence": 0.5666666666666667,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Various denotations of Iman, Tawhid, and `Aqidah..."
+    },
+    {
+      "page_number": 143,
+      "section_index": 153,
+      "heading_text": "Page 143 Content",
+      "content_items_count": 15,
+      "avg_confidence": 0.5533333333333333,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Introducing the Zhahiriyyah (the Literalists)..."
+    },
+    {
+      "page_number": 144,
+      "section_index": 154,
+      "heading_text": "Page 144 Content",
+      "content_items_count": 50,
+      "avg_confidence": 0.5479999999999999,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6..."
+    },
+    {
+      "page_number": 153,
+      "section_index": 163,
+      "heading_text": "Page 153 Content",
+      "content_items_count": 35,
+      "avg_confidence": 0.5399999999999999,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 229)..."
+    },
+    {
+      "page_number": 154,
+      "section_index": 164,
+      "heading_text": "Page 154 Content",
+      "content_items_count": 56,
+      "avg_confidence": 0.5214285714285715,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 231)..."
+    },
+    {
+      "page_number": 155,
+      "section_index": 165,
+      "heading_text": "Page 155 Content",
+      "content_items_count": 60,
+      "avg_confidence": 0.5166666666666667,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "deity but Allah) and the Prophet's call to worship Allah Alone and abandon worshiping any of His cre..."
+    },
+    {
+      "page_number": 156,
+      "section_index": 166,
+      "heading_text": "Page 156 Content",
+      "content_items_count": 54,
+      "avg_confidence": 0.5444444444444444,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 235)..."
+    },
+    {
+      "page_number": 197,
+      "section_index": 199,
+      "heading_text": "Page 197 Content",
+      "content_items_count": 36,
+      "avg_confidence": 0.5277777777777778,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 295)..."
+    },
+    {
+      "page_number": 198,
+      "section_index": 200,
+      "heading_text": "Page 198 Content",
+      "content_items_count": 32,
+      "avg_confidence": 0.54375,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "A woman attempted to kill herself..."
+    },
+    {
+      "page_number": 199,
+      "section_index": 201,
+      "heading_text": "Page 199 Content",
+      "content_items_count": 57,
+      "avg_confidence": 0.5350877192982456,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 298)..."
+    },
+    {
+      "page_number": 200,
+      "section_index": 202,
+      "heading_text": "Page 200 Content",
+      "content_items_count": 67,
+      "avg_confidence": 0.5238805970149254,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Taking a bath is lawful and some scholars regarded it as obligatory on the person who..."
+    },
+    {
+      "page_number": 261,
+      "section_index": 251,
+      "heading_text": "Page 261 Content",
+      "content_items_count": 17,
+      "avg_confidence": 0.5352941176470588,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Q: When someone dies here in Sudan, the family of the deceased including women and..."
+    },
+    {
+      "page_number": 262,
+      "section_index": 252,
+      "heading_text": "Page 262 Content",
+      "content_items_count": 12,
+      "avg_confidence": 0.5499999999999999,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Q 4: If a Christian asks me to give him a Mus­haf (the Qur'an), should I give it to him or not?..."
+    },
+    {
+      "page_number": 263,
+      "section_index": 253,
+      "heading_text": "Page 263 Content",
+      "content_items_count": 29,
+      "avg_confidence": 0.5344827586206896,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Q 5: Would you please address us about the reward Allah promises those who are patience..."
+    },
+    {
+      "page_number": 264,
+      "section_index": 254,
+      "heading_text": "Page 264 Content",
+      "content_items_count": 33,
+      "avg_confidence": 0.5363636363636364,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "A Piece of advice to those encouraging the shaving of beards..."
+    },
+    {
+      "page_number": 317,
+      "section_index": 303,
+      "heading_text": "Page 317 Content",
+      "content_items_count": 58,
+      "avg_confidence": 0.5172413793103449,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "( Part No : 6, Page No: 410)..."
+    },
+    {
+      "page_number": 318,
+      "section_index": 304,
+      "heading_text": "Page 318 Content",
+      "content_items_count": 66,
+      "avg_confidence": 0.5242424242424243,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "true to what he promised, and he was a Messenger, (and) a Prophet...."
+    },
+    {
+      "page_number": 319,
+      "section_index": 305,
+      "heading_text": "Page 319 Content",
+      "content_items_count": 67,
+      "avg_confidence": 0.5149253731343284,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "Da`wah (call) to Allah (Exalted be He) is a call to `Ibadah for which we are created, to firm..."
+    },
+    {
+      "page_number": 320,
+      "section_index": 306,
+      "heading_text": "Page 320 Content",
+      "content_items_count": 64,
+      "avg_confidence": 0.5125,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "matter requiring clarification. When engaging in debate, a true caller to Allah should argue in..."
+    },
+    {
+      "page_number": 321,
+      "section_index": 307,
+      "heading_text": "Page 321 Content",
+      "content_items_count": 13,
+      "avg_confidence": 0.5461538461538461,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "hypocrites died with their grudge and malice. The caller to Allah should emulate those fine..."
+    },
+    {
+      "page_number": 322,
+      "section_index": 308,
+      "heading_text": "Page 322 Content",
+      "content_items_count": 48,
+      "avg_confidence": 0.5416666666666666,
+      "needs_retry": true,
+      "file_source": "vol6.json",
+      "content_preview": "A general call to help all Muslims in Bosnia and Herzegovina..."
+    }
+  ]
+}
