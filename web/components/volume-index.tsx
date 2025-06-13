@@ -28,10 +28,6 @@ export function VolumeIndex({ volumes }: VolumeIndexProps) {
                   <FileText className="w-4 h-4" />
                   {volume.total_headings} sections
                 </div>
-                <div className="flex items-center gap-2 text-sm text-gray-500">
-                  <Calendar className="w-4 h-4" />
-                  {new Date(volume.processed_date).toLocaleDateString()}
-                </div>
               </div>
               
               <div className="flex flex-wrap gap-2">
