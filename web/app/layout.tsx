@@ -163,9 +163,9 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <PostHogProvider>
+        {/* <PostHogProvider> */}
           {children}
-        </PostHogProvider>
+        {/* </PostHogProvider> */}
         <Analytics />
       </body>
     </html>

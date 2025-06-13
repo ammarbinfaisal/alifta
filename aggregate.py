@@ -62,6 +62,7 @@ def process_volume_directory(input_dir, output_dir):
     
     # Iterate through subdirectories in the input directory
     for dirname in os.listdir(input_dir):
+        print(dirname)
         match = vol_pattern.match(dirname)
         if match:
             vol_num = match.group(1)
