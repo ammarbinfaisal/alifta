@@ -5,7 +5,9 @@ export function Layout({
 }: {
     children: React.ReactNode
 }) {
-    <Suspense>
-        {children}
-    </Suspense>
+    return (
+        <Suspense fallback={"..."}>
+            {children}
+        </Suspense>
+    )
 }
