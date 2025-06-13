@@ -8,7 +8,7 @@ const client = new Typesense.Client({
     protocol: "https"
   }],
   apiKey: process.env.TYPESENSE_API_KEY!,
-  connectionTimeoutSeconds: 2
+  connectionTimeoutSeconds: 5
 });
 
 // Common Islamic terms and their variations for spell correction

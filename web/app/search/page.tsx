@@ -213,7 +213,7 @@ export default function SearchPage() {
         ...prev,
         debouncedQuery: prev.query
       }));
-    }, 300); // 300ms delay
+    }, 1000); // 300ms delay
 
     return () => clearTimeout(timer);
   }, [searchState.query]);
