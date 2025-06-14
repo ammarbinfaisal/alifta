@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   publisher: "Alifta",
   category: "Religion",
   classification: "Islamic Studies",
-  metadataBase: new URL("https://al-ifta.com"),
+  metadataBase: new URL("https://www.al-ifta.com"),
   alternates: {
     canonical: "/",
     languages: {
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     alternateLocale: ["ar_SA"],
-    url: "https://al-ifta.com",
+    url: "https://www.al-ifta.com",
     siteName: "Alifta - Islamic Fatwa Collection",
     title: "Alifta - Islamic Fatwa Collection",
     description: "Comprehensive Islamic fatwa collection providing authentic religious guidance and jurisprudence rulings from qualified Islamic scholars.",
@@ -110,8 +110,8 @@ export default function RootLayout({
     "@type": "Organization",
     "name": "Alifta",
     "description": "Islamic Fatwa Collection providing authentic religious guidance",
-    "url": "https://al-ifta.com",
-    "logo": "https://al-ifta.com/logo.png",
+    "url": "https://www.al-ifta.com",
+    "logo": "https://www.al-ifta.com/logo.png",
     "sameAs": [
       "https://twitter.com/alifta",
       "https://facebook.com/alifta"
@@ -128,7 +128,7 @@ export default function RootLayout({
     "@type": "WebSite",
     "name": "Alifta - Islamic Fatwa Collection",
     "description": "Comprehensive Islamic fatwa collection providing authentic religious guidance",
-    "url": "https://al-ifta.com",
+    "url": "https://www.al-ifta.com",
     "inLanguage": ["en", "ar"],
     "about": {
       "@type": "Thing",

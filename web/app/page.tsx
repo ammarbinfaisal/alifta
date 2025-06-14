@@ -9,7 +9,7 @@ export async function generateMetadata(): Promise<Metadata> {
   
   const title = "Majmoo'al-Fatawa of Ibn Bazz - Complete Islamic Fatwa Collection";
   const description = `Explore the complete collection of Majmoo'al-Fatawa by Sheikh Abdul Aziz Ibn Bazz. Access ${totalVolumes} volumes of authentic Islamic fatwas, religious rulings, and scholarly guidance on Islamic jurisprudence, worship, and daily life matters.`;
-  const url = "https://al-ifta.com";
+  const url = "https://www.al-ifta.com";
 
   return {
     title,
@@ -119,7 +119,7 @@ export default async function HomePage() {
     "publisher": {
       "@type": "Organization",
       "name": "Alifta",
-      "url": "https://al-ifta.com"
+      "url": "https://www.al-ifta.com"
     },
     "genre": "Religious Text",
     "inLanguage": ["en", "ar"],
@@ -142,17 +142,17 @@ export default async function HomePage() {
       }
     ],
     "numberOfItems": volumes.length,
-    "url": "https://al-ifta.com",
+    "url": "https://www.al-ifta.com",
     "mainEntity": {
       "@type": "WebPage",
       "name": "Majmoo'al-Fatawa Collection",
       "description": "Complete collection of Islamic fatwas and religious rulings",
-      "url": "https://al-ifta.com"
+      "url": "https://www.al-ifta.com"
     },
     "hasPart": volumes.map(volume => ({
       "@type": "Book",
       "name": `Volume ${volume.id}`,
-      "url": `https://al-ifta.com/volume/${volume.id}`,
+      "url": `https://www.al-ifta.com/volume/${volume.id}`,
       "author": {
         "@type": "Person",
         "name": "Sheikh Abdul Aziz Ibn Bazz"
@@ -168,7 +168,7 @@ export default async function HomePage() {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://al-ifta.com"
+        "item": "https://www.al-ifta.com"
       }
     ]
   };

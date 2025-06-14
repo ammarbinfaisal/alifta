@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: VolumePageProps): Promise<Met
 
   const title = `Volume ${volumeId} - Islamic Fatwa Collection`;
   const description = `Explore Volume ${volumeId} of the comprehensive Islamic fatwa collection. Contains ${volumeData.total_headings} sectionsand ${volumeData.total_sections} sections covering various Islamic jurisprudence topics and religious guidance.`;
-  const url = `https://al-ifta.com/volume/${volumeId}`;
+  const url = `https://www.al-ifta.com/volume/${volumeId}`;
 
   return {
     title,
@@ -145,7 +145,7 @@ export default async function VolumePage({ params }: VolumePageProps) {
     "publisher": {
       "@type": "Organization",
       "name": "Alifta",
-      "url": "https://al-ifta.com"
+      "url": "https://www.al-ifta.com"
     },
     "genre": "Religious Text",
     "inLanguage": ["en", "ar"],
@@ -165,12 +165,12 @@ export default async function VolumePage({ params }: VolumePageProps) {
     ],
     "numberOfPages": volumeData.total_sections,
     "bookFormat": "EBook",
-    "url": `https://al-ifta.com/volume/${volumeId}`,
+    "url": `https://www.al-ifta.com/volume/${volumeId}`,
     "mainEntity": {
       "@type": "WebPage",
       "name": `Volume ${volumeId}`,
       "description": `Islamic fatwa collection volume containing religious rulings and guidance`,
-      "url": `https://al-ifta.com/volume/${volumeId}`
+      "url": `https://www.al-ifta.com/volume/${volumeId}`
     }
   };
 

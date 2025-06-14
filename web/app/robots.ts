@@ -19,7 +19,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/', '/admin/'],
       },
     ],
-    sitemap: 'https://al-ifta.com/sitemap.xml',
-    host: 'https://al-ifta.com',
+    sitemap: 'https://www.al-ifta.com/sitemap.xml',
+    host: 'https://www.al-ifta.com',
   };
 }

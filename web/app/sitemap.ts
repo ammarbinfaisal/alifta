@@ -6,7 +6,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Add static pages
   sitemapEntries.push({
-    url: 'https://al-ifta.com',
+    url: 'https://www.al-ifta.com',
     lastModified: new Date(),
     changeFrequency: 'daily',
     priority: 1.0,
@@ -19,7 +19,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       
       // Add volume page
       sitemapEntries.push({
-        url: `https://al-ifta.com/volume/${volumeId}`,
+        url: `https://www.al-ifta.com/volume/${volumeId}`,
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: 0.8,
@@ -28,7 +28,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       // Add question pages
       for (const heading of headings) {
         sitemapEntries.push({
-          url: `https://al-ifta.com/volume/${volumeId}/section/${heading.section_id}`,
+          url: `https://www.al-ifta.com/volume/${volumeId}/section/${heading.section_id}`,
           lastModified: new Date(),
           changeFrequency: 'weekly',
           priority: 0.6,
