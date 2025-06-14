@@ -9,7 +9,7 @@ interface VolumeNavigationProps {
 
 export function VolumeNavigation({ currentVolumeId }: VolumeNavigationProps) {
   const prevVolume = currentVolumeId > 1 ? currentVolumeId - 1 : null;
-  const nextVolume = currentVolumeId < 30 ? currentVolumeId + 1 : null;
+  const nextVolume = currentVolumeId < 6 ? currentVolumeId + 1 : null;
 
   return (
     <nav className="bg-white border-b border-gray-200 sticky top-0 z-40 shadow-sm">
