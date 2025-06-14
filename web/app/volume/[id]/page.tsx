@@ -17,7 +17,7 @@ export async function generateStaticParams() {
 // Generate metadata for SEO
 export async function generateMetadata({ params }: VolumePageProps): Promise<Metadata> {
   const volumeId = parseInt((await params).id);
-  
+
   if (isNaN(volumeId) || volumeId < 1 || volumeId > 30) {
     return {
       title: 'Volume Not Found',
@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: VolumePageProps): Promise<Met
   }
 
   const volumeData = await getVolumeData(volumeId);
-  
+
   if (!volumeData) {
     return {
       title: 'Volume Not Found',
@@ -121,13 +121,13 @@ export async function generateMetadata({ params }: VolumePageProps): Promise<Met
 
 export default async function VolumePage({ params }: VolumePageProps) {
   const volumeId = parseInt((await params).id);
-  
+
   if (isNaN(volumeId) || volumeId < 1 || volumeId > 30) {
     notFound();
   }
 
   const volumeData = await getVolumeData(volumeId);
-  
+
   if (!volumeData) {
     notFound();
   }
@@ -148,14 +148,33 @@ export default async function VolumePage({ params }: VolumePageProps) {
       "url": "https://www.al-ifta.com"
     },
     "genre": "Religious Text",
-    "inLanguage": ["en", "ar"],
+    "inLanguage": ["en"],
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.al-ifta.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": `Volume ${volumeId}`,
+            "item": `https://www.al-ifta.com/volume/${volumeId}`
+          }
+        ]
+      },
+    ],
     "about": [
       {
         "@type": "Thing",
         "name": "Islamic Jurisprudence"
       },
       {
-        "@type": "Thing", 
+        "@type": "Thing",
         "name": "Islamic Law"
       },
       {
