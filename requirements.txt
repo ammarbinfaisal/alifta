@@ -1,0 +1,4 @@
+mistralai
+tqdm 
+pymupdf 
+pillow
